@@ -1,9 +1,9 @@
 [
   {
-    "Author": "Corga",
+    "Author": "McVaxius",
     "Name": "BMR Variant Loader",
     "InternalName": "BMRVariantLoader",
-    "AssemblyVersion": "0.1.0.1",
+    "AssemblyVersion": "0.1.0.2",
     "Description": "Public encounter modules for BossModReborn, including Praetorium timelines and bundled cooldown plans. BossModReborn must be installed and enabled.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -16,12 +16,12 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": -100,
-    "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v0.1.0.1/icon.png",
+    "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v0.1.0.2/icon.png",
     "Punchline": "BMR encounter overrides and additions",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-    "DownloadLinkInstall": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v0.1.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v0.1.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v0.1.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v0.1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v0.1.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v0.1.0.2/latest.zip"
   }
 ]
