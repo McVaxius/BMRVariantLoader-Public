@@ -3,7 +3,7 @@
     "Author": "McVaxius",
     "Name": "BMR Companion",
     "InternalName": "BMRVariantLoader",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.2.0.0",
     "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -16,12 +16,12 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": -100,
-    "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v1.1.0.0/icon.png",
+    "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v1.2.0.0/icon.png",
     "Punchline": "Encounter modules and AethertekUI for BossModReborn",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-    "DownloadLinkInstall": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v1.1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v1.1.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v1.1.0.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v1.2.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v1.2.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v1.2.0.0/latest.zip"
   }
 ]
