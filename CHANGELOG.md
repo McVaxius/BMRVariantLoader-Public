@@ -2,6 +2,13 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.1.7 — 2026-11-03
+
+- Heavy Artillery Unit is now offline-ready for normal combat entry, with improved tower-failure warnings and cleanup.
+- Expanded Walking Fortress guidance for tile waves, marked lasers and tank explosions.
+- Improved Rofocale positioning after charges.
+- Added Deathgaze Hollow spread, Doom and missing Bolt warnings. Additional mechanics remain incomplete.
+
 ## 3.1.1.6 — 2026-11-03
 
 - Serial-jointed Command Model is now offline-ready for normal combat entry.
