@@ -2,7 +2,7 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
-## Upcoming — 3.1.1.5
+## 3.1.1.5 — 2026-11-03
 
 - Improved Superior Flight Units' line stacks, missile warnings and activation during a cast.
 - Improved Hobbes's missile-spread positioning during cargo knockbacks while preserving damage and spread warnings.
