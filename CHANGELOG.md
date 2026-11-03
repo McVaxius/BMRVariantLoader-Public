@@ -2,7 +2,7 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
-## Upcoming — 3.1.1.4
+## 3.1.1.4 — 2026-11-03
 
 - Improved Aegis damage warnings for Flight Unit explosions.
 - Added earlier positioning for Walking Fortress's opening carpet attacks.
