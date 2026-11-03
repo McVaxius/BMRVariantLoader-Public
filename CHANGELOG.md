@@ -1,6 +1,12 @@
 # Public changelog
 
-High-level changes included in the published Public package. Each entry describes the version actually released; encounter improvements do not imply a verified live clear.
+Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
+
+## Upcoming — 3.1.1.4
+
+- Improved Aegis damage warnings for Flight Unit explosions.
+- Added earlier positioning for Walking Fortress's opening carpet attacks.
+- Improved healing preparation for Nald'thal's marked cone targets.
 
 ## 3.1.1.3 — 2026-11-03
 
