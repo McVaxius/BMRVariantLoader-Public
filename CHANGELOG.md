@@ -2,7 +2,7 @@
 
 High-level changes included in the published Public package. Each entry describes the version actually released; encounter improvements do not imply a verified live clear.
 
-## Unreleased
+## 3.1.1.2 — 2026-11-03
 
 - Improved Azeyma's later mechanics and repeat handling.
 - Expanded movement and assignment guidance across Myths of the Realm and NieR alliance encounters; several encounters still have incomplete mechanics.
