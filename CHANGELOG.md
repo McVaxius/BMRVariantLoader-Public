@@ -2,6 +2,14 @@
 
 High-level changes included in the published Public package. Each entry describes the version actually released; encounter improvements do not imply a verified live clear.
 
+## Unreleased
+
+- Improved Azeyma's later mechanics and repeat handling.
+- Expanded movement and assignment guidance across Myths of the Realm and NieR alliance encounters; several encounters still have incomplete mechanics.
+- Added Shinryu Unreal mechanic and NPC-healing assistance. Automated bridge traversal remains incomplete.
+- Improved direct approach to the Infernal Nail and living-player selection in supported Eden, Omega and chaotic-raid mechanics.
+- Improved Memoria Misera timeline support and recovery between attempts.
+
 ## 3.1.1.1 — 2026-11-03
 
 - Improved Byregot's hammer-floor movement, later mechanic coverage and recovery between attempts.
