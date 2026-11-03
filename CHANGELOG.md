@@ -2,6 +2,12 @@
 
 High-level changes included in the published Public package. Each entry describes the version actually released; encounter improvements do not imply a verified live clear.
 
+## Unreleased
+
+- Kept Nophica's active tankbuster guidance through marked-player deaths or untargetability.
+- Added Red Girl wall, meteor and forced-movement guidance, including alphabetical assignment when two wall choices remain.
+- Corrected movement to transferred towers in Compound 2P.
+
 ## 3.1.1.2 — 2026-11-03
 
 - Improved Azeyma's later mechanics and repeat handling.
