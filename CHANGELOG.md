@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.0 — 2026-11-03
+
+- Completed this round of Puppets' Bunker improvements, including alphabetical Compound 2P tower assignments and tower-failure warnings.
+- Improved movement through ordinary Hydrostasis knockbacks.
+- Added missing Void Aero III warnings for Deathgaze Hollow.
+- Improved Hobbes's remaining laser-hit forecasts.
+- Improved positioning for Rofocale's Pomp and Circumstance.
+
 ## 3.1.1.7 — 2026-11-03
 
 - Heavy Artillery Unit is now offline-ready for normal combat entry, with improved tower-failure warnings and cleanup.
