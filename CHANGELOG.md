@@ -1,0 +1,87 @@
+# Public changelog
+
+High-level changes included in the published Public package. Each entry describes the version actually released; encounter improvements do not imply a verified live clear.
+
+## 3.1.1.1 — 2026-11-03
+
+- Improved Byregot's hammer-floor movement, later mechanic coverage and recovery between attempts.
+
+## 3.1.1.0 — 2026-11-03
+
+- Completed this round of Thaleia improvements, adding Angelos interrupt guidance and continued handling of surviving enemies.
+
+## 3.1.0.7 — 2026-11-03
+
+- Improved Llymlaen's corridor transitions, continuing hazards, knockback guidance and recovery.
+
+## 3.1.0.6 — 2026-11-03
+
+- Improved Eulogia's tile safety, knockback movement, damage warnings and recovery between attempts.
+
+## 3.1.0.5 — 2026-11-03
+
+- Improved Thaliak's tile positioning, knockback landings and continued mechanic guidance later in the fight.
+
+## 3.1.0.4 — 2026-11-03
+
+- Corrected Rhalgr's safe-finger selection during Beacon knockbacks and improved damage warnings.
+
+## 3.1.0.3 — 2026-11-03
+
+- Improved Oschon's phase transitions, later mechanic coverage, knockback landings and recovery.
+
+## 3.1.0.2 — 2026-11-02
+
+- Improved movement and automatic assignments across supported Eden, Omega, Alexander and Pandaemonium Savage encounters.
+- Improved selected Extreme-trial mechanics and dungeon encounters.
+
+## 3.1.0.1 — 2026-11-02
+
+- Improved add targeting in Deltascape V3.0 (Savage), recovery in Sigmascape V2.0 (Savage), Rot handling in Sigmascape V3.0 (Savage), and Storms positioning in Asphodelos: The Third Circle (Savage).
+
+## 3.0.0.1 — 2026-11-01
+
+- Improved automatic tank assignments and movement in supported Extreme trials, Savage raids and the Cloud of Darkness chaotic raid.
+- Improved mechanic handling in Alexander, Omega and Eden encounters.
+
+## 3.0.0.0 — 2026-11-01
+
+- Expanded encounter coverage and automatic party assignments, including support for smaller groups where the mechanics permit it.
+
+## 2.1.0.7 — 2026-10-31
+
+- Improved Pas des Seul positioning and survival when continuing with remaining beasts.
+
+## 2.1.0.6 — 2026-10-31
+
+- Added visibility into virtual cooldown plans and Difficulty 3 strategies for the public Crewcible boards.
+- Added Pas des Seul backup-team plans and clearer recorded progress indicators.
+
+## 2.1.0.5 — 2026-10-30
+
+- Refined Banemite and Ogre beast management, resource use and fight continuation.
+- Made encounter additions available under BMR's default Contributed filter.
+
+## 2.1.0.4 — 2026-10-30
+
+- Corrected beast handling in standard Crewcible runs and improved continuation after revival or rotation changes.
+
+## 2.1.0.3 — 2026-10-30
+
+- Updated the companion window's appearance and presentation.
+
+## 2.1.0.2 — 2026-10-29
+
+- Improved Crewcible mechanic handling, beast handoffs and continuation after revival or lost beasts.
+
+## 2.1.0.1 — 2026-10-29
+
+- Corrected repeated beast preparation and improved Sands revival and tank handoffs.
+
+## 2.1.0.0 — 2026-10-28
+
+- Expanded encounter corrections and BST support for the public Crewcible boards.
+
+## Earlier public releases — 2026-10-24 to 2026-10-26
+
+Versions 0.1.0.0 through 2.0.0.0 established the companion window, encounter controls, translations, public encounter additions, Praetorium timelines and bundled cooldown plans. Individual packages remain available in [Releases](https://github.com/McVaxius/BMRVariantLoader-Public/releases).
