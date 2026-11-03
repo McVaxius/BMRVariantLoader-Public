@@ -2,6 +2,13 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## Upcoming — 3.1.1.5
+
+- Improved Superior Flight Units' line stacks, missile warnings and activation during a cast.
+- Improved Hobbes's missile-spread positioning during cargo knockbacks while preserving damage and spread warnings.
+- Added Engels tower assignments and continuing head-laser guidance.
+- Made Althyk and Nymeia's accelerated line warnings more preemptive.
+
 ## 3.1.1.4 — 2026-11-03
 
 - Improved Aegis damage warnings for Flight Unit explosions.
