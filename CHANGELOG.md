@@ -2,6 +2,13 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.1.6 — 2026-11-03
+
+- Serial-jointed Command Model is now offline-ready for normal combat entry.
+- Added earlier Marx warnings and continuing fire guidance for Engels.
+- Improved movement through Hydrostasis knockbacks and continuation after Althyk dies.
+- Added initial Rofocale arena and mechanic support. Later mechanics remain incomplete.
+
 ## 3.1.1.5 — 2026-11-03
 
 - Improved Superior Flight Units' line stacks, missile warnings and activation during a cast.
