@@ -56,11 +56,11 @@ High-level changes included in the published Public package. Each entry describe
 
 - Added visibility into virtual cooldown plans and Difficulty 3 strategies for the public Crewcible boards.
 - Added Pas des Seul backup-team plans and clearer recorded progress indicators.
+- Made encounter additions available under BMR's default Contributed filter.
 
 ## 2.1.0.5 — 2026-10-30
 
-- Refined Banemite and Ogre beast management, resource use and fight continuation.
-- Made encounter additions available under BMR's default Contributed filter.
+- Refreshed the public Crewcible package following beast-management and fight-continuation improvements.
 
 ## 2.1.0.4 — 2026-10-30
 
