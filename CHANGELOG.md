@@ -2,6 +2,13 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.3 — 2026-11-03
+
+- Improved Ridorana Lighthouse polarity positioning, spread-then-stack handling and tankbuster warnings.
+- Added Towerfall warnings in Rabanastre and current Pitfall positioning in Dun Scaith.
+- Improved Engels add pickup and tank positioning in the Copied Factory.
+- Corrected Hydaelyn tankbuster warnings and added current Levinstrike tower guidance in Kokytos Savage.
+
 ## 3.1.2.2 — 2026-11-03
 
 - Improved Ashplume positioning in Phoinix Savage and Act 1 tower movement in Hesperos Savage.
