@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.8 - 2026-11-04
+
+- Added movement guidance for Belias's hand tethers.
+
 ## 3.1.2.7 - 2026-11-04
 
 - Added Rake tankbuster warnings for Yiazmat in Ridorana.
