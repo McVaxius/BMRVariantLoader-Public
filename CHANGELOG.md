@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.1 - 2026-11-04
+
+- Added initial tankbuster and raidwide cast warnings for Hades Extreme. Automated movement and other mechanics remain incomplete.
+
 ## 3.1.3.0 - 2026-11-04
 
 - Added Dhog WHM/CNJ, SCH, AST and SGE rotations with automatic healing, cleansing and raising.
