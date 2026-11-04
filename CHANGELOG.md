@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.9 - 2026-11-04
+
+- Added Dust Storm damage preparation for Yiazmat.
+- Improved Tower wall assignments, tank selection at arena boundaries and level-80 cooldown-plan support.
+
 ## 3.1.2.8 - 2026-11-04
 
 - Added movement guidance for Belias's hand tethers.
