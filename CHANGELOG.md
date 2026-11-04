@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.6 — 2026-11-04
+
+- Added first-Glare warnings for Agdistis Savage.
+- Added physical-ranged interrupt hints for Shadowcourt Hound in Dun Scaith.
+
 ## 3.1.2.5 — 2026-11-04
 
 - Added Dominion tower assignments in phase two of Hephaistos Savage.
