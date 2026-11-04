@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.1 — 2026-11-03
+
+- Hobbes is now offline-ready for normal combat entry.
+- Added phase-two discovery and retry recovery for False Idol and Her Inflorescence.
+- Improved early Pyretic preparation for Althyk and Nymeia.
+- Corrected Halone tower groups to use players inside the arena.
+- Added Construct 7 arithmetic positioning.
+- Added initial Ferdiad Hollow mechanic support. Additional mechanics remain incomplete.
+
 ## 3.1.2.0 — 2026-11-03
 
 - Completed this round of Puppets' Bunker improvements, including alphabetical Compound 2P tower assignments and tower-failure warnings.
