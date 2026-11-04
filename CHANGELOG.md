@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.2 — 2026-11-03
+
+- Improved Ashplume positioning in Phoinix Savage and Act 1 tower movement in Hesperos Savage.
+- Added resistance-side movement guidance for Hegemone Savage.
+- Corrected Pandaemonium Savage stack sizes, plume warnings and encounter startup.
+- Improved Barbariccia knockback landings and tether safety.
+- Added close Pulverize warnings for Construct 7 and hand targeting in Dun Scaith.
+
 ## 3.1.2.1 — 2026-11-03
 
 - Hobbes is now offline-ready for normal combat entry.
