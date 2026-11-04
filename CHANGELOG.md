@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.5 — 2026-11-04
+
+- Added Dominion tower assignments in phase two of Hephaistos Savage.
+- Added polarity-aware Death Strike stack positioning for Yiazmat.
+
 ## 3.1.2.4 — 2026-11-04
 
 - Improved party-damage preparation for Construct 7, Hashmal and Engels.
