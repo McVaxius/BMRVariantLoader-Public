@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.7 - 2026-11-04
+
+- Added Rake tankbuster warnings for Yiazmat in Ridorana.
+- Added party-damage preparation for Engels during Demolish.
+
 ## 3.1.2.6 — 2026-11-04
 
 - Added first-Glare warnings for Agdistis Savage.
