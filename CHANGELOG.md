@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.0 - 2026-11-04
+
+- Added Dhog WHM/CNJ, SCH, AST and SGE rotations with automatic healing, cleansing and raising.
+- Added recipient and raise strategy options, including assistance outside combat.
+- Grouped public custom rotations under Dhog and improved preset-editor reload handling.
+
 ## 3.1.2.9 - 2026-11-04
 
 - Added Dust Storm damage preparation for Yiazmat.
