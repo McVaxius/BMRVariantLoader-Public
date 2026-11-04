@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.2 - 2026-11-04
+
+- Made all five Crewcible boards Public, including both master boards and their BST strategies, cooldown plans and virtual plans.
+- Improved Tower encounter continuation while Meng Zi remains alive.
+- Added Elenchos avoidance guidance for Endsinger Extreme. Broader encounter support remains incomplete.
+
 ## 3.1.3.1 - 2026-11-04
 
 - Added initial tankbuster and raidwide cast warnings for Hades Extreme. Automated movement and other mechanics remain incomplete.
