@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.2.4 — 2026-11-04
+
+- Improved party-damage preparation for Construct 7, Hashmal and Engels.
+- Improved required-add targeting in Dun Scaith.
+- Added Venomous Mass tankbuster avoidance in Proto-Carbuncle Savage, including pending attacks after the marked target dies.
+
 ## 3.1.2.3 — 2026-11-03
 
 - Improved Ridorana Lighthouse polarity positioning, spread-then-stack handling and tankbuster warnings.
