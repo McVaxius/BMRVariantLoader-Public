@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.10 - 2026-11-05
+
+- Auto targeting now acquires eligible enemies when an autorotation preset is active without movement AI.
+- Improved switching to priority adds and reacquiring enemies after temporary untargetability while preserving encounter and manual targeting rules.
+
+**In progress (unreleased)**
+
+- Dhog healer rotations: healing and raise eligibility for duty NPC allies.
+- Crewcible difficulty 3: five-board beast teams, sustain, handoffs and cooldown-plan verification.
+- PvP rotations for all 21 jobs, including integrated source and licence packaging.
+
 ## 3.1.3.9 - 2026-11-05
 
 - Added configurable Auto, Manual and Support targeting, engagement rules and target ordering in GMC.
