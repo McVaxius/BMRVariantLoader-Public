@@ -2,6 +2,16 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.7 - 2026-11-05
+
+- Improved Hansel and Gretel separation when one boss loses Stronger Together before the other.
+
+**In progress (unreleased)**
+
+- Crewcible difficulty 3: implementing the approved five-board beast teams, sustain, handoffs and cooldown-plan updates.
+- PvP rotations: settings/editor integration for all 21 jobs, plus source and licence packaging within the GMC release.
+- Further alliance encounter improvements.
+
 ## 3.1.3.6 - 2026-11-05
 
 - Added `/gmc` to open GMC, sharing the existing module-window commands.
