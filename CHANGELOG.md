@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.6 - 2026-11-05
+
+- Added `/gmc` to open GMC, sharing the existing module-window commands.
+- Improved Knave of Hearts knockback landing safety when several current Colossal Impact areas overlap the landing route.
+
+**In progress (unreleased)**
+
+- PvP rotations: native action registration, settings and editor integration for all 21 jobs.
+- Crewcible difficulty 3: concrete board strategies, beast handoffs and repeatable sustain without required random loot.
+- Further alliance and Endsinger mechanic improvements.
+
 ## 3.1.3.5 - 2026-11-05
 
 - Added optional duty enemy engagement with an on/off control, availability/error status, and protection for scripted stealth and encounter target restrictions.
