@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.5 - 2026-11-05
+
+- Added optional duty enemy engagement with an on/off control, availability/error status, and protection for scripted stealth and encounter target restrictions.
+- Improved Endsinger Extreme positioning for paired tankbusters, stacks, Grip, Endsong and planet mechanics.
+- Added Endsinger damage forecasts and personal Despair guidance. Full encounter automation and live-clear validation remain incomplete.
+
+**In progress (unreleased)**
+
+- PvP rotations: all 21 job policy ports are written; native action, targeting and settings integration is being verified.
+- Crewcible difficulty 3: comparing documented clears, beast teams and sustain plans, with random-loot dependencies called out.
+- Further Endsinger tower/rewind work and end-to-end encounter validation.
+
 ## 3.1.3.4 - 2026-11-05
 
 - Improved Amon's ice shelter, required-add targeting and bomb-cleanse guidance. Broader encounter automation remains incomplete.
