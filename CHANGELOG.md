@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.8 - 2026-11-05
+
+- Preserved assigned targets during Red Girl's intermission instead of switching to a nearer enemy.
+- Restored BMR's native settings, autorotation and AI presentation. GMC retains its own appearance controls and encounter browser.
+
+**In progress (unreleased)**
+
+- Crewcible difficulty 3: five-board beast teams, sustain, handoffs and cooldown-plan verification.
+- PvP rotations for all 21 jobs, including integrated source and licence packaging.
+- RSR-style GMC targeting controls with Auto as the default.
+
 ## 3.1.3.7 - 2026-11-05
 
 - Improved Hansel and Gretel separation when one boss loses Stronger Together before the other.
