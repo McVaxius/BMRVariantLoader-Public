@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.4 - 2026-11-05
+
+- Improved Amon's ice shelter, required-add targeting and bomb-cleanse guidance. Broader encounter automation remains incomplete.
+
 ## 3.1.3.3 - 2026-11-05
 
 - Added compact combined AI and autorotation controls with preset and cooldown-plan drawers.
