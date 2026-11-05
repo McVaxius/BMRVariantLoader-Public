@@ -2,6 +2,13 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.3 - 2026-11-05
+
+- Added compact combined AI and autorotation controls with preset and cooldown-plan drawers.
+- Added global and per-encounter Current/Previous module selection, applied between pulls while preserving existing plans and provider ownership.
+- Added a GMC-only filter to encounter browsing.
+- Improved Halone add-phase safe areas, Hansel/Gretel shield-front movement and Hashmal Towerfall warning cleanup.
+
 ## 3.1.3.2 - 2026-11-04
 
 - Made all five Crewcible boards Public, including both master boards and their BST strategies, cooldown plans and virtual plans.
