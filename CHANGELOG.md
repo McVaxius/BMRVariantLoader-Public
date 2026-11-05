@@ -2,6 +2,16 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.9 - 2026-11-05
+
+- Added configurable Auto, Manual and Support targeting, engagement rules and target ordering in GMC.
+- Improved target reacquisition after resurrection when enemies in a duty remain in combat without player aggro.
+
+**In progress (unreleased)**
+
+- Crewcible difficulty 3: five-board beast teams, sustain, handoffs and cooldown-plan verification.
+- PvP rotations for all 21 jobs, including integrated source and licence packaging.
+
 ## 3.1.3.8 - 2026-11-05
 
 - Preserved assigned targets during Red Girl's intermission instead of switching to a nearer enemy.
