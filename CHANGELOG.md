@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.17 - 2026-11-06
+
+- Improved Auto targeting during Yiazmat's add phase to prefer the Archaeodemon currently held by the player when the adds have distinct observed holders.
+- Preserved existing objective priorities and target restrictions.
+
+**In progress (unreleased)**
+
+- Further encounter movement and Extreme trial support.
+
 ## 3.1.3.16 - 2026-11-06
 
 - Added Endsinger Extreme Twinsong guidance for cone, circle and donut hazards.
