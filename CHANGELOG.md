@@ -7,9 +7,12 @@ Only content marked Public is listed. Entries describe released versions unless 
 - E4S Titan now stops adding legacy tile assignments after a confirmed blue marker and shows a manual-handling notice until reset.
 - Preserved other mechanic hints; blue tile allocation remains manual.
 
-**In progress (unreleased)**
+**In progress (unreleased, partial)**
 
-- Further Nophica, Barbariccia Extreme, P5S and E5S mechanic support.
+- Nophica: March recovery after late activation.
+- Barbariccia Extreme: partner guidance.
+- Proto-Carbuncle Savage: tower pairing.
+- Ramuh Savage: ground AoE handling.
 
 ## 3.1.3.19 - 2026-11-06
 
