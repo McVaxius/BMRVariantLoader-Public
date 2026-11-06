@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.12 - 2026-11-06
+
+- Added Dhog PvP rotations for all 21 jobs and GMC-side support for MOM's native rotation handoff.
+- Improved Golbez Extreme's Double Meteor tower assignments and knockback launch positioning.
+- Kept Yiazmat's Dust Storm warnings active until the damage arrives.
+- Added matching Public module-pack source and licence files to the release.
+
+**In progress (unreleased)**
+
+- Yiazmat heart and required-add targeting.
+- Crewcible difficulty 3: five-board beast teams, sustain, handoffs and cooldown-plan verification.
+- Further alliance mechanics and cross-host PvP/MOM verification.
+
 ## 3.1.3.11 - 2026-11-06
 
 - Dhog healer rotations now consider eligible Duty Support and Trust NPC allies for healing and game-permitted raising.
