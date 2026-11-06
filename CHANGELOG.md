@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.19 - 2026-11-06
+
+- Added Hydaelyn Extreme guidance for Lightwave, Parhelion, Crystallize and Spectrum/Arc, with stack guidance based on the current party.
+- Added P4S Pinax current-cast hazard guidance and water-knockback preparation.
+
+**In progress (unreleased)**
+
+- Further Public Extreme, Savage and alliance automation.
+
 ## 3.1.3.18 - 2026-11-06
 
 - Added Zodiark Extreme movement guidance for Adikia, Algedon, Exoterikos, Paradeigma and Astral Eclipse, plus reduced-party Styx participation.
