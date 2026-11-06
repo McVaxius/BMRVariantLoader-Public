@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.16 - 2026-11-06
+
+- Added Endsinger Extreme Twinsong guidance for cone, circle and donut hazards.
+- Added rewind preparation from observed head casts and ring markers, with cleanup as casts resolve or change.
+
+**In progress (unreleased)**
+
+- Further encounter movement and Extreme trial support.
+
 ## 3.1.3.15 - 2026-11-06
 
 - Removed stale Rhalgr Shock forecasts when the current Lightning Orb is destroyed, including before its cast starts.
