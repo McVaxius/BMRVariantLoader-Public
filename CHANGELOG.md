@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.11 - 2026-11-06
+
+- Dhog healer rotations now consider eligible Duty Support and Trust NPC allies for healing and game-permitted raising.
+- One GMC package now supports active GodMod or BossModReborn, with a matching bundled module pack for each host.
+- Improved backend reload cleanup, cooldown-plan discovery and zone-module replacement while preserving provider ownership.
+
+**In progress (unreleased)**
+
+- Further Copied Factory mechanic and recovery improvements.
+- Crewcible difficulty 3: five-board beast teams, sustain, handoffs and cooldown-plan verification.
+- PvP rotations for all 21 jobs and MOM integration, including source and licence packaging.
+
 ## 3.1.3.10 - 2026-11-05
 
 - Auto targeting now acquires eligible enemies when an autorotation preset is active without movement AI.
