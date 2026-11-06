@@ -9,7 +9,7 @@ Only content marked Public is listed. Entries describe released versions unless 
 
 **In progress (unreleased)**
 
-- Further encounter targeting, movement and assignments.
+- Further encounter movement and Extreme trial support.
 
 ## 3.1.3.14 - 2026-11-06
 
