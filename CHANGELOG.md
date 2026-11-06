@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.20 - 2026-11-06
+
+- E4S Titan now stops adding legacy tile assignments after a confirmed blue marker and shows a manual-handling notice until reset.
+- Preserved other mechanic hints; blue tile allocation remains manual.
+
+**In progress (unreleased)**
+
+- Further Nophica, Barbariccia Extreme, P5S and E5S mechanic support.
+
 ## 3.1.3.19 - 2026-11-06
 
 - Added Hydaelyn Extreme guidance for Lightwave, Parhelion, Crystallize and Spectrum/Arc, with stack guidance based on the current party.
