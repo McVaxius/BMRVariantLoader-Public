@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.13 - 2026-11-06
+
+- Prioritized Yiazmat's Archaeodemons and Heart during intermission while preserving mechanic target restrictions.
+
+**In progress (unreleased)**
+
+- Crewcible difficulty 3: beast retention, sustain and five-board cooldown-plan verification.
+- Further alliance mechanics and GodMod PvP/MOM lifecycle verification.
+
 ## 3.1.3.12 - 2026-11-06
 
 - Added Dhog PvP rotations for all 21 jobs and GMC-side support for MOM's native rotation handoff.
