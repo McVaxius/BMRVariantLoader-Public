@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.18 - 2026-11-06
+
+- Added Zodiark Extreme movement guidance for Adikia, Algedon, Exoterikos, Paradeigma and Astral Eclipse, plus reduced-party Styx participation.
+- Added Innocence Extreme current-cast warnings, add priorities and party-damage forecasts.
+
+**In progress (unreleased)**
+
+- Further Public Extreme, Savage and alliance automation.
+
 ## 3.1.3.17 - 2026-11-06
 
 - Improved Auto targeting during Yiazmat's add phase to prefer the Archaeodemon currently held by the player when the adds have distinct observed holders.
