@@ -2,6 +2,16 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.14 - 2026-11-06
+
+- Revised difficulty 3 beast teams and cooldown plans across all five Crewcible boards.
+- Improved add burst, beast retention and protection, and Geshunpest sustain decisions.
+- Added ready-beast continuation and refined Pas mage targeting and bomb delivery.
+
+**In progress (unreleased)**
+
+- Further encounter movement and assignments.
+
 ## 3.1.3.13 - 2026-11-06
 
 - Prioritized Yiazmat's Archaeodemons and Heart during intermission while preserving mechanic target restrictions.
