@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.21 - 2026-11-06
+
+- Adjusted Rubicante Extreme Total Immolation stack guidance for the eligible party members present.
+- Preserved the forced stack target, spread exclusions, mechanic areas and cast timing.
+
+**In progress (unreleased, partial)**
+
+- Nophica: March recovery after late activation.
+- Barbariccia Extreme: partner guidance.
+- Proto-Carbuncle Savage: tower pairing.
+- Ramuh Savage: ground AoE handling.
+
 ## 3.1.3.20 - 2026-11-06
 
 - E4S Titan now stops adding legacy tile assignments after a confirmed blue marker and shows a manual-handling notice until reset.
