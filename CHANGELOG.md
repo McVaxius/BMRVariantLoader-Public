@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.15 - 2026-11-06
+
+- Removed stale Rhalgr Shock forecasts when the current Lightning Orb is destroyed, including before its cast starts.
+- Preserved replacement-orb hazards and unrelated warning fields during cleanup.
+
+**In progress (unreleased)**
+
+- Further encounter targeting, movement and assignments.
+
 ## 3.1.3.14 - 2026-11-06
 
 - Revised difficulty 3 beast teams and cooldown plans across all five Crewcible boards.
