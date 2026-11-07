@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.24 - 2026-11-07
+
+- Improved Explosion timing and cleanup for observed Magic Bullets in Hansel and Gretel.
+- Preserved existing separation, shield and tank guidance.
+
+**In progress (unreleased, partial)**
+
+- Scathach: observed Thirty Cries shared-stack assistance.
+- Themis (P11S): Dismissal knockback landing guidance.
+- Agdistis (P7S): Minotaur tether bait guidance.
+- Red Girl: initial mechanic coverage.
+
 ## 3.1.3.23 - 2026-11-07
 
 - Restored Nophica March guidance when directional statuses are already present at phase activation.
