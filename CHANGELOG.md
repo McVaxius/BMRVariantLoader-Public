@@ -2,6 +2,16 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.31 - 2026-11-07
+
+- Added Hephaistos Savage Footprint guidance to avoid launch positions that project outside the current arena.
+
+**In progress (unreleased, partial)**
+
+- Zeromus Extreme: Bonds of Darkness guidance.
+- Barbariccia Extreme: Secret Breeze movement guidance.
+- Shiva Savage: Reflections light-orb ownership.
+
 ## 3.1.3.30 - 2026-11-07
 
 - Retired stale Her Inflorescence Energy warnings when their source disappears or is replaced.
