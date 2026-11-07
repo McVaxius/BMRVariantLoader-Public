@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.27 - 2026-11-07
+
+- Added Construct 7 Ignite cast guidance for the current frontal attack.
+
+**In progress (unreleased, partial)**
+
+- Agdistis (P7S): Minotaur tether bait guidance.
+- Red Girl: Shock hazard guidance.
+- Construct 7: Lithobrake guidance.
+- Further Scathach, Compound 2P and Her Inflorescence coverage.
+
 ## 3.1.3.26 - 2026-11-07
 
 - Improved Red Girl intermission arena and wall mapping for participants in their current rooms.
