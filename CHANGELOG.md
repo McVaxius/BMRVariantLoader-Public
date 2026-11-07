@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.22 - 2026-11-07
+
+- Added ordinary tower pair assignments, personal highlighting and text guidance for Proto-Carbuncle Savage.
+- Added Ramuh Savage ground AoE guidance for current Shock Strike casts.
+
+**In progress (unreleased, partial)**
+
+- Nophica: March recovery after late activation.
+- Barbariccia Extreme: partner guidance.
+- Proto-Carbuncle Savage: further tower execution.
+- Ramuh Savage: further Thunderstorm execution.
+
 ## 3.1.3.21 - 2026-11-06
 
 - Adjusted Rubicante Extreme Total Immolation stack guidance for the eligible party members present.
