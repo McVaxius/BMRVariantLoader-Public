@@ -9,9 +9,9 @@ Only content marked Public is listed. Entries describe released versions unless 
 
 **In progress (unreleased, partial)**
 
-- Hansel and Gretel: Explosion cleanup.
-- Scathach: shared-stack guidance.
-- Themis (P11S): knockback landing guidance.
+- Hansel and Gretel: Explosion lifecycle cleanup.
+- Scathach: observed Thirty Cries shared-stack assistance.
+- Themis (P11S): Dismissal knockback landing guidance.
 
 ## 3.1.3.22 - 2026-11-07
 
