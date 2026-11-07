@@ -2,6 +2,16 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.29 - 2026-11-07
+
+- Added guidance for Scathach's current Shadethrust casts.
+
+**In progress (unreleased, partial)**
+
+- Scathach: Connla separation.
+- Hephaistos Savage: Footprint knockback landing guidance.
+- Zeromus Extreme: Bonds of Darkness guidance.
+
 ## 3.1.3.28 - 2026-11-07
 
 - Added Agdistis Savage Minotaur tether bait guidance for observed targets.
