@@ -12,7 +12,7 @@ Only content marked Public is listed. Entries describe released versions unless 
 - Scathach: observed Thirty Cries shared-stack assistance.
 - Themis (P11S): Dismissal knockback landing guidance.
 - Agdistis (P7S): Minotaur tether bait guidance.
-- Red Girl: initial mechanic coverage.
+- Red Girl: intermission arena and wall mapping.
 
 ## 3.1.3.23 - 2026-11-07
 
