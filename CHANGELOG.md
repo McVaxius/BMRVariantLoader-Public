@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.30 - 2026-11-07
+
+- Retired stale Her Inflorescence Energy warnings when their source disappears or is replaced.
+- Added Menphina Thin Ice guidance from current statuses.
+- Improved Compound 2P phase handoff when its second actor has not arrived yet.
+- Added guidance to separate a currently linked Connla from Scathach.
+
+**In progress (unreleased, partial)**
+
+- Hephaistos Savage: Footprint knockback landing guidance.
+- Zeromus Extreme: Bonds of Darkness guidance.
+- Barbariccia Extreme: Secret Breeze guidance.
+
 ## 3.1.3.29 - 2026-11-07
 
 - Added guidance for Scathach's current Shadethrust casts.
