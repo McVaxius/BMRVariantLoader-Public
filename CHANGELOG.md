@@ -4,7 +4,7 @@ Only content marked Public is listed. Entries describe released versions unless 
 
 ## 3.1.3.31 - 2026-11-07
 
-- Added Hephaistos Savage Footprint guidance to avoid launch positions that project outside the current arena.
+- P8S Footprint positioning now considers projected knockback landings against current arena bounds, including any holes.
 
 **In progress (unreleased, partial)**
 
