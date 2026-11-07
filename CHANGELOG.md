@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.25 - 2026-11-07
+
+- Added Themis (P11S) Dismissal knockback landing guidance using current arena bounds, hazards due by impact and current knockback immunity.
+
+**In progress (unreleased, partial)**
+
+- Scathach: observed Thirty Cries shared-stack assistance.
+- Agdistis (P7S): Minotaur tether bait guidance.
+- Red Girl: intermission arena and wall mapping.
+- Construct 7: Ignite lifecycle cleanup.
+
 ## 3.1.3.24 - 2026-11-07
 
 - Improved Explosion timing and cleanup for observed Magic Bullets in Hansel and Gretel.
