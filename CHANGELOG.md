@@ -14,6 +14,7 @@ Only content marked Public is listed. Entries describe released versions unless 
 - Hephaistos Savage: Footprint knockback landing guidance.
 - Zeromus Extreme: Bonds of Darkness guidance.
 - Barbariccia Extreme: Secret Breeze guidance.
+- Shiva Savage: Reflections light-orb ownership.
 
 ## 3.1.3.29 - 2026-11-07
 
