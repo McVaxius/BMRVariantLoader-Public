@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.23 - 2026-11-07
+
+- Restored Nophica March guidance when directional statuses are already present at phase activation.
+- Added Barbariccia Extreme partner allocation for current Upbraid stacks, preserving containment and landing guidance.
+
+**In progress (unreleased, partial)**
+
+- Hansel and Gretel: Explosion cleanup.
+- Scathach: shared-stack guidance.
+- Themis (P11S): knockback landing guidance.
+
 ## 3.1.3.22 - 2026-11-07
 
 - Added ordinary tower pair assignments, personal highlighting and text guidance for Proto-Carbuncle Savage.
