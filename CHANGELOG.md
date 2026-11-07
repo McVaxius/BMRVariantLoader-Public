@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.33 - 2026-11-07
+
+- Added Pandaemonium Savage Meltdown positioning guidance using the observed stack and spread targets.
+
+**In progress (unreleased, partial)**
+
+- Barbariccia Extreme: Secret Breeze movement guidance.
+- Further Public Savage encounter automation.
+
 ## 3.1.3.32 - 2026-11-07
 
 - Added Zeromus Extreme Bonds of Darkness separation guidance for current tether pairs.
