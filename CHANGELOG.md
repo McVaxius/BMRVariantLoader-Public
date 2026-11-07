@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.28 - 2026-11-07
+
+- Added Agdistis Savage Minotaur tether bait guidance for observed targets.
+- Added Red Girl Shock positioning in phase two near walls of the opposite colour.
+- Added a preference to move farther from the arena center during Construct 7's current Lithobrake cast.
+
+**In progress (unreleased, partial)**
+
+- Scathach: Shadethrust guidance and Connla separation.
+- Her Inflorescence: Energy warning cleanup.
+- Menphina: Thin Ice movement guidance.
+- Compound 2P: phase handoff handling.
+
 ## 3.1.3.27 - 2026-11-07
 
 - Added Construct 7 Ignite cast guidance for the current frontal attack.
