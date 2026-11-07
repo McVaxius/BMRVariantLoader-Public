@@ -2,6 +2,16 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.34 - 2026-11-07
+
+- Shiva Savage: improved Reflections light-orb assignments and Thin Ice movement guidance.
+- Barbariccia Extreme: added guidance around other players' Secret Breeze cones.
+- Eden's Gate: Descent (Savage): added Empty Hate knockback-resistance support.
+
+**Further work paused**
+
+Public encounter support remains partial. Further encounter automation is paused.
+
 ## 3.1.3.33 - 2026-11-07
 
 - Added Pandaemonium Savage Meltdown positioning guidance using the observed stack and spread targets.
