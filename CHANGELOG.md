@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.26 - 2026-11-07
+
+- Improved Red Girl intermission arena and wall mapping for participants in their current rooms.
+- Added repeated Scathach Thirty Cries stack guidance, including updates as the marked target moves.
+
+**In progress (unreleased, partial)**
+
+- Agdistis (P7S): Minotaur tether bait guidance validation.
+- Construct 7: Ignite cast guidance.
+- Further Scathach and Red Girl encounter coverage under review.
+
 ## 3.1.3.25 - 2026-11-07
 
 - Added Themis (P11S) Dismissal knockback landing guidance using current arena bounds, hazards due by impact and current knockback immunity.
