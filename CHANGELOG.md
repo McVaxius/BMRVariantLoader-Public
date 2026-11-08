@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.39 - 2026-11-08
+
+- Removed GMC's legacy combined mini window and drawing callback, avoiding theme-scope errors in native GodMod.
+- Added module state and selection actions for GodMod's updated native mini while preserving saved choices and between-pull safeguards.
+- Preserve native BMR windows and GMC's encounter browser and module settings.
+
+**In progress (unreleased, partial)**
+
+- Native GodMod mini integration and Crewcible shared-state support.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.38 - 2026-11-08
 
 - Crewcible: recover with the best remaining eligible team across all five boards while retaining available planned familiars.
