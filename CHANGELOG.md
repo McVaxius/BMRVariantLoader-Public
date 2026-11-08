@@ -2,6 +2,16 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.36 - 2026-11-08
+
+- P6S: added Transmission cone avoidance and facing guidance, with clean recovery after death and combat reset.
+- P8S phase 2: added movement into the native-assigned active Limitless Desolation tower while preserving spread handling.
+
+**In progress (unreleased, partial)**
+
+- Native GodMod compact controls and rotation integration.
+- MOM native PvP ownership handoff and Crewcible difficulty-3 resource/recovery improvements.
+
 ## 3.1.3.35 - 2026-11-08
 
 - Improved GodMod/BMR selection and cleanup while preserving the chosen backend when AI is stopped.
