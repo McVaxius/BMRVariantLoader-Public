@@ -2,6 +2,21 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.37 - 2026-11-08
+
+- Improved native PvP control for MOM during busy AI frames, reloads and manual preset changes.
+- Crewcible: needed scripted familiar heals can proceed through burst and affinity holds while preserving command checks.
+- Preserve GodMod's native Crewcible rotation registrations instead of creating duplicate entries.
+- Release uploads now contain only the runtime ZIP and plugin manifest.
+
+**In progress (unreleased, partial)**
+
+- Native GodMod Crewcible shared-state binding and lifecycle handling.
+
+**Queued (approved)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.36 - 2026-11-08
 
 - P6S: added Transmission cone avoidance and facing guidance, with clean recovery after death and combat reset.
