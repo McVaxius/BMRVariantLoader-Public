@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.35 - 2026-11-08
+
+- Improved GodMod/BMR selection and cleanup while preserving the chosen backend when AI is stopped.
+- Added Current/Old labels and shared module selection for the native GodMod mini.
+- Preserve native Dhog healer/PvP rotations and MOM state when available.
+- Native-capable GodMod handles engagement; older hosts retain GMC targeting.
+
+**In progress (unreleased, partial)**
+
+- Native GodMod compact controls and rotation integration.
+- Remaining approved DevHub fixes before encounter work resumes.
+
 ## 3.1.3.34 - 2026-11-07
 
 - Shiva Savage: improved Reflections light-orb assignments and Thin Ice movement guidance.
