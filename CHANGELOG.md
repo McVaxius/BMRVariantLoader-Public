@@ -2,6 +2,21 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.38 - 2026-11-08
+
+- Crewcible: recover with the best remaining eligible team across all five boards while retaining available planned familiars.
+- Preserve battle progress through team recovery and refreshed plans; use each encounter's own cooldown plan.
+- Correct recovery setup for Siren and Guttler encounters.
+
+**In progress (unreleased, partial)**
+
+- Move all compact-mini controls into native GodMod, with module state and selection actions supplied by GMC.
+- Native GodMod Crewcible shared-state integration.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.37 - 2026-11-08
 
 - Improved native PvP control for MOM during busy AI frames, reloads and manual preset changes.
