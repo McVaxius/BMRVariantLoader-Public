@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.44 - 2026-11-09
+
+- P9S: Beastly Bile recipients gain guidance toward a single glowing comet while clearing ordinary comets.
+- Preserve native target selection, timing and existing hazards; newer native implementations stay in charge.
+- Ambiguous or absent glowing comets do not select a guessed destination.
+
+**In progress**
+
+- Zeromus EX charge-path avoidance and further unfinished Endwalker and Shadowbringers encounter automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.43 - 2026-11-09
 
 - P9S: Thunderbolt baiters gain guidance to keep cones away from comets.
