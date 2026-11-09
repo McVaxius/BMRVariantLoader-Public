@@ -2,6 +2,23 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.47 - 2026-11-09
+
+- P4S1: avoid lethal Belone orbs using native role, acting-role and ruin rules.
+- P4S1: avoid late Periaktoi danger squares with real cast deadlines and fixed cast-start origins, including repeated notifications after helper movement.
+- Preserve existing Pinax and other encounter guidance; defer to newer native implementations.
+
+Orb collection and pair planning remain open.
+
+**In progress**
+
+- P8S1 petrification facing toward the snake already assigned by the encounter.
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.46 - 2026-11-09
 
 - P7S: avoid other players' observed bird-tether charge paths while preserving existing encounter guidance.
