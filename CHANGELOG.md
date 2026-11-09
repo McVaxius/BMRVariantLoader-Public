@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.40 - 2026-11-09
+
+- Updated shared text controls and glass rendering to the reviewed AethertekUI 0.3.1 baseline.
+
+**In progress**
+
+- Reviewing encounter-specific targeting ownership.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.39 - 2026-11-08
 
 - Removed GMC's legacy combined mini window and drawing callback, avoiding theme-scope errors in native GodMod.
