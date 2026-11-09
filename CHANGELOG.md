@@ -2,6 +2,23 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.46 - 2026-11-09
+
+- P7S: avoid other players' observed bird-tether charge paths while preserving existing encounter guidance.
+- Retain pending paths through early tether removal; retire them on confirmed impacts, conflicts, death or replacement.
+- Handle target death and revival between updates, and release tracking on encounter reset or unload.
+- Defer to newer native implementations when they already provide this guidance.
+
+This release covers peer-path avoidance.
+
+**In progress**
+
+- Reviewing remaining unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation; mechanics with unresolved cues or geometry remain held.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.45 - 2026-11-09
 
 - P6S: guide players away from other Synergy splash recipients, preserving each cast's timing.
