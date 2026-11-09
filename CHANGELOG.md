@@ -2,6 +2,21 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.48 - 2026-11-09
+
+- P8S1: face the encounter-assigned snake for Eye of the Gorgon after the enemy gaze wave ends.
+- Follow the current debuff timing and native assignments; replacement actors cannot inherit an earlier assignment.
+- Preserve Footprint, Crush and other encounter guidance, and defer to newer native implementations.
+
+**In progress**
+
+- P8S1 later snake-phase positioning: checking the Crown-resolution cue needed before automatic group movement.
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.47 - 2026-11-09
 
 - P4S1: avoid lethal Belone orbs using native role, acting-role and ruin rules.
