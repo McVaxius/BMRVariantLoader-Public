@@ -10,11 +10,12 @@ Only content marked Public is listed. Entries describe released versions unless 
 
 **In progress**
 
-- P8S1 later snake-phase positioning: checking the Crown-resolution cue needed before automatic group movement.
+- P8S2 High Concept: first-tower entry after an observed merge.
 - Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
 
 **Queued (approved; evidence gaps remain)**
 
+- Later P8S1 snake movement still needs an established Crown-resolution cue.
 - Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
 
 ## 3.1.3.47 - 2026-11-09
