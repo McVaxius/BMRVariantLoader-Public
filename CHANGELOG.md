@@ -2,6 +2,23 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.43 - 2026-11-09
+
+- P9S: Thunderbolt baiters gain guidance to keep cones away from comets.
+- P11S: Dark and Light adds preparation movement toward the native tether safespots.
+- Zodiark EX: Ania splash isolation follows the helper's locked target and timing.
+- Keep newer native implementations in charge and preserve existing encounter guidance.
+
+The older native P9S text-warning error still requires a native plugin fix; this companion update adds AI guidance.
+
+**In progress**
+
+- P9S Beastly Bile comet positioning across supported host versions, followed by further unfinished Endwalker and Shadowbringers encounters.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.42 - 2026-11-09
 
 - P10S Silkspit: marked players now clear nearby pillars while retaining player-spread avoidance and native floor hazards.
