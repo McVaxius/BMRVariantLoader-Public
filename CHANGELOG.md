@@ -2,6 +2,21 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.41 - 2026-11-09
+
+- Yiazmat's held-add target preference now follows the active encounter provider and Current/Old selection.
+- Preserve manual/support targeting, forced targets and native encounter priorities when providers change.
+- Added reviewer explanations for scripted-quest pull safeguards and False Idol phase compatibility; their behavior is unchanged.
+
+**In progress**
+
+- Further Endwalker and Shadowbringers encounter guidance.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
+
 ## 3.1.3.40 - 2026-11-09
 
 - Updated shared text controls and glass rendering to the reviewed AethertekUI 0.3.1 baseline.
