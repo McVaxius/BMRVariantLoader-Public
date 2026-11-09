@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.42 - 2026-11-09
+
+- P10S Silkspit: marked players now clear nearby pillars while retaining player-spread avoidance and native floor hazards.
+- Preserve the mechanic's existing timing and avoid duplicate guidance on newer native hosts.
+
+**In progress**
+
+- P9S comet protection, P11S tether preparation and Zodiark EX splash isolation across supported host versions.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.41 - 2026-11-09
 
 - Yiazmat's held-add target preference now follows the active encounter provider and Current/Old selection.
