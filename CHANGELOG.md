@@ -2,6 +2,23 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.45 - 2026-11-09
+
+- P6S: guide players away from other Synergy splash recipients, preserving each cast's timing.
+- P8S: avoid observed Crush damage circles during Blazing Footfalls.
+- Zeromus EX: avoid other players' meteor charge paths, including the fourth and eighth recipients.
+- Preserve existing encounter guidance and defer to newer native implementations.
+
+Older host text and priority markers retain their native behavior. These changes do not add tank swapping, knockback routing or a whole-duty clear claim.
+
+**In progress**
+
+- P7S bird-tether avoidance, followed by further unfinished Endwalker and Shadowbringers encounter automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.44 - 2026-11-09
 
 - P9S: Beastly Bile recipients gain guidance toward a single glowing comet while clearing ordinary comets.
