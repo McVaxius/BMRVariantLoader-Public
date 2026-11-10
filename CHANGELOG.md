@@ -2,6 +2,23 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.51 - 2026-11-10
+
+- Zeromus EX: retain observed Sable Thread participants and keep participating tanks ahead of non-tanks in the charge.
+- Reject stale actor identities and preserve later changes made by another mechanic owner.
+
+**In progress**
+
+- P4S2, P12S2 and Natural Alignment improvements moving into GMC.
+- P2S/P3S positioning and Public Criterion corrections.
+- Remaining P9S warning and Zeromus meteor display corrections.
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Later P8S1 snake movement still needs an established Crown-resolution cue.
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.50 - 2026-11-10
 
 - P8S2: guide eligible players into their second High Concept towers using the observed tower colors and encounter strategy.
