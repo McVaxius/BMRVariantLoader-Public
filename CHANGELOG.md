@@ -2,6 +2,23 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.58 - 2026-11-10
+
+- P8S1: after four observed Manifold Flare recipients, guide unmarked players toward the nearest-four Nest baits and marked players farther out.
+- Avoid other players' actual Nest rays while preserving native hazards and useful safe movement before the desired ordering is reachable.
+- Clear stale observations on impact, actor/life changes, duty changes and phase exit. Reduced groups retain supported ray avoidance without invented participants.
+
+**In progress**
+
+- P9S pre-explosion tower-approach preparation from the retained draft, preserving existing Thunderbolt and comet behavior.
+- Current-GodMod developer compatibility refresh for the new P8S1 guidance.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven approved Shadowbringers Extreme foundations and first mechanic slices.
+- The recorded unfinished Endwalker Savage and Extreme mechanic gaps.
+
+
 ## 3.1.3.57 - 2026-11-10
 
 - P5S: add five-yalm party separation during the native Venom Rain spread window, including the reverse sequence.
