@@ -2,6 +2,21 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.62 - 2026-11-10
+
+- P8S1 Snake2: guide players into their native assigned Gorgon's two-yalm positioning region for the late Breath stack.
+- Follow configured native party/group assignments. Keep the guide active after Crown progress until Breath resolves, including through additional Crown effects, status loss and effect-helper despawns.
+- Retire stale destinations after viewer, Gorgon, party-slot or mechanic ownership changes while preserving native gaze, Gorgospit and other hazards.
+
+**In progress**
+
+- Current-GodMod developer compatibility validation for the Snake2 addition.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss foundations and the recorded unfinished Endwalker mechanics.
+
+
 ## 3.1.3.61 - 2026-11-10
 
 - P6S Pathogenic Cells: avoid the current numbered cone and guide its recipient toward an aim that hits fewer teammates.
