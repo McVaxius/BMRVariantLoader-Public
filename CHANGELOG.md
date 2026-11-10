@@ -11,7 +11,6 @@ Only content marked Public is listed. Entries describe released versions unless 
 **In progress**
 
 - Remaining Pangenesis waiting-pair, fusion, staging and route guidance.
-- Current-GodMod developer compatibility validation for this addition.
 
 **Queued (approved; specific evidence gaps remain)**
 
