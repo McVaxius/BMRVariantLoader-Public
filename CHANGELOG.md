@@ -2,6 +2,23 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.59 - 2026-11-10
+
+- P9S: guide the assigned Levinstrike tower recipient toward the native future explosion location before it resolves, while preserving the six-yalm danger area and existing tower-soak handling.
+- Keep the approach useful alongside normal melee range/positional preferences, with reduced-party and native assignment ownership preserved.
+- Retire already-published approach goals immediately when their recipient or boss dies, reaches zero HP or is removed. Fresh valid guidance can recover after revival.
+- Preserve existing Thunderbolt, comet aiming and Beastly Bile behavior.
+
+**In progress**
+
+- Current-GodMod developer compatibility refresh for the P9S addition.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme foundations and first mechanic slices.
+- The recorded unfinished Endwalker Savage and Extreme mechanic gaps.
+
+
 ## 3.1.3.58 - 2026-11-10
 
 - P8S1: after four observed Manifold Flare recipients, guide unmarked players toward the nearest-four Nest baits and marked players farther out.
