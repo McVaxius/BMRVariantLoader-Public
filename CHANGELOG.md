@@ -2,6 +2,22 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.57 - 2026-11-10
+
+- P5S: add five-yalm party separation during the native Venom Rain spread window, including the reverse sequence.
+- P2S: avoid the actual Dissociated Head strike rectangle; follow its current position/rotation and retire avoidance when the native mechanic ends.
+- Preserve existing floor hazards and movement, with living one-HP players and valid untargetable head emitters supported.
+
+**In progress**
+
+- P8S1 post-Manifold nearest-player baiting and actual Nest ray avoidance.
+- Current-GodMod developer compatibility refresh for these additions.
+
+**Queued (approved; evidence gaps remain)**
+
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+- Seven approved Shadowbringers Extreme foundations and first mechanic slices.
+
 ## 3.1.3.56 - 2026-11-10
 
 - P9S: correct Thunderbolt warnings to check the actual other comet, preserving existing comet aiming and placement.
