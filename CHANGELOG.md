@@ -2,6 +2,22 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.56 - 2026-11-10
+
+- P9S: correct Thunderbolt warnings to check the actual other comet, preserving existing comet aiming and placement.
+- Zeromus EX: include the fourth and eighth meteor recipients in the appropriate warnings, drawing inputs and target priority.
+- Preserve existing charge avoidance, Sable Thread/Bonds guidance, native timing and independent hazards.
+
+**In progress**
+
+- Current-GodMod developer compatibility refresh for the newly migrated encounter work.
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Later P8S1 snake movement still needs an established Crown-resolution cue.
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.55 - 2026-11-10
 
 - P12S2: add first/mirrored Classical movement and refresh Caloric markers without duplicate entries.
