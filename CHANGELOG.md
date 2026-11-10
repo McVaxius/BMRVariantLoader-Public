@@ -2,6 +2,22 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.49 - 2026-11-10
+
+- P8S2: guide eligible players into their first High Concept tower after the matching merge.
+- Preserve native tower assignments and other hazards; stale role information and replacement actors cannot reuse an earlier assignment.
+
+**In progress**
+
+- P8S2 High Concept second-tower guidance.
+- Remaining P4S2, P12S2 and Zeromus encounter improvements moving into GMC.
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Later P8S1 snake movement still needs an established Crown-resolution cue.
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.48 - 2026-11-09
 
 - P8S1: face the encounter-assigned snake for Eye of the Gorgon after the enemy gaze wave ends.
