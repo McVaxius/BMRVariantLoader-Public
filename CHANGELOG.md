@@ -2,6 +2,22 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.65 - 2026-11-10
+
+- P12S2 Pangenesis: add free-side preferences for interchangeable zero/one-factor players using the existing party ordering.
+- Guide eligible players toward complete current two-person towers while respecting actual colors, native exclusions, occupants and soak history.
+- Retire stale preferences after actor, party, tower or phase changes while preserving native hazards, timing and tower capacity.
+
+**In progress**
+
+- Remaining Pangenesis waiting-pair, fusion, staging and route guidance.
+- Current-GodMod developer compatibility validation for this addition.
+
+**Queued (approved; specific evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss foundations and the other named Endwalker mechanics.
+
+
 ## 3.1.3.64 - 2026-11-10
 
 - Chaotic Cloud of Darkness: stop creating second-wave Diffusive Force avoidance around zero-HP players whose dead flag has not arrived.
