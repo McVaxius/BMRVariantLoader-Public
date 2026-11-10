@@ -2,6 +2,22 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.61 - 2026-11-10
+
+- P6S Pathogenic Cells: avoid the current numbered cone and guide its recipient toward an aim that hits fewer teammates.
+- Add east/west staging for waiting players while preserving native numbers, impact progression, the arena and other hazards.
+- Retire stale movement hints on death, recovery, party changes and mechanic ownership loss. Incomplete evidence keeps bounded partial guidance without claiming a clear cone.
+
+**In progress**
+
+- Current-GodMod developer compatibility validation for the Cells addition.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss foundations and first mechanic slices.
+- The recorded unfinished Endwalker Savage and Extreme mechanic gaps.
+
+
 ## 3.1.3.60 - 2026-11-10
 
 - P6S Cachexia 1: add fixed west/east movement and nearest-player bait guidance in the observed 20/8/12/16 timer order.
