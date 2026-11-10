@@ -2,6 +2,24 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.54 - 2026-11-10
+
+- P4S2: avoid Hells' Sting cones using the observed native waves and current cast deadlines.
+- P4S2: keep non-soakers clear of Act 2 and Act 3 tower damage using the native dark pair and role windows.
+- Preserve Act 4/Finale guidance and independent hazards; stale casts, replaced actors and retired mechanics cannot reuse old observations.
+
+**In progress**
+
+- P12S2 and Natural Alignment improvements moving into GMC.
+- P2S/P3S positioning and Public Moko corrections.
+- Remaining P9S warning and Zeromus meteor display corrections.
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Later P8S1 snake movement still needs an established Crown-resolution cue.
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.53 - 2026-11-10
 
 - P4S2: add encounter-owned Act 4 water/dark movement, tower selection, warnings and drawing inputs.
