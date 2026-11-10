@@ -2,6 +2,24 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.53 - 2026-11-10
+
+- P4S2: add encounter-owned Act 4 water/dark movement, tower selection, warnings and drawing inputs.
+- P4S2: guide Finale recipients using their observed impulse order, native tower order and each current cast deadline.
+- Keep living one-HP players eligible; retire stale actor/mechanic assignments and preserve native and foreign hazards.
+
+**In progress**
+
+- P4S2 Sting/Acts 2–3, P12S2 and Natural Alignment improvements moving into GMC.
+- P2S/P3S positioning and Public Moko corrections.
+- Remaining P9S warning and Zeromus meteor display corrections.
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Later P8S1 snake movement still needs an established Crown-resolution cue.
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.52 - 2026-11-10
 
 - Normal Criterion Gladiator: move to cells matching the current Golden/Silver Flame counts and Fate effects.
