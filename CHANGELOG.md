@@ -2,6 +2,23 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.50 - 2026-11-10
+
+- P8S2: guide eligible players into their second High Concept towers using the observed tower colors and encounter strategy.
+- Preserve first-tower guidance, native assignments and other hazards; stale roles and replacement actors cannot reuse an earlier assignment.
+
+**In progress**
+
+- Remaining P4S2, P12S2, Natural Alignment and Zeromus encounter improvements moving into GMC.
+- P2S/P3S positioning and Public Criterion corrections.
+- Remaining P9S warning and Zeromus meteor display corrections.
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Later P8S1 snake movement still needs an established Crown-resolution cue.
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.49 - 2026-11-10
 
 - P8S2: guide eligible players into their first High Concept tower after the matching merge.
