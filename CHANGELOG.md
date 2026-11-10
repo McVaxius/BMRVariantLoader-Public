@@ -2,6 +2,24 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.55 - 2026-11-10
+
+- P12S2: add first/mirrored Classical movement and refresh Caloric markers without duplicate entries.
+- P8S2: preserve marked-player exclusions throughout Natural Alignment's stack/spread sequence.
+- P2S: keep Mark of Tides recipients ten yalms from teammates during Predatory Avarice.
+- P3S: add Trail of Condemnation spread/pair guidance while retaining charge avoidance.
+- Normal Criterion Moko: correct short-cone reach and first Iron-wave side selection; retain living one-HP participants and reject zero-HP assignment targets.
+
+**In progress**
+
+- Remaining P9S warning and Zeromus meteor display corrections.
+- Further unfinished Endwalker Savage, Endwalker Extreme and Shadowbringers Extreme automation.
+
+**Queued (approved; evidence gaps remain)**
+
+- Later P8S1 snake movement still needs an established Crown-resolution cue.
+- Seven Shadowbringers Extreme boss/arena foundations and first mechanic slices.
+
 ## 3.1.3.54 - 2026-11-10
 
 - P4S2: avoid Hells' Sting cones using the observed native waves and current cast deadlines.
