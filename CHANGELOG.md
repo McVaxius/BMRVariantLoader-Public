@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.64 - 2026-11-10
+
+- Chaotic Cloud of Darkness: stop creating second-wave Diffusive Force avoidance around zero-HP players whose dead flag has not arrived.
+- Fix both affected cases: other spread targets and unmarked bystanders seen by a player carrying a spread. Keep living one-HP targets eligible and allow genuine new waves after revival.
+- Preserve first-wave behavior, existing timing, native spread padding, damage prediction and unrelated hazards.
+
+**In progress**
+
+- Current-GodMod developer compatibility validation for this correction.
+
+**Queued (approved; specific evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss foundations and the remaining named Endwalker mechanics.
+
 ## 3.1.3.63 - 2026-11-10
 
 - P6S Agonies: avoid the six-to-fifteen-yalm donuts around actual Dark Perimeter targets.
