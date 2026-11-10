@@ -2,6 +2,21 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.63 - 2026-11-10
+
+- P6S Agonies: avoid the six-to-fifteen-yalm donuts around actual Dark Perimeter targets.
+- Follow each target as it moves, use the real cast timing, and keep independent donuts active after native stacks and spreads finish.
+- Preserve native stack/spread guidance and other hazards; retire stale fields after cast, actor or phase changes. Players remain exempt from their own moving donut.
+
+**In progress**
+
+- Current-GodMod developer compatibility validation for this Agonies addition.
+
+**Queued (approved; specific evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss foundations and the remaining named Endwalker mechanics.
+
+
 ## 3.1.3.62 - 2026-11-10
 
 - P8S1 Snake2: guide players into their native assigned Gorgon's two-yalm positioning region for the late Breath stack.
