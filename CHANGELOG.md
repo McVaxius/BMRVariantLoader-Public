@@ -2,6 +2,22 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.60 - 2026-11-10
+
+- P6S Cachexia 1: add fixed west/east movement and nearest-player bait guidance in the observed 20/8/12/16 timer order.
+- Keep wing and snake bait progress independent, including when their hits resolve in different orders, while retaining eight-yalm explosion and five-yalm splash avoidance.
+- Preserve initial bait order after timers expire, retire stale movement after death or party changes, and keep supported danger zones when late entry or incomplete observations cannot establish an assignment.
+
+**In progress**
+
+- Current-GodMod developer compatibility validation for the Cachexia addition.
+
+**Queued (approved; evidence gaps remain)**
+
+- Seven Shadowbringers Extreme boss foundations and first mechanic slices.
+- The recorded unfinished Endwalker Savage and Extreme mechanic gaps.
+
+
 ## 3.1.3.59 - 2026-11-10
 
 - P9S: guide the assigned Levinstrike tower recipient toward the native future explosion location before it resolves, while preserving the six-yalm danger area and existing tower-soak handling.
