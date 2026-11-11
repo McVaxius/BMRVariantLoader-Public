@@ -3,7 +3,7 @@
     "Author": "McVaxius",
     "Name": "God Mod Companion",
     "InternalName": "BMRVariantLoader",
-    "AssemblyVersion": "3.1.3.70",
+    "AssemblyVersion": "3.1.4.0",
     "Description": "Encounter additions, Praetorium timelines, bundled cooldown plans and GMC's own AethertekUI encounter browser. Enable either GodMod or BossModReborn; GMC selects the active backend and its matching bundled module pack, preferring GodMod if both are active. Enable only one backend because they share native IPC names. Each backend retains its native settings, autorotation and AI windows; GMC does not inject their UI. Includes RotationSolverReborn-derived PvP rotations (LGPL-3.0-or-later); component licenses are in Notices.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -19,8 +19,8 @@
     "Punchline": "Experimental encounters, plans and tools for GodMod or BossModReborn",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-    "DownloadLinkInstall": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.3.70/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.3.70/latest.zip",
-    "DownloadLinkTesting": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.3.70/latest.zip"
+    "DownloadLinkInstall": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.4.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.4.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.4.0/latest.zip"
   }
 ]
