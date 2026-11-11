@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.66 - 2026-11-10
+
+- **Updated encounter browser** Fit each encounter into one compact row, with plan lists and Advanced controls in popups.
+- **Fixed encounter names** Use native GodMod duty, boss and phase labels, including The Voidcast Dais (Extreme) for Golbez.
+- **Updated raid groups** Give Coils of Bahamut, The Arcadion and each alliance-raid series their named encounter groups.
+- **Added P12S2 Pangenesis waiting guidance** Guide original waiting partners toward a shared position after both first towers appear in the 2+0 strategy, keeping assignments stable.
+
+**In progress**
+
+- Further Pangenesis guidance and the approved Shadowbringers Extremes for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon, plus remaining Endwalker Extreme and Savage encounters.
+
 ## 3.1.3.65 - 2026-11-10
 
 - P12S2 Pangenesis: add free-side preferences for interchangeable zero/one-factor players using the existing party ordering.
