@@ -2,7 +2,7 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
-## 3.1.4.0 - Upcoming
+## 3.1.4.0 - 2026-11-11
 
 - **Added Summoner duty targeting:** Support enemy selection and interrupt hints in Austerities of Earth, Austerities of Wind and Primal Burdens, excluding allies.
 - **Updated Finish low-HP targets:** Respect GodMod's native setting when available, including Off, and hide GMC's duplicate control.
