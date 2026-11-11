@@ -2,6 +2,22 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.70 - 2026-11-11
+
+- **Fixed Menphina:** Restore Thin Ice warnings and slide projections while the current effect applies.
+- **Fixed Thaliak and Oschon:** Restore current knockback warnings and landing projections without stale or duplicate guidance.
+- **Fixed E12 Normal:** Allow intentional statue-stack overlap while retaining the real stack requirements.
+- **Fixed First Master Strix:** Show redirect advice for redirected plumes and retain kill advice for ordinary plumes.
+- **Updated GMC targeting controls:** Give Mode, Engage and Order their full label and dropdown widths, wrapping when needed.
+
+**In progress**
+
+- Summoner quest duties: Austerities of Earth, Austerities of Wind and Primal Burdens.
+- Further Pangenesis preparation, fusion and route guidance.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- The approved Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
+
 ## 3.1.3.69 - 2026-11-11
 
 - **Added P12S2 Pangenesis third-wave preparation:** After a second-wave soak and a new tilt, prepare toward the observed opposite lane on the same side.
