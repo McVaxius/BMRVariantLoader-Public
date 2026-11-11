@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.4.1 - 2026-11-11
+
+- **Added UWU carry-member preferences:** Compatible GodMod selectors can save or clear a current party member; carry behavior remains unavailable.
+- **Fixed UWU Follow global:** Remove the encounter override reliably when using the native provider.
+- **Fixed UWU availability:** Show the active provider's distribution and availability accurately.
+
+**In progress**
+
+- Victory in Peril navigation for ranged and caster jobs.
+- Further Summoner duty support for Austerities of Earth, Austerities of Wind and Primal Burdens.
+- Further Pangenesis preparation, fusion and route guidance.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- The approved Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.4.0 - 2026-11-11
 
 - **Added Summoner duty targeting:** Support enemy selection and interrupt hints in Austerities of Earth, Austerities of Wind and Primal Burdens, excluding allies.
