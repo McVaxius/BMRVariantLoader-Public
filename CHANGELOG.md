@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.69 - 2026-11-11
+
+- **Added P12S2 Pangenesis third-wave preparation:** After a second-wave soak and a new tilt, prepare toward the observed opposite lane on the same side.
+- **Updated Pangenesis tower priority:** Complete tower assignments take priority over preparation.
+- **Updated Pangenesis hint lifetime:** End each player's preparation after their third-wave soak or when their assignment becomes invalid.
+
+**In progress**
+
+- Further Pangenesis preparation, fusion and route guidance.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- The approved Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.3.68 - 2026-11-11
 
 - **Added Finish low-HP targets:** Keep living, targetable enemies eligible when predicted incoming damage would stop automatic attacks.
