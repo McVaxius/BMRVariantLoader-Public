@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.3.67 - 2026-11-10
+
+- **Added P12S2 Pangenesis 2+1 waiting guidance** Guide original zero-factor players and partners carrying two factors with long colour debuffs toward a shared waiting position.
+- **Updated 2+1 waiting assignments** Keep assigned sides stable and require the witnessed initial role distribution and both first-tower casts before showing guidance.
+- **Updated protection handling** Clear affected 2+1 waiting hints when protection is reapplied, and respect the selected tower strategy.
+
+**In progress**
+
+- Further Pangenesis fusion, staging and route guidance.
+- The approved Shadowbringers Extremes for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon, plus remaining Endwalker Extreme and Savage encounters.
+
 ## 3.1.3.66 - 2026-11-10
 
 - **Updated encounter browser** Fit each encounter into one compact row, with plan lists and Advanced controls in popups.
