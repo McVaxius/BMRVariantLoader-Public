@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.4.3 - 2026-11-12
+
+- **Added Victory in Peril recovery for BossModReborn:** Use local obstacle maps to seek visible, in-range firing positions for ranged and caster jobs. Requires vnavmesh to be ready and BMR obstacle maps to be enabled.
+
+**In progress**
+
+- Live route and clear validation for Victory in Peril.
+- Further Summoner duty support for Austerities of Earth, Austerities of Wind and Primal Burdens.
+- Further Pangenesis preparation, fusion and route guidance.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- The approved Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.4.2 - 2026-11-12
 
 - **Fixed P6S Unholy Darkness:** Correct stack movement for GodMod and BossModReborn while preserving the eight-player requirement.
