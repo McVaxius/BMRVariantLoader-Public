@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.4.8 - 2026-11-13
+
+- **Added P12S2 Pangenesis preparation guidance:** Show personal preparation text and a direction line to the existing selected opposite-lane destination.
+- **Fixed Hades Extreme warnings:** Keep warnings for real pending casts past their predicted finish, until the cast resolves or becomes invalid.
+
+**In progress**
+
+- Live route and clear validation for Victory in Peril.
+- Further Summoner duty support for Austerities of Earth, Austerities of Wind and Primal Burdens.
+- Further Pangenesis preparation, fusion and route guidance.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- The approved Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.4.7 - 2026-11-13
 
 - **Added Highlight contrast:** Adjust controls and selection states from 0–100% in GMC's Settings and titlebar colour editor, defaulting to 50%.
