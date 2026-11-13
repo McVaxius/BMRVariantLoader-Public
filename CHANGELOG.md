@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.4.6 - 2026-11-12
+
+- **Fixed BossModReborn targeting:** Refresh eligible automatic targets while navigation is busy.
+- **Fixed Victory in Peril map continuity:** Keep the terrain map available during combat between targets and while firing-position recovery is paused for casting.
+
+**In progress**
+
+- Live route and clear validation for Victory in Peril.
+- Further Summoner duty support for Austerities of Earth, Austerities of Wind and Primal Burdens.
+- Further Pangenesis preparation, fusion and route guidance.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- The approved Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.4.5 - 2026-11-12
 
 - **Victory in Peril (BossModReborn):** Keep using its completed terrain map when global obstacle maps are disabled, without changing that setting.
