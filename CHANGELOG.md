@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.4.9 - Upcoming
+
+- **Added P12S2 Pangenesis Waiting Guidance:** Personal advice and a line identify the existing selected waiting point.
+- **Added Memoria Misera (Extreme) Guidance:** Shows Altius advice to stack 7 yalms south of center and face north.
+- **Added Beastmaster Second Board Positioning:** A personal line highlights the existing selected setup or gathering point.
+
+**In progress**
+
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.4.8 - 2026-11-13
 
 - **Added P12S2 Pangenesis preparation guidance:** Show personal preparation text and a direction line to the existing selected opposite-lane destination.
