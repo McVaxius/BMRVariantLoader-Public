@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.4.10 - 2026-11-14
+
+- **Updated backend compatibility:** Requires the current native release: BossModReborn 7.5.8.5 or GodMod 7.5.8.3. Enable only one backend.
+- **Fixed GMC targeting integration:** Corrected targeting integration with current BossModReborn.
+- **Fixed current API integration:** Corrected existing arena bounds, dash restrictions and damage forecasts after native API changes.
+
+**In progress**
+
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.4.9 - 2026-11-14
 
 - **Added P12S2 Pangenesis Waiting Guidance:** Personal advice and a line identify the existing selected waiting point.
