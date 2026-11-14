@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.4.12 - 2026-11-14
+
+- **Updated BossModReborn AI mitigation defaults:** GMC adjusts existing forecast-based mitigation defaults for the built-in VBM AI preset in memory. Saved copies and preset selection are preserved; on unload, GMC restores its changes without overwriting later user edits.
+- **Added initial Barbariccia (Normal) mechanic hints and movement guidance:** Arena-edge handling still needs live validation.
+
+**In progress**
+
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.4.11 - 2026-11-14
 
 - **Updated GMC Dhog healers:** Selected WHM, SCH, AST and SGE rotations aim to keep eligible party members above 95% HP in recognized Extreme trials and Savage raids.
