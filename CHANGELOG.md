@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.4.11 - 2026-11-14
+
+- **Updated GMC Dhog healers:** Selected WHM, SCH, AST and SGE rotations aim to keep eligible party members above 95% HP in recognized Extreme trials and Savage raids.
+- **Improved top-ups and protection:** Accounts for pending heals and existing effects before adding healing or missing useful protection, while retaining legal-action, resource, range, line-of-sight and movement checks.
+
+The HP target remains subject to incoming damage, available resources and safe action windows.
+
+**In progress**
+
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.4.10 - 2026-11-14
 
 - **Updated backend compatibility:** Requires the current native release: BossModReborn 7.5.8.5 or GodMod 7.5.8.3. Enable only one backend.
