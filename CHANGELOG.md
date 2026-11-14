@@ -2,7 +2,7 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
-## 3.1.4.9 - Upcoming
+## 3.1.4.9 - 2026-11-14
 
 - **Added P12S2 Pangenesis Waiting Guidance:** Personal advice and a line identify the existing selected waiting point.
 - **Added Memoria Misera (Extreme) Guidance:** Shows Altius advice to stack 7 yalms south of center and face north.
