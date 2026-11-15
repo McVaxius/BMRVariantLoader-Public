@@ -2,7 +2,7 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
-## 3.1.5.2 - Upcoming
+## 3.1.5.2 - 2026-11-15
 
 - **Added automatic reload recovery:** GMC retries reload errors every 60 seconds by default, including errors with no pending request. Change the interval or turn recovery off in Settings; cancel a scheduled retry from the status controls.
 - **Updated recovery controls:** Recovery continues until success, cancellation, disabling, unload or replacement. Existing combat and between-pulls safety checks remain in effect, and plan-installation failures stay distinct from pack-load errors.
