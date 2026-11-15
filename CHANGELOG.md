@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.1 - 2026-11-15
+
+- **Updated Deathgaze Hollow guidance:** Pending marked corpses now show their danger area and a warning when you are inside it.
+- **Updated Scathach guidance:** Shadethrust shows its cast area and warning; Thirty Cries highlights its marked target and gives grouping advice; linked Connla targets receive separation advice; Pitfall gives a move-away instruction.
+
+**In progress**
+
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.0 - 2026-11-14
 
 - **Fixed BMR automatic combat:** With GMC engagement enabled, queued automatic actions and automatic attacks against hostile enemies now respect BMR's native visibility result.
