@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.2 - Upcoming
+
+- **Added automatic reload recovery:** GMC retries reload errors every 60 seconds by default, including errors with no pending request. Change the interval or turn recovery off in Settings; cancel a scheduled retry from the status controls.
+- **Updated recovery controls:** Recovery continues until success, cancellation, disabling, unload or replacement. Existing combat and between-pulls safety checks remain in effect, and plan-installation failures stay distinct from pack-load errors.
+- **Fixed replaced download cleanup:** Cancelling or replacing a download cancels its request and body copy. Late results cannot replace newer work, and cleanup preserves active packs, saved selections and user-supplied files.
+- **Updated shared UI packaging:** Includes the current shared UI and its bundled Selawik fonts and license.
+
+**In progress**
+
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.1 - 2026-11-15
 
 - **Updated Deathgaze Hollow guidance:** Pending marked corpses now show their danger area and a warning when you are inside it.
