@@ -2,6 +2,23 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.18 - 2026-11-16
+
+- **Updated Swirling Tsunami bait backgrounds:** Other-player Swirling Tsunami areas in Eden's Gate: Inundation use local fill fading; existing native foreground markers are preserved.
+- **Updated Earth Shaker bait backgrounds:** Other-player Earth Shaker cone areas in Alphascape V2.0 use local fill fading; existing native foreground markers are preserved.
+- **Updated Vice of Apathy puddle backgrounds:** Puddle areas in Eden's Gate: Resurrection use GMC's existing local fading and outlines.
+- **Updated Vice of Vanity bait backgrounds:** Other-player Vice of Vanity bait areas in Eden's Gate: Resurrection use local fill fading; existing native foreground markers are preserved.
+
+Existing mechanics and forecasts remain unchanged.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.17 - 2026-11-16
 
 - **Updated selected Shiva cone bait backgrounds:** Other-player cone bait areas in Eden's Verse: Refulgence (Savage) use GMC's local fill fading; existing native foreground markers are preserved.
