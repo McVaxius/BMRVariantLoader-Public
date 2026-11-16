@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.9 - 2026-11-16
+
+- **Updated E10N Litany cleave drawings:** Selected cleaves now use GMC's existing local AOE fade and outlines.
+- **Updated E11N Anamorphosis drawings:** Burnt Strikes, Burnouts, Shining Blade, small and large Brightfire, Resounding Crack and Blasting Zones use the same local presentation. Shapes, positions, timing, lifetimes, AI and events remain unchanged.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.8 - 2026-11-16
 
 - **Updated E10N Litany drawings:** Throne of Shadow, Eruption and Cloak now use GMC's existing local AOE fade and outlines. Geometry, timing, AI, lifetimes and special mechanics remain unchanged.
