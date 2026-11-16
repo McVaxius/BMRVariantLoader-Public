@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.21 - 2026-11-16
+
+- **Updated Zoomdoom bait backgrounds:** Other-player Zoomdoom areas in Alexander: The Arm of the Son use light local fills; existing native foreground markers and follow-up lifetimes are preserved.
+
+Existing mechanics and forecasts remain unchanged.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.20 - 2026-11-16
 
 - **Updated Boulder Break bait backgrounds:** Other-player Boulder Break areas in Storm's Crown use light local fills; existing native foreground markers are preserved.
