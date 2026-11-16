@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.4 - 2026-11-16
+
+- **Updated A1S Oppressor drawings:** Photon Spaser, Resin Bomb, Particle Collision and airborne Resin Bomb now use GMC's existing local AOE fade and outlines.
+- **Updated A4S Manipulator drawings:** Seed of the Sky uses the same local presentation while keeping its existing lower-floor visibility filter.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.3 - 2026-11-16
 
 - **Updated selected encounter drawings:** Clearer AOE fills and outlines, with stronger emphasis on hazards that currently affect you and on mechanics approaching their known resolution.
