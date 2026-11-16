@@ -2,6 +2,28 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.25 - 2026-11-16
+
+- **Updated Acid Mekhane spread backgrounds:** Supported Acid Mekhane areas in Asphodelos: The Fourth Circle (Normal) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
+- **Updated Freak Wave spread backgrounds:** Supported Freak Wave areas in Eden's Gate: Inundation (Normal) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
+- **Updated Silver Shot spread backgrounds:** Supported Silver Shot areas in Eden's Verse: Iconoclasm (Normal) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
+- **Updated Optimized Fire III spread backgrounds:** Supported Optimized Fire III areas in Alphascape V4.0 (Normal) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
+- **Updated Fire spread backgrounds:** Supported Fire areas in Deltascape V4.0 (Normal) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
+- **Updated Thunderstorm spread backgrounds:** Supported Thunderstorm areas in Alphascape V2.0 (Normal) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
+- **Updated Tainted Flood spread backgrounds:** Supported Tainted Flood areas in Asphodelos: The Second Circle (Normal) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
+- **Updated Short-Range Missile spread backgrounds:** Supported Short-Range Missile areas in the Hobbes encounter in The Copied Factory use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
+- **Updated Eden's Fire III spread backgrounds:** Supported Eden's Fire III spread areas during Delta Attack in Eden's Gate: Resurrection (Normal) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
+
+Existing mechanics and forecasts remain unchanged.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.24 - 2026-11-16
 
 - **Updated Freak Wave spread backgrounds:** Supported Freak Wave areas in Eden's Gate: Inundation (Savage) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
