@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.13 - 2026-11-16
+
+- **Updated selected Nophica backgrounds:** Supported areas use GMC's existing local fading and outlines. Existing native mechanics and the nine-line limit for Reaper's Gale remain unchanged.
+- **Updated Halone Cheimon backgrounds:** Current real-cast areas use the same local presentation; existing geometry, timing, lifetimes, AI and markers remain unchanged.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.12 - 2026-11-16
 
 - **Updated selected P3N and P6N drawings:** Area attacks use GMC's existing local AOE fading and outlines; geometry, timing, lifetimes and AI remain unchanged.
