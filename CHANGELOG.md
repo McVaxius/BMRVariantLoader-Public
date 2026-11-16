@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.11 - 2026-11-16
+
+- **Updated selected P5N, P7N and P9N drawings:** Area attacks use GMC's existing local fade and outlines, with urgency based on their existing timing. Geometry, lifetimes, AI and special mechanics remain unchanged.
+- **Updated O11N Ballistic Impact drawing:** Existing bait backgrounds now use activation-time fill emphasis; foreground markers, geometry, timing, lifetime and AI remain unchanged.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.10 - 2026-11-16
 
 - **Updated selected E1N and P4N drawings:** Area attacks now use GMC's existing local AOE fade and outlines.
