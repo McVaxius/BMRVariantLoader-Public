@@ -2,6 +2,18 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.26 - 2026-11-16 - Praetorium Sage healing
+
+- **Fixed Praetorium Sage plans:** Use the Dhog Sage rotation for healing alongside damage and targeting, preserving cooldown plans and other jobs.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.25 - 2026-11-16
 
 - **Updated Acid Mekhane spread backgrounds:** Supported Acid Mekhane areas in Asphodelos: The Fourth Circle (Normal) use light local fills based on their existing cast-linked activation times; native foreground markers remain unchanged.
