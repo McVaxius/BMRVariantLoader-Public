@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.33 - 2026-11-17 - Encounter warning visibility
+
+- Updated **Agdistis** Blades of Attis and terrain warnings to emphasize their existing cast and forecast timing.
+- Updated **Winged Lion** Ancient Aero and Ancient Stone warnings with cast-timed outlines.
+- Updated **Iconoclasm** Unshadowed Stake warnings with outlines and extra emphasis when another player’s bait overlaps you.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.32 - 2026-11-17 - Intemperance and Demon of the Tome warnings
 
 - Updated **Erichthonios’s Intemperance** cross and quadrant warnings to emphasize their existing timing.
