@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.27 - 2026-11-17 - Regular Beastmaster
+
+- **Added regular Beastmaster:** Use the Dhog Beastmaster rotation for ordinary PvE, including GMC's Praetorium job plans.
+- **Added familiar preferences:** Choose a familiar for each battlehorn or select unlocked familiars automatically, with an available replacement when a saved choice cannot be used.
+- **Added Beastmaster preparation:** Check and prepare familiar loadouts when AI activates, confirm the selected loadout and active familiar, and defer setup actions until combat ends.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.26 - 2026-11-16 - Praetorium Sage healing
 
 - **Fixed Praetorium Sage plans:** Use the Dhog Sage rotation for healing alongside damage and targeting, preserving cooldown plans and other jobs.
