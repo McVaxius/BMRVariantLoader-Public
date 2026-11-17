@@ -2,6 +2,20 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.34 - 2026-11-17 - Encounter warning visibility
+
+- Updated **Parted Plumes** in Pandæmonium with cast-timed outlines on its existing cones.
+- Updated **Achamoth** Psycho Squama and Enthrallment warnings with outlines based on their existing cast timing.
+- Updated **Cloud of Darkness** tank beam warnings with outlines and extra emphasis when the beam overlaps you.
+
+**In progress**
+
+- Further encounter drawing coverage and live visual checks.
+- Pangenesis same-lane staging when no new aspect follows the second tower, pending a confirmed cue that the player's own assignment is complete.
+- Confirmation and correlation of Pangenesis fusion participants and results.
+- P12S1 Palladion positioning, P5S safe entry, Rubicante Claw and Hydaelyn Conviction.
+- Shadowbringers Extreme foundations for Titania, Innocence, Hades, Ruby Weapon, Warrior of Light, Emerald Weapon and Diamond Weapon.
+
 ## 3.1.5.33 - 2026-11-17 - Encounter warning visibility
 
 - Updated **Agdistis** Blades of Attis and terrain warnings to emphasize their existing cast and forecast timing.
