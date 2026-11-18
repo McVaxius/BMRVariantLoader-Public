@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.37 - 2026-11-17 - Regular Beastmaster familiars
+
+- **Fixed regular Beastmaster familiar selection** so automatic area mode uses pack rankings for grouped pulls.
+- **Fixed familiar preparation on AI startup** when BossModReborn restores a saved regular Beastmaster preset.
+
 ## 3.1.5.36 - 2026-11-17 - Shared combat presets
 
 - **Added shared combat presets** for BossModReborn alongside GMC's bundled cooldown plans. Compatible plugins can select the presets directly from BossModReborn.
