@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.42 - 2026-11-18 - Beastmaster notebook handoff
+
+- **Fixed regular Beastmaster familiar preparation.** BossModReborn Follow can close its previous familiar notebook when switching to a compatible preset or cooldown plan while the player and familiar are out of combat.
+
+**In progress**
+
+- Live verification of familiar selection, equipping and summoning.
+
 ## 3.1.5.41 - 2026-11-18 - Beastmaster cooldown plan handoff
 
 - **Fixed regular Beastmaster familiar preparation** when a compatible cooldown plan becomes active after BossModReborn Follow starts. Preparation waits until both the player and their familiar are out of combat.
