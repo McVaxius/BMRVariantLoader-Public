@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.36 - 2026-11-17 - Shared combat presets
+
+- **Added shared combat presets** for BossModReborn alongside GMC's bundled cooldown plans. Compatible plugins can select the presets directly from BossModReborn.
+- **Fixed automatic healer preset selection** with a dedicated GMC ranged preset that keeps saved ranged presets intact.
+
 ## 3.1.5.35 - 2026-11-17 - Encounter warning visibility
 
 - Updated the first **Hemitheos’s Glare** warning with an outline based on its existing cast timing.
