@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.40 - 2026-11-18 - Saved Beastmaster presets
+
+- **Fixed regular Beastmaster familiar preparation** when BossModReborn Follow restores a saved preset using its stock Beastmaster rotation.
+
+**In progress**
+
+- Live verification of familiar selection, equipping and summoning.
+- Further encounter warning coverage and live visual checks.
+
 ## 3.1.5.39 - 2026-11-18 - Beastmaster preset changes during Follow
 
 - **Fixed regular Beastmaster familiar preparation** when BossModReborn Follow adopts a different compatible preset outside combat.
