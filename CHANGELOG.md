@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.39 - 2026-11-18 - Beastmaster preset changes during Follow
+
+- **Fixed regular Beastmaster familiar preparation** when BossModReborn Follow adopts a different compatible preset outside combat.
+
+**In progress**
+
+- Further encounter warning coverage and live visual checks.
+- Pangenesis assignment and fusion confirmation.
+
 ## 3.1.5.38 - 2026-11-17 - Beastmaster preparation between pulls
 
 - **Fixed Beastmaster preparation** for plugins that select the same combat preset before starting BossModReborn AI. Setup can begin before the pull and resume between pulls.
