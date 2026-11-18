@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.38 - 2026-11-17 - Beastmaster preparation between pulls
+
+- **Fixed Beastmaster preparation** for plugins that select the same combat preset before starting BossModReborn AI. Setup can begin before the pull and resume between pulls.
+- **Fixed Beastmaster notebook cleanup** when stopping preparation outside combat while GMC still owns the open notebook.
+
 ## 3.1.5.37 - 2026-11-17 - Regular Beastmaster familiars
 
 - **Fixed regular Beastmaster familiar selection** so automatic area mode uses pack rankings for grouped pulls.
