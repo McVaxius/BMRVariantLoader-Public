@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.43 - 2026-11-18 - Saved Beastmaster preset switching
+
+- **Fixed regular Beastmaster familiar preparation.** Switching to a compatible saved stock Beastmaster preset during BossModReborn Follow now starts familiar preparation.
+
+**In progress**
+
+- Live verification of familiar selection, equipping and summoning.
+
 ## 3.1.5.42 - 2026-11-18 - Beastmaster notebook handoff
 
 - **Fixed regular Beastmaster familiar preparation.** BossModReborn Follow can close its previous familiar notebook when switching to a compatible preset or cooldown plan while the player and familiar are out of combat.
