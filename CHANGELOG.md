@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.1 - 2026-11-19 - Beastmaster saved presets
+
+- **Fixed Beastmaster familiar setup.** Starting BossModReborn Follow uses the latest saved preset after a same-name edit, including when preparation began before Follow.
+
+**In progress**
+
+- Live verification of familiar selection, equipping and summoning.
+
 ## 3.2.0.0 - 2026-11-19 - Beastmaster Follow and Praetorium timing
 
 - **Fixed Beastmaster familiar setup.** Starting Follow again checks familiar setup after any ongoing familiar combat ends.
