@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.1.5.44 - 2026-11-19 - Solo Beastmaster familiar selection
+
+- **Fixed solo Beastmaster familiar selection.** Automatic selection now prioritizes unlocked Geshunpest for Life Siphon when Tempered Release is learned and enabled.
+
+**In progress**
+
+- Live verification of familiar selection, equipping and summoning.
+
 ## 3.1.5.43 - 2026-11-18 - Saved Beastmaster preset switching
 
 - **Fixed regular Beastmaster familiar preparation.** Switching to a compatible saved stock Beastmaster preset during BossModReborn Follow now starts familiar preparation.
