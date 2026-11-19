@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.3 - 2026-11-19 - Maintenance
+
+- **Maintenance release.** This update covers the existing Altius guidance in Memoria Misera.
+
 ## 3.2.0.2 - 2026-11-19 - GodMod shared presets
 
 - **Updated shared presets.** When GMC is loaded with GodMod, GMC supplies the current suite defaults. Existing user presets keep priority.
