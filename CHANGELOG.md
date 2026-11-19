@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.0 - 2026-11-19 - Beastmaster Follow and Praetorium timing
+
+- **Fixed Beastmaster familiar setup.** Starting Follow again checks familiar setup after any ongoing familiar combat ends.
+- **Simplified Praetorium timing.** Gaius uses the standard cast counter for Veni Vidi Vici. Simultaneous hits still count as one wave where cooldown timing depends on it.
+
+**In progress**
+
+- Live verification of familiar selection, equipping and summoning.
+
 ## 3.1.5.44 - 2026-11-19 - Solo Beastmaster familiar selection
 
 - **Fixed solo Beastmaster familiar selection.** Automatic selection now prioritizes unlocked Geshunpest for Life Siphon when Tempered Release is learned and enabled.
