@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.4 - 2026-11-19 - BossModReborn compatibility
+
+- **Fixed 1 HP targeting.** GMC's Finish low HP targets option now supports BossModReborn 7.5.8.6.
+
 ## 3.2.0.3 - 2026-11-19 - Maintenance
 
 - **Maintenance release.** This update covers the existing Altius guidance in Memoria Misera.
