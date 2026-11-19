@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.5 - 2026-11-19 - Replay-backed encounter radars
+
+- **Fixed Austerities of Flame targeting.** Autorotation prioritizes eligible Crimson Nails while they are active.
+- **Added ARR trial radar coverage.** A Relic Reborn: The Chimera, The Striking Tree (Hard), The Akh Afah Amphitheatre (Hard), and Battle in the Big Keep.
+- **Added Endwalker encounter radar coverage.** Abyssos: The Eighth Circle, Mount Ordeals, The Voidcast Dais, and The Abyssal Fracture.
+- **Added BossModReborn dungeon radar cues.** See Blazing Trail in The Stone Vigil and traps and selected boss casts in Hullbreaker Isle.
+- **Added Saint Mocianne's Arboretum (Hard) warnings.** The radar and text show selected active casts.
+- **Improved existing duty cues.** See Graffias pollen, additional Firemane fireflow casts, Ifrit's Hellfire countdown, and Titan's attackable Granite Gaols.
+- **Added Dawntrail dungeon cues.** See targeted spreads in The Underkeep and The Mistwake and a raidwide countdown in The Meso Terminal.
+- **Added solo and guildhest radar coverage.** Coming Clean, The Hunter's Legacy, Memory of Embers, Dreams of a New Day, and Pulling Poison Posies.
+
 ## 3.2.0.4 - 2026-11-19 - BossModReborn compatibility
 
 - **Fixed 1 HP targeting.** GMC's Finish low HP targets option now supports BossModReborn 7.5.8.6.
