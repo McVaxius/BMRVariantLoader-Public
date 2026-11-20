@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.40 - 2026-11-20 - Encounter warnings
+
+- **Fixed Void Matter coverage in Dzemael Darkhold.** The All-seeing Eye radar shows the seventh Void Matter circle when all seven are casting.
+- **Added Angra Mainyu’s helper gaze warning on BossModReborn.** The World of Darkness radar marks the Mortal Gaze source so players know what to look away from.
+- **Added Innocence’s Realmrazer warning on BossModReborn.** The Crown of the Immaculate shows a raidwide countdown during the cast.
+
 ## 3.2.0.39 - 2026-11-20 - Kugane Castle
 
 - **Added Yojimbo coverage in Kugane Castle.** The encounter radar shows Iai-Giri, Daigoro’s charge, Fragility, and Dragonfire. It warns for Metta-Giri and reminds players to collect gold before Zanmato.
