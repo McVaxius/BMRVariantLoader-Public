@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.32 - 2026-11-20 - Mouser landing radar
+
+- **Fixed the final Mouser landing warning.** In AAC Light-heavyweight M1 (Savage), the radar keeps the last landing tile visible until the impact.
+
 ## 3.2.0.31 - 2026-11-20 - Raid, trial and dungeon countdowns
 
 - **Added an Explosive Rain countdown.** AAC Light-heavyweight M3 warns of the outer ring when the live outer cast follows the inner ring without a matching middle cast.
