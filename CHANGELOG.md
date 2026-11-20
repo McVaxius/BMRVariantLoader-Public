@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.13 - 2026-11-19 - Garuda Hard and Immortal Flame radar cues
+
+- **Added an Immortal Flame warning.** A Spectacle for the Ages now shows a raidwide cast countdown on both backends.
+- **Added pillar spacing guidance in The Howling Eye (Hard).** The radar outlines the space to leave around Garuda's surviving monoliths on both backends.
+
 ## 3.2.0.12 - 2026-11-19 - Whorleater Darkness radar
 
 - **Added a Whorleater (Hard) radar cue.** Wavetooth Sahagin’s Darkness cone now appears during the cast on both backends.
