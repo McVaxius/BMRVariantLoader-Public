@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.7 - 2026-11-19 - Replay-backed encounter warnings
+
+- **Added alliance raid cues.** See Discordance in World of Darkness on BossModReborn, Bile Bombardment in Void Ark, and Cleansing Strike in Orbonne Monastery.
+- **Added dungeon radar coverage.** Selected casts in Baelsar's Wall, Bardam's Mettle, Doma Castle, Sirensong Sea, The Qitana Ravel, Amaurot, Mt. Gulg, Anamnesis Anyder, and The Clyteum now have radar cues.
+- **Added dungeon countdowns.** See Lionshead on BossModReborn in Baelsar's Wall, Homing Missile on BossModReborn in The Ghimlyt Dark, and the targeted Torpedo in The Drowned City of Skalla.
+- **Added BossModReborn trial warnings.** See Titania's targeted Hard Swipe and Pummel and the alternate Torment unto Death cast in Castrum Fluminis.
+- **Added a forced-movement countdown.** Mindjack: Right Face in Deltascape V3.0 now shows a preparation cue.
+
 ## 3.2.0.6 - 2026-11-19 - Quest and retired Unreal radars
 
 - **Added solo quest battle radar cues.** Way Down in the Hole, The Face of Thal, On Holy Ground, Duty, Honor, Country, The Company You Keep, Tactical Planning, Over the Rails, Sinking Doesmaga, and Guardian of Eorzea.
