@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.36 - 2026-11-20 - Guildhest radar coverage
+
+- **Added Annoy the Void coverage.** Follow the blue-flame objective and watch for Buso’s Condemnation and the Void Hounds’ Overtone Shriek.
+- **Fixed the Long Live the Queen radar on BossModReborn.** It displays Detonator and Self-destruct, including bombs still casting after the Queen dies.
+
 ## 3.2.0.35 - 2026-11-20 - Guildhest radar and Garuda Hard
 
 - **Added a Long Live the Queen radar.** Follow the guildhest from its opening enemies through the Bomb Queen and the remaining Self-destruct casts.
