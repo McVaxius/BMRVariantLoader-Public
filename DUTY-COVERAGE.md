@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets, including historical Unreal entries where applicable.
+Public God Mod Companion 3.2.0.48 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets, including historical Unreal entries where applicable.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
