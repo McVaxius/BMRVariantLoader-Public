@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.35 - 2026-11-20 - Guildhest radar and Garuda Hard
+
+- **Added a Long Live the Queen radar.** Follow the guildhest from its opening enemies through the Bomb Queen and the remaining Self-destruct casts.
+- **Fixed Garuda Hard’s module rating.** The monolith warning preserves the native Verified rating.
+
 ## 3.2.0.34 - 2026-11-20 - Encounter browser names
 
 - **Fixed encounter names when duty data is unavailable.** Warnings attached to native bosses show the owning encounter in the module browser.
