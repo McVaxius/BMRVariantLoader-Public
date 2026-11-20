@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.38 - 2026-11-20 - Snowcloak Elbow Drop radar
+
+- **Fixed Snowcloak Elbow Drop placement on BossModReborn.** Bateleur’s radar shows casts it owns. The zone radar keeps the warnings for separate trash.
+- **Organized two dungeon approach files.** Carpet Bomb and Aether Detonation are in the Baelsar’s Wall approach and Pharos Sirius crystal traversal files.
+
 ## 3.2.0.37 - 2026-11-20 - Encounter source organization
 
 - **Organized replay-backed encounter files.** Moved warnings into encounter-named files and combined the Snowcloak trash code for both backends.
