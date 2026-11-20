@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.25 - 2026-11-20 - Dungeon and treasure duty warnings
+
+- **Added an Electromagnetism countdown.** The Burn warns when the cast targets you.
+- **Added a Magitek Claw countdown.** Paglth'an warns when a Telotek Predator targets you during Magitek Fortress.
+- **Added a No Future approach warning.** The Dead Ends radar marks the cast area before the Peacekeeper fight.
+- **Added a Brewing Storm countdown.** The Dungeons of Lyhe Ghiah warns when the cast targets a party member.
+- **Added an Orogenic Storm warning.** The Excitatron 6000 radar marks the cast area before Lucky Face.
+
 ## 3.2.0.24 - 2026-11-20 - Uznair canal radars
 
 - **Added a Raucous Scritch warning.** The Lost Canals of Uznair shows Abharamu's cast cone on both backends.
