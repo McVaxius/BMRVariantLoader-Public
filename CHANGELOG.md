@@ -2,6 +2,13 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.29 - 2026-11-20 - Eureka Orthos and trial warnings
+
+- **Added a Wild Horn countdown on GodMod.** It appears when Wild Horn targets you on floors 1–9 and the native Eureka Orthos floor module is active.
+- **Added a Soul Overflow countdown.** Everkeep warns before Zoraal Ja's first-phase raidwide.
+- **Added an Aethertithe warning.** The Minstrel's Ballad: Sphene's Burden warns until the first raidwide pulse lands.
+- **Fixed Steeltail Thrust's radar timing.** The Windward Wilds (Extreme) keeps the line visible until the matching follow-up cast resolves.
+
 ## 3.2.0.28 - 2026-11-20 - Strayborough, Troia and Interphos warnings
 
 - **Added a Terrifying Glance warning.** The Strayborough Deadwalk radar shows the Stray Dolls' cone before the final boss.
