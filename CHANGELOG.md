@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.14 - 2026-11-19 - Encounter browser categories
+
+- **Fixed encounter browser categories.** Duties use their correct categories when BossModReborn or GodMod uses shared game data.
+
 ## 3.2.0.13 - 2026-11-19 - Garuda Hard and Immortal Flame radar cues
 
 - **Added an Immortal Flame warning.** A Spectacle for the Ages now shows a raidwide cast countdown on both backends.
