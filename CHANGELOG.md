@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.41 - 2026-11-20 - Aiatar and Wicked Thunder
+
+- **Fixed Burst coverage in Brayflox’s Longstop.** Aiatar’s radar shows all active Burst circles when the native display would hide some.
+- **Added a Sunrise tower failure warning.** In AAC Light-heavyweight M4 (Savage), the raidwide countdown appears when a missed tower starts its explosion cast.
+
 ## 3.2.0.40 - 2026-11-20 - Encounter warnings
 
 - **Fixed Void Matter coverage in Dzemael Darkhold.** The All-seeing Eye radar shows the seventh Void Matter circle when all seven are casting.
