@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.18 - 2026-11-20 - Shifting Altars of Uznair radar
+
+- **Added a Pluck and Prune warning.** The Shifting Altars of Uznair radar draws the altar egg's area during the Chimera encounter on both backends.
+
 ## 3.2.0.17 - 2026-11-20 - Helm Crack warning on GodMod
 
 - **Added a Helm Crack warning on GodMod.** When the native Heaven-on-High floors 31–40 module is active, the player targeted by Helm Crack sees a countdown.
