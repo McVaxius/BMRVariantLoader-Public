@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.10 - 2026-11-19 - The Sunken Temple of Qarn radar
+
+- **Added Qarn trash radar cues on BossModReborn.** See Darkness, Caudal Swipe and Malice in the Sunken Temple of Qarn.
+
 ## 3.2.0.9 - 2026-11-19 - Xelphatol and Labyrinth radar cues
 
 - **Added a Xelphatol radar cue on BossModReborn.** Falling Rock now appears when the native Harpeia display is inactive.
