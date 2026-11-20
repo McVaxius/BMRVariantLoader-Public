@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.50 - 2026-11-20 - Yojimbo radar fades
+
+- **Updated Yojimbo’s radar in Kugane Castle.** Iai-Giri, Daigoro’s charge, Fragility, and Dragonfire become more visible as their casts approach resolution.
+
 ## 3.2.0.49 - 2026-11-20 - Altar Manticore radar fades
 
 - **Updated Altar Manticore radar.** Fireball, Wild Charge, Tail Smash, and Searing Sigh are emphasized as their casts approach resolution.
