@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.17 - 2026-11-20 - Helm Crack warning on GodMod
+
+- **Added a Helm Crack warning on GodMod.** When the native Heaven-on-High floors 31–40 module is active, the player targeted by Helm Crack sees a countdown.
+
 ## 3.2.0.16 - 2026-11-20 - Plasma Release warning on GodMod
 
 - **Added a Plasma Release warning on GodMod.** Securing the Locks shows a countdown when Svara is casting and you are in range.
