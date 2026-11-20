@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.22 - 2026-11-20 - Holminster Switch radar
+
+- **Added a Saintscreen warning.** Holminster Switch now draws Forgiven Folly's cast area on both backends.
+
 ## 3.2.0.21 - 2026-11-20 - Seiryu knockback warning
 
 - **Added a Strength of Spirit countdown.** The Wreath of Snakes now warns before Seiryu's knockback on both backends.
