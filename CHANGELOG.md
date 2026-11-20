@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.37 - 2026-11-20 - Encounter source organization
+
+- **Organized replay-backed encounter files.** Moved warnings into encounter-named files and combined the Snowcloak trash code for both backends.
+
 ## 3.2.0.36 - 2026-11-20 - Guildhest radar coverage
 
 - **Added Annoy the Void coverage.** Follow the blue-flame objective and watch for Buso’s Condemnation and the Void Hounds’ Overtone Shriek.
