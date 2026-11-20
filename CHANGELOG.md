@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.9 - 2026-11-19 - Xelphatol and Labyrinth radar cues
+
+- **Added a Xelphatol radar cue on BossModReborn.** Falling Rock now appears when the native Harpeia display is inactive.
+- **Added Labyrinth of the Ancients radar cues on BossModReborn.** Dira’s Void Fire II and Vassago’s Desolation show their cast areas.
+
 ## 3.2.0.8 - 2026-11-19 - Encounter browser categories and radar cues
 
 - **Fixed encounter browser categories.** Cast-only quest radars now appear under Solo Duties, and retired Unreal radars appear under Trials.
