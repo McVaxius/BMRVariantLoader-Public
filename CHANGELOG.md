@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.30 - 2026-11-20 - Arcadion raid warnings
+
+- **Fixed the Heart Struck radar.** AAC Light-heavyweight M2 shows every active Heart Struck circle, including casts beyond the original eight-circle limit.
+- **Added a Wicked Hypercannon countdown.** AAC Light-heavyweight M4 warns before the repeated party damage starts.
+
 ## 3.2.0.29 - 2026-11-20 - Eureka Orthos and trial warnings
 
 - **Added a Wild Horn countdown on GodMod.** It appears when Wild Horn targets you on floors 1–9 and the native Eureka Orthos floor module is active.
