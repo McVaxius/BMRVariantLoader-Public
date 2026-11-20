@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.46 - 2026-11-20 - Encounter movement coverage
+
+- **Added automated avoidance to recent encounter radars.** AI now uses the hazards shown by GMC when the native tracker misses them, including extra True Aero IV lanes, overlapping Burst and Void Matter circles, and Altar Chimera’s Pluck and Prune.
+- **Added Tsukuyomi bait movement on BossModReborn.** The marked player aims Torment Unto Death away from the party while other players avoid the cone.
+- **Added fading radar circles and avoidance on GodMod.** See Sucker in Palace of the Dead and Bombination in Eureka Orthos. Seiryu Unreal also avoids other players’ Serpent Descending spreads.
+
 ## 3.2.0.45 - 2026-11-20 - Altar Manticore and Daring Devils
 
 - **Added Altar Manticore coverage in the Shifting Altars of Uznair.** The radar tracks Fireball, Wild Charge, Tail Smash and the Syrictas’ Searing Sigh, with cast warnings for Deadly Hold and Volcanic Howl.
