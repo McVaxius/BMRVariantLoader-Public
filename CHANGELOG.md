@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.33 - 2026-11-20 - Savage add countdowns
+
+- **Added a Forlorn Stone countdown.** AAC Cruiserweight M4 (Savage) warns while the Wolf of Stone casts during Tactical Pack.
+- **Added a Barbed Burst countdown.** AAC Heavyweight M1 (Savage) warns while a Fatal Flail casts its raidwide.
+
 ## 3.2.0.32 - 2026-11-20 - Mouser landing radar
 
 - **Fixed the final Mouser landing warning.** In AAC Light-heavyweight M1 (Savage), the radar keeps the last landing tile visible until the impact.
