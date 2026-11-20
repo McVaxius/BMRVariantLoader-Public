@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.27 - 2026-11-20 - Tender Valley and Orthos floor 60 warnings
+
+- **Added a Tectonic Shift warning.** The Tender Valley radar shows the altar cast area before Yok Huy Attestant enters combat.
+- **Added a Thundercall countdown.** Eureka Orthos warns for the Servomechanical Minotaur 16 raidwide on floor 60.
+- **Added a Deep Dungeons browser category.** The new Orthos entry is grouped by its native content type.
+
 ## 3.2.0.26 - 2026-11-20 - Vanguard, Cenote and Eureka Orthos warnings
 
 - **Added an Electrobeam warning on BossModReborn.** Vanguard shows the early turret beams before Protector.
