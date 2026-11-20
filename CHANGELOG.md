@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.12 - 2026-11-19 - Whorleater Darkness radar
+
+- **Added a Whorleater (Hard) radar cue.** Wavetooth Sahagin’s Darkness cone now appears during the cast on both backends.
+
 ## 3.2.0.11 - 2026-11-19 - Snowcloak radar cues
 
 - **Added a Snowcloak Yeti warning.** Updrift now shows a raidwide cast countdown on both backends.
