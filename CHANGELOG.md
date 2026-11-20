@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.21 - 2026-11-20 - Seiryu knockback warning
+
+- **Added a Strength of Spirit countdown.** The Wreath of Snakes now warns before Seiryu's knockback on both backends.
+
 ## 3.2.0.20 - 2026-11-20 - Suzaku Extreme and Heaven-on-High warnings
 
 - **Added an Ashes to Ashes countdown.** Hells' Kier (Extreme) now warns when a Scarlet Lady begins the cast on either backend.
