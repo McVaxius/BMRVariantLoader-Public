@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.34 - 2026-11-20 - Encounter browser names
+
+- **Fixed encounter names when duty data is unavailable.** Warnings attached to native bosses show the owning encounter in the module browser.
+
 ## 3.2.0.33 - 2026-11-20 - Savage add countdowns
 
 - **Added a Forlorn Stone countdown.** AAC Cruiserweight M4 (Savage) warns while the Wolf of Stone casts during Tactical Pack.
