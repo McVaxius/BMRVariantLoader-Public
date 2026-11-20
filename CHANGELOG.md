@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.16 - 2026-11-20 - Plasma Release warning on GodMod
+
+- **Added a Plasma Release warning on GodMod.** Securing the Locks shows a countdown when Svara is casting and you are in range.
+
 ## 3.2.0.15 - 2026-11-19 - Snowcloak warning on GodMod
 
 - **Added a Strident Scream warning on GodMod.** Snowcloak shows a countdown when a Dove Aevis is casting and you are in range.
