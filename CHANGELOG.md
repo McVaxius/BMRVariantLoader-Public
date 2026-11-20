@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.42 - 2026-11-20 - Void Ark and Castrum Meridianum
+
+- **Added Sawtooth’s Mucus Spray warning in the Void Ark.** The countdown warns players to avoid the ring around Sawtooth.
+- **Added Livia’s boosted Artificial Plasma warning in Castrum Meridianum.** The raidwide countdown follows the live cast.
+
 ## 3.2.0.41 - 2026-11-20 - Aiatar and Wicked Thunder
 
 - **Fixed Burst coverage in Brayflox’s Longstop.** Aiatar’s radar shows all active Burst circles when the native display would hide some.
