@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.24 - 2026-11-20 - Uznair canal radars
+
+- **Added a Raucous Scritch warning.** The Lost Canals of Uznair shows Abharamu's cast cone on both backends.
+- **Added a Double Smash warning.** The Hidden Canals of Uznair shows Canal Dhara's cast cone on both backends.
+
 ## 3.2.0.23 - 2026-11-20 - Encounter categories and Palace of the Dead warnings
 
 - **Fixed encounter browser categories.** Shifting Altars of Uznair appears under Treasure Hunt, and raid zones appear under their proper series on both backends.
