@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.8 - 2026-11-19 - Encounter browser categories and radar cues
+
+- **Fixed encounter browser categories.** Cast-only quest radars now appear under Solo Duties, and retired Unreal radars appear under Trials.
+- **Added dungeon radar cues.** See selected casts in Ihuykatumu, Alexandria and Worqor Zormor, plus Glower in Origenics on BossModReborn.
+- **Added a Skydeep Cenote warning.** Feather Ray’s Troublesome Tail now shows a raidwide countdown.
+- **Added trial cues.** Guardian Resonance shows its ground circles in The Windward Wilds. BossModReborn adds a personal Holy Sword countdown in The Crown of the Immaculate.
+- **Added BossModReborn raid warnings.** See The Parting Clouds in Eden’s Verse: Fulmination, Brutal Impact in Cruiserweight M3 and Ravenous Saber in Cruiserweight M4.
+
 ## 3.2.0.7 - 2026-11-19 - Replay-backed encounter warnings
 
 - **Added alliance raid cues.** See Discordance in World of Darkness on BossModReborn, Bile Bombardment in Void Ark, and Cleansing Strike in Orbonne Monastery.
