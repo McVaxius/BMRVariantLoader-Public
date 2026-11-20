@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.48 - 2026-11-20 - Palace of the Dead
+
+- **Fixed Sucker avoidance on GodMod.** The Palace of the Dead movement hint uses the cast's floor, so a cast on another level no longer blocks the player's floor.
+
 ## 3.2.0.47 - 2026-11-20 - Radar fades and Hermes movement
 
 - **Updated radar fades.** Heavenly Strike in Byakko Unreal and the Gale Sphere, side Flamerake, and Chasmic Nails waves in the normal Golbez, Rubicante, and Zeromus trials now fade based on cast timing.
