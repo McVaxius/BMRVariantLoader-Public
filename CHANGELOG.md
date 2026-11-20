@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.31 - 2026-11-20 - Raid, trial and dungeon countdowns
+
+- **Added an Explosive Rain countdown.** AAC Light-heavyweight M3 warns of the outer ring when the live outer cast follows the inner ring without a matching middle cast.
+- **Added a Splattershed countdown.** AAC Heavyweight M4 warns during Lindwurm's previously uncovered Splattershed cast.
+- **Added a Mortal Flame countdown.** The Grand Cosmos warns when a Mortal Flame cast targets you, before the existing furniture guidance applies.
+- **Added an Explosion countdown.** The Porta Decumana warns of incoming Explosion damage during Ultima Weapon's phase.
+- **Added a Self-destruct countdown.** The Unmaking (Extreme) warns when an Aggressive Shadow starts its raidwide cast.
+
 ## 3.2.0.30 - 2026-11-20 - Arcadion raid warnings
 
 - **Fixed the Heart Struck radar.** AAC Light-heavyweight M2 shows every active Heart Struck circle, including casts beyond the original eight-circle limit.
