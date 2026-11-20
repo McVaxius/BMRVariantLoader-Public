@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.39 - 2026-11-20 - Kugane Castle
+
+- **Added Yojimbo coverage in Kugane Castle.** The encounter radar shows Iai-Giri, Daigoro’s charge, Fragility, and Dragonfire. It warns for Metta-Giri and reminds players to collect gold before Zanmato.
+
 ## 3.2.0.38 - 2026-11-20 - Snowcloak Elbow Drop radar
 
 - **Fixed Snowcloak Elbow Drop placement on BossModReborn.** Bateleur’s radar shows casts it owns. The zone radar keeps the warnings for separate trash.
