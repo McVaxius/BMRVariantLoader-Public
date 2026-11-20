@@ -2,6 +2,15 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.6 - 2026-11-19 - Quest and retired Unreal radars
+
+- **Added solo quest battle radar cues.** Way Down in the Hole, The Face of Thal, On Holy Ground, Duty, Honor, Country, The Company You Keep, Tactical Planning, Over the Rails, Sinking Doesmaga, and Guardian of Eorzea.
+- **Added four retired Unreal cast radars.** The Jade Stoa, Hells' Kier, The Wreath of Snakes, and Tsukuyomi's Pain.
+- **Added BossModReborn dungeon cues.** See selected casts in Tam-Tara, Sastasha, Brayflox's Longstop, The Aurum Vale, Amdapor Keep, Castrum Meridianum, and Pharos Sirius.
+- **Added dungeon warnings.** See Mythril Verge rescue timing, Batraal's Damage Up countdown, Kraken's Ink Blot and Ink Jet, and Mini Cannon falloff guidance.
+- **Added trial and alliance raid cues.** See Garuda's Aerial Blast countdown and two of Phlegethon's Abyssal Slash sectors.
+- **Removed duplicate quest radar overlays.** The native warnings cover Coming Clean, The Hunter's Legacy, Memory of Embers, and Dreams of a New Day.
+
 ## 3.2.0.5 - 2026-11-19 - Replay-backed encounter radars
 
 - **Fixed Austerities of Flame targeting.** Autorotation prioritizes eligible Crimson Nails while they are active.
