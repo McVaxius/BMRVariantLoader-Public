@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.19 - 2026-11-20 - Hells' Kier plume warning
+
+- **Added a Wing and a Prayer warning.** When native Suzaku is active in Hells' Kier normal, the radar draws the Scarlet Plumes' cast areas on both backends.
+
 ## 3.2.0.18 - 2026-11-20 - Shifting Altars of Uznair radar
 
 - **Added a Pluck and Prune warning.** The Shifting Altars of Uznair radar draws the altar egg's area during the Chimera encounter on both backends.
