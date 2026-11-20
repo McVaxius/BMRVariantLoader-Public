@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.44 - 2026-11-20 - Hermes and Fire II warnings
+
+- **Added True Aero IV previews in Ktisis Hyperboreia.** Hermes’s radar outlines the later active lanes while the native radar shows the current wave.
+- **Added a personal Fire II warning on GodMod.** In Oh Captain, My Captain, the targeted player sees a countdown during Ser Baron’s cast.
+
 ## 3.2.0.43 - 2026-11-20 - Xelphatol
 
 - **Added Nuzal Hueloc’s Long Burst warning in Xelphatol.** The targeted player sees a countdown during the cast.
