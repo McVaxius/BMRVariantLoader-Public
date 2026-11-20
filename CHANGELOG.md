@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.20 - 2026-11-20 - Suzaku Extreme and Heaven-on-High warnings
+
+- **Added an Ashes to Ashes countdown.** Hells' Kier (Extreme) now warns when a Scarlet Lady begins the cast on either backend.
+- **Added a Water III countdown on GodMod.** The targeted player sees the warning when the native Heaven-on-High floors 11–20 module is active.
+
 ## 3.2.0.19 - 2026-11-20 - Hells' Kier plume warning
 
 - **Added a Wing and a Prayer warning.** When native Suzaku is active in Hells' Kier normal, the radar draws the Scarlet Plumes' cast areas on both backends.
