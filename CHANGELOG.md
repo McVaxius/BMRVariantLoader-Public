@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.45 - 2026-11-20 - Altar Manticore and Daring Devils
+
+- **Added Altar Manticore coverage in the Shifting Altars of Uznair.** The radar tracks Fireball, Wild Charge, Tail Smash and the Syrictas’ Searing Sigh, with cast warnings for Deadly Hold and Volcanic Howl.
+- **Added raidwide warnings in AAC Heavyweight M2 (Normal).** Firesnaking and Watersnaking show a countdown while either cast is active.
+
 ## 3.2.0.44 - 2026-11-20 - Hermes and Fire II warnings
 
 - **Added True Aero IV previews in Ktisis Hyperboreia.** Hermes’s radar outlines the later active lanes while the native radar shows the current wave.
