@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.26 - 2026-11-20 - Vanguard, Cenote and Eureka Orthos warnings
+
+- **Added an Electrobeam warning on BossModReborn.** Vanguard shows the early turret beams before Protector.
+- **Added a Pyreburst impact warning.** Cenote Ja Ja Gural shows when the raidwide has finished casting and its impact is still pending.
+- **Added Headspin and Bombination countdowns on GodMod.** They appear within range when the corresponding native Eureka Orthos floor module is active. Headspin uses text when the native radar arena is unavailable.
+
 ## 3.2.0.25 - 2026-11-20 - Dungeon and treasure duty warnings
 
 - **Added an Electromagnetism countdown.** The Burn warns when the cast targets you.
