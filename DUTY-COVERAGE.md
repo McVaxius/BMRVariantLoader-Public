@@ -15,12 +15,12 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Always Bet on Black | 318 | 367 | No | Unknown | Unknown |
 | Amazing Technicolor Pit Fiends | 796 | 634 | Yes | Yes | Yes |
 | And My Axe | 453 | 393 | No | Unknown | Unknown |
-| An Antidote for Anarchy | 1215 | 994 | Unknown | Unknown | Unknown |
+| An Antidote for Anarchy | 1215 | 994 | Yes | Unknown | Unknown |
 | Anything Gogo's | 796 | 754 | Yes | Yes | Yes |
 | Appetite for Destruction | 491 | 428 | No | Unknown | Unknown |
 | An Art for the Living | 702 | 455 | Yes | Yes | Yes |
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | Unknown | Unknown |
-| As the Heart Bids | 894 | 703 | Unknown | Unknown | Unknown |
+| As the Heart Bids | 894 | 703 | No | Unknown | Unknown |
 | As the Heavens Burn | 1012 | 804 | Yes | Yes | Yes |
 | At the End of Our Hope | 479 | 416 | Yes | Unknown | Unknown |
 | Austerities of Earth | 324 | 373 | Yes | Unknown | Unknown |
@@ -29,7 +29,7 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Axe in the Stone | 262 | 328 | Yes | Unknown | Unknown |
 | The Ballad of Oblivion | 492 | 429 | No | Unknown | Unknown |
 | Bar the Passage | 1246 | 1016 | Yes | Yes | Yes |
-| The Battle on Bekko | 711 | 251 | Unknown | Unknown | Unknown |
+| The Battle on Bekko | 711 | 251 | Yes | Unknown | Unknown |
 | A Beacon for Bad Things | 640 | 456 | No | Unknown | Unknown |
 | The Beast Within | 329 | 378 | Yes | Unknown | Unknown |
 | Beauty and a Beast | 796 | 623 | Yes | Yes | Yes |
@@ -39,26 +39,26 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | Unknown | Unknown |
 | Bleeder of the Pack | 264 | 330 | Yes | Unknown | Unknown |
 | Blobs in the Woods | 796 | 624 | Yes | Unknown | Unknown |
-| Blood on the Deck | 708 | 248 | Unknown | Unknown | Unknown |
+| Blood on the Deck | 708 | 248 | Yes | Unknown | Unknown |
 | Blood on the Sands | 471 | 409 | Yes | Unknown | Unknown |
 | a Bloody Reunion | 560 | 173 | Yes | Yes | Yes |
 | Bomb-edy of Errors | 796 | 618 | Yes | Yes | Yes |
-| the Bozja Incident | 911 | 723 | Unknown | Unknown | Unknown |
+| the Bozja Incident | 911 | 723 | No | Unknown | Unknown |
 | Bringing Down the Mountain | 265 | 331 | Yes | Unknown | Unknown |
 | Brother from Another Mother | 314 | 363 | Yes | Unknown | Unknown |
 | Brotherly Love | 303 | 350 | Yes | Unknown | Unknown |
-| Cape Westwind | 1049 | 865 | Unknown | Unknown | Unknown |
-| The Carteneau Flats: Heliodrome | 633 | 222 | Unknown | Unknown | Unknown |
+| Cape Westwind | 1049 | 865 | Yes | Unknown | Unknown |
+| The Carteneau Flats: Heliodrome | 633 | 222 | Yes | Unknown | Unknown |
 | The Catch of the Siegfried | 796 | 699 | Yes | Yes | Yes |
 | Chasing Shadows | 233 | 296 | Yes | Unknown | Unknown |
 | Chimera on a Hot Tin Roof | 796 | 631 | Yes | Yes | Yes |
 | Choices and Paths | 647 | 450 | No | Unknown | Unknown |
 | A Chorus Slime | 796 | 617 | Yes | Unknown | Unknown |
 | Close Encounters of the VIth Kind | 459 | 399 | Yes | Yes | Yes |
-| Clotted Crime | 1329 | 1087 | Unknown | Unknown | Unknown |
+| Clotted Crime | 1329 | 1087 | No | Unknown | Unknown |
 | Cloying Victory | 409 | 386 | Yes | Unknown | Unknown |
 | Come Rain or Shrine | 664 | 442 | Yes | Unknown | Unknown |
-| Coming Clean | 860 | 680 | Unknown | Unknown | Unknown |
+| Coming Clean | 860 | 680 | Yes | Unknown | Unknown |
 | The Company You Keep (Immortal Flames) | 278 | 341 | Yes | Yes | Unknown |
 | The Company You Keep (Maelstrom) | 279 | 342 | Yes | Unknown | Unknown |
 | The Company You Keep (Twin Adder) | 277 | 340 | No | Unknown | Unknown |
@@ -78,9 +78,9 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Dirty Rotten Azulmagia | 796 | 635 | Yes | Yes | Yes |
 | Divine Intervention | 456 | 396 | Yes | Yes | Yes |
 | Doing It the Bard Way | 321 | 370 | Yes | Unknown | Unknown |
-| Dragon Sound | 714 | 273 | Unknown | Unknown | Unknown |
+| Dragon Sound | 714 | 273 | Yes | Unknown | Unknown |
 | Dragoon's Fate | 477 | 415 | Yes | Yes | Yes |
-| Dreams of a New Day | 1214 | 1003 | Unknown | Unknown | Unknown |
+| Dreams of a New Day | 1214 | 1003 | Yes | Unknown | Unknown |
 | Duty and the Beast | 468 | 406 | No | Unknown | Unknown |
 | Duty, Honor, Country | 271 | 336 | Yes | Yes | Unknown |
 | An Egi-stential Crisis | 701 | 454 | No | Unknown | Unknown |
@@ -92,24 +92,24 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Ewer Right | 480 | 417 | No | Unknown | Unknown |
 | Eye Society | 796 | 616 | Yes | Unknown | Unknown |
 | The Face of Thal | 255 | 316 | Yes | Yes | Unknown |
-| The Face of True Evil | 709 | 249 | Unknown | Unknown | Unknown |
+| The Face of True Evil | 709 | 249 | Yes | Unknown | Unknown |
 | Facing Your Demons | 269 | 327 | No | Unknown | Unknown |
 | Faded Memories | 932 | 743 | Yes | Unknown | Unknown |
 | Familiar Faces | 461 | 401 | Yes | Unknown | Unknown |
-| Fangs of the Viper | 1235 | 925 | Unknown | Unknown | Unknown |
-| A Father First | 1210 | 828 | Unknown | Unknown | Unknown |
+| Fangs of the Viper | 1235 | 925 | Yes | Unknown | Unknown |
+| A Father First | 1210 | 828 | Yes | Unknown | Unknown |
 | A Feast of Lies | 863 | 664 | Yes | Yes | Yes |
-| The Feat of the Brotherhood | 1212 | 982 | Unknown | Unknown | Unknown |
+| The Feat of the Brotherhood | 1212 | 982 | Yes | Unknown | Unknown |
 | Feather in the Cap | 481 | 418 | No | Unknown | Unknown |
 | Feint and Strike | 280 | 334 | Yes | Unknown | Unknown |
 | Fire and Blood | 458 | 398 | No | Unknown | Unknown |
-| Fit for a Queen | 955 | 765 | Unknown | Unknown | Unknown |
+| Fit for a Queen | 955 | 765 | No | Unknown | Unknown |
 | Five Easy Pieces | 315 | 364 | Yes | Unknown | Unknown |
 | The Flame in the Abyss | 501 | 438 | No | Unknown | Unknown |
 | A Flare for the Dramatic | 503 | 440 | No | Unknown | Unknown |
 | Fool Me Twice | 308 | 357 | Yes | Unknown | Unknown |
 | Forgotten but Not Gone | 327 | 376 | Yes | Unknown | Unknown |
-| Forlorn Glory | 1051 | 845 | Unknown | Unknown | Unknown |
+| Forlorn Glory | 1051 | 845 | No | Unknown | Unknown |
 | Fortune Favors the Bole | 473 | 411 | Yes | Unknown | Unknown |
 | Forward, the Royal Marines | 454 | 394 | Yes | Unknown | Unknown |
 | Foxfire | 667 | 443 | Yes | Unknown | Unknown |
@@ -117,22 +117,22 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Gamboling for Gil | 867 | 670 | Yes | Yes | Yes |
 | The Game Is Afoot | 1177 | 960 | Yes | Unknown | Unknown |
 | A Game of Life and Death | 726 | 452 | Yes | Unknown | Unknown |
-| Generational Bonding | 1115 | 907 | Unknown | Unknown | Unknown |
+| Generational Bonding | 1115 | 907 | No | Unknown | Unknown |
 | Gentlemen Prefer Swords | 796 | 614 | Yes | Yes | Yes |
-| The Gift of Mercy | 1019 | 820 | Unknown | Unknown | Unknown |
+| The Gift of Mercy | 1019 | 820 | No | Unknown | Unknown |
 | A Golden Opportunity | 796 | 948 | Yes | Yes | Yes |
 | The Great Ship Vylbrand | 954 | 764 | Yes | Unknown | Unknown |
 | Grinners in the Mist | 407 | 384 | Yes | Unknown | Unknown |
 | Guardian of Eorzea | 379 | 380 | Yes | Yes | Unknown |
 | The Hands of Fate | 476 | 414 | Yes | Unknown | Unknown |
 | Hands of Healing | 464 | 402 | Yes | Unknown | Unknown |
-| The Hardened Heart | 873 | 678 | Unknown | Unknown | Unknown |
+| The Hardened Heart | 873 | 678 | Yes | Unknown | Unknown |
 | The Harvest Begins | 1020 | 814 | Yes | Unknown | Unknown |
 | Heart of the Forest | 320 | 369 | No | Unknown | Unknown |
 | The Heart of the Problem | 718 | 266 | Yes | Unknown | Unknown |
 | Here Comes the Boom | 796 | 632 | Yes | Yes | Yes |
 | The Heretic among Us | 302 | 344 | Yes | Unknown | Unknown |
-| Heroes and Pretenders | 1218 | 1001 | Unknown | Unknown | Unknown |
+| Heroes and Pretenders | 1218 | 1001 | Yes | Unknown | Unknown |
 | Heroic Reprise | 494 | 431 | Yes | Unknown | Unknown |
 | The Hidden Chapter | 268 | 326 | No | Unknown | Unknown |
 | Hired Gunblades | 865 | 668 | Yes | Unknown | Unknown |
@@ -141,8 +141,8 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Homecoming | 230 | 304 | Yes | Unknown | Unknown |
 | Hope on the Waves | 757 | 472 | Yes | Yes | Yes |
 | How to Quit You | 311 | 360 | Yes | Unknown | Unknown |
-| A Hunter True | 1216 | 997 | Unknown | Unknown | Unknown |
-| The Hunter's Legacy | 875 | 691 | Unknown | Unknown | Unknown |
+| A Hunter True | 1216 | 997 | Yes | Unknown | Unknown |
+| The Hunter's Legacy | 875 | 691 | Yes | Unknown | Unknown |
 | I Could Have Tranced All Night | 502 | 439 | Yes | Unknown | Unknown |
 | An Illuminati Incident | 485 | 422 | No | Unknown | Unknown |
 | In Crimson It Began | 659 | 464 | Yes | Unknown | Unknown |
@@ -165,32 +165,32 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Keeping the Oath | 313 | 362 | Yes | Unknown | Unknown |
 | Keeping the Spirit Alive | 259 | 320 | No | Unknown | Unknown |
 | The Key to Victory | 686 | 467 | Yes | Unknown | Unknown |
-| The Killing Art | 1021 | 816 | Unknown | Unknown | Unknown |
+| The Killing Art | 1021 | 816 | Yes | Unknown | Unknown |
 | Kindred Spirits | 496 | 433 | Yes | Unknown | Unknown |
-| Laid to Rest | 1017 | 818 | Unknown | Unknown | Unknown |
+| Laid to Rest | 1017 | 818 | No | Unknown | Unknown |
 | Lance of Destiny | 238 | 308 | No | Unknown | Unknown |
 | Lance of Destiny | 290 | 355 | No | Unknown | Unknown |
 | Legend of the Not-so-hidden Temple | 859 | 681 | Yes | Unknown | Unknown |
 | Leia's Legacy | 227 | 299 | Yes | Unknown | Unknown |
-| Life Ephemeral, Path Eternal | 1023 | 817 | Unknown | Unknown | Unknown |
+| Life Ephemeral, Path Eternal | 1023 | 817 | Yes | Unknown | Unknown |
 | Like Mother, Like Daughter | 291 | 356 | Yes | Unknown | Unknown |
 | A Little Knight Music | 796 | 620 | Yes | Yes | Yes |
 | Lock up Your Snorters | 796 | 696 | Yes | Yes | Yes |
 | The Lominsan Way | 307 | 354 | Yes | Unknown | Unknown |
 | Lord of the Inferno | 275 | 339 | Yes | Unknown | Yes |
-| The Lost and the Found | 874 | 679 | Unknown | Unknown | Unknown |
+| The Lost and the Found | 874 | 679 | Yes | Unknown | Unknown |
 | Lurkers in the Grotto | 252 | 332 | Yes | Unknown | Unknown |
 | Master and Student | 415 | 392 | No | Unknown | Unknown |
 | Master Musosai | 666 | 462 | No | Unknown | Unknown |
 | Master of Marksmanship | 486 | 423 | Yes | Unknown | Yes |
-| Matsuba Mayhem | 710 | 250 | Unknown | Unknown | Unknown |
+| Matsuba Mayhem | 710 | 250 | No | Unknown | Unknown |
 | The Me Nobody Nodes | 796 | 625 | Yes | Yes | Yes |
 | The Measure of His Reach | 687 | 468 | Yes | Yes | Yes |
-| Memory of Embers | 1166 | 959 | Unknown | Unknown | Unknown |
-| Messenger of the Winds | 834 | 646 | Unknown | Unknown | Unknown |
+| Memory of Embers | 1166 | 959 | Yes | Unknown | Unknown |
+| Messenger of the Winds | 834 | 646 | Yes | Unknown | Unknown |
 | Midsummer Night's Explosion | 796 | 628 | Yes | Yes | Yes |
-| The Mightiest Shield | 1217 | 999 | Unknown | Unknown | Unknown |
-| Mind over Manor | 1233 | 1000 | Unknown | Unknown | Unknown |
+| The Mightiest Shield | 1217 | 999 | Yes | Unknown | Unknown |
+| Mind over Manor | 1233 | 1000 | Yes | Unknown | Unknown |
 | Miss Typhon | 796 | 630 | Yes | Yes | Yes |
 | The Mongrel and the Knight | 700 | 449 | No | Unknown | Unknown |
 | The Mountain That Strides | 263 | 329 | Yes | Unknown | Unknown |
@@ -209,18 +209,18 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Once Upon a Time in Doma | 412 | 389 | No | Unknown | Unknown |
 | One Autumn's Secret | 703 | 446 | No | Unknown | Unknown |
 | One Golem to Rule Them All | 673 | 445 | Yes | Unknown | Unknown |
-| One Life for One World | 592 | 194 | Unknown | Unknown | Unknown |
+| One Life for One World | 592 | 194 | Yes | Unknown | Unknown |
 | The One That Got Away | 231 | 305 | Yes | Unknown | Unknown |
 | The One That Got Away | 236 | 306 | Yes | Unknown | Unknown |
 | The Oracle of Light | 861 | 662 | Yes | Yes | Yes |
-| The Orphans and the Broken Blade | 715 | 271 | Unknown | Unknown | Unknown |
+| The Orphans and the Broken Blade | 715 | 271 | Yes | Unknown | Unknown |
 | Our Answer | 500 | 437 | No | Unknown | Unknown |
 | Our Compromise | 716 | 272 | Yes | Unknown | Unknown |
 | Our Unsung Heroes | 722 | 265 | Yes | Yes | Yes |
 | Over the Rails | 286 | 346 | Yes | Yes | Unknown |
 | Papa Mia | 796 | 695 | Yes | Yes | Yes |
 | Parley in the Sagolii | 312 | 361 | No | Unknown | Unknown |
-| A Path Unveiled | 1015 | 805 | Unknown | Unknown | Unknown |
+| A Path Unveiled | 1015 | 805 | No | Unknown | Unknown |
 | Pincer Maneuver | 287 | 347 | Yes | Unknown | Unknown |
 | The Plant-om of the Opera | 796 | 622 | Yes | Yes | Yes |
 | The Power of a Tourney | 488 | 425 | Yes | Unknown | Yes |
@@ -236,16 +236,16 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Red, Fraught, and Blue | 796 | 698 | Yes | Yes | Yes |
 | Release the Hounds | 699 | 448 | No | Unknown | Unknown |
 | The Rematch | 257 | 318 | Yes | No | Yes |
-| a Requiem for Heroes | 830 | 648 | Unknown | Unknown | Unknown |
+| a Requiem for Heroes | 830 | 648 | Yes | Unknown | Unknown |
 | Requiem for the Fallen | 322 | 371 | Yes | Unknown | Unknown |
 | The Resonant | 684 | 269 | Yes | Unknown | Unknown |
-| Return of the Bull | 403 | 282 | Unknown | Unknown | Unknown |
+| Return of the Bull | 403 | 282 | Yes | Unknown | Unknown |
 | Return of the Holyfist | 261 | 322 | No | Unknown | Unknown |
 | Return of the Holyfist | 251 | 323 | Yes | Unknown | Unknown |
 | Return to the Rift | 658 | 471 | Yes | Unknown | Unknown |
 | Rhalgr's Beacon | 671 | 466 | Yes | Yes | Yes |
 | Rise of the Machinists | 489 | 426 | Yes | Unknown | Unknown |
-| A Rush of Cold Wind | 1371 | 1101 | Unknown | Unknown | Unknown |
+| A Rush of Cold Wind | 1371 | 1101 | No | Unknown | Unknown |
 | Sage's Focus | 1022 | 813 | Yes | Unknown | Unknown |
 | Save the Last Dance for Me | 868 | 671 | Yes | Yes | Yes |
 | Securing the Locks | 487 | 424 | Yes | Unknown | Unknown |
@@ -259,7 +259,7 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Sleep Now in Sapphire | 926 | 741 | Unknown | Unknown | Unknown |
 | Slings and Arrows | 474 | 412 | Yes | Unknown | Unknown |
 | Some Like It Excruciatingly Hot | 796 | 621 | Yes | Unknown | Unknown |
-| Somewhere Only She Knows | 1234 | 966 | Unknown | Unknown | Unknown |
+| Somewhere Only She Knows | 1234 | 966 | Yes | Unknown | Unknown |
 | The Soul of Temperance | 870 | 673 | Yes | Yes | Yes |
 | Sounding Out the Amphitheatre | 457 | 397 | No | Unknown | Unknown |
 | Spearheading Initiatives | 475 | 413 | Yes | Unknown | Unknown |
@@ -269,7 +269,7 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Stained in Scarlet | 672 | 460 | No | Unknown | Unknown |
 | Star-crossed Rivals | 260 | 321 | Yes | Unknown | Unknown |
 | Steel against Steel | 866 | 669 | Yes | Yes | Yes |
-| the Steps of Faith | 1068 | 885 | Unknown | Unknown | Unknown |
+| the Steps of Faith | 1068 | 885 | Yes | Unknown | Unknown |
 | Stifled Screams | 405 | 382 | Yes | Unknown | Unknown |
 | Stray into the Shadows | 404 | 381 | Yes | Unknown | Unknown |
 | Sunset Bull-evard | 796 | 626 | Yes | Yes | Yes |
@@ -278,7 +278,7 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | The Sword of Music | 796 | 627 | Yes | Yes | Yes |
 | Sworn Upon a Lance | 470 | 408 | No | Unknown | Unknown |
 | Tactical Planning | 285 | 345 | Yes | Yes | Unknown |
-| Taking a Stand | 1211 | 983 | Unknown | Unknown | Unknown |
+| Taking a Stand | 1211 | 983 | Yes | Unknown | Unknown |
 | A Tearful Reunion | 872 | 675 | Yes | Yes | Yes |
 | That Old Familiar Feeling | 254 | 315 | Yes | Unknown | Yes |
 | This Little Sword of Mine | 493 | 430 | Yes | Unknown | Unknown |
@@ -286,7 +286,7 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | The Threat of Superiority | 266 | 324 | Yes | Unknown | Unknown |
 | The Threepenny Turtles | 796 | 615 | Yes | Unknown | Unknown |
 | The Time between the Seconds | 685 | 465 | Yes | Yes | Yes |
-| To Calmer Seas | 1016 | 799 | Unknown | Unknown | Unknown |
+| To Calmer Seas | 1016 | 799 | No | Unknown | Unknown |
 | To Catch a Poacher | 229 | 303 | Yes | Unknown | Unknown |
 | To Guard a Guardian | 226 | 298 | Yes | Unknown | Unknown |
 | To Have Loved and Lost | 869 | 672 | Yes | Yes | Yes |
@@ -297,7 +297,7 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Ul'dah's Most Wanted | 253 | 314 | Yes | No | Yes |
 | Underneath the Sultantree | 270 | 335 | Yes | Unknown | Unknown |
 | An Unforeseen Bargain | 1120 | 910 | Yes | Unknown | Unknown |
-| Vengeance of the Viper | 1236 | 1002 | Unknown | Unknown | Unknown |
+| Vengeance of the Viper | 1236 | 1002 | Yes | Unknown | Unknown |
 | A Vermilion Vendetta | 675 | 459 | No | Unknown | Unknown |
 | Victory in Peril | 249 | 313 | Yes | Unknown | Unknown |
 | Violators Will Be Shot | 228 | 302 | Yes | Unknown | Unknown |
@@ -307,14 +307,14 @@ Public God Mod Companion 3.2.0.47 and BossModReborn 7.5.8.5. Duty names and IDs 
 | The Warmth of Family | 1244 | 1009 | Yes | Unknown | Unknown |
 | Way Down in the Hole | 248 | 312 | Yes | Yes | Unknown |
 | What She Always Wanted | 678 | 457 | Yes | Unknown | Unknown |
-| When Clans Collide | 723 | 274 | Unknown | Unknown | Unknown |
+| When Clans Collide | 723 | 274 | No | Unknown | Unknown |
 | When Gnaths Cry | 482 | 419 | No | Unknown | Unknown |
 | When It Rains | 862 | 663 | Yes | Unknown | Unknown |
-| Where Everything Begins | 1091 | 874 | Unknown | Unknown | Unknown |
+| Where Everything Begins | 1091 | 874 | Yes | Unknown | Unknown |
 | Where We Call Home | 1328 | 1085 | Yes | Unknown | Unknown |
-| The Will of the Moon | 797 | 609 | Unknown | Unknown | Unknown |
-| With Heart and Steel | 707 | 245 | Unknown | Unknown | Unknown |
-| Worthy of His Back | 1014 | 795 | Unknown | Unknown | Unknown |
+| The Will of the Moon | 797 | 609 | Yes | Unknown | Unknown |
+| With Heart and Steel | 707 | 245 | No | Unknown | Unknown |
+| Worthy of His Back | 1014 | 795 | Yes | Unknown | Unknown |
 |  A Test of Courage | 657 | 470 | No | Unknown | Unknown |
 |  Schism between Sisters | 760 | 477 | No | Unknown | Unknown |
 
