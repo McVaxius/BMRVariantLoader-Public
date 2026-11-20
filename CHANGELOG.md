@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.49 - 2026-11-20 - Altar Manticore radar fades
+
+- **Updated Altar Manticore radar.** Fireball, Wild Charge, Tail Smash, and Searing Sigh are emphasized as their casts approach resolution.
+
 ## 3.2.0.48 - 2026-11-20 - Palace of the Dead
 
 - **Fixed Sucker avoidance on GodMod.** The Palace of the Dead movement hint uses the cast's floor, so a cast on another level no longer blocks the player's floor.
