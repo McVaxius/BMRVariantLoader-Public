@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.11 - 2026-11-19 - Snowcloak radar cues
+
+- **Added a Snowcloak Yeti warning.** Updrift now shows a raidwide cast countdown on both backends.
+- **Added Snowcloak trash radar cues on BossModReborn.** See selected cast areas and an in-range countdown for Strident Scream.
+
 ## 3.2.0.10 - 2026-11-19 - The Sunken Temple of Qarn radar
 
 - **Added Qarn trash radar cues on BossModReborn.** See Darkness, Caudal Swipe and Malice in the Sunken Temple of Qarn.
