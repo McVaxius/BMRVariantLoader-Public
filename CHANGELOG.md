@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.47 - 2026-11-20 - Radar fades and Hermes movement
+
+- **Updated radar fades.** Heavenly Strike in Byakko Unreal and the Gale Sphere, side Flamerake, and Chasmic Nails waves in the normal Golbez, Rubicante, and Zeromus trials now fade based on cast timing.
+- **Fixed Hermes movement in Ktisis Hyperboreia.** True Aero IV keeps the later lane previews on radar while movement follows the native wave order.
+- **Added a public duty coverage list.** Browse module, radar, and movement-hint availability by duty. [Duty coverage](https://github.com/McVaxius/BMRVariantLoader-Public/blob/main/DUTY-COVERAGE.md)
+
 ## 3.2.0.46 - 2026-11-20 - Encounter movement coverage
 
 - **Added automated avoidance to recent encounter radars.** AI now uses the hazards shown by GMC when the native tracker misses them, including extra True Aero IV lanes, overlapping Burst and Void Matter circles, and Altar Chimera’s Pluck and Prune.
