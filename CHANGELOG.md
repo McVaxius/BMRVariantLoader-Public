@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.28 - 2026-11-20 - Strayborough, Troia and Interphos warnings
+
+- **Added a Terrifying Glance warning.** The Strayborough Deadwalk radar shows the Stray Dolls' cone before the final boss.
+- **Added an Evil Phlegm countdown on GodMod.** Troia warns within range when its native zone is active and has no radar arena.
+- **Added a Royal Banishment warning on BossModReborn.** The Interphos shows the multi-hit raidwide and updates as the hits land.
+
 ## 3.2.0.27 - 2026-11-20 - Tender Valley and Orthos floor 60 warnings
 
 - **Added a Tectonic Shift warning.** The Tender Valley radar shows the altar cast area before Yok Huy Attestant enters combat.
