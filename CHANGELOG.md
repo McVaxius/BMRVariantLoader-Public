@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.23 - 2026-11-20 - Encounter categories and Palace of the Dead warnings
+
+- **Fixed encounter browser categories.** Shifting Altars of Uznair appears under Treasure Hunt, and raid zones appear under their proper series on both backends.
+- **Added Palace of the Dead warnings on GodMod.** Chirp, Sucker, and Paralyze III show countdowns when the corresponding native floor module is active.
+
 ## 3.2.0.22 - 2026-11-20 - Holminster Switch radar
 
 - **Added a Saintscreen warning.** Holminster Switch now draws Forgiven Folly's cast area on both backends.
