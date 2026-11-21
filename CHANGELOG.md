@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.83 - 2026-11-21 - Encounter maintenance
+
+- **Updated Savage Phantom Train.** Its deck geometry and mechanic logic now share the encounter file.
+- **Updated Ifrit Normal.** Its existing source file now uses the encounter name.
+
 ## 3.2.0.82 - 2026-11-21 - Trial encounter maintenance
 
 - **Updated Ifrit Hard, Garuda Normal, Titan Hard, and Tsukuyomi Normal.** Their source filenames now match the encounters they support.
