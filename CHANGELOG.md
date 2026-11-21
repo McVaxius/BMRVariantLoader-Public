@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.79 - 2026-11-21 - Alliance raid maintenance
+
+- **Updated Aglaia and the Puppets' Bunker.** The existing mechanics files use the names of their six encounters.
+
 ## 3.2.0.78 - 2026-11-21 - Raid encounter maintenance
 
 - **Updated Normal Omega, Savage Chaos, Savage Midgardsormr, The Cuff of the Father, and Living Liquid.** Each fight keeps its existing mechanics together in one encounter file.
