@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.62 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 125 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 121 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
-| Radar | 482 | 193 | 92 |
-| Movement hints | 625 | 27 | 115 |
+| Radar | 482 | 196 | 89 |
+| Movement hints | 628 | 27 | 112 |
 
 ## Needs coverage or verification
 
@@ -91,20 +91,20 @@ None.
 | Brotherly Love | 303 | 350 | Yes | No | Yes |
 | Chasing Shadows | 233 | 296 | Yes | No | Yes |
 | Cloying Victory | 409 | 386 | Yes | No | Yes |
-| The Company You Keep (Maelstrom) | 279 | 342 | Yes | No | Unknown |
+| The Company You Keep (Maelstrom) | 279 | 342 | Yes | No | Yes |
 | The Company You Keep (Twin Adder) | 277 | 340 | No | Unknown | Unknown |
 | The Consequences of Anger | 328 | 377 | No | Unknown | Unknown |
 | The Crow Knows | 414 | 391 | Yes | No | Unknown |
 | Doing It the Bard Way | 321 | 370 | Yes | No | No |
 | Escape from Castrum Centri | 305 | 352 | Yes | No | Yes |
 | Every Little Thing She Does Is Magitek | 309 | 358 | Yes | No | Yes |
-| Facing Your Demons | 269 | 327 | No | Unknown | Unknown |
+| Facing Your Demons | 269 | 327 | No | Unknown | Yes |
 | Feint and Strike | 280 | 334 | Yes | No | Unknown |
 | Five Easy Pieces | 315 | 364 | Yes | No | Unknown |
 | Fool Me Twice | 308 | 357 | Yes | No | Unknown |
 | Forgotten but Not Gone | 327 | 376 | Yes | No | Yes |
 | Grinners in the Mist | 407 | 384 | Yes | No | Yes |
-| Heart of the Forest | 320 | 369 | No | Unknown | Unknown |
+| Heart of the Forest | 320 | 369 | No | Unknown | Yes |
 | The Heretic among Us | 302 | 344 | Yes | No | Unknown |
 | The Hidden Chapter | 268 | 326 | No | Unknown | Unknown |
 | History Repeating | 330 | 379 | Yes | No | Unknown |
@@ -303,9 +303,9 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Fractal Continuum (Hard) | 743 | 285 | No | Unknown | Yes |
-| the Swallow's Compass | 768 | 536 | No | Unknown | Yes |
-| the Temple of the Fist | 663 | 236 | No | Unknown | Yes |
+| the Fractal Continuum (Hard) | 743 | 285 | No | No | Yes |
+| the Swallow's Compass | 768 | 536 | No | No | Yes |
+| the Temple of the Fist | 663 | 236 | No | No | Yes |
 
 #### Trials
 
