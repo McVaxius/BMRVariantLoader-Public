@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 172 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 171 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 164 | 121 |
-| Movement hints | 583 | 27 | 157 |
+| Movement hints | 584 | 27 | 156 |
 
 ## Needs coverage or verification
 
@@ -65,7 +65,7 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | No | No | Unknown |
-| the Second Coil of Bahamut (Savage) - Turn 2 | 381 | 104 | No | No | Unknown |
+| the Second Coil of Bahamut (Savage) - Turn 2 | 381 | 104 | No | No | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | No | No | Unknown |
 | the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | No | No | Unknown |
 
