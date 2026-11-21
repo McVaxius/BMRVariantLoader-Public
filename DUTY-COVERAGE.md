@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 197 | 88 |
-| Movement hints | 631 | 27 | 109 |
+| Movement hints | 633 | 27 | 107 |
 
 ## Needs coverage or verification
 
@@ -126,10 +126,10 @@ None.
 | Lurkers in the Grotto | 252 | 332 | Yes | No | Unknown |
 | Master and Student | 415 | 392 | No | Unknown | Unknown |
 | The Mountain That Strides | 263 | 329 | Yes | No | No |
-| My First Mudra | 411 | 388 | No | Unknown | Unknown |
+| My First Mudra | 411 | 388 | No | Unknown | Yes |
 | Ninja Bathin' | 413 | 390 | Yes | Unknown | Yes |
 | Notorious Biggs | 304 | 351 | Yes | No | Yes |
-| Nouveau Riche | 232 | 311 | Yes | Unknown | Unknown |
+| Nouveau Riche | 232 | 311 | Yes | Unknown | Yes |
 | Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
 | Once Upon a Time in Doma | 412 | 389 | No | Unknown | Unknown |
 | The One That Got Away | 231 | 305 | Yes | Unknown | Unknown |
