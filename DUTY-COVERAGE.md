@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 200 | 85 |
-| Movement hints | 661 | 27 | 79 |
+| Movement hints | 664 | 27 | 76 |
 
 ## Needs coverage or verification
 
@@ -265,7 +265,7 @@ None.
 | Ewer Right | 480 | 417 | No | Unknown | Unknown |
 | Familiar Faces | 461 | 401 | Yes | No | Unknown |
 | Feather in the Cap | 481 | 418 | No | Unknown | Unknown |
-| Fire and Blood | 458 | 398 | No | Unknown | Unknown |
+| Fire and Blood | 458 | 398 | No | Unknown | Yes |
 | The Flame in the Abyss | 501 | 438 | No | Unknown | Unknown |
 | Fortune Favors the Bole | 473 | 411 | Yes | No | Yes |
 | Forward, the Royal Marines | 454 | 394 | Yes | No | Yes |
@@ -452,7 +452,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | A-Digging We Will Go | 864 | 665 | Yes | No | Yes |
 | As the Heart Bids | 894 | 703 | No | Unknown | Unknown |
-| the Bozja Incident | 911 | 723 | No | Unknown | Unknown |
+| the Bozja Incident | 911 | 723 | No | Unknown | Yes |
 | Fit for a Queen | 955 | 765 | No | Unknown | Unknown |
 | Hired Gunblades | 865 | 668 | Yes | No | Yes |
 | Legend of the Not-so-hidden Temple | 859 | 681 | Yes | No | Yes |
@@ -520,7 +520,7 @@ None.
 | The Gift of Mercy | 1019 | 820 | No | Unknown | Unknown |
 | The Harvest Begins | 1020 | 814 | Yes | No | Yes |
 | In from the Cold | 1011 | 793 | Yes | Unknown | Yes |
-| Laid to Rest | 1017 | 818 | No | Unknown | Unknown |
+| Laid to Rest | 1017 | 818 | No | Unknown | Yes |
 | To Calmer Seas | 1016 | 799 | No | Unknown | Unknown |
 
 #### Treasure Hunt
