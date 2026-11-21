@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.72 - 2026-11-21 - Raid encounter maintenance
+
+- **Updated Hippokampos, Proto-Carbuncle, Hephaistos phase one, Savage Titan, and Heavy Artillery Unit.** Each encounter keeps its existing mechanics together in one source file.
+
 ## 3.2.0.71 - 2026-11-21 - Raid encounter maintenance
 
 - **Updated Erichthonios, Phoinix, Hesperos phase two, and Savage Voidwalker.** The existing mechanics for each encounter now share one encounter file.
