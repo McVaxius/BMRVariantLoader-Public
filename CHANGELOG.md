@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.53 - 2026-11-20 - Liquid Flame and Magitek Vangob radar
+
+- **Updated Liquid Flame’s radar.** Sea of Flames fades with its cast timing, and nearby players can see the Slosh lane.
+- **Updated Magitek Vangob’s radar.** Drill Cannons and Oversurge stand out as their casts approach resolution.
+
 ## 3.2.0.52 - 2026-11-20 - Hells’ Lid radar fades
 
 - **Updated Otake-maru and Kamaitachi’s radars.** Eight cast telegraphs become more visible as the attacks approach resolution.
