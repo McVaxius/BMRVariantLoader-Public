@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.61 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 141 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 133 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
-| Radar | 482 | 185 | 100 |
-| Movement hints | 610 | 27 | 130 |
+| Radar | 482 | 193 | 92 |
+| Movement hints | 616 | 27 | 124 |
 
 ## Needs coverage or verification
 
@@ -429,14 +429,14 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Eden's Gate: Resurrection (Savage) | 853 | 654 | Yes | Unknown | Yes |
-| Eden's Promise: Anamorphosis (Savage) | 948 | 752 | No | Unknown | Unknown |
-| Eden's Promise: Eternity (Savage) | 949 | 759 | Yes | Unknown | Unknown |
-| Eden's Promise: Litany (Savage) | 947 | 748 | No | Unknown | Unknown |
-| Eden's Promise: Umbra (Savage) | 946 | 750 | No | Unknown | Unknown |
-| Eden's Verse: Fulmination (Savage) | 906 | 716 | Yes | Unknown | Yes |
-| Eden's Verse: Furor (Savage) | 907 | 720 | No | Unknown | Unknown |
-| Eden's Verse: Iconoclasm (Savage) | 908 | 727 | No | Unknown | Unknown |
+| Eden's Gate: Resurrection (Savage) | 853 | 654 | Yes | No | Yes |
+| Eden's Promise: Anamorphosis (Savage) | 948 | 752 | No | No | Yes |
+| Eden's Promise: Eternity (Savage) | 949 | 759 | Yes | No | Yes |
+| Eden's Promise: Litany (Savage) | 947 | 748 | No | No | Yes |
+| Eden's Promise: Umbra (Savage) | 946 | 750 | No | No | Yes |
+| Eden's Verse: Fulmination (Savage) | 906 | 716 | Yes | No | Yes |
+| Eden's Verse: Furor (Savage) | 907 | 720 | No | No | Yes |
+| Eden's Verse: Iconoclasm (Savage) | 908 | 727 | No | No | Yes |
 
 #### Ultimate Raids
 
