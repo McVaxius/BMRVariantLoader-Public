@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 197 | 88 |
-| Movement hints | 629 | 27 | 111 |
+| Movement hints | 631 | 27 | 109 |
 
 ## Needs coverage or verification
 
@@ -120,8 +120,8 @@ None.
 | Lance of Destiny | 238 | 308 | No | Unknown | Unknown |
 | Lance of Destiny | 290 | 355 | No | Unknown | Unknown |
 | Leia's Legacy | 227 | 299 | Yes | No | Unknown |
-| Like Mother, Like Daughter | 291 | 356 | Yes | Unknown | Unknown |
-| The Lominsan Way | 307 | 354 | Yes | Unknown | Unknown |
+| Like Mother, Like Daughter | 291 | 356 | Yes | Unknown | Yes |
+| The Lominsan Way | 307 | 354 | Yes | Unknown | Yes |
 | Lord of the Inferno | 275 | 339 | Yes | No | Yes |
 | Lurkers in the Grotto | 252 | 332 | Yes | No | Unknown |
 | Master and Student | 415 | 392 | No | Unknown | Unknown |
