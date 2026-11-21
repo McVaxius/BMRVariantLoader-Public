@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 116 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 106 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 197 | 88 |
-| Movement hints | 644 | 27 | 96 |
+| Movement hints | 655 | 27 | 85 |
 
 ## Needs coverage or verification
 
@@ -92,34 +92,34 @@ None.
 | Chasing Shadows | 233 | 296 | Yes | No | Yes |
 | Cloying Victory | 409 | 386 | Yes | No | Yes |
 | The Company You Keep (Maelstrom) | 279 | 342 | Yes | No | Yes |
-| The Company You Keep (Twin Adder) | 277 | 340 | No | Unknown | Unknown |
+| The Company You Keep (Twin Adder) | 277 | 340 | No | Unknown | Yes |
 | The Consequences of Anger | 328 | 377 | No | Unknown | Unknown |
 | The Crow Knows | 414 | 391 | Yes | No | Unknown |
 | Doing It the Bard Way | 321 | 370 | Yes | No | No |
 | Escape from Castrum Centri | 305 | 352 | Yes | No | Yes |
 | Every Little Thing She Does Is Magitek | 309 | 358 | Yes | No | Yes |
 | Facing Your Demons | 269 | 327 | No | Unknown | Yes |
-| Feint and Strike | 280 | 334 | Yes | No | Unknown |
+| Feint and Strike | 280 | 334 | Yes | No | Yes |
 | Five Easy Pieces | 315 | 364 | Yes | No | Unknown |
-| Fool Me Twice | 308 | 357 | Yes | No | Unknown |
+| Fool Me Twice | 308 | 357 | Yes | No | Yes |
 | Forgotten but Not Gone | 327 | 376 | Yes | No | Yes |
 | Grinners in the Mist | 407 | 384 | Yes | No | Yes |
 | Heart of the Forest | 320 | 369 | No | Unknown | Yes |
-| The Heretic among Us | 302 | 344 | Yes | No | Unknown |
+| The Heretic among Us | 302 | 344 | Yes | No | Yes |
 | The Hidden Chapter | 268 | 326 | No | Unknown | Unknown |
-| History Repeating | 330 | 379 | Yes | No | Unknown |
-| Homecoming | 230 | 304 | Yes | No | Unknown |
+| History Repeating | 330 | 379 | Yes | No | Yes |
+| Homecoming | 230 | 304 | Yes | No | Yes |
 | How to Quit You | 311 | 360 | Yes | No | No |
-| In Nature's Embrace | 235 | 301 | Yes | No | Unknown |
+| In Nature's Embrace | 235 | 301 | Yes | No | Yes |
 | In the Eyes of Gods and Men | 301 | 343 | Yes | No | Yes |
-| Into a Copper Hell | 274 | 338 | Yes | No | Unknown |
+| Into a Copper Hell | 274 | 338 | Yes | No | Yes |
 | Into the Dragon's Maw | 316 | 365 | No | Unknown | Unknown |
-| Just Deserts | 272 | 333 | Yes | No | Unknown |
+| Just Deserts | 272 | 333 | Yes | No | Yes |
 | Keeping the Oath | 313 | 362 | Yes | No | Yes |
 | Keeping the Spirit Alive | 259 | 320 | No | Unknown | Unknown |
 | Lance of Destiny | 238 | 308 | No | Unknown | Unknown |
 | Lance of Destiny | 290 | 355 | No | Unknown | Unknown |
-| Leia's Legacy | 227 | 299 | Yes | No | Unknown |
+| Leia's Legacy | 227 | 299 | Yes | No | Yes |
 | Like Mother, Like Daughter | 291 | 356 | Yes | Unknown | Yes |
 | The Lominsan Way | 307 | 354 | Yes | Unknown | Yes |
 | Lord of the Inferno | 275 | 339 | Yes | No | Yes |
@@ -164,7 +164,7 @@ None.
 | Underneath the Sultantree | 270 | 335 | Yes | No | Yes |
 | Victory in Peril | 249 | 313 | Yes | No | Yes |
 | Violators Will Be Shot | 228 | 302 | Yes | No | Yes |
-| The Voidgate Breathes Gloomy | 317 | 366 | Yes | No | Unknown |
+| The Voidgate Breathes Gloomy | 317 | 366 | Yes | No | Yes |
 
 #### Guildhests
 
