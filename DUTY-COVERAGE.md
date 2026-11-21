@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.62 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 121 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 120 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
-| Radar | 482 | 196 | 89 |
-| Movement hints | 628 | 27 | 112 |
+| Radar | 482 | 197 | 88 |
+| Movement hints | 629 | 27 | 111 |
 
 ## Needs coverage or verification
 
@@ -295,7 +295,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Aquapolis | 558 | 179 | No | Unknown | Unknown |
+| the Aquapolis | 558 | 179 | No | No | Yes |
 
 ### Stormblood
 
