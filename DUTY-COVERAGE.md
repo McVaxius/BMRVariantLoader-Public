@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.84 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 623 | 144 | 0 |
 | Radar | 485 | 198 | 84 |
-| Movement hints | 684 | 27 | 56 |
+| Movement hints | 687 | 24 | 56 |
 
 ## Needs coverage or verification
 
@@ -190,9 +190,9 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Containment Bay P1T6 (Normal) | 576 | 183 | No | No | No |
-| Containment Bay S1T7 (Normal) | 517 | 134 | No | No | No |
-| Containment Bay Z1T9 (Normal) | 637 | 223 | No | No | No |
+| Containment Bay P1T6 (Normal) | 576 | 183 | No | No | Yes |
+| Containment Bay S1T7 (Normal) | 517 | 134 | No | No | Yes |
+| Containment Bay Z1T9 (Normal) | 637 | 223 | No | No | Yes |
 
 #### Extreme
 
