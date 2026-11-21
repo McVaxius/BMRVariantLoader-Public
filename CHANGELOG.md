@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.69 - 2026-11-21 - Alliance encounter maintenance
+
+- **Updated Oschon, Althyk and Nymeia, and Red Girl.** Each fight keeps its existing mechanics together in its own encounter file.
+
 ## 3.2.0.68 - 2026-11-21 - Thaleia encounter maintenance
 
 - **Updated Thaliak, Llymlaen, and Eulogia.** Each fight keeps its existing mechanics together in its own encounter file.
