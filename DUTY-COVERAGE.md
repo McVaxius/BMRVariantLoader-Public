@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.56 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 357 showing all three features and 410 needing coverage or verification. 377 duties have at least one Unknown.
+**767 duties** with 364 showing all three features and 403 needing coverage or verification. 370 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 364 | 33 | 370 |
-| Movement hints | 374 | 22 | 371 |
+| Radar | 368 | 36 | 363 |
+| Movement hints | 381 | 22 | 364 |
 
 ## Needs coverage or verification
 
@@ -89,7 +89,6 @@ None.
 | Bringing Down the Mountain | 265 | 331 | Yes | No | No |
 | Brother from Another Mother | 314 | 363 | Yes | Unknown | Unknown |
 | Brotherly Love | 303 | 350 | Yes | Unknown | Unknown |
-| Cape Westwind | 1049 | 865 | Yes | Unknown | Unknown |
 | Chasing Shadows | 233 | 296 | Yes | Unknown | Unknown |
 | Cloying Victory | 409 | 386 | Yes | Unknown | Unknown |
 | The Company You Keep (Maelstrom) | 279 | 342 | Yes | Unknown | Unknown |
@@ -105,7 +104,6 @@ None.
 | Fool Me Twice | 308 | 357 | Yes | Unknown | Unknown |
 | Forgotten but Not Gone | 327 | 376 | Yes | Unknown | Unknown |
 | Grinners in the Mist | 407 | 384 | Yes | Unknown | Unknown |
-| Guardian of Eorzea | 379 | 380 | Yes | Yes | Unknown |
 | Heart of the Forest | 320 | 369 | No | Unknown | Unknown |
 | The Heretic among Us | 302 | 344 | Yes | Unknown | Unknown |
 | The Hidden Chapter | 268 | 326 | No | Unknown | Unknown |
@@ -117,7 +115,7 @@ None.
 | Into a Copper Hell | 274 | 338 | Yes | Unknown | Unknown |
 | Into the Dragon's Maw | 316 | 365 | No | Unknown | Unknown |
 | Just Deserts | 272 | 333 | Yes | Unknown | Unknown |
-| Keeping the Oath | 313 | 362 | Yes | Unknown | Unknown |
+| Keeping the Oath | 313 | 362 | Yes | No | Unknown |
 | Keeping the Spirit Alive | 259 | 320 | No | Unknown | Unknown |
 | Lance of Destiny | 238 | 308 | No | Unknown | Unknown |
 | Lance of Destiny | 290 | 355 | No | Unknown | Unknown |
@@ -125,10 +123,8 @@ None.
 | Like Mother, Like Daughter | 291 | 356 | Yes | Unknown | Unknown |
 | The Lominsan Way | 307 | 354 | Yes | Unknown | Unknown |
 | Lord of the Inferno | 275 | 339 | Yes | No | Yes |
-| Lurkers in the Grotto | 252 | 332 | Yes | Unknown | Unknown |
+| Lurkers in the Grotto | 252 | 332 | Yes | No | Unknown |
 | Master and Student | 415 | 392 | No | Unknown | Unknown |
-| Memory of Embers | 1166 | 959 | Yes | Unknown | Unknown |
-| Messenger of the Winds | 834 | 646 | Yes | Unknown | Unknown |
 | The Mountain That Strides | 263 | 329 | Yes | No | No |
 | My First Mudra | 411 | 388 | No | Unknown | Unknown |
 | Ninja Bathin' | 413 | 390 | Yes | Unknown | Unknown |
@@ -150,16 +146,13 @@ None.
 | Return of the Holyfist | 261 | 322 | No | Unknown | Unknown |
 | Return of the Holyfist | 251 | 323 | Yes | Unknown | Unknown |
 | Seer Folly | 319 | 368 | Yes | Unknown | Unknown |
-| Sinking Doesmaga | 288 | 348 | Yes | Yes | Unknown |
 | Slave to the Code | 406 | 383 | No | Unknown | Unknown |
 | The Spirit Is Willing | 258 | 319 | No | Unknown | Unknown |
 | Spirithold Broken | 225 | 297 | Yes | Unknown | Unknown |
 | Star-crossed Rivals | 260 | 321 | Yes | Unknown | Unknown |
-| the Steps of Faith | 1068 | 885 | Yes | Unknown | Unknown |
 | Stifled Screams | 405 | 382 | Yes | Unknown | Unknown |
 | Stray into the Shadows | 404 | 381 | Yes | Unknown | Unknown |
 | Sweet Sorrows | 408 | 385 | Yes | Unknown | Unknown |
-| Tactical Planning | 285 | 345 | Yes | Yes | Unknown |
 | That Old Familiar Feeling | 254 | 315 | Yes | No | Yes |
 | The Threat of Perplexity | 267 | 325 | Yes | Unknown | Unknown |
 | The Threat of Superiority | 266 | 324 | Yes | Unknown | Unknown |
@@ -168,7 +161,7 @@ None.
 | Trial by Water | 234 | 300 | Yes | Unknown | Unknown |
 | Trial by Wind | 289 | 349 | Yes | Unknown | Unknown |
 | Ul'dah's Most Wanted | 253 | 314 | Yes | No | Yes |
-| Underneath the Sultantree | 270 | 335 | Yes | Unknown | Unknown |
+| Underneath the Sultantree | 270 | 335 | Yes | No | Unknown |
 | Victory in Peril | 249 | 313 | Yes | Unknown | Unknown |
 | Violators Will Be Shot | 228 | 302 | Yes | Unknown | Unknown |
 | The Voidgate Breathes Gloomy | 317 | 366 | Yes | Unknown | Unknown |
@@ -806,13 +799,20 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Cape Westwind | 1049 | 865 | Yes | Yes | Yes |
 | The Company You Keep (Immortal Flames) | 278 | 341 | Yes | Yes | Yes |
 | Devastation | 1052 | 867 | Yes | Yes | Yes |
 | Duty, Honor, Country | 271 | 336 | Yes | Yes | Yes |
 | The Face of Thal | 255 | 316 | Yes | Yes | Yes |
+| Guardian of Eorzea | 379 | 380 | Yes | Yes | Yes |
 | In the Dark of Night | 839 | 647 | Yes | Yes | Yes |
+| Memory of Embers | 1166 | 959 | Yes | Yes | Yes |
+| Messenger of the Winds | 834 | 646 | Yes | Yes | Yes |
 | On Holy Ground | 256 | 317 | Yes | Yes | Yes |
 | Over the Rails | 286 | 346 | Yes | Yes | Yes |
+| Sinking Doesmaga | 288 | 348 | Yes | Yes | Yes |
+| the Steps of Faith | 1068 | 885 | Yes | Yes | Yes |
+| Tactical Planning | 285 | 345 | Yes | Yes | Yes |
 | Way Down in the Hole | 248 | 312 | Yes | Yes | Yes |
 
 #### Guildhests
