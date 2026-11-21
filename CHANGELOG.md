@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.78 - 2026-11-21 - Raid encounter maintenance
+
+- **Updated Normal Omega, Savage Chaos, Savage Midgardsormr, The Cuff of the Father, and Living Liquid.** Each fight keeps its existing mechanics together in one encounter file.
+- **Updated Savage Kefka.** Kefka and God Kefka now have separate encounter files, with Celestriad grouped under God Kefka.
+
 ## 3.2.0.77 - 2026-11-21 - Normal raid maintenance
 
 - **Updated Catastrophe, Midgardsormr, and Omega-M and Omega-F in Normal raids.** Each fight keeps its existing mechanics together in one encounter file.
