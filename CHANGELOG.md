@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.82 - 2026-11-21 - Trial encounter maintenance
+
+- **Updated Ifrit Hard, Garuda Normal, Titan Hard, and Tsukuyomi Normal.** Their source filenames now match the encounters they support.
+
 ## 3.2.0.81 - 2026-11-21 - Encounter maintenance
 
 - **Updated Themis (Savage), Hesperos phase one (Savage), Guardian of Eorzea, and Tactical Planning.** Their existing source files now use the encounter names.
