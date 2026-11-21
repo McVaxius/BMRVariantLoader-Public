@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.58 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 438 showing all three features and 329 needing coverage or verification. 290 duties have at least one Unknown.
+**767 duties** with 453 showing all three features and 314 needing coverage or verification. 257 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 438 | 54 | 275 |
-| Movement hints | 461 | 24 | 282 |
+| Radar | 453 | 74 | 240 |
+| Movement hints | 493 | 26 | 248 |
 
 ## Needs coverage or verification
 
@@ -248,33 +248,32 @@ None.
 | A Flare for the Dramatic | 503 | 440 | No | Unknown | Unknown |
 | A Journey of Purification | 469 | 407 | No | Unknown | Unknown |
 | A Joye-ful Reunion | 472 | 410 | No | Unknown | Unknown |
-| A Series of Unfortunate Events | 455 | 395 | Yes | Unknown | Unknown |
+| A Series of Unfortunate Events | 455 | 395 | Yes | No | Yes |
 | Absolution | 497 | 434 | No | Unknown | Unknown |
 | Against the Shadow | 483 | 420 | No | Unknown | Unknown |
 | An Illuminati Incident | 485 | 422 | No | Unknown | Unknown |
 | And My Axe | 453 | 393 | No | Unknown | Unknown |
 | Appetite for Destruction | 491 | 428 | No | Unknown | Unknown |
-| As Goes Light, So Goes Darkness | 513 | 441 | Yes | Unknown | Unknown |
-| At the End of Our Hope | 479 | 416 | Yes | Unknown | Unknown |
+| As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
+| At the End of Our Hope | 479 | 416 | Yes | No | Yes |
 | The Ballad of Oblivion | 492 | 429 | No | Unknown | Unknown |
 | Big Sollerets to Fill | 498 | 435 | Yes | No | No |
 | Blood on the Sands | 471 | 409 | Yes | No | No |
-| The Carteneau Flats: Heliodrome | 633 | 222 | Yes | Unknown | Unknown |
-| Declaration of Blood | 495 | 432 | Yes | Unknown | Unknown |
-| The Defiant Ones | 465 | 403 | Yes | Unknown | Unknown |
+| Declaration of Blood | 495 | 432 | Yes | No | Yes |
+| The Defiant Ones | 465 | 403 | Yes | No | Yes |
 | Destruction in the Name of Justice | 467 | 405 | No | Unknown | Unknown |
 | Duty and the Beast | 468 | 406 | No | Unknown | Unknown |
 | Ewer Right | 480 | 417 | No | Unknown | Unknown |
-| Familiar Faces | 461 | 401 | Yes | Unknown | Unknown |
+| Familiar Faces | 461 | 401 | Yes | No | Unknown |
 | Feather in the Cap | 481 | 418 | No | Unknown | Unknown |
 | Fire and Blood | 458 | 398 | No | Unknown | Unknown |
 | The Flame in the Abyss | 501 | 438 | No | Unknown | Unknown |
-| Fortune Favors the Bole | 473 | 411 | Yes | Unknown | Unknown |
-| Forward, the Royal Marines | 454 | 394 | Yes | Unknown | Unknown |
-| The Hands of Fate | 476 | 414 | Yes | Unknown | Unknown |
+| Fortune Favors the Bole | 473 | 411 | Yes | No | Yes |
+| Forward, the Royal Marines | 454 | 394 | Yes | No | Yes |
+| The Hands of Fate | 476 | 414 | Yes | No | Unknown |
 | Hands of Healing | 464 | 402 | Yes | No | No |
-| Heroic Reprise | 494 | 431 | Yes | Unknown | Unknown |
-| I Could Have Tranced All Night | 502 | 439 | Yes | Unknown | Unknown |
+| Heroic Reprise | 494 | 431 | Yes | No | Yes |
+| I Could Have Tranced All Night | 502 | 439 | Yes | No | Yes |
 | In Her Defense | 490 | 427 | No | Unknown | Unknown |
 | Ishgardian Justice | 499 | 436 | Yes | Unknown | Unknown |
 | Keeping the Flame Alive | 460 | 400 | Yes | Unknown | Unknown |
@@ -306,7 +305,6 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Fractal Continuum (Hard) | 743 | 285 | No | Unknown | Unknown |
-| Saint Mocianne's Arboretum (Hard) | 788 | 584 | Yes | Unknown | Unknown |
 | the Swallow's Compass | 768 | 536 | No | Unknown | Unknown |
 | the Temple of the Fist | 663 | 236 | No | Unknown | Unknown |
 
@@ -359,22 +357,21 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | A Beacon for Bad Things | 640 | 456 | No | Unknown | Unknown |
-| A Game of Life and Death | 726 | 452 | Yes | Unknown | Unknown |
+| A Game of Life and Death | 726 | 452 | Yes | No | Yes |
 | A Vermilion Vendetta | 675 | 459 | No | Unknown | Unknown |
 | An Egi-stential Crisis | 701 | 454 | No | Unknown | Unknown |
 | Choices and Paths | 647 | 450 | No | Unknown | Unknown |
-| Come Rain or Shrine | 664 | 442 | Yes | Unknown | Unknown |
+| Come Rain or Shrine | 664 | 442 | Yes | No | Yes |
 | The Crimson Duelist | 668 | 458 | No | Unknown | Unknown |
-| Curious Gorge Meets His Match | 717 | 260 | Yes | Unknown | Unknown |
-| Dark as the Night Sky | 713 | 267 | Yes | Unknown | Unknown |
-| Emissary of the Dawn | 769 | 582 | Yes | Unknown | Unknown |
-| Foxfire | 667 | 443 | Yes | Unknown | Unknown |
-| The Heart of the Problem | 718 | 266 | Yes | Unknown | Unknown |
-| In Crimson It Began | 659 | 464 | Yes | Unknown | Unknown |
-| In Loving Memory | 721 | 453 | Yes | Unknown | Unknown |
+| Curious Gorge Meets His Match | 717 | 260 | Yes | No | No |
+| Dark as the Night Sky | 713 | 267 | Yes | Unknown | Yes |
+| Foxfire | 667 | 443 | Yes | No | Yes |
+| The Heart of the Problem | 718 | 266 | Yes | No | No |
+| In Crimson It Began | 659 | 464 | Yes | No | Yes |
+| In Loving Memory | 721 | 453 | Yes | No | Yes |
 | In Thal's Name | 705 | 261 | Yes | No | No |
-| Interdimensional Rift | 690 | 275 | Yes | Unknown | Unknown |
-| It's Probably a Trap | 665 | 237 | Yes | Unknown | Unknown |
+| Interdimensional Rift | 690 | 275 | Yes | No | Yes |
+| It's Probably a Trap | 665 | 237 | Yes | No | Yes |
 | The Key to Victory | 686 | 467 | Yes | Unknown | Unknown |
 | Master Musosai | 666 | 462 | No | Unknown | Unknown |
 | Matsuba Mayhem | 710 | 250 | No | Unknown | Unknown |
@@ -600,20 +597,8 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Father First | 1210 | 828 | Yes | Unknown | Unknown |
-| A Hunter True | 1216 | 997 | Yes | Unknown | Unknown |
 | A Rush of Cold Wind | 1371 | 1101 | No | Unknown | Unknown |
-| An Antidote for Anarchy | 1215 | 994 | Yes | Unknown | Unknown |
 | Clotted Crime | 1329 | 1087 | No | Unknown | Unknown |
-| Dreams of a New Day | 1214 | 1003 | Yes | Unknown | Unknown |
-| Fangs of the Viper | 1235 | 925 | Yes | Unknown | Unknown |
-| The Feat of the Brotherhood | 1212 | 982 | Yes | Unknown | Unknown |
-| Heroes and Pretenders | 1218 | 1001 | Yes | Unknown | Unknown |
-| The Mightiest Shield | 1217 | 999 | Yes | Unknown | Unknown |
-| Mind over Manor | 1233 | 1000 | Yes | Unknown | Unknown |
-| The Protector and the Destroyer | 1213 | 998 | Yes | Unknown | Unknown |
-| Somewhere Only She Knows | 1234 | 966 | Yes | Unknown | Unknown |
-| Taking a Stand | 1211 | 983 | Yes | Unknown | Unknown |
 | Vengeance of the Viper | 1236 | 1002 | Yes | Unknown | Unknown |
 | The Warmth of Family | 1244 | 1009 | Yes | Unknown | Unknown |
 | Where We Call Home | 1328 | 1085 | Yes | Unknown | Unknown |
@@ -846,6 +831,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | a Bloody Reunion | 560 | 173 | Yes | Yes | Yes |
 | a Spectacle for the Ages | 533 | 167 | Yes | Yes | Yes |
+| The Carteneau Flats: Heliodrome | 633 | 222 | Yes | Yes | Yes |
 | Close Encounters of the VIth Kind | 459 | 399 | Yes | Yes | Yes |
 | Divine Intervention | 456 | 396 | Yes | Yes | Yes |
 | Dragoon's Fate | 477 | 415 | Yes | Yes | Yes |
@@ -870,6 +856,7 @@ None.
 | the Ghimlyt Dark | 1174 | 611 | Yes | Yes | Yes |
 | Hells' Lid | 742 | 284 | Yes | Yes | Yes |
 | Kugane Castle | 662 | 262 | Yes | Yes | Yes |
+| Saint Mocianne's Arboretum (Hard) | 788 | 584 | Yes | Yes | Yes |
 | Shisui of the Violet Tides | 1367 | 235 | Yes | Yes | Yes |
 | the Sirensong Sea | 1142 | 238 | Yes | Yes | Yes |
 
@@ -964,6 +951,7 @@ None.
 | Best Served with Cold Steel | 670 | 463 | Yes | Yes | Yes |
 | Blood on the Deck | 708 | 248 | Yes | Yes | Yes |
 | Dragon Sound | 714 | 273 | Yes | Yes | Yes |
+| Emissary of the Dawn | 769 | 582 | Yes | Yes | Yes |
 | The Face of True Evil | 709 | 249 | Yes | Yes | Yes |
 | His Forgotten Home | 634 | 469 | Yes | Yes | Yes |
 | Hope on the Waves | 757 | 472 | Yes | Yes | Yes |
@@ -1345,7 +1333,19 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| A Father First | 1210 | 828 | Yes | Yes | Yes |
+| A Hunter True | 1216 | 997 | Yes | Yes | Yes |
+| An Antidote for Anarchy | 1215 | 994 | Yes | Yes | Yes |
 | Bar the Passage | 1246 | 1016 | Yes | Yes | Yes |
+| Dreams of a New Day | 1214 | 1003 | Yes | Yes | Yes |
+| Fangs of the Viper | 1235 | 925 | Yes | Yes | Yes |
+| The Feat of the Brotherhood | 1212 | 982 | Yes | Yes | Yes |
+| Heroes and Pretenders | 1218 | 1001 | Yes | Yes | Yes |
+| The Mightiest Shield | 1217 | 999 | Yes | Yes | Yes |
+| Mind over Manor | 1233 | 1000 | Yes | Yes | Yes |
+| The Protector and the Destroyer | 1213 | 998 | Yes | Yes | Yes |
+| Somewhere Only She Knows | 1234 | 966 | Yes | Yes | Yes |
+| Taking a Stand | 1211 | 983 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
