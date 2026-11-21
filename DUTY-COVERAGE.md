@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.53 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.54 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -19,7 +19,6 @@ Public God Mod Companion 3.2.0.53 and BossModReborn 7.5.8.5. Duty names and IDs 
 | the Lost City of Amdapor | 363 | 22 | Yes | Unknown | Unknown |
 | the Stone Vigil (Hard) | 365 | 25 | No | Unknown | Unknown |
 | the Sunken Temple of Qarn (Hard) | 367 | 26 | No | Unknown | Unknown |
-| the Tam-Tara Deepcroft (Hard) | 373 | 24 | Yes | Unknown | Unknown |
 | the Wanderer's Palace (Hard) | 188 | 30 | No | Unknown | Unknown |
 
 #### Trials
@@ -219,10 +218,8 @@ None.
 | Containment Bay P1T6 (Normal) | 576 | 183 | No | Unknown | Unknown |
 | Containment Bay S1T7 (Normal) | 517 | 134 | No | Unknown | Unknown |
 | Containment Bay Z1T9 (Normal) | 637 | 223 | No | Unknown | Unknown |
-| the Final Steps of Faith (Normal) | 559 | 169 | Yes | Unknown | Unknown |
 | the Limitless Blue (Hard) | 436 | 88 | Yes | Unknown | Unknown |
 | the Singularity Reactor (Normal) | 437 | 90 | Yes | Unknown | Unknown |
-| Thok ast Thok (Hard) | 432 | 86 | Yes | Unknown | Unknown |
 
 #### Extreme
 
@@ -773,6 +770,7 @@ None.
 | the Stone Vigil | 1042 | 11 | Yes | Yes | Yes |
 | the Sunken Temple of Qarn | 1267 | 9 | Yes | Yes | Yes |
 | the Tam-Tara Deepcroft | 1037 | 2 | Yes | Yes | Yes |
+| the Tam-Tara Deepcroft (Hard) | 373 | 24 | Yes | Yes | Yes |
 | the Thousand Maws of Toto-Rak | 1039 | 1 | Yes | Yes | Yes |
 | the Wanderer's Palace | 159 | 10 | Yes | Yes | Yes |
 
@@ -851,7 +849,10 @@ None.
 
 #### Trials
 
-None.
+| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
+| --- | ---: | ---: | --- | --- | --- |
+| the Final Steps of Faith (Normal) | 559 | 169 | Yes | Yes | Yes |
+| Thok ast Thok (Hard) | 432 | 86 | Yes | Yes | Yes |
 
 #### Extreme
 
