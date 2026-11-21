@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.56 - 2026-11-20 - Backend compatibility
+
+- **Updated BossModReborn targeting compatibility.** GMC checks the native targeting and action methods it uses so compatible updates can keep automatic target handoff.
+- **Updated alliance raid compatibility.** The Byregot, Azeyma and Nophica continuations use the loaded encounter graph and callbacks to check compatibility.
+
 ## 3.2.0.55 - 2026-11-20 - Company of Stone radar
 
 - **Updated the Company of Stone radar.** Knuckle Crusher telegraphs become more visible as each cast approaches resolution.
