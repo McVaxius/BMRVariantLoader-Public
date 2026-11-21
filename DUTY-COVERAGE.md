@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 197 | 88 |
-| Movement hints | 633 | 27 | 107 |
+| Movement hints | 640 | 27 | 100 |
 
 ## Needs coverage or verification
 
@@ -132,21 +132,21 @@ None.
 | Nouveau Riche | 232 | 311 | Yes | Unknown | Yes |
 | Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
 | Once Upon a Time in Doma | 412 | 389 | No | Unknown | Unknown |
-| The One That Got Away | 231 | 305 | Yes | Unknown | Unknown |
+| The One That Got Away | 231 | 305 | Yes | Unknown | Yes |
 | The One That Got Away | 236 | 306 | Yes | Unknown | Yes |
-| Parley in the Sagolii | 312 | 361 | No | Unknown | Unknown |
+| Parley in the Sagolii | 312 | 361 | No | Unknown | Yes |
 | Pincer Maneuver | 287 | 347 | Yes | Unknown | Yes |
 | Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | Unknown | Unknown |
 | Primal Burdens | 326 | 375 | Yes | Unknown | Unknown |
-| Proof of Might | 239 | 309 | No | Unknown | Unknown |
-| Proof of Might | 240 | 310 | No | Unknown | Unknown |
+| Proof of Might | 239 | 309 | No | Unknown | Yes |
+| Proof of Might | 240 | 310 | No | Unknown | Yes |
 | The Reason Roaille | 410 | 387 | Yes | No | Yes |
 | The Rematch | 257 | 318 | Yes | No | Yes |
 | Requiem for the Fallen | 322 | 371 | Yes | No | No |
 | Return of the Holyfist | 261 | 322 | No | Unknown | Unknown |
-| Return of the Holyfist | 251 | 323 | Yes | Unknown | Unknown |
-| Seer Folly | 319 | 368 | Yes | Unknown | Unknown |
-| Slave to the Code | 406 | 383 | No | Unknown | Unknown |
+| Return of the Holyfist | 251 | 323 | Yes | Unknown | Yes |
+| Seer Folly | 319 | 368 | Yes | Unknown | Yes |
+| Slave to the Code | 406 | 383 | No | Unknown | Yes |
 | The Spirit Is Willing | 258 | 319 | No | Unknown | Unknown |
 | Spirithold Broken | 225 | 297 | Yes | No | Unknown |
 | Star-crossed Rivals | 260 | 321 | Yes | No | Unknown |
