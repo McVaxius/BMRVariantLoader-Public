@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.58 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
 ## Coverage at a glance
 
-**767 duties** with 476 showing all three features and 291 needing coverage or verification. 202 duties have at least one Unknown.
+**767 duties** with 477 showing all three features and 290 needing coverage or verification. 195 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 479 | 133 | 155 |
-| Movement hints | 552 | 27 | 188 |
+| Radar | 480 | 145 | 142 |
+| Movement hints | 558 | 27 | 182 |
 
 ## Needs coverage or verification
 
@@ -51,23 +51,23 @@ Public God Mod Companion 3.2.0.58 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Binding Coil of Bahamut - Turn 3 (Normal) | 243 | 95 | No | Unknown | Unknown |
-| the Final Coil of Bahamut - Turn 1 (Normal) | 193 | 107 | No | Unknown | Unknown |
-| the Final Coil of Bahamut - Turn 2 (Normal) | 194 | 108 | No | Unknown | Unknown |
-| the Final Coil of Bahamut - Turn 3 (Normal) | 195 | 109 | No | Unknown | Unknown |
-| the Final Coil of Bahamut - Turn 4 (Normal) | 196 | 110 | No | Unknown | Unknown |
-| the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | No | Unknown | Unknown |
-| the Second Coil of Bahamut - Turn 2 (Normal) | 356 | 99 | No | Unknown | Unknown |
-| the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | No | Unknown | Unknown |
-| the Second Coil of Bahamut - Turn 4 (Normal) | 358 | 101 | No | Unknown | Unknown |
+| the Final Coil of Bahamut - Turn 1 (Normal) | 193 | 107 | No | No | Yes |
+| the Final Coil of Bahamut - Turn 2 (Normal) | 194 | 108 | No | No | Yes |
+| the Final Coil of Bahamut - Turn 3 (Normal) | 195 | 109 | No | No | Yes |
+| the Final Coil of Bahamut - Turn 4 (Normal) | 196 | 110 | No | No | Yes |
+| the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | No | No | Unknown |
+| the Second Coil of Bahamut - Turn 2 (Normal) | 356 | 99 | No | No | Yes |
+| the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | No | No | Unknown |
+| the Second Coil of Bahamut - Turn 4 (Normal) | 358 | 101 | No | No | Yes |
 
 #### Savage
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Second Coil of Bahamut (Savage) - Turn 1 (Normal) | 380 | 103 | No | Unknown | Unknown |
-| the Second Coil of Bahamut (Savage) - Turn 2 (Normal) | 381 | 104 | No | Unknown | Unknown |
-| the Second Coil of Bahamut (Savage) - Turn 3 (Normal) | 382 | 105 | No | Unknown | Unknown |
-| the Second Coil of Bahamut (Savage) - Turn 4 (Normal) | 383 | 106 | No | Unknown | Unknown |
+| the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | No | No | Unknown |
+| the Second Coil of Bahamut (Savage) - Turn 2 | 381 | 104 | No | No | Unknown |
+| the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | No | No | Unknown |
+| the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | No | No | Unknown |
 
 #### Alliance
 
@@ -209,7 +209,6 @@ None.
 | Containment Bay P1T6 (Extreme) | 577 | 184 | No | No | No |
 | Containment Bay S1T7 (Extreme) | 524 | 135 | No | No | No |
 | the Limitless Blue (Extreme) | 447 | 89 | No | No | No |
-| Thok ast Thok (Extreme) | 446 | 87 | Yes | Unknown | Yes |
 
 #### Raids
 
@@ -742,6 +741,7 @@ None.
 | Containment Bay Z1T9 (Extreme) | 638 | 224 | Yes | Yes | Yes |
 | the Minstrel's Ballad: Nidhogg's Rage | 566 | 170 | Yes | Yes | Yes |
 | the Minstrel's Ballad: Thordan's Reign | 448 | 91 | Yes | Yes | Yes |
+| Thok ast Thok (Extreme) | 446 | 87 | Yes | Yes | Yes |
 
 #### Raids
 
