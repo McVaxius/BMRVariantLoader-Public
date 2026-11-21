@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.62 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 129 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 126 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 193 | 92 |
-| Movement hints | 621 | 27 | 119 |
+| Movement hints | 624 | 27 | 116 |
 
 ## Needs coverage or verification
 
@@ -55,7 +55,7 @@ Public God Mod Companion 3.2.0.62 and BossModReborn 7.5.8.5. Duty names and IDs 
 | the Final Coil of Bahamut - Turn 2 (Normal) | 194 | 108 | No | No | Yes |
 | the Final Coil of Bahamut - Turn 3 (Normal) | 195 | 109 | No | No | Yes |
 | the Final Coil of Bahamut - Turn 4 (Normal) | 196 | 110 | No | No | Yes |
-| the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | No | No | Unknown |
+| the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | No | No | Yes |
 | the Second Coil of Bahamut - Turn 2 (Normal) | 356 | 99 | No | No | Yes |
 | the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | No | No | Unknown |
 | the Second Coil of Bahamut - Turn 4 (Normal) | 358 | 101 | No | No | Yes |
@@ -64,10 +64,10 @@ Public God Mod Companion 3.2.0.62 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | No | No | Unknown |
+| the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | No | No | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 2 | 381 | 104 | No | No | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | No | No | Unknown |
-| the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | No | No | Unknown |
+| the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | No | No | Yes |
 
 #### Alliance
 
