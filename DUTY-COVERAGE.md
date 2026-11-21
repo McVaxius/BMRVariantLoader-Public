@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.68 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.69 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.68 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 200 | 85 |
-| Movement hints | 673 | 27 | 67 |
+| Movement hints | 675 | 27 | 65 |
 
 ## Needs coverage or verification
 
@@ -357,7 +357,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | A Beacon for Bad Things | 640 | 456 | No | Unknown | Unknown |
 | A Game of Life and Death | 726 | 452 | Yes | No | Yes |
-| A Vermilion Vendetta | 675 | 459 | No | Unknown | Unknown |
+| A Vermilion Vendetta | 675 | 459 | No | Unknown | Yes |
 | An Egi-stential Crisis | 701 | 454 | No | Unknown | Unknown |
 | Choices and Paths | 647 | 450 | No | Unknown | Unknown |
 | Come Rain or Shrine | 664 | 442 | Yes | No | Yes |
@@ -375,7 +375,7 @@ None.
 | Master Musosai | 666 | 462 | No | Unknown | Unknown |
 | Matsuba Mayhem | 710 | 250 | No | Unknown | Unknown |
 | The Mongrel and the Knight | 700 | 449 | No | Unknown | Unknown |
-| Nightkin | 676 | 461 | No | Unknown | Unknown |
+| Nightkin | 676 | 461 | No | Unknown | Yes |
 | One Autumn's Secret | 703 | 446 | No | Unknown | Unknown |
 | One Golem to Rule Them All | 673 | 445 | Yes | No | Yes |
 | Our Compromise | 716 | 272 | Yes | No | Yes |
