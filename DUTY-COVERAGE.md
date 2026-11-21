@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 103 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 101 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 200 | 85 |
-| Movement hints | 658 | 27 | 82 |
+| Movement hints | 660 | 27 | 80 |
 
 ## Needs coverage or verification
 
@@ -377,14 +377,14 @@ None.
 | The Mongrel and the Knight | 700 | 449 | No | Unknown | Unknown |
 | Nightkin | 676 | 461 | No | Unknown | Unknown |
 | One Autumn's Secret | 703 | 446 | No | Unknown | Unknown |
-| One Golem to Rule Them All | 673 | 445 | Yes | No | Unknown |
+| One Golem to Rule Them All | 673 | 445 | Yes | No | Yes |
 | Our Compromise | 716 | 272 | Yes | No | Yes |
 | Release the Hounds | 699 | 448 | No | Unknown | Unknown |
 | Return to the Rift | 658 | 471 | Yes | No | Yes |
 | Shades of Shatotto | 669 | 444 | Yes | No | Unknown |
 | Stained in Scarlet | 672 | 460 | No | Unknown | Unknown |
 | Sweet Dreams Are Made of Peace | 704 | 447 | No | Unknown | Unknown |
-| What She Always Wanted | 678 | 457 | Yes | No | Unknown |
+| What She Always Wanted | 678 | 457 | Yes | No | Yes |
 | When Clans Collide | 723 | 274 | No | Unknown | Unknown |
 | With Heart and Steel | 707 | 245 | No | Unknown | Unknown |
 |  A Test of Courage | 657 | 470 | No | Unknown | Unknown |
