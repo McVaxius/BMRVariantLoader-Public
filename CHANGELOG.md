@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.52 - 2026-11-20 - Hells’ Lid radar fades
+
+- **Updated Otake-maru and Kamaitachi’s radars.** Eight cast telegraphs become more visible as the attacks approach resolution.
+
 ## 3.2.0.51 - 2026-11-20 - Kugane Castle radar fades
 
 - **Updated Zuiko-maru and Dojun-maru’s radars.** Clearout, Harakiri, Juji Shuriken, the clone’s Juji Shuriken, and Tatami Gaeshi become more visible as their casts approach resolution.
