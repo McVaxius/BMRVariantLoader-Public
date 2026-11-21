@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.56 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 364 showing all three features and 403 needing coverage or verification. 370 duties have at least one Unknown.
+**767 duties** with 394 showing all three features and 373 needing coverage or verification. 340 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 368 | 36 | 363 |
-| Movement hints | 381 | 22 | 364 |
+| Radar | 398 | 36 | 333 |
+| Movement hints | 411 | 22 | 334 |
 
 ## Needs coverage or verification
 
@@ -338,15 +338,6 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Alphascape V1.0 (Normal) | 798 | 587 | Yes | Unknown | Unknown |
-| Alphascape V2.0 (Normal) | 799 | 588 | Yes | Unknown | Unknown |
-| Alphascape V3.0 (Normal) | 800 | 589 | Yes | Unknown | Unknown |
-| Alphascape V4.0 (Normal) | 801 | 590 | Yes | Unknown | Unknown |
-| Deltascape V2.0 (Normal) | 692 | 253 | Yes | Unknown | Unknown |
-| Deltascape V4.0 (Normal) | 694 | 255 | Yes | Unknown | Unknown |
-| Sigmascape V1.0 (Normal) | 748 | 286 | Yes | Unknown | Unknown |
-| Sigmascape V2.0 (Normal) | 749 | 287 | Yes | Unknown | Unknown |
-| Sigmascape V3.0 (Normal) | 750 | 288 | Yes | Unknown | Unknown |
 
 #### Savage
 
@@ -385,19 +376,14 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | A Beacon for Bad Things | 640 | 456 | No | Unknown | Unknown |
 | A Game of Life and Death | 726 | 452 | Yes | Unknown | Unknown |
-| a Requiem for Heroes | 830 | 648 | Yes | Unknown | Unknown |
 | A Vermilion Vendetta | 675 | 459 | No | Unknown | Unknown |
 | An Egi-stential Crisis | 701 | 454 | No | Unknown | Unknown |
-| The Battle on Bekko | 711 | 251 | Yes | Unknown | Unknown |
-| Blood on the Deck | 708 | 248 | Yes | Unknown | Unknown |
 | Choices and Paths | 647 | 450 | No | Unknown | Unknown |
 | Come Rain or Shrine | 664 | 442 | Yes | Unknown | Unknown |
 | The Crimson Duelist | 668 | 458 | No | Unknown | Unknown |
 | Curious Gorge Meets His Match | 717 | 260 | Yes | Unknown | Unknown |
 | Dark as the Night Sky | 713 | 267 | Yes | Unknown | Unknown |
-| Dragon Sound | 714 | 273 | Yes | Unknown | Unknown |
 | Emissary of the Dawn | 769 | 582 | Yes | Unknown | Unknown |
-| The Face of True Evil | 709 | 249 | Yes | Unknown | Unknown |
 | Foxfire | 667 | 443 | Yes | Unknown | Unknown |
 | The Heart of the Problem | 718 | 266 | Yes | Unknown | Unknown |
 | In Crimson It Began | 659 | 464 | Yes | Unknown | Unknown |
@@ -409,22 +395,17 @@ None.
 | Master Musosai | 666 | 462 | No | Unknown | Unknown |
 | Matsuba Mayhem | 710 | 250 | No | Unknown | Unknown |
 | The Mongrel and the Knight | 700 | 449 | No | Unknown | Unknown |
-| Naadam | 688 | 246 | Yes | Unknown | Unknown |
 | Nightkin | 676 | 461 | No | Unknown | Unknown |
 | One Autumn's Secret | 703 | 446 | No | Unknown | Unknown |
 | One Golem to Rule Them All | 673 | 445 | Yes | Unknown | Unknown |
-| The Orphans and the Broken Blade | 715 | 271 | Yes | Unknown | Unknown |
 | Our Compromise | 716 | 272 | Yes | Unknown | Unknown |
 | Release the Hounds | 699 | 448 | No | Unknown | Unknown |
-| The Resonant | 684 | 269 | Yes | Unknown | Unknown |
-| Return of the Bull | 403 | 282 | Yes | Unknown | Unknown |
 | Return to the Rift | 658 | 471 | Yes | Unknown | Unknown |
 | Shades of Shatotto | 669 | 444 | Yes | Unknown | Unknown |
 | Stained in Scarlet | 672 | 460 | No | Unknown | Unknown |
 | Sweet Dreams Are Made of Peace | 704 | 447 | No | Unknown | Unknown |
 | What She Always Wanted | 678 | 457 | Yes | Unknown | Unknown |
 | When Clans Collide | 723 | 274 | No | Unknown | Unknown |
-| The Will of the Moon | 797 | 609 | Yes | Unknown | Unknown |
 | With Heart and Steel | 707 | 245 | No | Unknown | Unknown |
 |  A Test of Courage | 657 | 470 | No | Unknown | Unknown |
 |  Schism between Sisters | 760 | 477 | No | Unknown | Unknown |
@@ -465,17 +446,6 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Eden's Gate: Descent (Normal) | 850 | 684 | Yes | Unknown | Unknown |
-| Eden's Gate: Inundation (Normal) | 851 | 682 | Yes | Unknown | Unknown |
-| Eden's Gate: Resurrection (Normal) | 849 | 653 | Yes | Unknown | Unknown |
-| Eden's Gate: Sepulture (Normal) | 852 | 689 | Yes | Unknown | Unknown |
-| Eden's Promise: Anamorphosis (Normal) | 944 | 751 | Yes | Unknown | Unknown |
-| Eden's Promise: Eternity (Normal) | 945 | 758 | Yes | Unknown | Unknown |
-| Eden's Promise: Litany (Normal) | 943 | 747 | Yes | Unknown | Unknown |
-| Eden's Promise: Umbra (Normal) | 942 | 749 | Yes | Unknown | Unknown |
-| Eden's Verse: Furor (Normal) | 903 | 719 | Yes | Unknown | Unknown |
-| Eden's Verse: Iconoclasm (Normal) | 904 | 726 | Yes | Unknown | Unknown |
-| Eden's Verse: Refulgence (Normal) | 905 | 728 | Yes | Unknown | Unknown |
 
 #### Savage
 
@@ -966,8 +936,17 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Alphascape V1.0 (Normal) | 798 | 587 | Yes | Yes | Yes |
+| Alphascape V2.0 (Normal) | 799 | 588 | Yes | Yes | Yes |
+| Alphascape V3.0 (Normal) | 800 | 589 | Yes | Yes | Yes |
+| Alphascape V4.0 (Normal) | 801 | 590 | Yes | Yes | Yes |
 | Deltascape V1.0 (Normal) | 691 | 252 | Yes | Yes | Yes |
+| Deltascape V2.0 (Normal) | 692 | 253 | Yes | Yes | Yes |
 | Deltascape V3.0 (Normal) | 693 | 254 | Yes | Yes | Yes |
+| Deltascape V4.0 (Normal) | 694 | 255 | Yes | Yes | Yes |
+| Sigmascape V1.0 (Normal) | 748 | 286 | Yes | Yes | Yes |
+| Sigmascape V2.0 (Normal) | 749 | 287 | Yes | Yes | Yes |
+| Sigmascape V3.0 (Normal) | 750 | 288 | Yes | Yes | Yes |
 | Sigmascape V4.0 (Normal) | 751 | 289 | Yes | Yes | Yes |
 
 #### Savage
@@ -1007,17 +986,27 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| a Requiem for Heroes | 830 | 648 | Yes | Yes | Yes |
 | An Art for the Living | 702 | 455 | Yes | Yes | Yes |
+| The Battle on Bekko | 711 | 251 | Yes | Yes | Yes |
 | Best Served with Cold Steel | 670 | 463 | Yes | Yes | Yes |
+| Blood on the Deck | 708 | 248 | Yes | Yes | Yes |
+| Dragon Sound | 714 | 273 | Yes | Yes | Yes |
+| The Face of True Evil | 709 | 249 | Yes | Yes | Yes |
 | His Forgotten Home | 634 | 469 | Yes | Yes | Yes |
 | Hope on the Waves | 757 | 472 | Yes | Yes | Yes |
 | The Measure of His Reach | 687 | 468 | Yes | Yes | Yes |
+| Naadam | 688 | 246 | Yes | Yes | Yes |
+| The Orphans and the Broken Blade | 715 | 271 | Yes | Yes | Yes |
 | Our Unsung Heroes | 722 | 265 | Yes | Yes | Yes |
 | The Power to Protect | 648 | 451 | Yes | Yes | Yes |
 | Raising the Sword | 706 | 270 | Yes | Yes | Yes |
+| The Resonant | 684 | 269 | Yes | Yes | Yes |
+| Return of the Bull | 403 | 282 | Yes | Yes | Yes |
 | Rhalgr's Beacon | 671 | 466 | Yes | Yes | Yes |
 | The Time between the Seconds | 685 | 465 | Yes | Yes | Yes |
 | Tortoise in Time | 781 | 551 | Yes | Yes | Yes |
+| The Will of the Moon | 797 | 609 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
@@ -1064,7 +1053,18 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Eden's Gate: Descent (Normal) | 850 | 684 | Yes | Yes | Yes |
+| Eden's Gate: Inundation (Normal) | 851 | 682 | Yes | Yes | Yes |
+| Eden's Gate: Resurrection (Normal) | 849 | 653 | Yes | Yes | Yes |
+| Eden's Gate: Sepulture (Normal) | 852 | 689 | Yes | Yes | Yes |
+| Eden's Promise: Anamorphosis (Normal) | 944 | 751 | Yes | Yes | Yes |
+| Eden's Promise: Eternity (Normal) | 945 | 758 | Yes | Yes | Yes |
+| Eden's Promise: Litany (Normal) | 943 | 747 | Yes | Yes | Yes |
+| Eden's Promise: Umbra (Normal) | 942 | 749 | Yes | Yes | Yes |
 | Eden's Verse: Fulmination (Normal) | 902 | 715 | Yes | Yes | Yes |
+| Eden's Verse: Furor (Normal) | 903 | 719 | Yes | Yes | Yes |
+| Eden's Verse: Iconoclasm (Normal) | 904 | 726 | Yes | Yes | Yes |
+| Eden's Verse: Refulgence (Normal) | 905 | 728 | Yes | Yes | Yes |
 
 #### Savage
 
