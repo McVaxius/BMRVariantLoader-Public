@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 200 | 85 |
-| Movement hints | 669 | 27 | 71 |
+| Movement hints | 671 | 27 | 69 |
 
 ## Needs coverage or verification
 
@@ -113,7 +113,7 @@ None.
 | In Nature's Embrace | 235 | 301 | Yes | No | Yes |
 | In the Eyes of Gods and Men | 301 | 343 | Yes | No | Yes |
 | Into a Copper Hell | 274 | 338 | Yes | No | Yes |
-| Into the Dragon's Maw | 316 | 365 | No | Unknown | Unknown |
+| Into the Dragon's Maw | 316 | 365 | No | Unknown | Yes |
 | Just Deserts | 272 | 333 | Yes | No | Yes |
 | Keeping the Oath | 313 | 362 | Yes | No | Yes |
 | Keeping the Spirit Alive | 259 | 320 | No | Unknown | Unknown |
@@ -131,7 +131,7 @@ None.
 | Notorious Biggs | 304 | 351 | Yes | No | Yes |
 | Nouveau Riche | 232 | 311 | Yes | Unknown | Yes |
 | Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
-| Once Upon a Time in Doma | 412 | 389 | No | Unknown | Unknown |
+| Once Upon a Time in Doma | 412 | 389 | No | Unknown | Yes |
 | The One That Got Away | 231 | 305 | Yes | Unknown | Yes |
 | The One That Got Away | 236 | 306 | Yes | Unknown | Yes |
 | Parley in the Sagolii | 312 | 361 | No | Unknown | Yes |
