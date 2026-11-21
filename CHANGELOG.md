@@ -2,6 +2,19 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.84 - 2026-11-21 - Trial and alliance encounter updates
+
+- **Added The Chrysalis.** Shows timed attacks and orb guidance, and switches to the Aetherial Tear during the meteor phase.
+- **Added The Dragon's Neck.** Shows timed attacks, Severe Snort landing guidance, and Snortsault countdown and pulse warnings.
+- **Added final Gilgamesh in Battle on the Big Bridge.** Shows timed warnings and movement hints for Whirlwind Slash, Bitter End, and Pradamante on the final platform.
+- **Fixed Phlegethon's Abyssal Slash avoidance.** Movement hints now follow the same live attack shapes and timing as the radar.
+- **Fixed Cloud of Darkness's Feint Particle Beam on BossModReborn.** Corrected the opening and follow-up circles, hit timing, and chase length.
+- **Updated Phlegethon, Amon, and the Five-headed Dragon.** Their source filenames now match the encounters they support.
+
+### Upcoming
+
+- Additional trial coverage is under review for the opening Gilgamesh duel and the Normal Containment Bay fights.
+
 ## 3.2.0.83 - 2026-11-21 - Encounter maintenance
 
 - **Updated Savage Phantom Train.** Its deck geometry and mechanic logic now share the encounter file.
