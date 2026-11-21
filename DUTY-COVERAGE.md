@@ -15,8 +15,6 @@ Public God Mod Companion 3.2.0.54 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Amdapor Keep (Hard) | 189 | 29 | No | Unknown | Unknown |
 | Copperbell Mines (Hard) | 349 | 18 | No | Unknown | Unknown |
 | Halatali (Hard) | 360 | 21 | No | Unknown | Unknown |
-| Haukke Manor (Hard) | 350 | 19 | Yes | Unknown | Unknown |
-| the Lost City of Amdapor | 363 | 22 | Yes | Unknown | Unknown |
 | the Stone Vigil (Hard) | 365 | 25 | No | Unknown | Unknown |
 | the Sunken Temple of Qarn (Hard) | 367 | 26 | No | Unknown | Unknown |
 | the Wanderer's Palace (Hard) | 188 | 30 | No | Unknown | Unknown |
@@ -218,8 +216,6 @@ None.
 | Containment Bay P1T6 (Normal) | 576 | 183 | No | Unknown | Unknown |
 | Containment Bay S1T7 (Normal) | 517 | 134 | No | Unknown | Unknown |
 | Containment Bay Z1T9 (Normal) | 637 | 223 | No | Unknown | Unknown |
-| the Limitless Blue (Hard) | 436 | 88 | Yes | Unknown | Unknown |
-| the Singularity Reactor (Normal) | 437 | 90 | Yes | Unknown | Unknown |
 
 #### Extreme
 
@@ -230,7 +226,7 @@ None.
 | Containment Bay Z1T9 (Extreme) | 638 | 224 | Yes | Unknown | Unknown |
 | the Limitless Blue (Extreme) | 447 | 89 | No | Unknown | Unknown |
 | the Minstrel's Ballad: Nidhogg's Rage | 566 | 170 | Yes | Unknown | Unknown |
-| Thok ast Thok (Extreme) | 446 | 87 | Yes | Unknown | Unknown |
+| Thok ast Thok (Extreme) | 446 | 87 | Yes | Unknown | Yes |
 
 #### Raids
 
@@ -760,8 +756,10 @@ None.
 | Dzemael Darkhold | 1330 | 13 | Yes | Yes | Yes |
 | Halatali | 1245 | 7 | Yes | Yes | Yes |
 | Haukke Manor | 1040 | 6 | Yes | Yes | Yes |
+| Haukke Manor (Hard) | 350 | 19 | Yes | Yes | Yes |
 | Hullbreaker Isle | 361 | 23 | Yes | Yes | Yes |
 | the Keeper of the Lake | 1063 | 32 | Yes | Yes | Yes |
+| the Lost City of Amdapor | 363 | 22 | Yes | Yes | Yes |
 | Pharos Sirius | 160 | 17 | Yes | Yes | Yes |
 | the Praetorium | 1044 | 16 | Yes | Yes | Yes |
 | Sastasha | 1036 | 4 | Yes | Yes | Yes |
@@ -852,6 +850,8 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Final Steps of Faith (Normal) | 559 | 169 | Yes | Yes | Yes |
+| the Limitless Blue (Hard) | 436 | 88 | Yes | Yes | Yes |
+| the Singularity Reactor (Normal) | 437 | 90 | Yes | Yes | Yes |
 | Thok ast Thok (Hard) | 432 | 86 | Yes | Yes | Yes |
 
 #### Extreme
