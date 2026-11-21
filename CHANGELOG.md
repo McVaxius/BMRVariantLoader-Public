@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.54 - 2026-11-20 - Illuminati Commander radar
+
+- **Updated the Illuminati Commander radar.** Bomb Toss and Hot Cross Burst become more visible as their casts approach resolution.
+
 ## 3.2.0.53 - 2026-11-20 - Liquid Flame and Magitek Vangob radar
 
 - **Updated Liquid Flame’s radar.** Sea of Flames fades with its cast timing, and nearby players can see the Slosh lane.
