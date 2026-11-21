@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.64 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 200 | 85 |
-| Movement hints | 671 | 27 | 69 |
+| Movement hints | 672 | 27 | 68 |
 
 ## Needs coverage or verification
 
@@ -244,7 +244,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Flare for the Dramatic | 503 | 440 | No | Unknown | Unknown |
+| A Flare for the Dramatic | 503 | 440 | No | Unknown | Yes |
 | A Journey of Purification | 469 | 407 | No | Unknown | Unknown |
 | A Joye-ful Reunion | 472 | 410 | No | Unknown | Unknown |
 | A Series of Unfortunate Events | 455 | 395 | Yes | No | Yes |
