@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 120 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 116 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 197 | 88 |
-| Movement hints | 640 | 27 | 100 |
+| Movement hints | 644 | 27 | 96 |
 
 ## Needs coverage or verification
 
@@ -148,16 +148,16 @@ None.
 | Seer Folly | 319 | 368 | Yes | Unknown | Yes |
 | Slave to the Code | 406 | 383 | No | Unknown | Yes |
 | The Spirit Is Willing | 258 | 319 | No | Unknown | Unknown |
-| Spirithold Broken | 225 | 297 | Yes | No | Unknown |
-| Star-crossed Rivals | 260 | 321 | Yes | No | Unknown |
+| Spirithold Broken | 225 | 297 | Yes | No | Yes |
+| Star-crossed Rivals | 260 | 321 | Yes | No | Yes |
 | Stifled Screams | 405 | 382 | Yes | No | Yes |
 | Stray into the Shadows | 404 | 381 | Yes | No | Yes |
 | Sweet Sorrows | 408 | 385 | Yes | No | Yes |
 | That Old Familiar Feeling | 254 | 315 | Yes | No | Yes |
-| The Threat of Perplexity | 267 | 325 | Yes | No | Unknown |
+| The Threat of Perplexity | 267 | 325 | Yes | No | Yes |
 | The Threat of Superiority | 266 | 324 | Yes | No | Yes |
 | To Catch a Poacher | 229 | 303 | Yes | No | Unknown |
-| To Guard a Guardian | 226 | 298 | Yes | No | Unknown |
+| To Guard a Guardian | 226 | 298 | Yes | No | Yes |
 | Trial by Water | 234 | 300 | Yes | No | Unknown |
 | Trial by Wind | 289 | 349 | Yes | No | Unknown |
 | Ul'dah's Most Wanted | 253 | 314 | Yes | No | Yes |
