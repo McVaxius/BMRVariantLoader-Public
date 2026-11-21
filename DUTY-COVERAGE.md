@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.56 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.57 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
 ## Coverage at a glance
 
-**767 duties** with 394 showing all three features and 373 needing coverage or verification. 340 duties have at least one Unknown.
+**767 duties** with 404 showing all three features and 363 needing coverage or verification. 330 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 398 | 36 | 333 |
-| Movement hints | 411 | 22 | 334 |
+| Radar | 408 | 36 | 323 |
+| Movement hints | 421 | 22 | 324 |
 
 ## Needs coverage or verification
 
@@ -476,23 +476,13 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Sleep Disturbed | 914 | 724 | Yes | Unknown | Unknown |
 | A-Digging We Will Go | 864 | 665 | Yes | Unknown | Unknown |
 | As the Heart Bids | 894 | 703 | No | Unknown | Unknown |
 | the Bozja Incident | 911 | 723 | No | Unknown | Unknown |
 | Coming Clean | 860 | 680 | Yes | Unknown | Unknown |
-| Death Unto Dawn | 977 | 780 | Yes | Unknown | Unknown |
-| Faded Memories | 932 | 743 | Yes | Unknown | Unknown |
 | Fit for a Queen | 955 | 765 | No | Unknown | Unknown |
-| The Great Ship Vylbrand | 954 | 764 | Yes | Unknown | Unknown |
-| The Hardened Heart | 873 | 678 | Yes | Unknown | Unknown |
 | Hired Gunblades | 865 | 668 | Yes | Unknown | Unknown |
-| The Hunter's Legacy | 875 | 691 | Yes | Unknown | Unknown |
 | Legend of the Not-so-hidden Temple | 859 | 681 | Yes | Unknown | Unknown |
-| The Lost and the Found | 874 | 679 | Yes | Unknown | Unknown |
-| Nyelbert's Lament | 876 | 686 | Yes | Unknown | Unknown |
-| Sleep Now in Sapphire | 925 | 740 | Yes | Unknown | Unknown |
-| Vows of Virtue, Deeds of Cruelty | 893 | 702 | Yes | Unknown | Unknown |
 | When It Rains | 862 | 663 | Yes | Unknown | Unknown |
 
 #### Treasure Hunt
@@ -1089,15 +1079,25 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | A Feast of Lies | 863 | 664 | Yes | Yes | Yes |
+| A Sleep Disturbed | 914 | 724 | Yes | Yes | Yes |
 | A Tearful Reunion | 872 | 675 | Yes | Yes | Yes |
 | Courage Born of Fear | 871 | 674 | Yes | Yes | Yes |
+| Death Unto Dawn | 977 | 780 | Yes | Yes | Yes |
+| Faded Memories | 932 | 743 | Yes | Yes | Yes |
 | Gamboling for Gil | 867 | 670 | Yes | Yes | Yes |
+| The Great Ship Vylbrand | 954 | 764 | Yes | Yes | Yes |
+| The Hardened Heart | 873 | 678 | Yes | Yes | Yes |
+| The Hunter's Legacy | 875 | 691 | Yes | Yes | Yes |
+| The Lost and the Found | 874 | 679 | Yes | Yes | Yes |
+| Nyelbert's Lament | 876 | 686 | Yes | Yes | Yes |
 | The Oracle of Light | 861 | 662 | Yes | Yes | Yes |
 | Save the Last Dance for Me | 868 | 671 | Yes | Yes | Yes |
+| Sleep Now in Sapphire | 925 | 740 | Yes | Yes | Yes |
 | Sleep Now in Sapphire | 926 | 741 | Yes | Yes | Yes |
 | The Soul of Temperance | 870 | 673 | Yes | Yes | Yes |
 | Steel against Steel | 866 | 669 | Yes | Yes | Yes |
 | To Have Loved and Lost | 869 | 672 | Yes | Yes | Yes |
+| Vows of Virtue, Deeds of Cruelty | 893 | 702 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
