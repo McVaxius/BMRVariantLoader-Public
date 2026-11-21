@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 106 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 103 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
-| Radar | 482 | 197 | 88 |
-| Movement hints | 655 | 27 | 85 |
+| Radar | 482 | 200 | 85 |
+| Movement hints | 657 | 27 | 83 |
 
 ## Needs coverage or verification
 
@@ -518,7 +518,7 @@ None.
 | Forlorn Glory | 1051 | 845 | No | Unknown | Unknown |
 | Generational Bonding | 1115 | 907 | No | Unknown | Unknown |
 | The Gift of Mercy | 1019 | 820 | No | Unknown | Unknown |
-| The Harvest Begins | 1020 | 814 | Yes | Unknown | Yes |
+| The Harvest Begins | 1020 | 814 | Yes | No | Yes |
 | In from the Cold | 1011 | 793 | Yes | Unknown | Yes |
 | Laid to Rest | 1017 | 818 | No | Unknown | Unknown |
 | To Calmer Seas | 1016 | 799 | No | Unknown | Unknown |
@@ -573,8 +573,8 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Rush of Cold Wind | 1371 | 1101 | No | Unknown | Unknown |
-| Clotted Crime | 1329 | 1087 | No | Unknown | Unknown |
+| A Rush of Cold Wind | 1371 | 1101 | No | No | Yes |
+| Clotted Crime | 1329 | 1087 | No | No | Yes |
 | Where We Call Home | 1328 | 1085 | Yes | No | Yes |
 
 #### Treasure Hunt
