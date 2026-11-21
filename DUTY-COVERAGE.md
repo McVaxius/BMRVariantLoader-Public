@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.57 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.58 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
 ## Coverage at a glance
 
-**767 duties** with 419 showing all three features and 348 needing coverage or verification. 312 duties have at least one Unknown.
+**767 duties** with 438 showing all three features and 329 needing coverage or verification. 290 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 421 | 51 | 295 |
-| Movement hints | 442 | 22 | 303 |
+| Radar | 438 | 54 | 275 |
+| Movement hints | 461 | 24 | 282 |
 
 ## Needs coverage or verification
 
@@ -224,15 +224,12 @@ None.
 | Alexander - The Arm of the Father (Savage) | 451 | 118 | No | Unknown | Unknown |
 | Alexander - The Arm of the Son (Savage) | 531 | 149 | No | Unknown | Unknown |
 | Alexander - The Breath of the Creator (Savage) | 585 | 191 | No | Unknown | Unknown |
-| Alexander - The Burden of the Father (Savage) | 452 | 119 | Yes | Unknown | Unknown |
 | Alexander - The Burden of the Son (Savage) | 532 | 150 | No | Unknown | Unknown |
 | Alexander - The Cuff of the Father (Savage) | 450 | 117 | No | Unknown | Unknown |
 | Alexander - The Cuff of the Son (Savage) | 530 | 148 | No | Unknown | Unknown |
-| Alexander - The Eyes of the Creator (Savage) | 584 | 190 | Yes | Unknown | Yes |
-| Alexander - The Fist of the Father (Savage) | 449 | 116 | Yes | Unknown | Unknown |
+| Alexander - The Eyes of the Creator (Savage) | 584 | 190 | Yes | No | Yes |
 | Alexander - The Fist of the Son (Savage) | 529 | 147 | No | Unknown | Unknown |
 | Alexander - The Heart of the Creator (Savage) | 586 | 192 | No | Unknown | Unknown |
-| Alexander - The Soul of the Creator (Savage) | 587 | 193 | Yes | Unknown | Unknown |
 
 #### Alliance
 
@@ -317,17 +314,15 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Great Hunt (Normal) | 761 | 474 | No | Unknown | Unknown |
+| the Great Hunt (Normal) | 761 | 474 | No | No | No |
 | Special Event I | 353 | 70 | No | Unknown | Unknown |
 
 #### Extreme
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Great Hunt (Extreme) | 762 | 475 | No | Unknown | Unknown |
+| the Great Hunt (Extreme) | 762 | 475 | No | No | No |
 | the Minstrel's Ballad: Shinryu's Domain | 730 | 278 | No | Unknown | Unknown |
-| the Minstrel's Ballad: Tsukuyomi's Pain | 779 | 538 | Yes | Unknown | Unknown |
-| the Pool of Tribute (Extreme) | 677 | 244 | Yes | Unknown | Unknown |
 
 #### Raids
 
@@ -440,9 +435,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Eden's Gate: Descent (Savage) | 854 | 685 | Yes | Unknown | Yes |
-| Eden's Gate: Inundation (Savage) | 855 | 683 | Yes | Unknown | Unknown |
 | Eden's Gate: Resurrection (Savage) | 853 | 654 | Yes | Unknown | Yes |
-| Eden's Gate: Sepulture (Savage) | 856 | 690 | Yes | Unknown | Unknown |
 | Eden's Promise: Anamorphosis (Savage) | 948 | 752 | No | Unknown | Unknown |
 | Eden's Promise: Eternity (Savage) | 949 | 759 | Yes | Unknown | Unknown |
 | Eden's Promise: Litany (Savage) | 947 | 748 | No | Unknown | Unknown |
@@ -450,7 +443,6 @@ None.
 | Eden's Verse: Fulmination (Savage) | 906 | 716 | Yes | Unknown | Yes |
 | Eden's Verse: Furor (Savage) | 907 | 720 | No | Unknown | Unknown |
 | Eden's Verse: Iconoclasm (Savage) | 908 | 727 | No | Unknown | Unknown |
-| Eden's Verse: Refulgence (Savage) | 909 | 729 | Yes | Unknown | Unknown |
 
 #### Ultimate Raids
 
@@ -498,25 +490,13 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Abyssos: The Eighth Circle (Normal) | 1087 | 883 | Yes | Unknown | Unknown |
-| Abyssos: The Fifth Circle (Normal) | 1081 | 872 | Yes | Unknown | Unknown |
-| Abyssos: The Seventh Circle (Normal) | 1085 | 876 | Yes | Unknown | Unknown |
-| Abyssos: The Sixth Circle (Normal) | 1083 | 880 | Yes | Unknown | Unknown |
 | Anabaseios: The Eleventh Circle (Normal) | 1151 | 940 | No | Unknown | Unknown |
-| Anabaseios: The Ninth Circle (Normal) | 1147 | 936 | Yes | Unknown | Unknown |
 | Anabaseios: The Tenth Circle (Normal) | 1149 | 938 | No | Unknown | Unknown |
 | Anabaseios: The Twelfth Circle (Normal) | 1153 | 942 | No | Unknown | Unknown |
-| Asphodelos: The First Circle (Normal) | 1002 | 808 | Yes | Yes | Unknown |
-| Asphodelos: The Fourth Circle (Normal) | 1008 | 800 | Yes | Unknown | Unknown |
-| Asphodelos: The Second Circle (Normal) | 1004 | 810 | Yes | Unknown | Unknown |
-| Asphodelos: The Third Circle (Normal) | 1006 | 806 | Yes | Unknown | Unknown |
 
 #### Savage
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Asphodelos: The First Circle (Savage) | 1003 | 809 | Yes | Yes | Unknown |
-| Asphodelos: The Fourth Circle (Savage) | 1009 | 801 | Yes | Unknown | Unknown |
+None.
 
 #### Ultimate Raids
 
@@ -822,7 +802,11 @@ None.
 
 #### Savage
 
-None.
+| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
+| --- | ---: | ---: | --- | --- | --- |
+| Alexander - The Burden of the Father (Savage) | 452 | 119 | Yes | Yes | Yes |
+| Alexander - The Fist of the Father (Savage) | 449 | 116 | Yes | Yes | Yes |
+| Alexander - The Soul of the Creator (Savage) | 587 | 193 | Yes | Yes | Yes |
 
 #### Alliance
 
@@ -909,6 +893,8 @@ None.
 | Emanation (Extreme) | 720 | 264 | Yes | Yes | Yes |
 | Hells' Kier (Extreme) | 811 | 597 | Yes | Yes | Yes |
 | the Jade Stoa (Extreme) | 758 | 291 | Yes | Yes | Yes |
+| the Minstrel's Ballad: Tsukuyomi's Pain | 779 | 538 | Yes | Yes | Yes |
+| the Pool of Tribute (Extreme) | 677 | 244 | Yes | Yes | Yes |
 | the Wreath of Snakes (Extreme) | 825 | 638 | Yes | Yes | Yes |
 
 #### Raids
@@ -1056,7 +1042,11 @@ None.
 
 #### Savage
 
-None.
+| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
+| --- | ---: | ---: | --- | --- | --- |
+| Eden's Gate: Inundation (Savage) | 855 | 683 | Yes | Yes | Yes |
+| Eden's Gate: Sepulture (Savage) | 856 | 690 | Yes | Yes | Yes |
+| Eden's Verse: Refulgence (Savage) | 909 | 729 | Yes | Yes | Yes |
 
 #### Ultimate Raids
 
@@ -1150,7 +1140,17 @@ None.
 
 #### Raids
 
-None.
+| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
+| --- | ---: | ---: | --- | --- | --- |
+| Abyssos: The Eighth Circle (Normal) | 1087 | 883 | Yes | Yes | Yes |
+| Abyssos: The Fifth Circle (Normal) | 1081 | 872 | Yes | Yes | Yes |
+| Abyssos: The Seventh Circle (Normal) | 1085 | 876 | Yes | Yes | Yes |
+| Abyssos: The Sixth Circle (Normal) | 1083 | 880 | Yes | Yes | Yes |
+| Anabaseios: The Ninth Circle (Normal) | 1147 | 936 | Yes | Yes | Yes |
+| Asphodelos: The First Circle (Normal) | 1002 | 808 | Yes | Yes | Yes |
+| Asphodelos: The Fourth Circle (Normal) | 1008 | 800 | Yes | Yes | Yes |
+| Asphodelos: The Second Circle (Normal) | 1004 | 810 | Yes | Yes | Yes |
+| Asphodelos: The Third Circle (Normal) | 1006 | 806 | Yes | Yes | Yes |
 
 #### Savage
 
@@ -1164,6 +1164,8 @@ None.
 | Anabaseios: The Ninth Circle (Savage) | 1148 | 937 | Yes | Yes | Yes |
 | Anabaseios: The Tenth Circle (Savage) | 1150 | 939 | Yes | Yes | Yes |
 | Anabaseios: The Twelfth Circle (Savage) | 1154 | 943 | Yes | Yes | Yes |
+| Asphodelos: The First Circle (Savage) | 1003 | 809 | Yes | Yes | Yes |
+| Asphodelos: The Fourth Circle (Savage) | 1009 | 801 | Yes | Yes | Yes |
 | Asphodelos: The Second Circle (Savage) | 1005 | 811 | Yes | Yes | Yes |
 | Asphodelos: The Third Circle (Savage) | 1007 | 807 | Yes | Yes | Yes |
 
