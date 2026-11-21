@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.61 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 159 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 141 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
-| Radar | 482 | 171 | 114 |
-| Movement hints | 593 | 27 | 147 |
+| Radar | 482 | 185 | 100 |
+| Movement hints | 610 | 27 | 130 |
 
 ## Needs coverage or verification
 
@@ -43,7 +43,7 @@ Public God Mod Companion 3.2.0.61 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | --- | --- | --- |
 | the Akh Afah Amphitheatre (Extreme) | 378 | 80 | No | No | Yes |
 | the Striking Tree (Extreme) | 375 | 78 | No | No | Yes |
-| Thornmarch (Extreme) | 364 | 67 | No | No | Unknown |
+| Thornmarch (Extreme) | 364 | 67 | No | No | Yes |
 | the Whorleater (Extreme) | 359 | 73 | No | No | Yes |
 
 #### Raids
@@ -176,11 +176,11 @@ None.
 | Flicking Sticks and Taking Names | 219 | 49 | No | No | Yes |
 | Hero on the Half Shell | 216 | 45 | Yes | No | Yes |
 | More than a Feeler | 221 | 50 | No | No | Yes |
-| Shadow and Claw | 223 | 52 | No | No | Unknown |
+| Shadow and Claw | 223 | 52 | No | No | Yes |
 | Solemn Trinity | 300 | 55 | No | No | Yes |
-| Stinging Back | 192 | 47 | No | No | Unknown |
+| Stinging Back | 192 | 47 | No | No | Yes |
 | Under the Armor | 190 | 43 | Yes | No | Yes |
-| Ward Up | 299 | 54 | No | No | Unknown |
+| Ward Up | 299 | 54 | No | No | Yes |
 
 ### Heavensward
 
@@ -220,15 +220,15 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Alexander - The Arm of the Father (Savage) | 451 | 118 | No | Unknown | Unknown |
-| Alexander - The Arm of the Son (Savage) | 531 | 149 | No | Unknown | Unknown |
-| Alexander - The Breath of the Creator (Savage) | 585 | 191 | No | Unknown | Unknown |
-| Alexander - The Burden of the Son (Savage) | 532 | 150 | No | Unknown | Unknown |
-| Alexander - The Cuff of the Father (Savage) | 450 | 117 | No | Unknown | Unknown |
-| Alexander - The Cuff of the Son (Savage) | 530 | 148 | No | Unknown | Unknown |
+| Alexander - The Arm of the Father (Savage) | 451 | 118 | No | No | Yes |
+| Alexander - The Arm of the Son (Savage) | 531 | 149 | No | No | Yes |
+| Alexander - The Breath of the Creator (Savage) | 585 | 191 | No | No | Yes |
+| Alexander - The Burden of the Son (Savage) | 532 | 150 | No | No | Yes |
+| Alexander - The Cuff of the Father (Savage) | 450 | 117 | No | No | Yes |
+| Alexander - The Cuff of the Son (Savage) | 530 | 148 | No | No | Yes |
 | Alexander - The Eyes of the Creator (Savage) | 584 | 190 | Yes | No | Yes |
-| Alexander - The Fist of the Son (Savage) | 529 | 147 | No | Unknown | Unknown |
-| Alexander - The Heart of the Creator (Savage) | 586 | 192 | No | Unknown | Unknown |
+| Alexander - The Fist of the Son (Savage) | 529 | 147 | No | No | Yes |
+| Alexander - The Heart of the Creator (Savage) | 586 | 192 | No | No | Yes |
 
 #### Alliance
 
@@ -319,7 +319,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Great Hunt (Extreme) | 762 | 475 | No | No | No |
-| the Minstrel's Ballad: Shinryu's Domain | 730 | 278 | No | Unknown | Unknown |
+| the Minstrel's Ballad: Shinryu's Domain | 730 | 278 | No | No | Yes |
 
 #### Raids
 
@@ -330,8 +330,8 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Deltascape V1.0 (Savage) | 695 | 256 | No | Unknown | Unknown |
-| Deltascape V2.0 (Savage) | 696 | 257 | No | Unknown | Unknown |
+| Deltascape V1.0 (Savage) | 695 | 256 | No | No | Yes |
+| Deltascape V2.0 (Savage) | 696 | 257 | No | No | Yes |
 | Deltascape V3.0 (Savage) | 697 | 258 | Yes | No | Yes |
 | Sigmascape V1.0 (Savage) | 752 | 292 | Yes | No | Yes |
 | Sigmascape V2.0 (Savage) | 753 | 293 | Yes | No | Yes |
@@ -416,9 +416,9 @@ None.
 | Castrum Marinum (Extreme) | 935 | 763 | No | No | Yes |
 | Cinder Drift (Extreme) | 912 | 718 | No | No | Yes |
 | the Cloud Deck (Extreme) | 951 | 782 | No | No | Yes |
-| the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | Unknown | Yes |
+| the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | No | Yes |
 | the Dancing Plague (Extreme) | 858 | 658 | Yes | Unknown | Unknown |
-| the Minstrel's Ballad: Hades's Elegy | 885 | 693 | Yes | Unknown | Unknown |
+| the Minstrel's Ballad: Hades's Elegy | 885 | 693 | Yes | No | Yes |
 
 #### Raids
 
@@ -472,7 +472,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Final Day (Normal) | 997 | 796 | No | Unknown | Unknown |
+| the Final Day (Normal) | 997 | 796 | No | No | Yes |
 | The Gilded Araya (Normal) | 509 | 69 | No | Unknown | Unknown |
 
 #### Extreme
