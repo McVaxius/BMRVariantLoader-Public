@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.62 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 126 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 125 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 193 | 92 |
-| Movement hints | 624 | 27 | 116 |
+| Movement hints | 625 | 27 | 115 |
 
 ## Needs coverage or verification
 
@@ -191,7 +191,7 @@ None.
 | the Dusk Vigil | 1366 | 36 | No | Unknown | Unknown |
 | Hullbreaker Isle (Hard) | 557 | 172 | No | No | Yes |
 | Neverreap | 420 | 33 | No | No | Yes |
-| Pharos Sirius (Hard) | 510 | 40 | No | No | Unknown |
+| Pharos Sirius (Hard) | 510 | 40 | No | No | Yes |
 | Sohm Al (Hard) | 617 | 221 | No | No | Yes |
 
 #### Trials
