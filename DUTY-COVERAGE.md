@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.58 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 476 showing all three features and 291 needing coverage or verification. 194 duties have at least one Unknown.
+**767 duties** with 476 showing all three features and 291 needing coverage or verification. 202 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
 | Radar | 479 | 133 | 155 |
-| Movement hints | 552 | 35 | 180 |
+| Movement hints | 552 | 27 | 188 |
 
 ## Needs coverage or verification
 
@@ -279,11 +279,11 @@ None.
 | Keeping the Flame Alive | 460 | 400 | Yes | No | Yes |
 | Kindred Spirits | 496 | 433 | Yes | No | Yes |
 | Master of Marksmanship | 486 | 423 | Yes | No | Yes |
-| Ninja Assassin | 484 | 421 | Yes | No | No |
+| Ninja Assassin | 484 | 421 | Yes | No | Unknown |
 | Our Answer | 500 | 437 | No | Unknown | Unknown |
 | The Power of a Tourney | 488 | 425 | Yes | No | No |
-| Quarantine | 466 | 404 | Yes | No | No |
-| Rise of the Machinists | 489 | 426 | Yes | No | No |
+| Quarantine | 466 | 404 | Yes | No | Unknown |
+| Rise of the Machinists | 489 | 426 | Yes | No | Unknown |
 | Securing the Locks | 487 | 424 | Yes | No | Yes |
 | Slings and Arrows | 474 | 412 | Yes | No | Yes |
 | Sounding Out the Amphitheatre | 457 | 397 | No | Unknown | Unknown |
@@ -363,10 +363,10 @@ None.
 | Choices and Paths | 647 | 450 | No | Unknown | Unknown |
 | Come Rain or Shrine | 664 | 442 | Yes | No | Yes |
 | The Crimson Duelist | 668 | 458 | No | Unknown | Unknown |
-| Curious Gorge Meets His Match | 717 | 260 | Yes | No | No |
+| Curious Gorge Meets His Match | 717 | 260 | Yes | No | Unknown |
 | Dark as the Night Sky | 713 | 267 | Yes | Unknown | Yes |
 | Foxfire | 667 | 443 | Yes | No | Yes |
-| The Heart of the Problem | 718 | 266 | Yes | No | No |
+| The Heart of the Problem | 718 | 266 | Yes | No | Unknown |
 | In Crimson It Began | 659 | 464 | Yes | No | Yes |
 | In Loving Memory | 721 | 453 | Yes | No | Yes |
 | In Thal's Name | 705 | 261 | Yes | No | No |
@@ -378,14 +378,14 @@ None.
 | The Mongrel and the Knight | 700 | 449 | No | Unknown | Unknown |
 | Nightkin | 676 | 461 | No | Unknown | Unknown |
 | One Autumn's Secret | 703 | 446 | No | Unknown | Unknown |
-| One Golem to Rule Them All | 673 | 445 | Yes | No | No |
+| One Golem to Rule Them All | 673 | 445 | Yes | No | Unknown |
 | Our Compromise | 716 | 272 | Yes | No | Yes |
 | Release the Hounds | 699 | 448 | No | Unknown | Unknown |
 | Return to the Rift | 658 | 471 | Yes | No | Yes |
-| Shades of Shatotto | 669 | 444 | Yes | No | No |
+| Shades of Shatotto | 669 | 444 | Yes | No | Unknown |
 | Stained in Scarlet | 672 | 460 | No | Unknown | Unknown |
 | Sweet Dreams Are Made of Peace | 704 | 447 | No | Unknown | Unknown |
-| What She Always Wanted | 678 | 457 | Yes | No | No |
+| What She Always Wanted | 678 | 457 | Yes | No | Unknown |
 | When Clans Collide | 723 | 274 | No | Unknown | Unknown |
 | With Heart and Steel | 707 | 245 | No | Unknown | Unknown |
 |  A Test of Courage | 657 | 470 | No | Unknown | Unknown |
