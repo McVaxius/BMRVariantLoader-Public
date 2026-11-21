@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.62 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 133 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 129 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 193 | 92 |
-| Movement hints | 616 | 27 | 124 |
+| Movement hints | 621 | 27 | 119 |
 
 ## Needs coverage or verification
 
@@ -78,18 +78,18 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | A Dangerous Proposition | 237 | 307 | Yes | No | Yes |
-| Always Bet on Black | 318 | 367 | No | Unknown | Unknown |
+| Always Bet on Black | 318 | 367 | No | Unknown | Yes |
 | Austerities of Earth | 324 | 373 | Yes | No | No |
 | Austerities of Flame | 323 | 372 | Yes | No | No |
 | Austerities of Wind | 325 | 374 | Yes | No | No |
 | Axe in the Stone | 262 | 328 | Yes | No | No |
 | The Beast Within | 329 | 378 | Yes | No | Yes |
-| Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | No | Unknown |
+| Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | No | Yes |
 | Bleeder of the Pack | 264 | 330 | Yes | No | No |
 | Bringing Down the Mountain | 265 | 331 | Yes | No | No |
-| Brother from Another Mother | 314 | 363 | Yes | No | Unknown |
-| Brotherly Love | 303 | 350 | Yes | No | Unknown |
-| Chasing Shadows | 233 | 296 | Yes | No | Unknown |
+| Brother from Another Mother | 314 | 363 | Yes | No | Yes |
+| Brotherly Love | 303 | 350 | Yes | No | Yes |
+| Chasing Shadows | 233 | 296 | Yes | No | Yes |
 | Cloying Victory | 409 | 386 | Yes | No | Yes |
 | The Company You Keep (Maelstrom) | 279 | 342 | Yes | No | Unknown |
 | The Company You Keep (Twin Adder) | 277 | 340 | No | Unknown | Unknown |
