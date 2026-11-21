@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.60 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 171 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 166 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 164 | 121 |
-| Movement hints | 584 | 27 | 156 |
+| Movement hints | 589 | 27 | 151 |
 
 ## Needs coverage or verification
 
@@ -170,14 +170,14 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| All's Well that Ends in the Well | 220 | 48 | No | No | Unknown |
-| Basic Training: Enemy Parties | 214 | 42 | Yes | No | Unknown |
+| All's Well that Ends in the Well | 220 | 48 | No | No | Yes |
+| Basic Training: Enemy Parties | 214 | 42 | Yes | No | Yes |
 | Basic Training: Enemy Strongholds | 215 | 44 | Yes | No | Yes |
-| Flicking Sticks and Taking Names | 219 | 49 | No | No | Unknown |
+| Flicking Sticks and Taking Names | 219 | 49 | No | No | Yes |
 | Hero on the Half Shell | 216 | 45 | Yes | No | Yes |
-| More than a Feeler | 221 | 50 | No | No | Unknown |
+| More than a Feeler | 221 | 50 | No | No | Yes |
 | Shadow and Claw | 223 | 52 | No | No | Unknown |
-| Solemn Trinity | 300 | 55 | No | No | Unknown |
+| Solemn Trinity | 300 | 55 | No | No | Yes |
 | Stinging Back | 192 | 47 | No | No | Unknown |
 | Under the Armor | 190 | 43 | Yes | No | Yes |
 | Ward Up | 299 | 54 | No | No | Unknown |
