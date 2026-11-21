@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 200 | 85 |
-| Movement hints | 665 | 27 | 75 |
+| Movement hints | 666 | 27 | 74 |
 
 ## Needs coverage or verification
 
@@ -382,7 +382,7 @@ None.
 | Release the Hounds | 699 | 448 | No | Unknown | Unknown |
 | Return to the Rift | 658 | 471 | Yes | No | Yes |
 | Shades of Shatotto | 669 | 444 | Yes | No | Yes |
-| Stained in Scarlet | 672 | 460 | No | Unknown | Unknown |
+| Stained in Scarlet | 672 | 460 | No | Unknown | Yes |
 | Sweet Dreams Are Made of Peace | 704 | 447 | No | Unknown | Unknown |
 | What She Always Wanted | 678 | 457 | Yes | No | Yes |
 | When Clans Collide | 723 | 274 | No | Unknown | Unknown |
