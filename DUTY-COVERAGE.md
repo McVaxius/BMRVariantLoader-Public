@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 478 showing all three features and 289 needing coverage or verification. 184 duties have at least one Unknown.
+**767 duties** with 478 showing all three features and 289 needing coverage or verification. 179 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 481 | 164 | 122 |
-| Movement hints | 572 | 27 | 168 |
+| Movement hints | 577 | 27 | 163 |
 
 ## Needs coverage or verification
 
@@ -22,12 +22,12 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Amdapor Keep (Hard) | 189 | 29 | No | No | Unknown |
-| Copperbell Mines (Hard) | 349 | 18 | No | No | Unknown |
+| Amdapor Keep (Hard) | 189 | 29 | No | No | Yes |
+| Copperbell Mines (Hard) | 349 | 18 | No | No | Yes |
 | Halatali (Hard) | 360 | 21 | No | No | Yes |
-| the Stone Vigil (Hard) | 365 | 25 | No | No | Unknown |
-| the Sunken Temple of Qarn (Hard) | 367 | 26 | No | No | Unknown |
-| the Wanderer's Palace (Hard) | 188 | 30 | No | No | Unknown |
+| the Stone Vigil (Hard) | 365 | 25 | No | No | Yes |
+| the Sunken Temple of Qarn (Hard) | 367 | 26 | No | No | Yes |
+| the Wanderer's Palace (Hard) | 188 | 30 | No | No | Yes |
 
 #### Trials
 
