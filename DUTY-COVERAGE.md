@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.74 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.75 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 100 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 99 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 201 | 84 |
-| Movement hints | 678 | 27 | 62 |
+| Movement hints | 680 | 27 | 60 |
 
 ## Needs coverage or verification
 
@@ -50,7 +50,7 @@ Public God Mod Companion 3.2.0.74 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Binding Coil of Bahamut - Turn 3 (Normal) | 243 | 95 | No | No | Unknown |
+| the Binding Coil of Bahamut - Turn 3 (Normal) | 243 | 95 | No | No | Yes |
 | the Final Coil of Bahamut - Turn 1 (Normal) | 193 | 107 | No | No | Yes |
 | the Final Coil of Bahamut - Turn 2 (Normal) | 194 | 108 | No | No | Yes |
 | the Final Coil of Bahamut - Turn 3 (Normal) | 195 | 109 | No | No | Yes |
@@ -136,7 +136,7 @@ None.
 | The One That Got Away | 236 | 306 | Yes | Unknown | Yes |
 | Parley in the Sagolii | 312 | 361 | No | Unknown | Yes |
 | Pincer Maneuver | 287 | 347 | Yes | Unknown | Yes |
-| Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | Unknown | Unknown |
+| Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | Unknown | Yes |
 | Primal Burdens | 326 | 375 | Yes | Unknown | Unknown |
 | Proof of Might | 239 | 309 | No | Unknown | Yes |
 | Proof of Might | 240 | 310 | No | Unknown | Yes |
