@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.57 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 404 showing all three features and 363 needing coverage or verification. 330 duties have at least one Unknown.
+**767 duties** with 414 showing all three features and 353 needing coverage or verification. 317 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 408 | 36 | 323 |
-| Movement hints | 421 | 22 | 324 |
+| Radar | 416 | 47 | 304 |
+| Movement hints | 434 | 22 | 311 |
 
 ## Needs coverage or verification
 
@@ -170,19 +170,17 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| All's Well that Ends in the Well | 220 | 48 | No | Unknown | Unknown |
-| Basic Training: Enemy Parties | 214 | 42 | Yes | Unknown | Unknown |
-| Basic Training: Enemy Strongholds | 215 | 44 | Yes | Unknown | Unknown |
-| Flicking Sticks and Taking Names | 219 | 49 | No | Unknown | Unknown |
-| Hero on the Half Shell | 216 | 45 | Yes | Unknown | Unknown |
-| Long Live the Queen | 298 | 53 | Yes | Yes | Unknown |
-| More than a Feeler | 221 | 50 | No | Unknown | Unknown |
-| Pulling Poison Posies | 191 | 46 | Yes | Yes | Unknown |
-| Shadow and Claw | 223 | 52 | No | Unknown | Unknown |
-| Solemn Trinity | 300 | 55 | No | Unknown | Unknown |
-| Stinging Back | 192 | 47 | No | Unknown | Unknown |
-| Under the Armor | 190 | 43 | Yes | Unknown | Unknown |
-| Ward Up | 299 | 54 | No | Unknown | Unknown |
+| All's Well that Ends in the Well | 220 | 48 | No | No | Unknown |
+| Basic Training: Enemy Parties | 214 | 42 | Yes | No | Unknown |
+| Basic Training: Enemy Strongholds | 215 | 44 | Yes | No | Yes |
+| Flicking Sticks and Taking Names | 219 | 49 | No | No | Unknown |
+| Hero on the Half Shell | 216 | 45 | Yes | No | Yes |
+| More than a Feeler | 221 | 50 | No | No | Unknown |
+| Shadow and Claw | 223 | 52 | No | No | Unknown |
+| Solemn Trinity | 300 | 55 | No | No | Unknown |
+| Stinging Back | 192 | 47 | No | No | Unknown |
+| Under the Armor | 190 | 43 | Yes | No | Yes |
+| Ward Up | 299 | 54 | No | No | Unknown |
 
 ### Heavensward
 
@@ -343,14 +341,9 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Alphascape V1.0 (Savage) | 802 | 591 | Yes | Unknown | Unknown |
-| Alphascape V2.0 (Savage) | 803 | 592 | Yes | Unknown | Unknown |
-| Alphascape V3.0 (Savage) | 804 | 593 | Yes | Unknown | Unknown |
-| Alphascape V4.0 (Savage) | 805 | 594 | Yes | Unknown | Unknown |
 | Deltascape V1.0 (Savage) | 695 | 256 | No | Unknown | Unknown |
 | Deltascape V2.0 (Savage) | 696 | 257 | No | Unknown | Unknown |
 | Deltascape V3.0 (Savage) | 697 | 258 | Yes | Unknown | Unknown |
-| Deltascape V4.0 (Savage) | 698 | 259 | Yes | Unknown | Unknown |
 | Sigmascape V1.0 (Savage) | 752 | 292 | Yes | Unknown | Unknown |
 | Sigmascape V2.0 (Savage) | 753 | 293 | Yes | Unknown | Yes |
 | Sigmascape V3.0 (Savage) | 754 | 294 | Yes | Unknown | Unknown |
@@ -499,16 +492,12 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Dark Inside (Normal) | 992 | 802 | Yes | Unknown | Unknown |
 | the Final Day (Normal) | 997 | 796 | No | Unknown | Unknown |
 | The Gilded Araya (Normal) | 509 | 69 | No | Unknown | Unknown |
-| Storm's Crown (Normal) | 1071 | 870 | Yes | Unknown | Unknown |
 
 #### Extreme
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| the Minstrel's Ballad: Endsinger's Aria | 998 | 846 | Yes | Unknown | Unknown |
+None.
 
 #### Raids
 
@@ -780,6 +769,8 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Annoy the Void | 222 | 51 | Yes | Yes | Yes |
+| Long Live the Queen | 298 | 53 | Yes | Yes | Yes |
+| Pulling Poison Posies | 191 | 46 | Yes | Yes | Yes |
 
 ### Heavensward
 
@@ -941,7 +932,13 @@ None.
 
 #### Savage
 
-None.
+| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
+| --- | ---: | ---: | --- | --- | --- |
+| Alphascape V1.0 (Savage) | 802 | 591 | Yes | Yes | Yes |
+| Alphascape V2.0 (Savage) | 803 | 592 | Yes | Yes | Yes |
+| Alphascape V3.0 (Savage) | 804 | 593 | Yes | Yes | Yes |
+| Alphascape V4.0 (Savage) | 805 | 594 | Yes | Yes | Yes |
+| Deltascape V4.0 (Savage) | 698 | 259 | Yes | Yes | Yes |
 
 #### Ultimate Raids
 
@@ -1131,9 +1128,11 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Abyssal Fracture (Normal) | 1168 | 964 | Yes | Yes | Yes |
+| the Dark Inside (Normal) | 992 | 802 | Yes | Yes | Yes |
 | the Gilded Araya (Normal) | 1136 | 944 | Yes | Yes | Yes |
 | the Mothercrystal (Normal) | 995 | 790 | Yes | Yes | Yes |
 | Mount Ordeals (Normal) | 1095 | 886 | Yes | Yes | Yes |
+| Storm's Crown (Normal) | 1071 | 870 | Yes | Yes | Yes |
 | the Voidcast Dais (Normal) | 1140 | 949 | Yes | Yes | Yes |
 
 #### Extreme
@@ -1141,6 +1140,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Abyssal Fracture (Extreme) | 1169 | 965 | Yes | Yes | Yes |
+| the Minstrel's Ballad: Endsinger's Aria | 998 | 846 | Yes | Yes | Yes |
 | the Minstrel's Ballad: Hydaelyn's Call | 996 | 791 | Yes | Yes | Yes |
 | the Minstrel's Ballad: Zodiark's Fall | 993 | 803 | Yes | Yes | Yes |
 | Mount Ordeals (Extreme) | 1096 | 924 | Yes | Yes | Yes |
