@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.57 - 2026-11-20 - Battle in the Big Keep radar
+
+- **Updated the Battle in the Big Keep radar.** Missile spread outlines become more visible as the cast approaches resolution.
+
 ## 3.2.0.56 - 2026-11-20 - Backend compatibility
 
 - **Updated BossModReborn targeting compatibility.** GMC checks the native targeting and action methods it uses so compatible updates can keep automatic target handoff.
