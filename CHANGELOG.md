@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.80 - 2026-11-21 - Alliance raid maintenance
+
+- **Updated Cuchulainn and Xun Zi and Meng Zi.** The existing source files now use their encounter names.
+
 ## 3.2.0.79 - 2026-11-21 - Alliance raid maintenance
 
 - **Updated Aglaia and the Puppets' Bunker.** The existing mechanics files use the names of their six encounters.
