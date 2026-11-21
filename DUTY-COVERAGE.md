@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 477 showing all three features and 290 needing coverage or verification. 194 duties have at least one Unknown.
+**767 duties** with 478 showing all three features and 289 needing coverage or verification. 187 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
-| Module | 618 | 149 | 0 |
-| Radar | 480 | 158 | 129 |
-| Movement hints | 559 | 27 | 181 |
+| Module | 620 | 147 | 0 |
+| Radar | 481 | 164 | 122 |
+| Movement hints | 566 | 27 | 174 |
 
 ## Needs coverage or verification
 
@@ -404,22 +404,21 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Castrum Marinum (Normal) | 934 | 762 | No | Unknown | Unknown |
-| Cinder Drift (Normal) | 897 | 717 | No | Unknown | Unknown |
-| the Cloud Deck (Normal) | 950 | 781 | No | Unknown | Unknown |
+| Castrum Marinum (Normal) | 934 | 762 | No | No | Yes |
+| Cinder Drift (Normal) | 897 | 717 | No | No | Yes |
+| the Cloud Deck (Normal) | 950 | 781 | No | No | Yes |
 | Special Event II | 354 | 71 | No | Unknown | Unknown |
 
 #### Extreme
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Castrum Marinum (Extreme) | 935 | 763 | No | Unknown | Unknown |
-| Cinder Drift (Extreme) | 912 | 718 | No | Unknown | Unknown |
-| the Cloud Deck (Extreme) | 951 | 782 | No | Unknown | Unknown |
+| Castrum Marinum (Extreme) | 935 | 763 | No | No | Yes |
+| Cinder Drift (Extreme) | 912 | 718 | No | No | Yes |
+| the Cloud Deck (Extreme) | 951 | 782 | No | No | Yes |
 | the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | Unknown | Yes |
-| the Dancing Plague (Extreme) | 858 | 658 | No | Unknown | Unknown |
+| the Dancing Plague (Extreme) | 858 | 658 | Yes | Unknown | Unknown |
 | the Minstrel's Ballad: Hades's Elegy | 885 | 693 | Yes | Unknown | Unknown |
-| the Seat of Sacrifice (Extreme) | 923 | 739 | No | Unknown | Unknown |
 
 #### Raids
 
@@ -984,6 +983,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Memoria Misera (Extreme) | 913 | 725 | Yes | Yes | Yes |
+| the Seat of Sacrifice (Extreme) | 923 | 739 | Yes | Yes | Yes |
 
 #### Raids
 
