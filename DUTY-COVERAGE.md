@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.75 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.76 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.75 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 201 | 84 |
-| Movement hints | 680 | 27 | 60 |
+| Movement hints | 682 | 27 | 58 |
 
 ## Needs coverage or verification
 
@@ -385,7 +385,7 @@ None.
 | Stained in Scarlet | 672 | 460 | No | Unknown | Yes |
 | Sweet Dreams Are Made of Peace | 704 | 447 | No | Unknown | Unknown |
 | What She Always Wanted | 678 | 457 | Yes | No | Yes |
-| When Clans Collide | 723 | 274 | No | Unknown | Unknown |
+| When Clans Collide | 723 | 274 | No | Unknown | Yes |
 | With Heart and Steel | 707 | 245 | No | Unknown | Unknown |
 |  A Test of Courage | 657 | 470 | No | Unknown | Unknown |
 |  Schism between Sisters | 760 | 477 | No | Unknown | Unknown |
@@ -516,7 +516,7 @@ None.
 | A Path Unveiled | 1015 | 805 | No | Unknown | Yes |
 | Ever March Heavensward | 1018 | 815 | No | Unknown | Yes |
 | Forlorn Glory | 1051 | 845 | No | Unknown | Unknown |
-| Generational Bonding | 1115 | 907 | No | Unknown | Unknown |
+| Generational Bonding | 1115 | 907 | No | Unknown | Yes |
 | The Gift of Mercy | 1019 | 820 | No | Unknown | Yes |
 | The Harvest Begins | 1020 | 814 | Yes | No | Yes |
 | In from the Cold | 1011 | 793 | Yes | Unknown | Yes |
