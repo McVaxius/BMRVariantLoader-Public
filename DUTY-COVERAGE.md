@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.51 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.52 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -348,7 +348,6 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Fractal Continuum (Hard) | 743 | 285 | No | Unknown | Unknown |
-| Hells' Lid | 742 | 284 | Yes | Unknown | Unknown |
 | Saint Mocianne's Arboretum (Hard) | 788 | 584 | Yes | Unknown | Unknown |
 | the Swallow's Compass | 768 | 536 | No | Unknown | Unknown |
 | the Temple of the Fist | 663 | 236 | No | Unknown | Unknown |
@@ -926,6 +925,7 @@ None.
 | Doma Castle | 1144 | 241 | Yes | Yes | Yes |
 | the Drowned City of Skalla | 1172 | 279 | Yes | Yes | Yes |
 | the Ghimlyt Dark | 1174 | 611 | Yes | Yes | Yes |
+| Hells' Lid | 742 | 284 | Yes | Yes | Yes |
 | Kugane Castle | 662 | 262 | Yes | Yes | Yes |
 | Shisui of the Violet Tides | 1367 | 235 | Yes | Yes | Yes |
 | the Sirensong Sea | 1142 | 238 | Yes | Yes | Yes |
