@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.77 - 2026-11-21 - Normal raid maintenance
+
+- **Updated Catastrophe, Midgardsormr, and Omega-M and Omega-F in Normal raids.** Each fight keeps its existing mechanics together in one encounter file.
+
 ## 3.2.0.76 - 2026-11-21 - Trial encounter maintenance
 
 - **Updated Zodiark Extreme, Barbariccia Extreme, Zeromus Extreme, and Memoria Misera (Extreme).** Each fight keeps its existing mechanics together in one encounter file.
