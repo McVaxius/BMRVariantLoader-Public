@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.57 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 414 showing all three features and 353 needing coverage or verification. 317 duties have at least one Unknown.
+**767 duties** with 419 showing all three features and 348 needing coverage or verification. 312 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 416 | 47 | 304 |
-| Movement hints | 434 | 22 | 311 |
+| Radar | 421 | 51 | 295 |
+| Movement hints | 442 | 22 | 303 |
 
 ## Needs coverage or verification
 
@@ -189,11 +189,10 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Dusk Vigil | 1366 | 36 | No | Unknown | Unknown |
-| Hullbreaker Isle (Hard) | 557 | 172 | No | Unknown | Unknown |
-| the Lost City of Amdapor (Hard) | 519 | 140 | Yes | Unknown | Unknown |
-| Neverreap | 420 | 33 | No | Unknown | Unknown |
-| Pharos Sirius (Hard) | 510 | 40 | No | Unknown | Unknown |
-| Sohm Al (Hard) | 617 | 221 | No | Unknown | Unknown |
+| Hullbreaker Isle (Hard) | 557 | 172 | No | No | Unknown |
+| Neverreap | 420 | 33 | No | No | Unknown |
+| Pharos Sirius (Hard) | 510 | 40 | No | No | Unknown |
+| Sohm Al (Hard) | 617 | 221 | No | No | Unknown |
 
 #### Trials
 
@@ -217,8 +216,6 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Alexander - The Cuff of the Father (Normal) | 443 | 113 | Yes | No | Yes |
-| Alexander - The Heart of the Creator (Normal) | 582 | 188 | Yes | Unknown | Unknown |
-| Alexander - The Soul of the Creator (Normal) | 583 | 189 | Yes | Unknown | Unknown |
 
 #### Savage
 
@@ -344,10 +341,9 @@ None.
 | Deltascape V1.0 (Savage) | 695 | 256 | No | Unknown | Unknown |
 | Deltascape V2.0 (Savage) | 696 | 257 | No | Unknown | Unknown |
 | Deltascape V3.0 (Savage) | 697 | 258 | Yes | Unknown | Unknown |
-| Sigmascape V1.0 (Savage) | 752 | 292 | Yes | Unknown | Unknown |
+| Sigmascape V1.0 (Savage) | 752 | 292 | Yes | Unknown | Yes |
 | Sigmascape V2.0 (Savage) | 753 | 293 | Yes | Unknown | Yes |
-| Sigmascape V3.0 (Savage) | 754 | 294 | Yes | Unknown | Unknown |
-| Sigmascape V4.0 (Savage) | 755 | 295 | Yes | Unknown | Unknown |
+| Sigmascape V3.0 (Savage) | 754 | 294 | Yes | Unknown | Yes |
 
 #### Ultimate Raids
 
@@ -429,9 +425,8 @@ None.
 | Castrum Marinum (Extreme) | 935 | 763 | No | Unknown | Unknown |
 | Cinder Drift (Extreme) | 912 | 718 | No | Unknown | Unknown |
 | the Cloud Deck (Extreme) | 951 | 782 | No | Unknown | Unknown |
-| the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | Unknown | Unknown |
+| the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | Unknown | Yes |
 | the Dancing Plague (Extreme) | 858 | 658 | No | Unknown | Unknown |
-| Memoria Misera (Extreme) | 913 | 725 | Yes | Unknown | Unknown |
 | the Minstrel's Ballad: Hades's Elegy | 885 | 693 | Yes | Unknown | Unknown |
 | the Seat of Sacrifice (Extreme) | 923 | 739 | No | Unknown | Unknown |
 
@@ -785,6 +780,7 @@ None.
 | the Fractal Continuum | 430 | 35 | Yes | Yes | Yes |
 | the Great Gubal Library | 1109 | 31 | Yes | Yes | Yes |
 | the Great Gubal Library (Hard) | 578 | 196 | Yes | Yes | Yes |
+| the Lost City of Amdapor (Hard) | 519 | 140 | Yes | Yes | Yes |
 | Saint Mocianne's Arboretum | 511 | 41 | Yes | Yes | Yes |
 | Sohm Al | 1064 | 37 | Yes | Yes | Yes |
 | Sohr Khai | 1112 | 171 | Yes | Yes | Yes |
@@ -821,6 +817,8 @@ None.
 | Alexander - The Eyes of the Creator (Normal) | 580 | 186 | Yes | Yes | Yes |
 | Alexander - The Fist of the Father (Normal) | 442 | 112 | Yes | Yes | Yes |
 | Alexander - The Fist of the Son (Normal) | 520 | 136 | Yes | Yes | Yes |
+| Alexander - The Heart of the Creator (Normal) | 582 | 188 | Yes | Yes | Yes |
+| Alexander - The Soul of the Creator (Normal) | 583 | 189 | Yes | Yes | Yes |
 
 #### Savage
 
@@ -939,6 +937,7 @@ None.
 | Alphascape V3.0 (Savage) | 804 | 593 | Yes | Yes | Yes |
 | Alphascape V4.0 (Savage) | 805 | 594 | Yes | Yes | Yes |
 | Deltascape V4.0 (Savage) | 698 | 259 | Yes | Yes | Yes |
+| Sigmascape V4.0 (Savage) | 755 | 295 | Yes | Yes | Yes |
 
 #### Ultimate Raids
 
@@ -1034,7 +1033,9 @@ None.
 
 #### Extreme
 
-None.
+| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
+| --- | ---: | ---: | --- | --- | --- |
+| Memoria Misera (Extreme) | 913 | 725 | Yes | Yes | Yes |
 
 #### Raids
 
