@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.65 - 2026-11-21 - Encounter maintenance
+
+- **Updated encounter maintenance for Kokytos, Belias, and Yiazmat.** Each fight now keeps its existing mechanics together in its encounter file.
+
 ## 3.2.0.64 - 2026-11-21 - Flameviper radar
 
 - **Updated Flameviper in Abyssos: The Eighth Circle (Normal).** The line fill for nearby players becomes clearer as the cast approaches resolution.
