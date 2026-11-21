@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 200 | 85 |
-| Movement hints | 664 | 27 | 76 |
+| Movement hints | 665 | 27 | 75 |
 
 ## Needs coverage or verification
 
@@ -106,7 +106,7 @@ None.
 | Grinners in the Mist | 407 | 384 | Yes | No | Yes |
 | Heart of the Forest | 320 | 369 | No | Unknown | Yes |
 | The Heretic among Us | 302 | 344 | Yes | No | Yes |
-| The Hidden Chapter | 268 | 326 | No | Unknown | Unknown |
+| The Hidden Chapter | 268 | 326 | No | Unknown | Yes |
 | History Repeating | 330 | 379 | Yes | No | Yes |
 | Homecoming | 230 | 304 | Yes | No | Yes |
 | How to Quit You | 311 | 360 | Yes | No | No |
