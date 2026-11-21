@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.85 - 2026-11-21 - Sephirot opening phase
+
+- **Added Sephirot's opening phase in Containment Bay S1T7 (Normal).** Ein appears on the radar, fades on the live cast clock, and supplies movement hints. The encounter stays active through the add intermission until the opening actor leaves.
+
+### Upcoming
+
+- The later Sephirot phase, the other Normal Containment Bay trials, and the opening Gilgamesh duel remain under review.
+
 ## 3.2.0.84 - 2026-11-21 - Trial and alliance encounter updates
 
 - **Added The Chrysalis.** Shows timed attacks and orb guidance, and switches to the Aetherial Tear during the meteor phase.
