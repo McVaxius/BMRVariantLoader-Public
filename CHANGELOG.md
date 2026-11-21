@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.71 - 2026-11-21 - Raid encounter maintenance
+
+- **Updated Erichthonios, Phoinix, Hesperos phase two, and Savage Voidwalker.** The existing mechanics for each encounter now share one encounter file.
+
 ## 3.2.0.70 - 2026-11-21 - Encounter maintenance
 
 - **Updated Hegemone, Agdistis, and Walking Fortress.** Each fight keeps its existing mechanics together in one encounter file.
