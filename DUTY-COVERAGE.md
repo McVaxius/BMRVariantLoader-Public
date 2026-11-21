@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.58 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 470 showing all three features and 297 needing coverage or verification. 220 duties have at least one Unknown.
+**767 duties** with 476 showing all three features and 291 needing coverage or verification. 194 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 470 | 94 | 203 |
-| Movement hints | 526 | 32 | 209 |
+| Radar | 479 | 133 | 155 |
+| Movement hints | 552 | 35 | 180 |
 
 ## Needs coverage or verification
 
@@ -77,49 +77,49 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Dangerous Proposition | 237 | 307 | Yes | Unknown | Unknown |
+| A Dangerous Proposition | 237 | 307 | Yes | No | Yes |
 | Always Bet on Black | 318 | 367 | No | Unknown | Unknown |
 | Austerities of Earth | 324 | 373 | Yes | No | No |
 | Austerities of Flame | 323 | 372 | Yes | No | No |
 | Austerities of Wind | 325 | 374 | Yes | No | No |
 | Axe in the Stone | 262 | 328 | Yes | No | No |
-| The Beast Within | 329 | 378 | Yes | Unknown | Unknown |
-| Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | Unknown | Unknown |
+| The Beast Within | 329 | 378 | Yes | No | Yes |
+| Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | No | Unknown |
 | Bleeder of the Pack | 264 | 330 | Yes | No | No |
 | Bringing Down the Mountain | 265 | 331 | Yes | No | No |
-| Brother from Another Mother | 314 | 363 | Yes | Unknown | Unknown |
-| Brotherly Love | 303 | 350 | Yes | Unknown | Unknown |
-| Chasing Shadows | 233 | 296 | Yes | Unknown | Unknown |
-| Cloying Victory | 409 | 386 | Yes | Unknown | Unknown |
-| The Company You Keep (Maelstrom) | 279 | 342 | Yes | Unknown | Unknown |
+| Brother from Another Mother | 314 | 363 | Yes | No | Unknown |
+| Brotherly Love | 303 | 350 | Yes | No | Unknown |
+| Chasing Shadows | 233 | 296 | Yes | No | Unknown |
+| Cloying Victory | 409 | 386 | Yes | No | Yes |
+| The Company You Keep (Maelstrom) | 279 | 342 | Yes | No | Unknown |
 | The Company You Keep (Twin Adder) | 277 | 340 | No | Unknown | Unknown |
 | The Consequences of Anger | 328 | 377 | No | Unknown | Unknown |
-| The Crow Knows | 414 | 391 | Yes | Unknown | Unknown |
+| The Crow Knows | 414 | 391 | Yes | No | Unknown |
 | Doing It the Bard Way | 321 | 370 | Yes | No | No |
-| Escape from Castrum Centri | 305 | 352 | Yes | Unknown | Unknown |
+| Escape from Castrum Centri | 305 | 352 | Yes | No | Yes |
 | Every Little Thing She Does Is Magitek | 309 | 358 | Yes | No | Yes |
 | Facing Your Demons | 269 | 327 | No | Unknown | Unknown |
-| Feint and Strike | 280 | 334 | Yes | Unknown | Unknown |
-| Five Easy Pieces | 315 | 364 | Yes | Unknown | Unknown |
-| Fool Me Twice | 308 | 357 | Yes | Unknown | Unknown |
-| Forgotten but Not Gone | 327 | 376 | Yes | Unknown | Unknown |
-| Grinners in the Mist | 407 | 384 | Yes | Unknown | Unknown |
+| Feint and Strike | 280 | 334 | Yes | No | Unknown |
+| Five Easy Pieces | 315 | 364 | Yes | No | Unknown |
+| Fool Me Twice | 308 | 357 | Yes | No | Unknown |
+| Forgotten but Not Gone | 327 | 376 | Yes | No | Yes |
+| Grinners in the Mist | 407 | 384 | Yes | No | Yes |
 | Heart of the Forest | 320 | 369 | No | Unknown | Unknown |
-| The Heretic among Us | 302 | 344 | Yes | Unknown | Unknown |
+| The Heretic among Us | 302 | 344 | Yes | No | Unknown |
 | The Hidden Chapter | 268 | 326 | No | Unknown | Unknown |
-| History Repeating | 330 | 379 | Yes | Unknown | Unknown |
-| Homecoming | 230 | 304 | Yes | Unknown | Unknown |
+| History Repeating | 330 | 379 | Yes | No | Unknown |
+| Homecoming | 230 | 304 | Yes | No | Unknown |
 | How to Quit You | 311 | 360 | Yes | No | No |
-| In Nature's Embrace | 235 | 301 | Yes | Unknown | Unknown |
-| In the Eyes of Gods and Men | 301 | 343 | Yes | Unknown | Unknown |
-| Into a Copper Hell | 274 | 338 | Yes | Unknown | Unknown |
+| In Nature's Embrace | 235 | 301 | Yes | No | Unknown |
+| In the Eyes of Gods and Men | 301 | 343 | Yes | No | Yes |
+| Into a Copper Hell | 274 | 338 | Yes | No | Unknown |
 | Into the Dragon's Maw | 316 | 365 | No | Unknown | Unknown |
-| Just Deserts | 272 | 333 | Yes | Unknown | Unknown |
-| Keeping the Oath | 313 | 362 | Yes | No | Unknown |
+| Just Deserts | 272 | 333 | Yes | No | Unknown |
+| Keeping the Oath | 313 | 362 | Yes | No | Yes |
 | Keeping the Spirit Alive | 259 | 320 | No | Unknown | Unknown |
 | Lance of Destiny | 238 | 308 | No | Unknown | Unknown |
 | Lance of Destiny | 290 | 355 | No | Unknown | Unknown |
-| Leia's Legacy | 227 | 299 | Yes | Unknown | Unknown |
+| Leia's Legacy | 227 | 299 | Yes | No | Unknown |
 | Like Mother, Like Daughter | 291 | 356 | Yes | Unknown | Unknown |
 | The Lominsan Way | 307 | 354 | Yes | Unknown | Unknown |
 | Lord of the Inferno | 275 | 339 | Yes | No | Yes |
@@ -127,15 +127,15 @@ None.
 | Master and Student | 415 | 392 | No | Unknown | Unknown |
 | The Mountain That Strides | 263 | 329 | Yes | No | No |
 | My First Mudra | 411 | 388 | No | Unknown | Unknown |
-| Ninja Bathin' | 413 | 390 | Yes | Unknown | Unknown |
+| Ninja Bathin' | 413 | 390 | Yes | Unknown | Yes |
 | Notorious Biggs | 304 | 351 | Yes | No | Yes |
 | Nouveau Riche | 232 | 311 | Yes | Unknown | Unknown |
 | Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
 | Once Upon a Time in Doma | 412 | 389 | No | Unknown | Unknown |
 | The One That Got Away | 231 | 305 | Yes | Unknown | Unknown |
-| The One That Got Away | 236 | 306 | Yes | Unknown | Unknown |
+| The One That Got Away | 236 | 306 | Yes | Unknown | Yes |
 | Parley in the Sagolii | 312 | 361 | No | Unknown | Unknown |
-| Pincer Maneuver | 287 | 347 | Yes | Unknown | Unknown |
+| Pincer Maneuver | 287 | 347 | Yes | Unknown | Yes |
 | Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | Unknown | Unknown |
 | Primal Burdens | 326 | 375 | Yes | Unknown | Unknown |
 | Proof of Might | 239 | 309 | No | Unknown | Unknown |
@@ -148,23 +148,23 @@ None.
 | Seer Folly | 319 | 368 | Yes | Unknown | Unknown |
 | Slave to the Code | 406 | 383 | No | Unknown | Unknown |
 | The Spirit Is Willing | 258 | 319 | No | Unknown | Unknown |
-| Spirithold Broken | 225 | 297 | Yes | Unknown | Unknown |
-| Star-crossed Rivals | 260 | 321 | Yes | Unknown | Unknown |
-| Stifled Screams | 405 | 382 | Yes | Unknown | Unknown |
-| Stray into the Shadows | 404 | 381 | Yes | Unknown | Unknown |
-| Sweet Sorrows | 408 | 385 | Yes | Unknown | Unknown |
+| Spirithold Broken | 225 | 297 | Yes | No | Unknown |
+| Star-crossed Rivals | 260 | 321 | Yes | No | Unknown |
+| Stifled Screams | 405 | 382 | Yes | No | Yes |
+| Stray into the Shadows | 404 | 381 | Yes | No | Yes |
+| Sweet Sorrows | 408 | 385 | Yes | No | Yes |
 | That Old Familiar Feeling | 254 | 315 | Yes | No | Yes |
-| The Threat of Perplexity | 267 | 325 | Yes | Unknown | Unknown |
-| The Threat of Superiority | 266 | 324 | Yes | Unknown | Unknown |
-| To Catch a Poacher | 229 | 303 | Yes | Unknown | Unknown |
-| To Guard a Guardian | 226 | 298 | Yes | Unknown | Unknown |
-| Trial by Water | 234 | 300 | Yes | Unknown | Unknown |
-| Trial by Wind | 289 | 349 | Yes | Unknown | Unknown |
+| The Threat of Perplexity | 267 | 325 | Yes | No | Unknown |
+| The Threat of Superiority | 266 | 324 | Yes | No | Yes |
+| To Catch a Poacher | 229 | 303 | Yes | No | Unknown |
+| To Guard a Guardian | 226 | 298 | Yes | No | Unknown |
+| Trial by Water | 234 | 300 | Yes | No | Unknown |
+| Trial by Wind | 289 | 349 | Yes | No | Unknown |
 | Ul'dah's Most Wanted | 253 | 314 | Yes | No | Yes |
-| Underneath the Sultantree | 270 | 335 | Yes | No | Unknown |
-| Victory in Peril | 249 | 313 | Yes | Unknown | Unknown |
-| Violators Will Be Shot | 228 | 302 | Yes | Unknown | Unknown |
-| The Voidgate Breathes Gloomy | 317 | 366 | Yes | Unknown | Unknown |
+| Underneath the Sultantree | 270 | 335 | Yes | No | Yes |
+| Victory in Peril | 249 | 313 | Yes | No | Yes |
+| Violators Will Be Shot | 228 | 302 | Yes | No | Yes |
+| The Voidgate Breathes Gloomy | 317 | 366 | Yes | No | Unknown |
 
 #### Guildhests
 
@@ -239,7 +239,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Palace of the Dead (Floors 191-200) | 607 | 218 | Yes | Unknown | Unknown |
+| the Palace of the Dead (Floors 191-200) | 607 | 218 | Yes | No | Yes |
 
 #### Quest Battles
 
@@ -350,7 +350,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Heaven-on-High  (Floors 91-100) | 785 | 549 | Yes | Unknown | Unknown |
+| Heaven-on-High  (Floors 91-100) | 785 | 549 | Yes | No | Yes |
 
 #### Quest Battles
 
@@ -510,9 +510,7 @@ None.
 
 #### Deep Dungeons
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Eureka Orthos (Floors 41-50) | 1103 | 901 | Yes | Unknown | Unknown |
+None.
 
 #### Quest Battles
 
@@ -552,9 +550,7 @@ None.
 
 #### Savage
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| AAC Heavyweight M3 (Savage) | 1325 | 1073 | Yes | Unknown | Unknown |
+None.
 
 #### Ultimate Raids
 
@@ -574,9 +570,7 @@ None.
 
 #### Deep Dungeons
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Pilgrim's Traverse (Stones 21-30) | 1283 | 1034 | Yes | Unknown | Unknown |
+None.
 
 #### Quest Battles
 
@@ -596,12 +590,9 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Chorus Slime | 796 | 617 | Yes | Unknown | Unknown |
-| Blobs in the Woods | 796 | 624 | Yes | Unknown | Unknown |
-| Eye Society | 796 | 616 | Yes | Unknown | Unknown |
-| Much Ado About Pudding | 796 | 612 | Yes | Unknown | Unknown |
-| Some Like It Excruciatingly Hot | 796 | 621 | Yes | Unknown | Unknown |
-| The Threepenny Turtles | 796 | 615 | Yes | Unknown | Unknown |
+| Much Ado About Pudding | 796 | 612 | Yes | Yes | No |
+| Some Like It Excruciatingly Hot | 796 | 621 | Yes | Yes | No |
+| The Threepenny Turtles | 796 | 615 | Yes | Yes | No |
 
 ## All three present
 
@@ -1177,6 +1168,7 @@ None.
 | Eureka Orthos (Floors 11-20) | 1100 | 898 | Yes | Yes | Yes |
 | Eureka Orthos (Floors 21-30) | 1101 | 899 | Yes | Yes | Yes |
 | Eureka Orthos (Floors 31-40) | 1102 | 900 | Yes | Yes | Yes |
+| Eureka Orthos (Floors 41-50) | 1103 | 901 | Yes | Yes | Yes |
 | Eureka Orthos (Floors 51-60) | 1104 | 902 | Yes | Yes | Yes |
 | Eureka Orthos (Floors 61-70) | 1105 | 903 | Yes | Yes | Yes |
 | Eureka Orthos (Floors 71-80) | 1106 | 904 | Yes | Yes | Yes |
@@ -1278,6 +1270,7 @@ None.
 | AAC Cruiserweight M4 (Savage) | 1263 | 1026 | Yes | Yes | Yes |
 | AAC Heavyweight M1 (Savage) | 1321 | 1069 | Yes | Yes | Yes |
 | AAC Heavyweight M2 (Savage) | 1323 | 1071 | Yes | Yes | Yes |
+| AAC Heavyweight M3 (Savage) | 1325 | 1073 | Yes | Yes | Yes |
 | AAC Heavyweight M4 (Savage) | 1327 | 1075 | Yes | Yes | Yes |
 | AAC Light-heavyweight M1 (Savage) | 1226 | 986 | Yes | Yes | Yes |
 | AAC Light-heavyweight M2 (Savage) | 1228 | 988 | Yes | Yes | Yes |
@@ -1319,6 +1312,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | Pilgrim's Traverse (Stones 1-10) | 1281 | 1032 | Yes | Yes | Yes |
 | Pilgrim's Traverse (Stones 11-20) | 1282 | 1033 | Yes | Yes | Yes |
+| Pilgrim's Traverse (Stones 21-30) | 1283 | 1034 | Yes | Yes | Yes |
 | Pilgrim's Traverse (Stones 31-40) | 1284 | 1035 | Yes | Yes | Yes |
 | Pilgrim's Traverse (Stones 41-50) | 1285 | 1036 | Yes | Yes | Yes |
 | Pilgrim's Traverse (Stones 51-60) | 1286 | 1037 | Yes | Yes | Yes |
@@ -1360,6 +1354,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| A Chorus Slime | 796 | 617 | Yes | Yes | Yes |
 | A Golden Opportunity | 796 | 948 | Yes | Yes | Yes |
 | A Little Knight Music | 796 | 620 | Yes | Yes | Yes |
 | All's Well That Starts Well | 796 | 610 | Yes | Yes | Yes |
@@ -1367,11 +1362,13 @@ None.
 | Anything Gogo's | 796 | 754 | Yes | Yes | Yes |
 | Beauty and a Beast | 796 | 623 | Yes | Yes | Yes |
 | Behemoths and Broomsticks | 796 | 633 | Yes | Yes | Yes |
+| Blobs in the Woods | 796 | 624 | Yes | Yes | Yes |
 | Bomb-edy of Errors | 796 | 618 | Yes | Yes | Yes |
 | The Catch of the Siegfried | 796 | 699 | Yes | Yes | Yes |
 | Chimera on a Hot Tin Roof | 796 | 631 | Yes | Yes | Yes |
 | Dangerous When Dead | 796 | 697 | Yes | Yes | Yes |
 | Dirty Rotten Azulmagia | 796 | 635 | Yes | Yes | Yes |
+| Eye Society | 796 | 616 | Yes | Yes | Yes |
 | Gentlemen Prefer Swords | 796 | 614 | Yes | Yes | Yes |
 | Here Comes the Boom | 796 | 632 | Yes | Yes | Yes |
 | Lock up Your Snorters | 796 | 696 | Yes | Yes | Yes |
