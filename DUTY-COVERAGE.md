@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.83 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.84 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 99 duties have at least one Unknown.
+**767 duties** with 482 showing all three features and 285 needing coverage or verification. 99 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
-| Module | 620 | 147 | 0 |
-| Radar | 482 | 201 | 84 |
+| Module | 623 | 144 | 0 |
+| Radar | 485 | 198 | 84 |
 | Movement hints | 684 | 27 | 56 |
 
 ## Needs coverage or verification
@@ -28,14 +28,6 @@ Public God Mod Companion 3.2.0.83 and BossModReborn 7.5.8.5. Duty names and IDs 
 | the Stone Vigil (Hard) | 365 | 25 | No | No | Yes |
 | the Sunken Temple of Qarn (Hard) | 367 | 26 | No | No | Yes |
 | the Wanderer's Palace (Hard) | 188 | 30 | No | No | Yes |
-
-#### Trials
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Battle on the Big Bridge (Normal) | 366 | 76 | No | No | Yes |
-| the Chrysalis (Normal) | 426 | 84 | No | No | Yes |
-| the Dragon's Neck (Normal) | 142 | 81 | No | No | Yes |
 
 #### Extreme
 
@@ -633,8 +625,11 @@ None.
 | A Relic Reborn: the Hydra (Normal) | 369 | 75 | Yes | Yes | Yes |
 | the Akh Afah Amphitheatre (Hard) | 377 | 79 | Yes | Yes | Yes |
 | Battle in the Big Keep (Normal) | 396 | 85 | Yes | Yes | Yes |
+| Battle on the Big Bridge (Normal) | 366 | 76 | Yes | Yes | Yes |
 | the Bowl of Embers (Hard) | 292 | 59 | Yes | Yes | Yes |
 | the Bowl of Embers (Normal) | 1045 | 56 | Yes | Yes | Yes |
+| the Chrysalis (Normal) | 426 | 84 | Yes | Yes | Yes |
+| the Dragon's Neck (Normal) | 142 | 81 | Yes | Yes | Yes |
 | the Howling Eye (Hard) | 294 | 61 | Yes | Yes | Yes |
 | the Howling Eye (Normal) | 1047 | 58 | Yes | Yes | Yes |
 | the Navel (Hard) | 293 | 60 | Yes | Yes | Yes |
