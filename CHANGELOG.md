@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.60 - 2026-11-21 - Palace of the Dead Chirp avoidance
+
+- **Updated Palace of the Dead on GodMod.** On floors 21–29, Chirp's radar circle becomes clearer as the cast nears resolution, and AI avoids it on the cast's floor.
+
 ## 3.2.0.59 - 2026-11-20 - Angra Mainyu gaze avoidance
 
 - **Fixed automated gaze avoidance in The World of Darkness.** BossModReborn AI now turns away from Angra Mainyu's helper during Mortal Gaze.
