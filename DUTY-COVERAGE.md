@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.66 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.67 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.66 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 200 | 85 |
-| Movement hints | 672 | 27 | 68 |
+| Movement hints | 673 | 27 | 67 |
 
 ## Needs coverage or verification
 
@@ -252,7 +252,7 @@ None.
 | Against the Shadow | 483 | 420 | No | Unknown | Unknown |
 | An Illuminati Incident | 485 | 422 | No | Unknown | Unknown |
 | And My Axe | 453 | 393 | No | Unknown | Unknown |
-| Appetite for Destruction | 491 | 428 | No | Unknown | Unknown |
+| Appetite for Destruction | 491 | 428 | No | Unknown | Yes |
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
 | At the End of Our Hope | 479 | 416 | Yes | No | Yes |
 | The Ballad of Oblivion | 492 | 429 | No | Unknown | Yes |
