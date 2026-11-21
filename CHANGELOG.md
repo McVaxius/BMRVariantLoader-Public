@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.55 - 2026-11-20 - Company of Stone radar
+
+- **Updated the Company of Stone radar.** Knuckle Crusher telegraphs become more visible as each cast approaches resolution.
+
 ## 3.2.0.54 - 2026-11-20 - Illuminati Commander radar
 
 - **Updated the Illuminati Commander radar.** Bomb Toss and Hot Cross Burst become more visible as their casts approach resolution.
