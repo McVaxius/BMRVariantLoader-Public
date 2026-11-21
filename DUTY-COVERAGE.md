@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.77 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.78 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.77 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 201 | 84 |
-| Movement hints | 682 | 27 | 58 |
+| Movement hints | 683 | 27 | 57 |
 
 ## Needs coverage or verification
 
@@ -273,7 +273,7 @@ None.
 | Hands of Healing | 464 | 402 | Yes | No | No |
 | Heroic Reprise | 494 | 431 | Yes | No | Yes |
 | I Could Have Tranced All Night | 502 | 439 | Yes | No | Yes |
-| In Her Defense | 490 | 427 | No | Unknown | Unknown |
+| In Her Defense | 490 | 427 | No | Unknown | Yes |
 | Ishgardian Justice | 499 | 436 | Yes | No | Yes |
 | Keeping the Flame Alive | 460 | 400 | Yes | No | Yes |
 | Kindred Spirits | 496 | 433 | Yes | No | Yes |
