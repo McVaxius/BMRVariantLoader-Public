@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.81 - 2026-11-21 - Encounter maintenance
+
+- **Updated Themis (Savage), Hesperos phase one (Savage), Guardian of Eorzea, and Tactical Planning.** Their existing source files now use the encounter names.
+
 ## 3.2.0.80 - 2026-11-21 - Alliance raid maintenance
 
 - **Updated Cuchulainn and Xun Zi and Meng Zi.** The existing source files now use their encounter names.
