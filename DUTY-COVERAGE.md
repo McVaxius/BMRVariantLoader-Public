@@ -4,6 +4,16 @@ Public God Mod Companion 3.2.0.55 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
+## Coverage at a glance
+
+**767 duties** with 344 showing all three features and 423 needing coverage or verification. 399 duties have at least one Unknown.
+
+| Feature | Yes | No | Unknown |
+| --- | ---: | ---: | ---: |
+| Module | 618 | 149 | 0 |
+| Radar | 352 | 24 | 391 |
+| Movement hints | 363 | 16 | 388 |
+
 ## Needs coverage or verification
 
 ### A Realm Reborn
