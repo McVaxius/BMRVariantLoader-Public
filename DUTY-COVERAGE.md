@@ -6,12 +6,12 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 103 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 100 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
-| Radar | 482 | 200 | 85 |
+| Radar | 482 | 203 | 82 |
 | Movement hints | 657 | 27 | 83 |
 
 ## Needs coverage or verification
@@ -129,11 +129,11 @@ None.
 | My First Mudra | 411 | 388 | No | Unknown | Yes |
 | Ninja Bathin' | 413 | 390 | Yes | Unknown | Yes |
 | Notorious Biggs | 304 | 351 | Yes | No | Yes |
-| Nouveau Riche | 232 | 311 | Yes | Unknown | Yes |
+| Nouveau Riche | 232 | 311 | Yes | No | Yes |
 | Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
 | Once Upon a Time in Doma | 412 | 389 | No | Unknown | Unknown |
-| The One That Got Away | 231 | 305 | Yes | Unknown | Yes |
-| The One That Got Away | 236 | 306 | Yes | Unknown | Yes |
+| The One That Got Away | 231 | 305 | Yes | No | Yes |
+| The One That Got Away | 236 | 306 | Yes | No | Yes |
 | Parley in the Sagolii | 312 | 361 | No | Unknown | Yes |
 | Pincer Maneuver | 287 | 347 | Yes | Unknown | Yes |
 | Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | Unknown | Unknown |
