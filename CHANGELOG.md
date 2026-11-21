@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.62 - 2026-11-21 - Heaven-on-High Helm Crack
+
+- **Updated Heaven-on-High on GodMod.** Helm Crack shows a fading stack outline around the marked player. The hit can still be taken solo.
+
 ## 3.2.0.61 - 2026-11-21 - Heaven-on-High Water III
 
 - **Updated Heaven-on-High on GodMod.** Water III's fading circle follows the marked player, and AI steers nearby party members clear.
