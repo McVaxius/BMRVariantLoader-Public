@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.67 - 2026-11-21 - Alliance encounter maintenance
+
+- **Updated Byregot, Halone, and Menphina.** Each fight keeps its existing mechanics together in its own encounter file.
+
 ## 3.2.0.66 - 2026-11-21 - Nophica maintenance
 
 - **Updated Nophica in Euphrosyne.** The existing encounter mechanics now share one source file.
