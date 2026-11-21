@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 478 showing all three features and 289 needing coverage or verification. 187 duties have at least one Unknown.
+**767 duties** with 478 showing all three features and 289 needing coverage or verification. 184 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 481 | 164 | 122 |
-| Movement hints | 566 | 27 | 174 |
+| Movement hints | 572 | 27 | 168 |
 
 ## Needs coverage or verification
 
@@ -189,10 +189,10 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Dusk Vigil | 1366 | 36 | No | Unknown | Unknown |
-| Hullbreaker Isle (Hard) | 557 | 172 | No | No | Unknown |
-| Neverreap | 420 | 33 | No | No | Unknown |
+| Hullbreaker Isle (Hard) | 557 | 172 | No | No | Yes |
+| Neverreap | 420 | 33 | No | No | Yes |
 | Pharos Sirius (Hard) | 510 | 40 | No | No | Unknown |
-| Sohm Al (Hard) | 617 | 221 | No | No | Unknown |
+| Sohm Al (Hard) | 617 | 221 | No | No | Yes |
 
 #### Trials
 
@@ -303,9 +303,9 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Fractal Continuum (Hard) | 743 | 285 | No | Unknown | Unknown |
-| the Swallow's Compass | 768 | 536 | No | Unknown | Unknown |
-| the Temple of the Fist | 663 | 236 | No | Unknown | Unknown |
+| the Fractal Continuum (Hard) | 743 | 285 | No | Unknown | Yes |
+| the Swallow's Compass | 768 | 536 | No | Unknown | Yes |
+| the Temple of the Fist | 663 | 236 | No | Unknown | Yes |
 
 #### Trials
 
