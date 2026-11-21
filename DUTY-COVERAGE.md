@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 200 | 85 |
-| Movement hints | 667 | 27 | 73 |
+| Movement hints | 669 | 27 | 71 |
 
 ## Needs coverage or verification
 
@@ -514,10 +514,10 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | A Path Unveiled | 1015 | 805 | No | Unknown | Yes |
-| Ever March Heavensward | 1018 | 815 | No | Unknown | Unknown |
+| Ever March Heavensward | 1018 | 815 | No | Unknown | Yes |
 | Forlorn Glory | 1051 | 845 | No | Unknown | Unknown |
 | Generational Bonding | 1115 | 907 | No | Unknown | Unknown |
-| The Gift of Mercy | 1019 | 820 | No | Unknown | Unknown |
+| The Gift of Mercy | 1019 | 820 | No | Unknown | Yes |
 | The Harvest Begins | 1020 | 814 | Yes | No | Yes |
 | In from the Cold | 1011 | 793 | Yes | Unknown | Yes |
 | Laid to Rest | 1017 | 818 | No | Unknown | Yes |
