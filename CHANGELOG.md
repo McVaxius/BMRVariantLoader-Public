@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.58 - 2026-11-20 - Automatic target handoff
+
+- **Fixed automatic target handoff on BossModReborn.** Active AI can select the next eligible enemy and restore its assigned rotation after its previous target dies.
+- **Updated targeting compatibility.** GMC checks the loaded action dispatch and auto-attack paths for compatibility.
+
 ## 3.2.0.57 - 2026-11-20 - Battle in the Big Keep radar
 
 - **Updated the Battle in the Big Keep radar.** Missile spread outlines become more visible as the cast approaches resolution.
