@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.60 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 166 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 162 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
-| Radar | 482 | 164 | 121 |
-| Movement hints | 589 | 27 | 151 |
+| Radar | 482 | 168 | 117 |
+| Movement hints | 590 | 27 | 150 |
 
 ## Needs coverage or verification
 
@@ -332,10 +332,10 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | Deltascape V1.0 (Savage) | 695 | 256 | No | Unknown | Unknown |
 | Deltascape V2.0 (Savage) | 696 | 257 | No | Unknown | Unknown |
-| Deltascape V3.0 (Savage) | 697 | 258 | Yes | Unknown | Unknown |
-| Sigmascape V1.0 (Savage) | 752 | 292 | Yes | Unknown | Yes |
-| Sigmascape V2.0 (Savage) | 753 | 293 | Yes | Unknown | Yes |
-| Sigmascape V3.0 (Savage) | 754 | 294 | Yes | Unknown | Yes |
+| Deltascape V3.0 (Savage) | 697 | 258 | Yes | No | Yes |
+| Sigmascape V1.0 (Savage) | 752 | 292 | Yes | No | Yes |
+| Sigmascape V2.0 (Savage) | 753 | 293 | Yes | No | Yes |
+| Sigmascape V3.0 (Savage) | 754 | 294 | Yes | No | Yes |
 
 #### Ultimate Raids
 
