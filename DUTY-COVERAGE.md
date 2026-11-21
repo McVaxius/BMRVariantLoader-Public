@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.70 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.71 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.70 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 201 | 84 |
-| Movement hints | 676 | 27 | 64 |
+| Movement hints | 678 | 27 | 62 |
 
 ## Needs coverage or verification
 
@@ -373,13 +373,13 @@ None.
 | It's Probably a Trap | 665 | 237 | Yes | No | Yes |
 | The Key to Victory | 686 | 467 | Yes | No | Yes |
 | Master Musosai | 666 | 462 | No | Unknown | Unknown |
-| Matsuba Mayhem | 710 | 250 | No | Unknown | Unknown |
+| Matsuba Mayhem | 710 | 250 | No | Unknown | Yes |
 | The Mongrel and the Knight | 700 | 449 | No | Unknown | Yes |
 | Nightkin | 676 | 461 | No | Unknown | Yes |
 | One Autumn's Secret | 703 | 446 | No | Unknown | Unknown |
 | One Golem to Rule Them All | 673 | 445 | Yes | No | Yes |
 | Our Compromise | 716 | 272 | Yes | No | Yes |
-| Release the Hounds | 699 | 448 | No | Unknown | Unknown |
+| Release the Hounds | 699 | 448 | No | Unknown | Yes |
 | Return to the Rift | 658 | 471 | Yes | No | Yes |
 | Shades of Shatotto | 669 | 444 | Yes | No | Yes |
 | Stained in Scarlet | 672 | 460 | No | Unknown | Yes |
