@@ -43,8 +43,6 @@ Public God Mod Companion 3.2.0.54 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Binding Coil of Bahamut - Turn 3 (Normal) | 243 | 95 | No | Unknown | Unknown |
-| the Binding Coil of Bahamut - Turn 4 (Normal) | 244 | 96 | Yes | Unknown | Unknown |
-| the Binding Coil of Bahamut - Turn 5 (Normal) | 245 | 97 | Yes | Unknown | Unknown |
 | the Final Coil of Bahamut - Turn 1 (Normal) | 193 | 107 | No | Unknown | Unknown |
 | the Final Coil of Bahamut - Turn 2 (Normal) | 194 | 108 | No | Unknown | Unknown |
 | the Final Coil of Bahamut - Turn 3 (Normal) | 195 | 109 | No | Unknown | Unknown |
@@ -91,7 +89,6 @@ None.
 | The Company You Keep (Twin Adder) | 277 | 340 | No | Unknown | Unknown |
 | The Consequences of Anger | 328 | 377 | No | Unknown | Unknown |
 | The Crow Knows | 414 | 391 | Yes | Unknown | Unknown |
-| Devastation | 1052 | 867 | Unknown | Unknown | Unknown |
 | Doing It the Bard Way | 321 | 370 | Yes | No | No |
 | Duty, Honor, Country | 271 | 336 | Yes | Yes | Unknown |
 | Escape from Castrum Centri | 305 | 352 | Yes | Unknown | Unknown |
@@ -219,9 +216,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | Containment Bay P1T6 (Extreme) | 577 | 184 | No | Unknown | Unknown |
 | Containment Bay S1T7 (Extreme) | 524 | 135 | No | Unknown | Unknown |
-| Containment Bay Z1T9 (Extreme) | 638 | 224 | Yes | Unknown | Unknown |
 | the Limitless Blue (Extreme) | 447 | 89 | No | Unknown | Unknown |
-| the Minstrel's Ballad: Nidhogg's Rage | 566 | 170 | Yes | Unknown | Unknown |
 | Thok ast Thok (Extreme) | 446 | 87 | Yes | Unknown | Yes |
 
 #### Raids
@@ -543,7 +538,6 @@ None.
 | The Lost and the Found | 874 | 679 | Yes | Unknown | Unknown |
 | Nyelbert's Lament | 876 | 686 | Yes | Unknown | Unknown |
 | Sleep Now in Sapphire | 925 | 740 | Yes | Unknown | Unknown |
-| Sleep Now in Sapphire | 926 | 741 | Unknown | Unknown | Unknown |
 | Vows of Virtue, Deeds of Cruelty | 893 | 702 | Yes | Unknown | Unknown |
 | When It Rains | 862 | 663 | Yes | Unknown | Unknown |
 
@@ -629,8 +623,7 @@ None.
 | A Frosty Reception | 1010 | 812 | Yes | Unknown | Unknown |
 | A Path Unveiled | 1015 | 805 | No | Unknown | Unknown |
 | An Unforeseen Bargain | 1120 | 910 | Yes | Unknown | Unknown |
-| Endwalker | 1013 | 798 | Unknown | Unknown | Unknown |
-| Ever March Heavensward | 1018 | 815 | Unknown | Unknown | Unknown |
+| Ever March Heavensward | 1018 | 815 | No | Unknown | Unknown |
 | Forlorn Glory | 1051 | 845 | No | Unknown | Unknown |
 | The Game Is Afoot | 1177 | 960 | Yes | Unknown | Unknown |
 | Generational Bonding | 1115 | 907 | No | Unknown | Unknown |
@@ -801,6 +794,8 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | the Binding Coil of Bahamut - Turn 1 (Normal) | 241 | 93 | Yes | Yes | Yes |
 | the Binding Coil of Bahamut - Turn 2 (Normal) | 242 | 94 | Yes | Yes | Yes |
+| the Binding Coil of Bahamut - Turn 4 (Normal) | 244 | 96 | Yes | Yes | Yes |
+| the Binding Coil of Bahamut - Turn 5 (Normal) | 245 | 97 | Yes | Yes | Yes |
 
 #### Savage
 
@@ -818,6 +813,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Devastation | 1052 | 867 | Yes | Yes | Yes |
 | In the Dark of Night | 839 | 647 | Yes | Yes | Yes |
 
 #### Guildhests
@@ -858,6 +854,8 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Containment Bay Z1T9 (Extreme) | 638 | 224 | Yes | Yes | Yes |
+| the Minstrel's Ballad: Nidhogg's Rage | 566 | 170 | Yes | Yes | Yes |
 | the Minstrel's Ballad: Thordan's Reign | 448 | 91 | Yes | Yes | Yes |
 
 #### Raids
@@ -1085,6 +1083,7 @@ None.
 | Gamboling for Gil | 867 | 670 | Yes | Yes | Yes |
 | The Oracle of Light | 861 | 662 | Yes | Yes | Yes |
 | Save the Last Dance for Me | 868 | 671 | Yes | Yes | Yes |
+| Sleep Now in Sapphire | 926 | 741 | Yes | Yes | Yes |
 | The Soul of Temperance | 870 | 673 | Yes | Yes | Yes |
 | Steel against Steel | 866 | 669 | Yes | Yes | Yes |
 | To Have Loved and Lost | 869 | 672 | Yes | Yes | Yes |
@@ -1197,6 +1196,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | As the Heavens Burn | 1012 | 804 | Yes | Yes | Yes |
+| Endwalker | 1013 | 798 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
