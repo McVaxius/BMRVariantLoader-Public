@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.63 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 203 | 82 |
-| Movement hints | 657 | 27 | 83 |
+| Movement hints | 658 | 27 | 82 |
 
 ## Needs coverage or verification
 
@@ -255,7 +255,7 @@ None.
 | Appetite for Destruction | 491 | 428 | No | Unknown | Unknown |
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
 | At the End of Our Hope | 479 | 416 | Yes | No | Yes |
-| The Ballad of Oblivion | 492 | 429 | No | Unknown | Unknown |
+| The Ballad of Oblivion | 492 | 429 | No | Unknown | Yes |
 | Big Sollerets to Fill | 498 | 435 | Yes | No | No |
 | Blood on the Sands | 471 | 409 | Yes | No | No |
 | Declaration of Blood | 495 | 432 | Yes | No | Yes |
