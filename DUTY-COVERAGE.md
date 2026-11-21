@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 477 showing all three features and 290 needing coverage or verification. 195 duties have at least one Unknown.
+**767 duties** with 477 showing all three features and 290 needing coverage or verification. 194 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 480 | 145 | 142 |
-| Movement hints | 558 | 27 | 182 |
+| Radar | 480 | 158 | 129 |
+| Movement hints | 559 | 27 | 181 |
 
 ## Needs coverage or verification
 
@@ -22,29 +22,29 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Amdapor Keep (Hard) | 189 | 29 | No | Unknown | Unknown |
-| Copperbell Mines (Hard) | 349 | 18 | No | Unknown | Unknown |
-| Halatali (Hard) | 360 | 21 | No | Unknown | Unknown |
-| the Stone Vigil (Hard) | 365 | 25 | No | Unknown | Unknown |
-| the Sunken Temple of Qarn (Hard) | 367 | 26 | No | Unknown | Unknown |
-| the Wanderer's Palace (Hard) | 188 | 30 | No | Unknown | Unknown |
+| Amdapor Keep (Hard) | 189 | 29 | No | No | Unknown |
+| Copperbell Mines (Hard) | 349 | 18 | No | No | Unknown |
+| Halatali (Hard) | 360 | 21 | No | No | Yes |
+| the Stone Vigil (Hard) | 365 | 25 | No | No | Unknown |
+| the Sunken Temple of Qarn (Hard) | 367 | 26 | No | No | Unknown |
+| the Wanderer's Palace (Hard) | 188 | 30 | No | No | Unknown |
 
 #### Trials
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Battle on the Big Bridge (Normal) | 366 | 76 | No | Unknown | Unknown |
-| the Chrysalis (Normal) | 426 | 84 | No | Unknown | Unknown |
-| the Dragon's Neck (Normal) | 142 | 81 | No | Unknown | Unknown |
+| Battle on the Big Bridge (Normal) | 366 | 76 | No | No | Unknown |
+| the Chrysalis (Normal) | 426 | 84 | No | No | Unknown |
+| the Dragon's Neck (Normal) | 142 | 81 | No | No | Unknown |
 
 #### Extreme
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Akh Afah Amphitheatre (Extreme) | 378 | 80 | No | Unknown | Unknown |
-| the Striking Tree (Extreme) | 375 | 78 | No | Unknown | Unknown |
-| Thornmarch (Extreme) | 364 | 67 | No | Unknown | Unknown |
-| the Whorleater (Extreme) | 359 | 73 | No | Unknown | Unknown |
+| the Akh Afah Amphitheatre (Extreme) | 378 | 80 | No | No | Unknown |
+| the Striking Tree (Extreme) | 375 | 78 | No | No | Unknown |
+| Thornmarch (Extreme) | 364 | 67 | No | No | Unknown |
+| the Whorleater (Extreme) | 359 | 73 | No | No | Unknown |
 
 #### Raids
 
