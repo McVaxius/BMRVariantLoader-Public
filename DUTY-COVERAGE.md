@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.60 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.61 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
 ## Coverage at a glance
 
-**767 duties** with 479 showing all three features and 288 needing coverage or verification. 162 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 159 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
-| Radar | 482 | 168 | 117 |
-| Movement hints | 590 | 27 | 150 |
+| Radar | 482 | 171 | 114 |
+| Movement hints | 593 | 27 | 147 |
 
 ## Needs coverage or verification
 
@@ -483,9 +483,9 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Anabaseios: The Eleventh Circle (Normal) | 1151 | 940 | No | Unknown | Unknown |
-| Anabaseios: The Tenth Circle (Normal) | 1149 | 938 | No | Unknown | Unknown |
-| Anabaseios: The Twelfth Circle (Normal) | 1153 | 942 | No | Unknown | Unknown |
+| Anabaseios: The Eleventh Circle (Normal) | 1151 | 940 | No | No | Yes |
+| Anabaseios: The Tenth Circle (Normal) | 1149 | 938 | No | No | Yes |
+| Anabaseios: The Twelfth Circle (Normal) | 1153 | 942 | No | No | Yes |
 
 #### Savage
 
