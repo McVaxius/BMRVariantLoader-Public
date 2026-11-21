@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.78 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.79 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.0.78 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
 | Radar | 482 | 201 | 84 |
-| Movement hints | 683 | 27 | 57 |
+| Movement hints | 684 | 27 | 56 |
 
 ## Needs coverage or verification
 
@@ -279,7 +279,7 @@ None.
 | Kindred Spirits | 496 | 433 | Yes | No | Yes |
 | Master of Marksmanship | 486 | 423 | Yes | No | Yes |
 | Ninja Assassin | 484 | 421 | Yes | No | Unknown |
-| Our Answer | 500 | 437 | No | Unknown | Unknown |
+| Our Answer | 500 | 437 | No | Unknown | Yes |
 | The Power of a Tourney | 488 | 425 | Yes | No | No |
 | Quarantine | 466 | 404 | Yes | No | Unknown |
 | Rise of the Machinists | 489 | 426 | Yes | No | Unknown |
