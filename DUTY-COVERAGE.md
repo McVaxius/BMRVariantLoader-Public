@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.52 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.53 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -13,7 +13,6 @@ Public God Mod Companion 3.2.0.52 and BossModReborn 7.5.8.5. Duty names and IDs 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Amdapor Keep (Hard) | 189 | 29 | No | Unknown | Unknown |
-| Brayflox's Longstop (Hard) | 362 | 20 | Yes | Unknown | Unknown |
 | Copperbell Mines (Hard) | 349 | 18 | No | Unknown | Unknown |
 | Halatali (Hard) | 360 | 21 | No | Unknown | Unknown |
 | Haukke Manor (Hard) | 350 | 19 | Yes | Unknown | Unknown |
@@ -207,7 +206,6 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Dusk Vigil | 1366 | 36 | No | Unknown | Unknown |
-| the Great Gubal Library (Hard) | 578 | 196 | Yes | Unknown | Unknown |
 | Hullbreaker Isle (Hard) | 557 | 172 | No | Unknown | Unknown |
 | the Lost City of Amdapor (Hard) | 519 | 140 | Yes | Unknown | Unknown |
 | Neverreap | 420 | 33 | No | Unknown | Unknown |
@@ -758,6 +756,7 @@ None.
 | Amdapor Keep | 167 | 14 | Yes | Yes | Yes |
 | the Aurum Vale | 1331 | 5 | Yes | Yes | Yes |
 | Brayflox's Longstop | 1041 | 8 | Yes | Yes | Yes |
+| Brayflox's Longstop (Hard) | 362 | 20 | Yes | Yes | Yes |
 | Castrum Meridianum | 1043 | 15 | Yes | Yes | Yes |
 | Copperbell Mines | 1038 | 3 | Yes | Yes | Yes |
 | Cutter's Cry | 1303 | 12 | Yes | Yes | Yes |
@@ -843,6 +842,7 @@ None.
 | Baelsar's Wall | 1114 | 219 | Yes | Yes | Yes |
 | the Fractal Continuum | 430 | 35 | Yes | Yes | Yes |
 | the Great Gubal Library | 1109 | 31 | Yes | Yes | Yes |
+| the Great Gubal Library (Hard) | 578 | 196 | Yes | Yes | Yes |
 | Saint Mocianne's Arboretum | 511 | 41 | Yes | Yes | Yes |
 | Sohm Al | 1064 | 37 | Yes | Yes | Yes |
 | Sohr Khai | 1112 | 171 | Yes | Yes | Yes |
