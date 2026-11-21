@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 478 showing all three features and 289 needing coverage or verification. 179 duties have at least one Unknown.
+**767 duties** with 479 showing all three features and 288 needing coverage or verification. 172 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 620 | 147 | 0 |
-| Radar | 481 | 164 | 122 |
-| Movement hints | 577 | 27 | 163 |
+| Radar | 482 | 164 | 121 |
+| Movement hints | 583 | 27 | 157 |
 
 ## Needs coverage or verification
 
@@ -33,18 +33,18 @@ Public God Mod Companion 3.2.0.59 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Battle on the Big Bridge (Normal) | 366 | 76 | No | No | Unknown |
-| the Chrysalis (Normal) | 426 | 84 | No | No | Unknown |
-| the Dragon's Neck (Normal) | 142 | 81 | No | No | Unknown |
+| Battle on the Big Bridge (Normal) | 366 | 76 | No | No | Yes |
+| the Chrysalis (Normal) | 426 | 84 | No | No | Yes |
+| the Dragon's Neck (Normal) | 142 | 81 | No | No | Yes |
 
 #### Extreme
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Akh Afah Amphitheatre (Extreme) | 378 | 80 | No | No | Unknown |
-| the Striking Tree (Extreme) | 375 | 78 | No | No | Unknown |
+| the Akh Afah Amphitheatre (Extreme) | 378 | 80 | No | No | Yes |
+| the Striking Tree (Extreme) | 375 | 78 | No | No | Yes |
 | Thornmarch (Extreme) | 364 | 67 | No | No | Unknown |
-| the Whorleater (Extreme) | 359 | 73 | No | No | Unknown |
+| the Whorleater (Extreme) | 359 | 73 | No | No | Yes |
 
 #### Raids
 
@@ -429,7 +429,6 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Eden's Gate: Descent (Savage) | 854 | 685 | Yes | Unknown | Yes |
 | Eden's Gate: Resurrection (Savage) | 853 | 654 | Yes | Unknown | Yes |
 | Eden's Promise: Anamorphosis (Savage) | 948 | 752 | No | Unknown | Unknown |
 | Eden's Promise: Eternity (Savage) | 949 | 759 | Yes | Unknown | Unknown |
@@ -1006,6 +1005,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Eden's Gate: Descent (Savage) | 854 | 685 | Yes | Yes | Yes |
 | Eden's Gate: Inundation (Savage) | 855 | 683 | Yes | Yes | Yes |
 | Eden's Gate: Sepulture (Savage) | 856 | 690 | Yes | Yes | Yes |
 | Eden's Verse: Refulgence (Savage) | 909 | 729 | Yes | Yes | Yes |
