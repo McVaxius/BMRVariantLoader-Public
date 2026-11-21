@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.54 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.55 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
@@ -84,16 +84,13 @@ None.
 | Cape Westwind | 1049 | 865 | Yes | Unknown | Unknown |
 | Chasing Shadows | 233 | 296 | Yes | Unknown | Unknown |
 | Cloying Victory | 409 | 386 | Yes | Unknown | Unknown |
-| The Company You Keep (Immortal Flames) | 278 | 341 | Yes | Yes | Unknown |
 | The Company You Keep (Maelstrom) | 279 | 342 | Yes | Unknown | Unknown |
 | The Company You Keep (Twin Adder) | 277 | 340 | No | Unknown | Unknown |
 | The Consequences of Anger | 328 | 377 | No | Unknown | Unknown |
 | The Crow Knows | 414 | 391 | Yes | Unknown | Unknown |
 | Doing It the Bard Way | 321 | 370 | Yes | No | No |
-| Duty, Honor, Country | 271 | 336 | Yes | Yes | Unknown |
 | Escape from Castrum Centri | 305 | 352 | Yes | Unknown | Unknown |
-| Every Little Thing She Does Is Magitek | 309 | 358 | Yes | Unknown | Yes |
-| The Face of Thal | 255 | 316 | Yes | Yes | Unknown |
+| Every Little Thing She Does Is Magitek | 309 | 358 | Yes | No | Yes |
 | Facing Your Demons | 269 | 327 | No | Unknown | Unknown |
 | Feint and Strike | 280 | 334 | Yes | Unknown | Unknown |
 | Five Easy Pieces | 315 | 364 | Yes | Unknown | Unknown |
@@ -119,7 +116,7 @@ None.
 | Leia's Legacy | 227 | 299 | Yes | Unknown | Unknown |
 | Like Mother, Like Daughter | 291 | 356 | Yes | Unknown | Unknown |
 | The Lominsan Way | 307 | 354 | Yes | Unknown | Unknown |
-| Lord of the Inferno | 275 | 339 | Yes | Unknown | Yes |
+| Lord of the Inferno | 275 | 339 | Yes | No | Yes |
 | Lurkers in the Grotto | 252 | 332 | Yes | Unknown | Unknown |
 | Master and Student | 415 | 392 | No | Unknown | Unknown |
 | Memory of Embers | 1166 | 959 | Yes | Unknown | Unknown |
@@ -130,18 +127,16 @@ None.
 | Notorious Biggs | 304 | 351 | Yes | No | Yes |
 | Nouveau Riche | 232 | 311 | Yes | Unknown | Unknown |
 | Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
-| On Holy Ground | 256 | 317 | Yes | Yes | Unknown |
 | Once Upon a Time in Doma | 412 | 389 | No | Unknown | Unknown |
 | The One That Got Away | 231 | 305 | Yes | Unknown | Unknown |
 | The One That Got Away | 236 | 306 | Yes | Unknown | Unknown |
-| Over the Rails | 286 | 346 | Yes | Yes | Unknown |
 | Parley in the Sagolii | 312 | 361 | No | Unknown | Unknown |
 | Pincer Maneuver | 287 | 347 | Yes | Unknown | Unknown |
 | Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | Unknown | Unknown |
 | Primal Burdens | 326 | 375 | Yes | Unknown | Unknown |
 | Proof of Might | 239 | 309 | No | Unknown | Unknown |
 | Proof of Might | 240 | 310 | No | Unknown | Unknown |
-| The Reason Roaille | 410 | 387 | Yes | Unknown | Yes |
+| The Reason Roaille | 410 | 387 | Yes | No | Yes |
 | The Rematch | 257 | 318 | Yes | No | Yes |
 | Requiem for the Fallen | 322 | 371 | Yes | No | No |
 | Return of the Holyfist | 261 | 322 | No | Unknown | Unknown |
@@ -157,7 +152,7 @@ None.
 | Stray into the Shadows | 404 | 381 | Yes | Unknown | Unknown |
 | Sweet Sorrows | 408 | 385 | Yes | Unknown | Unknown |
 | Tactical Planning | 285 | 345 | Yes | Yes | Unknown |
-| That Old Familiar Feeling | 254 | 315 | Yes | Unknown | Yes |
+| That Old Familiar Feeling | 254 | 315 | Yes | No | Yes |
 | The Threat of Perplexity | 267 | 325 | Yes | Unknown | Unknown |
 | The Threat of Superiority | 266 | 324 | Yes | Unknown | Unknown |
 | To Catch a Poacher | 229 | 303 | Yes | Unknown | Unknown |
@@ -169,7 +164,6 @@ None.
 | Victory in Peril | 249 | 313 | Yes | Unknown | Unknown |
 | Violators Will Be Shot | 228 | 302 | Yes | Unknown | Unknown |
 | The Voidgate Breathes Gloomy | 317 | 366 | Yes | Unknown | Unknown |
-| Way Down in the Hole | 248 | 312 | Yes | Yes | Unknown |
 
 #### Guildhests
 
@@ -206,17 +200,17 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Containment Bay P1T6 (Normal) | 576 | 183 | No | Unknown | Unknown |
-| Containment Bay S1T7 (Normal) | 517 | 134 | No | Unknown | Unknown |
-| Containment Bay Z1T9 (Normal) | 637 | 223 | No | Unknown | Unknown |
+| Containment Bay P1T6 (Normal) | 576 | 183 | No | No | No |
+| Containment Bay S1T7 (Normal) | 517 | 134 | No | No | No |
+| Containment Bay Z1T9 (Normal) | 637 | 223 | No | No | No |
 
 #### Extreme
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Containment Bay P1T6 (Extreme) | 577 | 184 | No | Unknown | Unknown |
-| Containment Bay S1T7 (Extreme) | 524 | 135 | No | Unknown | Unknown |
-| the Limitless Blue (Extreme) | 447 | 89 | No | Unknown | Unknown |
+| Containment Bay P1T6 (Extreme) | 577 | 184 | No | No | No |
+| Containment Bay S1T7 (Extreme) | 524 | 135 | No | No | No |
+| the Limitless Blue (Extreme) | 447 | 89 | No | No | No |
 | Thok ast Thok (Extreme) | 446 | 87 | Yes | Unknown | Yes |
 
 #### Raids
@@ -813,8 +807,14 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| The Company You Keep (Immortal Flames) | 278 | 341 | Yes | Yes | Yes |
 | Devastation | 1052 | 867 | Yes | Yes | Yes |
+| Duty, Honor, Country | 271 | 336 | Yes | Yes | Yes |
+| The Face of Thal | 255 | 316 | Yes | Yes | Yes |
 | In the Dark of Night | 839 | 647 | Yes | Yes | Yes |
+| On Holy Ground | 256 | 317 | Yes | Yes | Yes |
+| Over the Rails | 286 | 346 | Yes | Yes | Yes |
+| Way Down in the Hole | 248 | 312 | Yes | Yes | Yes |
 
 #### Guildhests
 
