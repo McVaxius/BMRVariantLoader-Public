@@ -23,14 +23,10 @@ Public God Mod Companion 3.2.0.54 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Relic Reborn: the Chimera (Normal) | 368 | 74 | Yes | Unknown | Unknown |
-| A Relic Reborn: the Hydra (Normal) | 369 | 75 | Yes | Unknown | Unknown |
-| the Akh Afah Amphitheatre (Hard) | 377 | 79 | Yes | Unknown | Unknown |
-| Battle in the Big Keep (Normal) | 396 | 85 | Yes | Unknown | Unknown |
+| the Akh Afah Amphitheatre (Hard) | 377 | 79 | Yes | Yes | Unknown |
 | Battle on the Big Bridge (Normal) | 366 | 76 | No | Unknown | Unknown |
 | the Chrysalis (Normal) | 426 | 84 | No | Unknown | Unknown |
 | the Dragon's Neck (Normal) | 142 | 81 | No | Unknown | Unknown |
-| the Striking Tree (Hard) | 374 | 77 | Yes | Unknown | Unknown |
 | Urth's Fount (Normal) | 394 | 82 | Yes | Unknown | Unknown |
 
 #### Extreme
@@ -77,14 +73,14 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | A Dangerous Proposition | 237 | 307 | Yes | Unknown | Unknown |
 | Always Bet on Black | 318 | 367 | No | Unknown | Unknown |
-| Austerities of Earth | 324 | 373 | Yes | Unknown | Unknown |
-| Austerities of Flame | 323 | 372 | Yes | Unknown | Unknown |
-| Austerities of Wind | 325 | 374 | Yes | Unknown | Unknown |
-| Axe in the Stone | 262 | 328 | Yes | Unknown | Unknown |
+| Austerities of Earth | 324 | 373 | Yes | No | No |
+| Austerities of Flame | 323 | 372 | Yes | No | No |
+| Austerities of Wind | 325 | 374 | Yes | No | No |
+| Axe in the Stone | 262 | 328 | Yes | No | No |
 | The Beast Within | 329 | 378 | Yes | Unknown | Unknown |
 | Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | Unknown | Unknown |
-| Bleeder of the Pack | 264 | 330 | Yes | Unknown | Unknown |
-| Bringing Down the Mountain | 265 | 331 | Yes | Unknown | Unknown |
+| Bleeder of the Pack | 264 | 330 | Yes | No | No |
+| Bringing Down the Mountain | 265 | 331 | Yes | No | No |
 | Brother from Another Mother | 314 | 363 | Yes | Unknown | Unknown |
 | Brotherly Love | 303 | 350 | Yes | Unknown | Unknown |
 | Cape Westwind | 1049 | 865 | Yes | Unknown | Unknown |
@@ -96,7 +92,7 @@ None.
 | The Consequences of Anger | 328 | 377 | No | Unknown | Unknown |
 | The Crow Knows | 414 | 391 | Yes | Unknown | Unknown |
 | Devastation | 1052 | 867 | Unknown | Unknown | Unknown |
-| Doing It the Bard Way | 321 | 370 | Yes | Unknown | Unknown |
+| Doing It the Bard Way | 321 | 370 | Yes | No | No |
 | Duty, Honor, Country | 271 | 336 | Yes | Yes | Unknown |
 | Escape from Castrum Centri | 305 | 352 | Yes | Unknown | Unknown |
 | Every Little Thing She Does Is Magitek | 309 | 358 | Yes | Unknown | Yes |
@@ -113,7 +109,7 @@ None.
 | The Hidden Chapter | 268 | 326 | No | Unknown | Unknown |
 | History Repeating | 330 | 379 | Yes | Unknown | Unknown |
 | Homecoming | 230 | 304 | Yes | Unknown | Unknown |
-| How to Quit You | 311 | 360 | Yes | Unknown | Unknown |
+| How to Quit You | 311 | 360 | Yes | No | No |
 | In Nature's Embrace | 235 | 301 | Yes | Unknown | Unknown |
 | In the Eyes of Gods and Men | 301 | 343 | Yes | Unknown | Unknown |
 | Into a Copper Hell | 274 | 338 | Yes | Unknown | Unknown |
@@ -131,7 +127,7 @@ None.
 | Master and Student | 415 | 392 | No | Unknown | Unknown |
 | Memory of Embers | 1166 | 959 | Yes | Unknown | Unknown |
 | Messenger of the Winds | 834 | 646 | Yes | Unknown | Unknown |
-| The Mountain That Strides | 263 | 329 | Yes | Unknown | Unknown |
+| The Mountain That Strides | 263 | 329 | Yes | No | No |
 | My First Mudra | 411 | 388 | No | Unknown | Unknown |
 | Ninja Bathin' | 413 | 390 | Yes | Unknown | Unknown |
 | Notorious Biggs | 304 | 351 | Yes | No | Yes |
@@ -150,7 +146,7 @@ None.
 | Proof of Might | 240 | 310 | No | Unknown | Unknown |
 | The Reason Roaille | 410 | 387 | Yes | Unknown | Yes |
 | The Rematch | 257 | 318 | Yes | No | Yes |
-| Requiem for the Fallen | 322 | 371 | Yes | Unknown | Unknown |
+| Requiem for the Fallen | 322 | 371 | Yes | No | No |
 | Return of the Holyfist | 261 | 322 | No | Unknown | Unknown |
 | Return of the Holyfist | 251 | 323 | Yes | Unknown | Unknown |
 | Seer Folly | 319 | 368 | Yes | Unknown | Unknown |
@@ -776,6 +772,9 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| A Relic Reborn: the Chimera (Normal) | 368 | 74 | Yes | Yes | Yes |
+| A Relic Reborn: the Hydra (Normal) | 369 | 75 | Yes | Yes | Yes |
+| Battle in the Big Keep (Normal) | 396 | 85 | Yes | Yes | Yes |
 | the Bowl of Embers (Hard) | 292 | 59 | Yes | Yes | Yes |
 | the Bowl of Embers (Normal) | 1045 | 56 | Yes | Yes | Yes |
 | the Howling Eye (Hard) | 294 | 61 | Yes | Yes | Yes |
@@ -783,6 +782,7 @@ None.
 | the Navel (Hard) | 293 | 60 | Yes | Yes | Yes |
 | the Navel (Normal) | 1046 | 57 | Yes | Yes | Yes |
 | the Porta Decumana (Normal) | 1048 | 830 | Yes | Yes | Yes |
+| the Striking Tree (Hard) | 374 | 77 | Yes | Yes | Yes |
 | Thornmarch (Hard) | 1067 | 66 | Yes | Yes | Yes |
 | the Whorleater (Hard) | 281 | 72 | Yes | Yes | Yes |
 
