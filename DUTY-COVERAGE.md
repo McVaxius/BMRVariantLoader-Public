@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.58 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 453 showing all three features and 314 needing coverage or verification. 257 duties have at least one Unknown.
+**767 duties** with 470 showing all three features and 297 needing coverage or verification. 220 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 453 | 74 | 240 |
-| Movement hints | 493 | 26 | 248 |
+| Radar | 470 | 94 | 203 |
+| Movement hints | 526 | 32 | 209 |
 
 ## Needs coverage or verification
 
@@ -275,19 +275,19 @@ None.
 | Heroic Reprise | 494 | 431 | Yes | No | Yes |
 | I Could Have Tranced All Night | 502 | 439 | Yes | No | Yes |
 | In Her Defense | 490 | 427 | No | Unknown | Unknown |
-| Ishgardian Justice | 499 | 436 | Yes | Unknown | Unknown |
-| Keeping the Flame Alive | 460 | 400 | Yes | Unknown | Unknown |
-| Kindred Spirits | 496 | 433 | Yes | Unknown | Unknown |
+| Ishgardian Justice | 499 | 436 | Yes | No | Yes |
+| Keeping the Flame Alive | 460 | 400 | Yes | No | Yes |
+| Kindred Spirits | 496 | 433 | Yes | No | Yes |
 | Master of Marksmanship | 486 | 423 | Yes | No | Yes |
-| Ninja Assassin | 484 | 421 | Yes | Unknown | Unknown |
+| Ninja Assassin | 484 | 421 | Yes | No | No |
 | Our Answer | 500 | 437 | No | Unknown | Unknown |
 | The Power of a Tourney | 488 | 425 | Yes | No | No |
-| Quarantine | 466 | 404 | Yes | Unknown | Unknown |
-| Rise of the Machinists | 489 | 426 | Yes | Unknown | Unknown |
+| Quarantine | 466 | 404 | Yes | No | No |
+| Rise of the Machinists | 489 | 426 | Yes | No | No |
 | Securing the Locks | 487 | 424 | Yes | No | Yes |
-| Slings and Arrows | 474 | 412 | Yes | Unknown | Unknown |
+| Slings and Arrows | 474 | 412 | Yes | No | Yes |
 | Sounding Out the Amphitheatre | 457 | 397 | No | Unknown | Unknown |
-| Spearheading Initiatives | 475 | 413 | Yes | Unknown | Unknown |
+| Spearheading Initiatives | 475 | 413 | Yes | No | Yes |
 | Sworn Upon a Lance | 470 | 408 | No | Unknown | Unknown |
 | This Little Sword of Mine | 493 | 430 | Yes | No | No |
 | When Gnaths Cry | 482 | 419 | No | Unknown | Unknown |
@@ -372,20 +372,20 @@ None.
 | In Thal's Name | 705 | 261 | Yes | No | No |
 | Interdimensional Rift | 690 | 275 | Yes | No | Yes |
 | It's Probably a Trap | 665 | 237 | Yes | No | Yes |
-| The Key to Victory | 686 | 467 | Yes | Unknown | Unknown |
+| The Key to Victory | 686 | 467 | Yes | No | Yes |
 | Master Musosai | 666 | 462 | No | Unknown | Unknown |
 | Matsuba Mayhem | 710 | 250 | No | Unknown | Unknown |
 | The Mongrel and the Knight | 700 | 449 | No | Unknown | Unknown |
 | Nightkin | 676 | 461 | No | Unknown | Unknown |
 | One Autumn's Secret | 703 | 446 | No | Unknown | Unknown |
-| One Golem to Rule Them All | 673 | 445 | Yes | Unknown | Unknown |
-| Our Compromise | 716 | 272 | Yes | Unknown | Unknown |
+| One Golem to Rule Them All | 673 | 445 | Yes | No | No |
+| Our Compromise | 716 | 272 | Yes | No | Yes |
 | Release the Hounds | 699 | 448 | No | Unknown | Unknown |
-| Return to the Rift | 658 | 471 | Yes | Unknown | Unknown |
-| Shades of Shatotto | 669 | 444 | Yes | Unknown | Unknown |
+| Return to the Rift | 658 | 471 | Yes | No | Yes |
+| Shades of Shatotto | 669 | 444 | Yes | No | No |
 | Stained in Scarlet | 672 | 460 | No | Unknown | Unknown |
 | Sweet Dreams Are Made of Peace | 704 | 447 | No | Unknown | Unknown |
-| What She Always Wanted | 678 | 457 | Yes | Unknown | Unknown |
+| What She Always Wanted | 678 | 457 | Yes | No | No |
 | When Clans Collide | 723 | 274 | No | Unknown | Unknown |
 | With Heart and Steel | 707 | 245 | No | Unknown | Unknown |
 |  A Test of Courage | 657 | 470 | No | Unknown | Unknown |
@@ -453,14 +453,13 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A-Digging We Will Go | 864 | 665 | Yes | Unknown | Unknown |
+| A-Digging We Will Go | 864 | 665 | Yes | No | Yes |
 | As the Heart Bids | 894 | 703 | No | Unknown | Unknown |
 | the Bozja Incident | 911 | 723 | No | Unknown | Unknown |
-| Coming Clean | 860 | 680 | Yes | Unknown | Unknown |
 | Fit for a Queen | 955 | 765 | No | Unknown | Unknown |
-| Hired Gunblades | 865 | 668 | Yes | Unknown | Unknown |
-| Legend of the Not-so-hidden Temple | 859 | 681 | Yes | Unknown | Unknown |
-| When It Rains | 862 | 663 | Yes | Unknown | Unknown |
+| Hired Gunblades | 865 | 668 | Yes | No | Yes |
+| Legend of the Not-so-hidden Temple | 859 | 681 | Yes | No | Yes |
+| When It Rains | 862 | 663 | Yes | No | Yes |
 
 #### Treasure Hunt
 
@@ -507,13 +506,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Aloalo Island (Variant) | 1176 | 961 | Yes | Unknown | Unknown |
-| Another Aloalo Island (Criterion) | 1179 | 979 | Yes | Unknown | Unknown |
-| Another Aloalo Island (Savage) | 1180 | 980 | Yes | Unknown | Unknown |
-| Another Mount Rokkon (Criterion) | 1155 | 946 | Yes | Unknown | Unknown |
-| Another Mount Rokkon (Savage) | 1156 | 947 | Yes | Unknown | Unknown |
-| Another Sil'dihn Subterrane (Criterion) | 1075 | 878 | Yes | Unknown | Unknown |
-| Another Sil'dihn Subterrane (Savage) | 1076 | 879 | Yes | Unknown | Unknown |
+| Aloalo Island (Variant) | 1176 | 961 | Yes | No | Yes |
 
 #### Deep Dungeons
 
@@ -525,23 +518,15 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Frosty Reception | 1010 | 812 | Yes | Unknown | Unknown |
 | A Path Unveiled | 1015 | 805 | No | Unknown | Unknown |
-| An Unforeseen Bargain | 1120 | 910 | Yes | Unknown | Unknown |
 | Ever March Heavensward | 1018 | 815 | No | Unknown | Unknown |
 | Forlorn Glory | 1051 | 845 | No | Unknown | Unknown |
-| The Game Is Afoot | 1177 | 960 | Yes | Unknown | Unknown |
 | Generational Bonding | 1115 | 907 | No | Unknown | Unknown |
 | The Gift of Mercy | 1019 | 820 | No | Unknown | Unknown |
-| The Harvest Begins | 1020 | 814 | Yes | Unknown | Unknown |
-| In from the Cold | 1011 | 793 | Yes | Unknown | Unknown |
-| The Killing Art | 1021 | 816 | Yes | Unknown | Unknown |
+| The Harvest Begins | 1020 | 814 | Yes | Unknown | Yes |
+| In from the Cold | 1011 | 793 | Yes | Unknown | Yes |
 | Laid to Rest | 1017 | 818 | No | Unknown | Unknown |
-| Life Ephemeral, Path Eternal | 1023 | 817 | Yes | Unknown | Unknown |
-| Sage's Focus | 1022 | 813 | Yes | Unknown | Unknown |
 | To Calmer Seas | 1016 | 799 | No | Unknown | Unknown |
-| Where Everything Begins | 1091 | 874 | Yes | Unknown | Unknown |
-| Worthy of His Back | 1014 | 795 | Yes | Unknown | Unknown |
 
 #### Treasure Hunt
 
@@ -599,9 +584,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | A Rush of Cold Wind | 1371 | 1101 | No | Unknown | Unknown |
 | Clotted Crime | 1329 | 1087 | No | Unknown | Unknown |
-| Vengeance of the Viper | 1236 | 1002 | Yes | Unknown | Unknown |
-| The Warmth of Family | 1244 | 1009 | Yes | Unknown | Unknown |
-| Where We Call Home | 1328 | 1085 | Yes | Unknown | Unknown |
+| Where We Call Home | 1328 | 1085 | Yes | No | Yes |
 
 #### Treasure Hunt
 
@@ -1057,6 +1040,7 @@ None.
 | A Feast of Lies | 863 | 664 | Yes | Yes | Yes |
 | A Sleep Disturbed | 914 | 724 | Yes | Yes | Yes |
 | A Tearful Reunion | 872 | 675 | Yes | Yes | Yes |
+| Coming Clean | 860 | 680 | Yes | Yes | Yes |
 | Courage Born of Fear | 871 | 674 | Yes | Yes | Yes |
 | Death Unto Dawn | 977 | 780 | Yes | Yes | Yes |
 | Faded Memories | 932 | 743 | Yes | Yes | Yes |
@@ -1176,6 +1160,12 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Another Aloalo Island (Criterion) | 1179 | 979 | Yes | Yes | Yes |
+| Another Aloalo Island (Savage) | 1180 | 980 | Yes | Yes | Yes |
+| Another Mount Rokkon (Criterion) | 1155 | 946 | Yes | Yes | Yes |
+| Another Mount Rokkon (Savage) | 1156 | 947 | Yes | Yes | Yes |
+| Another Sil'dihn Subterrane (Criterion) | 1075 | 878 | Yes | Yes | Yes |
+| Another Sil'dihn Subterrane (Savage) | 1076 | 879 | Yes | Yes | Yes |
 | Mount Rokkon (Variant) | 1137 | 945 | Yes | Yes | Yes |
 | the Sil'dihn Subterrane (Variant) | 1069 | 868 | Yes | Yes | Yes |
 
@@ -1197,8 +1187,16 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| A Frosty Reception | 1010 | 812 | Yes | Yes | Yes |
+| An Unforeseen Bargain | 1120 | 910 | Yes | Yes | Yes |
 | As the Heavens Burn | 1012 | 804 | Yes | Yes | Yes |
 | Endwalker | 1013 | 798 | Yes | Yes | Yes |
+| The Game Is Afoot | 1177 | 960 | Yes | Yes | Yes |
+| The Killing Art | 1021 | 816 | Yes | Yes | Yes |
+| Life Ephemeral, Path Eternal | 1023 | 817 | Yes | Yes | Yes |
+| Sage's Focus | 1022 | 813 | Yes | Yes | Yes |
+| Where Everything Begins | 1091 | 874 | Yes | Yes | Yes |
+| Worthy of His Back | 1014 | 795 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
@@ -1346,6 +1344,8 @@ None.
 | The Protector and the Destroyer | 1213 | 998 | Yes | Yes | Yes |
 | Somewhere Only She Knows | 1234 | 966 | Yes | Yes | Yes |
 | Taking a Stand | 1211 | 983 | Yes | Yes | Yes |
+| Vengeance of the Viper | 1236 | 1002 | Yes | Yes | Yes |
+| The Warmth of Family | 1244 | 1009 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
