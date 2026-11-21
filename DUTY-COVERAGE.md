@@ -6,13 +6,13 @@ Public God Mod Companion 3.2.0.55 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 ## Coverage at a glance
 
-**767 duties** with 344 showing all three features and 423 needing coverage or verification. 399 duties have at least one Unknown.
+**767 duties** with 357 showing all three features and 410 needing coverage or verification. 377 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 618 | 149 | 0 |
-| Radar | 352 | 24 | 391 |
-| Movement hints | 363 | 16 | 388 |
+| Radar | 364 | 33 | 370 |
+| Movement hints | 374 | 22 | 371 |
 
 ## Needs coverage or verification
 
@@ -33,11 +33,9 @@ Public God Mod Companion 3.2.0.55 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Akh Afah Amphitheatre (Hard) | 377 | 79 | Yes | Yes | Unknown |
 | Battle on the Big Bridge (Normal) | 366 | 76 | No | Unknown | Unknown |
 | the Chrysalis (Normal) | 426 | 84 | No | Unknown | Unknown |
 | the Dragon's Neck (Normal) | 142 | 81 | No | Unknown | Unknown |
-| Urth's Fount (Normal) | 394 | 82 | Yes | Unknown | Unknown |
 
 #### Extreme
 
@@ -227,16 +225,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Alexander - The Arm of the Father (Normal) | 444 | 114 | Yes | Unknown | Unknown |
-| Alexander - The Arm of the Son (Normal) | 522 | 138 | Yes | Unknown | Unknown |
-| Alexander - The Breath of the Creator (Normal) | 581 | 187 | Yes | Unknown | Unknown |
-| Alexander - The Burden of the Father (Normal) | 445 | 115 | Yes | Unknown | Unknown |
-| Alexander - The Burden of the Son (Normal) | 523 | 139 | Yes | Unknown | Unknown |
-| Alexander - The Cuff of the Father (Normal) | 443 | 113 | Yes | Unknown | Yes |
-| Alexander - The Cuff of the Son (Normal) | 521 | 137 | Yes | Unknown | Unknown |
-| Alexander - The Eyes of the Creator (Normal) | 580 | 186 | Yes | Unknown | Unknown |
-| Alexander - The Fist of the Father (Normal) | 442 | 112 | Yes | Unknown | Unknown |
-| Alexander - The Fist of the Son (Normal) | 520 | 136 | Yes | Unknown | Unknown |
+| Alexander - The Cuff of the Father (Normal) | 443 | 113 | Yes | No | Yes |
 | Alexander - The Heart of the Creator (Normal) | 582 | 188 | Yes | Unknown | Unknown |
 | Alexander - The Soul of the Creator (Normal) | 583 | 189 | Yes | Unknown | Unknown |
 
@@ -275,7 +264,6 @@ None.
 | A Journey of Purification | 469 | 407 | No | Unknown | Unknown |
 | A Joye-ful Reunion | 472 | 410 | No | Unknown | Unknown |
 | A Series of Unfortunate Events | 455 | 395 | Yes | Unknown | Unknown |
-| a Spectacle for the Ages | 533 | 167 | Yes | Unknown | Yes |
 | Absolution | 497 | 434 | No | Unknown | Unknown |
 | Against the Shadow | 483 | 420 | No | Unknown | Unknown |
 | An Illuminati Incident | 485 | 422 | No | Unknown | Unknown |
@@ -284,8 +272,8 @@ None.
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | Unknown | Unknown |
 | At the End of Our Hope | 479 | 416 | Yes | Unknown | Unknown |
 | The Ballad of Oblivion | 492 | 429 | No | Unknown | Unknown |
-| Big Sollerets to Fill | 498 | 435 | Yes | Unknown | Yes |
-| Blood on the Sands | 471 | 409 | Yes | Unknown | Unknown |
+| Big Sollerets to Fill | 498 | 435 | Yes | No | No |
+| Blood on the Sands | 471 | 409 | Yes | No | No |
 | The Carteneau Flats: Heliodrome | 633 | 222 | Yes | Unknown | Unknown |
 | Declaration of Blood | 495 | 432 | Yes | Unknown | Unknown |
 | The Defiant Ones | 465 | 403 | Yes | Unknown | Unknown |
@@ -299,26 +287,25 @@ None.
 | Fortune Favors the Bole | 473 | 411 | Yes | Unknown | Unknown |
 | Forward, the Royal Marines | 454 | 394 | Yes | Unknown | Unknown |
 | The Hands of Fate | 476 | 414 | Yes | Unknown | Unknown |
-| Hands of Healing | 464 | 402 | Yes | Unknown | Unknown |
+| Hands of Healing | 464 | 402 | Yes | No | No |
 | Heroic Reprise | 494 | 431 | Yes | Unknown | Unknown |
 | I Could Have Tranced All Night | 502 | 439 | Yes | Unknown | Unknown |
 | In Her Defense | 490 | 427 | No | Unknown | Unknown |
 | Ishgardian Justice | 499 | 436 | Yes | Unknown | Unknown |
 | Keeping the Flame Alive | 460 | 400 | Yes | Unknown | Unknown |
 | Kindred Spirits | 496 | 433 | Yes | Unknown | Unknown |
-| Master of Marksmanship | 486 | 423 | Yes | Unknown | Yes |
+| Master of Marksmanship | 486 | 423 | Yes | No | Yes |
 | Ninja Assassin | 484 | 421 | Yes | Unknown | Unknown |
-| One Life for One World | 592 | 194 | Yes | Unknown | Unknown |
 | Our Answer | 500 | 437 | No | Unknown | Unknown |
-| The Power of a Tourney | 488 | 425 | Yes | Unknown | Yes |
+| The Power of a Tourney | 488 | 425 | Yes | No | No |
 | Quarantine | 466 | 404 | Yes | Unknown | Unknown |
 | Rise of the Machinists | 489 | 426 | Yes | Unknown | Unknown |
-| Securing the Locks | 487 | 424 | Yes | Unknown | Unknown |
+| Securing the Locks | 487 | 424 | Yes | No | Yes |
 | Slings and Arrows | 474 | 412 | Yes | Unknown | Unknown |
 | Sounding Out the Amphitheatre | 457 | 397 | No | Unknown | Unknown |
 | Spearheading Initiatives | 475 | 413 | Yes | Unknown | Unknown |
 | Sworn Upon a Lance | 470 | 408 | No | Unknown | Unknown |
-| This Little Sword of Mine | 493 | 430 | Yes | Unknown | Unknown |
+| This Little Sword of Mine | 493 | 430 | Yes | No | No |
 | When Gnaths Cry | 482 | 419 | No | Unknown | Unknown |
 
 #### Treasure Hunt
@@ -422,7 +409,7 @@ None.
 | The Heart of the Problem | 718 | 266 | Yes | Unknown | Unknown |
 | In Crimson It Began | 659 | 464 | Yes | Unknown | Unknown |
 | In Loving Memory | 721 | 453 | Yes | Unknown | Unknown |
-| In Thal's Name | 705 | 261 | Yes | Unknown | Unknown |
+| In Thal's Name | 705 | 261 | Yes | No | No |
 | Interdimensional Rift | 690 | 275 | Yes | Unknown | Unknown |
 | It's Probably a Trap | 665 | 237 | Yes | Unknown | Unknown |
 | The Key to Victory | 686 | 467 | Yes | Unknown | Unknown |
@@ -771,6 +758,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | A Relic Reborn: the Chimera (Normal) | 368 | 74 | Yes | Yes | Yes |
 | A Relic Reborn: the Hydra (Normal) | 369 | 75 | Yes | Yes | Yes |
+| the Akh Afah Amphitheatre (Hard) | 377 | 79 | Yes | Yes | Yes |
 | Battle in the Big Keep (Normal) | 396 | 85 | Yes | Yes | Yes |
 | the Bowl of Embers (Hard) | 292 | 59 | Yes | Yes | Yes |
 | the Bowl of Embers (Normal) | 1045 | 56 | Yes | Yes | Yes |
@@ -781,6 +769,7 @@ None.
 | the Porta Decumana (Normal) | 1048 | 830 | Yes | Yes | Yes |
 | the Striking Tree (Hard) | 374 | 77 | Yes | Yes | Yes |
 | Thornmarch (Hard) | 1067 | 66 | Yes | Yes | Yes |
+| Urth's Fount (Normal) | 394 | 82 | Yes | Yes | Yes |
 | the Whorleater (Hard) | 281 | 72 | Yes | Yes | Yes |
 
 #### Extreme
@@ -870,7 +859,17 @@ None.
 
 #### Raids
 
-None.
+| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
+| --- | ---: | ---: | --- | --- | --- |
+| Alexander - The Arm of the Father (Normal) | 444 | 114 | Yes | Yes | Yes |
+| Alexander - The Arm of the Son (Normal) | 522 | 138 | Yes | Yes | Yes |
+| Alexander - The Breath of the Creator (Normal) | 581 | 187 | Yes | Yes | Yes |
+| Alexander - The Burden of the Father (Normal) | 445 | 115 | Yes | Yes | Yes |
+| Alexander - The Burden of the Son (Normal) | 523 | 139 | Yes | Yes | Yes |
+| Alexander - The Cuff of the Son (Normal) | 521 | 137 | Yes | Yes | Yes |
+| Alexander - The Eyes of the Creator (Normal) | 580 | 186 | Yes | Yes | Yes |
+| Alexander - The Fist of the Father (Normal) | 442 | 112 | Yes | Yes | Yes |
+| Alexander - The Fist of the Son (Normal) | 520 | 136 | Yes | Yes | Yes |
 
 #### Savage
 
@@ -913,9 +912,11 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | a Bloody Reunion | 560 | 173 | Yes | Yes | Yes |
+| a Spectacle for the Ages | 533 | 167 | Yes | Yes | Yes |
 | Close Encounters of the VIth Kind | 459 | 399 | Yes | Yes | Yes |
 | Divine Intervention | 456 | 396 | Yes | Yes | Yes |
 | Dragoon's Fate | 477 | 415 | Yes | Yes | Yes |
+| One Life for One World | 592 | 194 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
