@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.113 - 2026-11-22 - Linux UI fonts
+
+- **Fixed encounter browser fonts on Linux and Wine.** GMC loads its bundled fonts from the installed plugin directory.
+
 ## 3.2.0.112 - 2026-11-22 - Amdapor Keep (Hard) radar
 
 - **Added Hall of Sorrow radar in Amdapor Keep (Hard).** Anchag's ground circle fades toward the live cast deadline on BossModReborn and GodMod.
