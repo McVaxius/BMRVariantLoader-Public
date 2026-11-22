@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.86 - 2026-11-21 - Encounter source maintenance
+
+- **Updated encounter source organization.** Knave of Hearts, False Idol, Necron (Extreme), and Doomtrain (Extreme) each use one encounter-named source file.
+
 ## 3.2.0.85 - 2026-11-21 - Sephirot opening phase
 
 - **Added Sephirot's opening phase in Containment Bay S1T7 (Normal).** Ein appears on the radar, fades on the live cast clock, and supplies movement hints. The encounter stays active through the add intermission until the opening actor leaves.
