@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.106 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.107 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
@@ -10,7 +10,7 @@ Public God Mod Companion 3.2.0.106 and BossModReborn 7.5.8.5. Duty names and IDs
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 627 | 140 |
+| Module | 629 | 138 |
 | Radar | 497 | 270 |
 | Movement hints | 692 | 75 |
 
@@ -47,7 +47,7 @@ Public God Mod Companion 3.2.0.106 and BossModReborn 7.5.8.5. Duty names and IDs
 | the Final Coil of Bahamut - Turn 2 (Normal) | 194 | 108 | No | No | Yes |
 | the Final Coil of Bahamut - Turn 3 (Normal) | 195 | 109 | No | No | Yes |
 | the Final Coil of Bahamut - Turn 4 (Normal) | 196 | 110 | No | No | Yes |
-| the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | No | No | Yes |
+| the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | Yes | No | Yes |
 | the Second Coil of Bahamut - Turn 2 (Normal) | 356 | 99 | No | No | Yes |
 | the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | No | No | No |
 | the Second Coil of Bahamut - Turn 4 (Normal) | 358 | 101 | No | No | Yes |
@@ -56,7 +56,7 @@ Public God Mod Companion 3.2.0.106 and BossModReborn 7.5.8.5. Duty names and IDs
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | No | No | Yes |
+| the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | Yes | No | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | No | No | No |
 | the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | No | No | Yes |
 
