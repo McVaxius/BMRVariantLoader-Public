@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.94 - 2026-11-22 - The Rematch Fire II warning
+
+- **Added a personal Fire II countdown in The Rematch on GodMod.** The warning appears while Gigirya or Humility of the Alacran casts Fire II on you.
+
 ## 3.2.0.93 - 2026-11-22 - Refurbisher 0 Savage radar
 
 - **Added Scrapline radar for Refurbisher 0 (Savage).** The full 270-degree outline fades in as the cast resolves.
