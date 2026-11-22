@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.104 - 2026-11-22 - Tyrant Explosion lines
+
+- **Added fading radar and avoidance in AAC Heavyweight M3 (Normal).** Sword Quiver's orthogonal lines and the Great Wall of Fire follow-up use their live cast timings on both backends.
+
 ## 3.2.0.103 - 2026-11-22 - Cuff of the Father radar
 
 - **Added radar in Alexander - The Cuff of the Father (Normal).** See live bomb blast areas and fading Blitzstrahl circles on both backends.
