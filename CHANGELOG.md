@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.98 - 2026-11-22 - Eden's Flare in Resurrection Savage
+
+- **Added Eden's Flare radar in Eden's Gate: Resurrection (Savage).** The donut shows its five-yalm safe center and fades using the live cast timer.
+- **Fixed Eden's Flare avoidance on GodMod.** Movement hints use the five-yalm safe center.
+
 ## 3.2.0.97 - 2026-11-22 - Sophia Normal Quasar warning
 
 - **Added a Quasar tilt warning in Containment Bay P1T6 (Normal).** The off-platform Quasar cast shows a countdown on both backends.
