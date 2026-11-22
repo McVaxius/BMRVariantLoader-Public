@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.92 - 2026-11-22 - Zurvan Normal radar and platform guidance
+
+- **Added Zurvan Normal radar.** Shows fading telegraphs for Flare Star, Southern Cross, Wave Cannon, Comet, and both Twin Spirit charges.
+- **Added falling-platform guidance.** Warns when a quarter is about to fall and routes around known collapsed quarters during the opening.
+- **Added live Ciclicle and Meteor callouts.** Shows the donut warning and tells you when to destroy Execrated Wit.
+
 ## 3.2.0.91 - 2026-11-21 - Sophia Normal radar
 
 - **Added Sophia Normal radar.** Shows fading telegraphs for Quasar, Thunder II, Aero III, Onrush, and Barbelo Light Dew.
