@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.102 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.103 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 492 showing all three features and 275 with at least one coverage gap.
+**767 duties** with 493 showing all three features and 274 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 626 | 141 |
-| Radar | 495 | 272 |
+| Radar | 496 | 271 |
 | Movement hints | 692 | 75 |
 
 ## Coverage gaps
@@ -196,9 +196,7 @@ None.
 
 #### Raids
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Alexander - The Cuff of the Father (Normal) | 443 | 113 | Yes | No | Yes |
+None.
 
 #### Savage
 
@@ -733,6 +731,7 @@ None.
 | Alexander - The Breath of the Creator (Normal) | 581 | 187 | Yes | Yes | Yes |
 | Alexander - The Burden of the Father (Normal) | 445 | 115 | Yes | Yes | Yes |
 | Alexander - The Burden of the Son (Normal) | 523 | 139 | Yes | Yes | Yes |
+| Alexander - The Cuff of the Father (Normal) | 443 | 113 | Yes | Yes | Yes |
 | Alexander - The Cuff of the Son (Normal) | 521 | 137 | Yes | Yes | Yes |
 | Alexander - The Eyes of the Creator (Normal) | 580 | 186 | Yes | Yes | Yes |
 | Alexander - The Fist of the Father (Normal) | 442 | 112 | Yes | Yes | Yes |
