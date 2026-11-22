@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.93 - 2026-11-22 - Refurbisher 0 Savage radar
+
+- **Added Scrapline radar for Refurbisher 0 (Savage).** The full 270-degree outline fades in as the cast resolves.
+
 ## 3.2.0.92 - 2026-11-22 - Zurvan Normal radar and platform guidance
 
 - **Added Zurvan Normal radar.** Shows fading telegraphs for Flare Star, Southern Cross, Wave Cannon, Comet, and both Twin Spirit charges.
