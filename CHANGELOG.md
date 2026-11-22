@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.112 - 2026-11-22 - Amdapor Keep (Hard) radar
+
+- **Added Hall of Sorrow radar in Amdapor Keep (Hard).** Anchag's ground circle fades toward the live cast deadline on BossModReborn and GodMod.
+
 ## 3.2.0.111 - 2026-11-22 - Copperbell Mines and Qarn (Hard) radar
 
 - **Added Power Attack radar in Copperbell Mines (Hard).** Ouranos's ground circle fades toward its live cast deadline on both backends.
