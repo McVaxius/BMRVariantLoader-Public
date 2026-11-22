@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.110 - 2026-11-22 - Wanderer's Palace (Hard) radar
+
+- **Added Tyrannic Blare radar in The Wanderer's Palace (Hard).** Manxome Molaa Ja Ja's cone fades toward its live cast deadline on BossModReborn and GodMod.
+
 ## 3.2.0.109 - 2026-11-22 - Normal Sephirot radar
 
 - **Added Yesod radar in Containment Bay S1T7 (Normal).** Each late-phase circle fades toward its live cast deadline on BossModReborn and GodMod.
