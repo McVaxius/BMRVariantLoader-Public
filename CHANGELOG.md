@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.89 - 2026-11-21 - Guardian (Savage)
+
+- **Updated Guardian (Savage).** When you carry Aether Rot, hints name the selected recipient and the radar marks their position.
+
 ## 3.2.0.88 - 2026-11-21 - Encounter source maintenance
 
 - **Updated Omega Savage source organization.** Halicarnassus, Chadarnook, and Guardian now use encounter-named source files.
