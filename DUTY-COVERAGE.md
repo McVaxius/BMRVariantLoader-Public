@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.88 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.89 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
 
 ## Coverage at a glance
 
-**767 duties** with 483 showing all three features and 284 needing coverage or verification. 99 duties have at least one Unknown.
+**767 duties** with 484 showing all three features and 283 needing coverage or verification. 99 duties have at least one Unknown.
 
 | Feature | Yes | No | Unknown |
 | --- | ---: | ---: | ---: |
 | Module | 624 | 143 | 0 |
-| Radar | 486 | 197 | 84 |
+| Radar | 487 | 196 | 84 |
 | Movement hints | 687 | 24 | 56 |
 
 ## Needs coverage or verification
@@ -326,7 +326,6 @@ None.
 | Deltascape V3.0 (Savage) | 697 | 258 | Yes | No | Yes |
 | Sigmascape V1.0 (Savage) | 752 | 292 | Yes | No | Yes |
 | Sigmascape V2.0 (Savage) | 753 | 293 | Yes | No | Yes |
-| Sigmascape V3.0 (Savage) | 754 | 294 | Yes | No | Yes |
 
 #### Ultimate Raids
 
@@ -877,6 +876,7 @@ None.
 | Alphascape V3.0 (Savage) | 804 | 593 | Yes | Yes | Yes |
 | Alphascape V4.0 (Savage) | 805 | 594 | Yes | Yes | Yes |
 | Deltascape V4.0 (Savage) | 698 | 259 | Yes | Yes | Yes |
+| Sigmascape V3.0 (Savage) | 754 | 294 | Yes | Yes | Yes |
 | Sigmascape V4.0 (Savage) | 755 | 295 | Yes | Yes | Yes |
 
 #### Ultimate Raids
