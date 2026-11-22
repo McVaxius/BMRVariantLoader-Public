@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.91 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.92 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 485 showing all three features and 282 with at least one coverage gap.
+**767 duties** with 486 showing all three features and 281 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 625 | 142 |
-| Radar | 488 | 279 |
+| Module | 626 | 141 |
+| Radar | 489 | 278 |
 | Movement hints | 692 | 75 |
 
 ## Coverage gaps
@@ -185,12 +185,6 @@ None.
 | Neverreap | 420 | 33 | No | No | Yes |
 | Pharos Sirius (Hard) | 510 | 40 | No | No | Yes |
 | Sohm Al (Hard) | 617 | 221 | No | No | Yes |
-
-#### Trials
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Containment Bay Z1T9 (Normal) | 637 | 223 | No | No | Yes |
 
 #### Extreme
 
@@ -721,6 +715,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | Containment Bay P1T6 (Normal) | 576 | 183 | Yes | Yes | Yes |
 | Containment Bay S1T7 (Normal) | 517 | 134 | Yes | Yes | Yes |
+| Containment Bay Z1T9 (Normal) | 637 | 223 | Yes | Yes | Yes |
 | the Final Steps of Faith (Normal) | 559 | 169 | Yes | Yes | Yes |
 | the Limitless Blue (Hard) | 436 | 88 | Yes | Yes | Yes |
 | the Singularity Reactor (Normal) | 437 | 90 | Yes | Yes | Yes |
