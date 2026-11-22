@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.103 - 2026-11-22 - Cuff of the Father radar
+
+- **Added radar in Alexander - The Cuff of the Father (Normal).** See live bomb blast areas and fading Blitzstrahl circles on both backends.
+
 ## 3.2.0.102 - 2026-11-22 - Phantom Train Savage radar
 
 - **Added Phantom Train radar in Sigmascape V1.0 (Savage).** All in the Mind shows its knockback area. Diabolic Light marks each drop point with its own countdown.
