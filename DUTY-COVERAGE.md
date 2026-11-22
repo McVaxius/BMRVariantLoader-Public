@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.98 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.99 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 488 showing all three features and 279 with at least one coverage gap.
+**767 duties** with 489 showing all three features and 278 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 626 | 141 |
-| Radar | 491 | 276 |
+| Radar | 492 | 275 |
 | Movement hints | 692 | 75 |
 
 ## Coverage gaps
@@ -415,7 +415,6 @@ None.
 | Eden's Promise: Eternity (Savage) | 949 | 759 | Yes | No | Yes |
 | Eden's Promise: Litany (Savage) | 947 | 748 | No | No | Yes |
 | Eden's Promise: Umbra (Savage) | 946 | 750 | No | No | Yes |
-| Eden's Verse: Fulmination (Savage) | 906 | 716 | Yes | No | Yes |
 | Eden's Verse: Furor (Savage) | 907 | 720 | No | No | Yes |
 | Eden's Verse: Iconoclasm (Savage) | 908 | 727 | No | No | Yes |
 
@@ -998,6 +997,7 @@ None.
 | Eden's Gate: Inundation (Savage) | 855 | 683 | Yes | Yes | Yes |
 | Eden's Gate: Resurrection (Savage) | 853 | 654 | Yes | Yes | Yes |
 | Eden's Gate: Sepulture (Savage) | 856 | 690 | Yes | Yes | Yes |
+| Eden's Verse: Fulmination (Savage) | 906 | 716 | Yes | Yes | Yes |
 | Eden's Verse: Refulgence (Savage) | 909 | 729 | Yes | Yes | Yes |
 
 #### Ultimate Raids
