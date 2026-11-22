@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.96 - 2026-11-22 - Annoy the Void radar timing
+
+- **Added timed radar outlines in Annoy the Void on GodMod.** Condemnation and Overtone Shriek brighten as their casts resolve.
+
 ## 3.2.0.95 - 2026-11-22 - Bozja Hard Beak warning
 
 - **Added a personal Hard Beak countdown in The Shadow of Death's Hand.** It appears when a Tamed Carrion Crow targets you, on both backends.
