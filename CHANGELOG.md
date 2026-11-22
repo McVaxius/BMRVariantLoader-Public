@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.107 - 2026-11-22 - Blighted Bouquet stillness
+
+- **Added Blighted Bouquet handling in Second Coil of Bahamut Turn 1 (Normal and Savage).** A live countdown warns players to stop moving and attacking, and supported native AI holds still through the cast.
+
 ## 3.2.0.106 - 2026-11-22 - Savage Second Coil radar
 
 - **Added Circle Blade radar in Second Coil of Bahamut (Savage) Turn 2.** Lamia Deathdancer's circle fades toward the cast deadline on both backends.
