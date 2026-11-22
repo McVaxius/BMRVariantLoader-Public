@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.97 - 2026-11-22 - Sophia Normal Quasar warning
+
+- **Added a Quasar tilt warning in Containment Bay P1T6 (Normal).** The off-platform Quasar cast shows a countdown on both backends.
+
 ## 3.2.0.96 - 2026-11-22 - Annoy the Void radar timing
 
 - **Added timed radar outlines in Annoy the Void on GodMod.** Condemnation and Overtone Shriek brighten as their casts resolve.
