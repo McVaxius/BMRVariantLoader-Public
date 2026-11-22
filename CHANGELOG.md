@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.90 - 2026-11-21 - Omega Savage guidance
+
+- **Updated Exdeath (Savage).** Grand Cross Alpha tells you to move to the center before Hysteria.
+- **Updated Chaos (Savage).** Knock Down marks your pair's clock position for Fire or north-row spot for Earth.
+
 ## 3.2.0.89 - 2026-11-21 - Guardian (Savage)
 
 - **Updated Guardian (Savage).** When you carry Aether Rot, hints name the selected recipient and the radar marks their position.
