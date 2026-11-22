@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.101 - 2026-11-22 - Ribbit in Deltascape V3.0 Savage
+
+- **Added Ribbit radar in Deltascape V3.0 (Savage).** The frontal cone uses Halicarnassus's live cast timer and facing on both backends.
+- **Fixed Ribbit avoidance on GodMod.** Movement uses the same 150-degree cone as the radar.
+
 ## 3.2.0.100 - 2026-11-22 - Demonic Stone in Sigmascape V2.0 Savage
 
 - **Added Demonic Stone radar in Sigmascape V2.0 (Savage).** Each ground circle fades using its own cast timer on BossModReborn and GodMod.
