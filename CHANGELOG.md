@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.108 - 2026-11-22 - Pharos Sirius (Hard) radar
+
+- **Added 10-tonze Swing radar in Pharos Sirius (Hard).** Construct 8's circle fades toward the live cast deadline on both backends.
+
 ## 3.2.0.107 - 2026-11-22 - Blighted Bouquet stillness
 
 - **Added Blighted Bouquet handling in Second Coil of Bahamut Turn 1 (Normal and Savage).** A live countdown warns players to stop moving and attacking, and supported native AI holds still through the cast.
