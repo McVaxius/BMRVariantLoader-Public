@@ -1,20 +1,20 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.89 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.90 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
-**Yes** means at least one duty-bound producer was verified. Cast-triggered radar counts as present. **No** means the corresponding feature was checked and is absent. **Unknown** means presence could not be verified. These flags describe presence only.
+**Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 484 showing all three features and 283 needing coverage or verification. 99 duties have at least one Unknown.
+**767 duties** with 484 showing all three features and 283 with at least one coverage gap.
 
-| Feature | Yes | No | Unknown |
-| --- | ---: | ---: | ---: |
-| Module | 624 | 143 | 0 |
-| Radar | 487 | 196 | 84 |
-| Movement hints | 687 | 24 | 56 |
+| Feature | Yes | No |
+| --- | ---: | ---: |
+| Module | 624 | 143 |
+| Radar | 487 | 280 |
+| Movement hints | 692 | 75 |
 
-## Needs coverage or verification
+## Coverage gaps
 
 ### A Realm Reborn
 
@@ -49,7 +49,7 @@ Public God Mod Companion 3.2.0.89 and BossModReborn 7.5.8.5. Duty names and IDs 
 | the Final Coil of Bahamut - Turn 4 (Normal) | 196 | 110 | No | No | Yes |
 | the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | No | No | Yes |
 | the Second Coil of Bahamut - Turn 2 (Normal) | 356 | 99 | No | No | Yes |
-| the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | No | No | Unknown |
+| the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | No | No | No |
 | the Second Coil of Bahamut - Turn 4 (Normal) | 358 | 101 | No | No | Yes |
 
 #### Savage
@@ -58,7 +58,7 @@ Public God Mod Companion 3.2.0.89 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: | --- | --- | --- |
 | the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | No | No | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 2 | 381 | 104 | No | No | Yes |
-| the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | No | No | Unknown |
+| the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | No | No | No |
 | the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | No | No | Yes |
 
 #### Alliance
@@ -70,7 +70,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | A Dangerous Proposition | 237 | 307 | Yes | No | Yes |
-| Always Bet on Black | 318 | 367 | No | Unknown | Yes |
+| Always Bet on Black | 318 | 367 | No | No | Yes |
 | Austerities of Earth | 324 | 373 | Yes | No | No |
 | Austerities of Flame | 323 | 372 | Yes | No | No |
 | Austerities of Wind | 325 | 374 | Yes | No | No |
@@ -84,62 +84,62 @@ None.
 | Chasing Shadows | 233 | 296 | Yes | No | Yes |
 | Cloying Victory | 409 | 386 | Yes | No | Yes |
 | The Company You Keep (Maelstrom) | 279 | 342 | Yes | No | Yes |
-| The Company You Keep (Twin Adder) | 277 | 340 | No | Unknown | Yes |
-| The Consequences of Anger | 328 | 377 | No | Unknown | Unknown |
-| The Crow Knows | 414 | 391 | Yes | No | Unknown |
+| The Company You Keep (Twin Adder) | 277 | 340 | No | No | Yes |
+| The Consequences of Anger | 328 | 377 | No | No | No |
+| The Crow Knows | 414 | 391 | Yes | No | No |
 | Doing It the Bard Way | 321 | 370 | Yes | No | No |
 | Escape from Castrum Centri | 305 | 352 | Yes | No | Yes |
 | Every Little Thing She Does Is Magitek | 309 | 358 | Yes | No | Yes |
-| Facing Your Demons | 269 | 327 | No | Unknown | Yes |
+| Facing Your Demons | 269 | 327 | No | No | Yes |
 | Feint and Strike | 280 | 334 | Yes | No | Yes |
-| Five Easy Pieces | 315 | 364 | Yes | No | Unknown |
+| Five Easy Pieces | 315 | 364 | Yes | No | Yes |
 | Fool Me Twice | 308 | 357 | Yes | No | Yes |
 | Forgotten but Not Gone | 327 | 376 | Yes | No | Yes |
 | Grinners in the Mist | 407 | 384 | Yes | No | Yes |
-| Heart of the Forest | 320 | 369 | No | Unknown | Yes |
+| Heart of the Forest | 320 | 369 | No | No | Yes |
 | The Heretic among Us | 302 | 344 | Yes | No | Yes |
-| The Hidden Chapter | 268 | 326 | No | Unknown | Yes |
+| The Hidden Chapter | 268 | 326 | No | No | Yes |
 | History Repeating | 330 | 379 | Yes | No | Yes |
 | Homecoming | 230 | 304 | Yes | No | Yes |
 | How to Quit You | 311 | 360 | Yes | No | No |
 | In Nature's Embrace | 235 | 301 | Yes | No | Yes |
 | In the Eyes of Gods and Men | 301 | 343 | Yes | No | Yes |
 | Into a Copper Hell | 274 | 338 | Yes | No | Yes |
-| Into the Dragon's Maw | 316 | 365 | No | Unknown | Yes |
+| Into the Dragon's Maw | 316 | 365 | No | No | Yes |
 | Just Deserts | 272 | 333 | Yes | No | Yes |
 | Keeping the Oath | 313 | 362 | Yes | No | Yes |
-| Keeping the Spirit Alive | 259 | 320 | No | Unknown | Unknown |
-| Lance of Destiny | 238 | 308 | No | Unknown | Unknown |
-| Lance of Destiny | 290 | 355 | No | Unknown | Unknown |
+| Keeping the Spirit Alive | 259 | 320 | No | No | No |
+| Lance of Destiny | 238 | 308 | No | No | No |
+| Lance of Destiny | 290 | 355 | No | No | No |
 | Leia's Legacy | 227 | 299 | Yes | No | Yes |
-| Like Mother, Like Daughter | 291 | 356 | Yes | Unknown | Yes |
-| The Lominsan Way | 307 | 354 | Yes | Unknown | Yes |
+| Like Mother, Like Daughter | 291 | 356 | Yes | No | Yes |
+| The Lominsan Way | 307 | 354 | Yes | No | Yes |
 | Lord of the Inferno | 275 | 339 | Yes | No | Yes |
-| Lurkers in the Grotto | 252 | 332 | Yes | No | Unknown |
-| Master and Student | 415 | 392 | No | Unknown | Unknown |
+| Lurkers in the Grotto | 252 | 332 | Yes | No | Yes |
+| Master and Student | 415 | 392 | No | No | Yes |
 | The Mountain That Strides | 263 | 329 | Yes | No | No |
-| My First Mudra | 411 | 388 | No | Unknown | Yes |
-| Ninja Bathin' | 413 | 390 | Yes | Unknown | Yes |
+| My First Mudra | 411 | 388 | No | No | Yes |
+| Ninja Bathin' | 413 | 390 | Yes | No | Yes |
 | Notorious Biggs | 304 | 351 | Yes | No | Yes |
-| Nouveau Riche | 232 | 311 | Yes | Unknown | Yes |
+| Nouveau Riche | 232 | 311 | Yes | No | Yes |
 | Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
-| Once Upon a Time in Doma | 412 | 389 | No | Unknown | Yes |
-| The One That Got Away | 231 | 305 | Yes | Unknown | Yes |
-| The One That Got Away | 236 | 306 | Yes | Unknown | Yes |
-| Parley in the Sagolii | 312 | 361 | No | Unknown | Yes |
-| Pincer Maneuver | 287 | 347 | Yes | Unknown | Yes |
-| Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | Unknown | Yes |
-| Primal Burdens | 326 | 375 | Yes | Unknown | Unknown |
-| Proof of Might | 239 | 309 | No | Unknown | Yes |
-| Proof of Might | 240 | 310 | No | Unknown | Yes |
+| Once Upon a Time in Doma | 412 | 389 | No | No | Yes |
+| The One That Got Away | 231 | 305 | Yes | No | Yes |
+| The One That Got Away | 236 | 306 | Yes | No | Yes |
+| Parley in the Sagolii | 312 | 361 | No | No | Yes |
+| Pincer Maneuver | 287 | 347 | Yes | No | Yes |
+| Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | No | Yes |
+| Primal Burdens | 326 | 375 | Yes | No | Yes |
+| Proof of Might | 239 | 309 | No | No | Yes |
+| Proof of Might | 240 | 310 | No | No | Yes |
 | The Reason Roaille | 410 | 387 | Yes | No | Yes |
 | The Rematch | 257 | 318 | Yes | No | Yes |
 | Requiem for the Fallen | 322 | 371 | Yes | No | No |
-| Return of the Holyfist | 261 | 322 | No | Unknown | Unknown |
-| Return of the Holyfist | 251 | 323 | Yes | Unknown | Yes |
-| Seer Folly | 319 | 368 | Yes | Unknown | Yes |
-| Slave to the Code | 406 | 383 | No | Unknown | Yes |
-| The Spirit Is Willing | 258 | 319 | No | Unknown | Unknown |
+| Return of the Holyfist | 261 | 322 | No | No | No |
+| Return of the Holyfist | 251 | 323 | Yes | No | Yes |
+| Seer Folly | 319 | 368 | Yes | No | Yes |
+| Slave to the Code | 406 | 383 | No | No | Yes |
+| The Spirit Is Willing | 258 | 319 | No | No | No |
 | Spirithold Broken | 225 | 297 | Yes | No | Yes |
 | Star-crossed Rivals | 260 | 321 | Yes | No | Yes |
 | Stifled Screams | 405 | 382 | Yes | No | Yes |
@@ -148,10 +148,10 @@ None.
 | That Old Familiar Feeling | 254 | 315 | Yes | No | Yes |
 | The Threat of Perplexity | 267 | 325 | Yes | No | Yes |
 | The Threat of Superiority | 266 | 324 | Yes | No | Yes |
-| To Catch a Poacher | 229 | 303 | Yes | No | Unknown |
+| To Catch a Poacher | 229 | 303 | Yes | No | No |
 | To Guard a Guardian | 226 | 298 | Yes | No | Yes |
-| Trial by Water | 234 | 300 | Yes | No | Unknown |
-| Trial by Wind | 289 | 349 | Yes | No | Unknown |
+| Trial by Water | 234 | 300 | Yes | No | No |
+| Trial by Wind | 289 | 349 | Yes | No | No |
 | Ul'dah's Most Wanted | 253 | 314 | Yes | No | Yes |
 | Underneath the Sultantree | 270 | 335 | Yes | No | Yes |
 | Victory in Peril | 249 | 313 | Yes | No | Yes |
@@ -180,7 +180,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Dusk Vigil | 1366 | 36 | No | Unknown | Unknown |
+| the Dusk Vigil | 1366 | 36 | No | No | Yes |
 | Hullbreaker Isle (Hard) | 557 | 172 | No | No | Yes |
 | Neverreap | 420 | 33 | No | No | Yes |
 | Pharos Sirius (Hard) | 510 | 40 | No | No | Yes |
@@ -235,52 +235,52 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Flare for the Dramatic | 503 | 440 | No | Unknown | Yes |
-| A Journey of Purification | 469 | 407 | No | Unknown | Unknown |
-| A Joye-ful Reunion | 472 | 410 | No | Unknown | Unknown |
+| A Flare for the Dramatic | 503 | 440 | No | No | Yes |
+| A Journey of Purification | 469 | 407 | No | No | No |
+| A Joye-ful Reunion | 472 | 410 | No | No | No |
 | A Series of Unfortunate Events | 455 | 395 | Yes | No | Yes |
-| Absolution | 497 | 434 | No | Unknown | Unknown |
-| Against the Shadow | 483 | 420 | No | Unknown | Unknown |
-| An Illuminati Incident | 485 | 422 | No | Unknown | Unknown |
-| And My Axe | 453 | 393 | No | Unknown | Unknown |
-| Appetite for Destruction | 491 | 428 | No | Unknown | Yes |
+| Absolution | 497 | 434 | No | No | No |
+| Against the Shadow | 483 | 420 | No | No | No |
+| An Illuminati Incident | 485 | 422 | No | No | No |
+| And My Axe | 453 | 393 | No | No | No |
+| Appetite for Destruction | 491 | 428 | No | No | Yes |
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
 | At the End of Our Hope | 479 | 416 | Yes | No | Yes |
-| The Ballad of Oblivion | 492 | 429 | No | Unknown | Yes |
+| The Ballad of Oblivion | 492 | 429 | No | No | Yes |
 | Big Sollerets to Fill | 498 | 435 | Yes | No | No |
 | Blood on the Sands | 471 | 409 | Yes | No | No |
 | Declaration of Blood | 495 | 432 | Yes | No | Yes |
 | The Defiant Ones | 465 | 403 | Yes | No | Yes |
-| Destruction in the Name of Justice | 467 | 405 | No | Unknown | Unknown |
-| Duty and the Beast | 468 | 406 | No | Unknown | Unknown |
-| Ewer Right | 480 | 417 | No | Unknown | Unknown |
-| Familiar Faces | 461 | 401 | Yes | No | Unknown |
-| Feather in the Cap | 481 | 418 | No | Unknown | Unknown |
-| Fire and Blood | 458 | 398 | No | Unknown | Yes |
-| The Flame in the Abyss | 501 | 438 | No | Unknown | Unknown |
+| Destruction in the Name of Justice | 467 | 405 | No | No | No |
+| Duty and the Beast | 468 | 406 | No | No | No |
+| Ewer Right | 480 | 417 | No | No | No |
+| Familiar Faces | 461 | 401 | Yes | No | No |
+| Feather in the Cap | 481 | 418 | No | No | No |
+| Fire and Blood | 458 | 398 | No | No | Yes |
+| The Flame in the Abyss | 501 | 438 | No | No | No |
 | Fortune Favors the Bole | 473 | 411 | Yes | No | Yes |
 | Forward, the Royal Marines | 454 | 394 | Yes | No | Yes |
-| The Hands of Fate | 476 | 414 | Yes | No | Unknown |
+| The Hands of Fate | 476 | 414 | Yes | No | No |
 | Hands of Healing | 464 | 402 | Yes | No | No |
 | Heroic Reprise | 494 | 431 | Yes | No | Yes |
 | I Could Have Tranced All Night | 502 | 439 | Yes | No | Yes |
-| In Her Defense | 490 | 427 | No | Unknown | Yes |
+| In Her Defense | 490 | 427 | No | No | Yes |
 | Ishgardian Justice | 499 | 436 | Yes | No | Yes |
 | Keeping the Flame Alive | 460 | 400 | Yes | No | Yes |
 | Kindred Spirits | 496 | 433 | Yes | No | Yes |
 | Master of Marksmanship | 486 | 423 | Yes | No | Yes |
-| Ninja Assassin | 484 | 421 | Yes | No | Unknown |
-| Our Answer | 500 | 437 | No | Unknown | Yes |
+| Ninja Assassin | 484 | 421 | Yes | No | No |
+| Our Answer | 500 | 437 | No | No | Yes |
 | The Power of a Tourney | 488 | 425 | Yes | No | No |
-| Quarantine | 466 | 404 | Yes | No | Unknown |
-| Rise of the Machinists | 489 | 426 | Yes | No | Unknown |
+| Quarantine | 466 | 404 | Yes | No | No |
+| Rise of the Machinists | 489 | 426 | Yes | No | No |
 | Securing the Locks | 487 | 424 | Yes | No | Yes |
 | Slings and Arrows | 474 | 412 | Yes | No | Yes |
-| Sounding Out the Amphitheatre | 457 | 397 | No | Unknown | Unknown |
+| Sounding Out the Amphitheatre | 457 | 397 | No | No | No |
 | Spearheading Initiatives | 475 | 413 | Yes | No | Yes |
-| Sworn Upon a Lance | 470 | 408 | No | Unknown | Unknown |
+| Sworn Upon a Lance | 470 | 408 | No | No | No |
 | This Little Sword of Mine | 493 | 430 | Yes | No | No |
-| When Gnaths Cry | 482 | 419 | No | Unknown | Unknown |
+| When Gnaths Cry | 482 | 419 | No | No | No |
 
 #### Treasure Hunt
 
@@ -303,7 +303,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Great Hunt (Normal) | 761 | 474 | No | No | No |
-| Special Event I | 353 | 70 | No | Unknown | Unknown |
+| Special Event I | 353 | 70 | No | No | No |
 
 #### Extreme
 
@@ -345,40 +345,40 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Beacon for Bad Things | 640 | 456 | No | Unknown | Unknown |
+| A Beacon for Bad Things | 640 | 456 | No | No | No |
 | A Game of Life and Death | 726 | 452 | Yes | No | Yes |
-| A Vermilion Vendetta | 675 | 459 | No | Unknown | Yes |
-| An Egi-stential Crisis | 701 | 454 | No | Unknown | Unknown |
-| Choices and Paths | 647 | 450 | No | Unknown | Unknown |
+| A Vermilion Vendetta | 675 | 459 | No | No | Yes |
+| An Egi-stential Crisis | 701 | 454 | No | No | No |
+| Choices and Paths | 647 | 450 | No | No | No |
 | Come Rain or Shrine | 664 | 442 | Yes | No | Yes |
-| The Crimson Duelist | 668 | 458 | No | Unknown | Unknown |
-| Curious Gorge Meets His Match | 717 | 260 | Yes | No | Unknown |
-| Dark as the Night Sky | 713 | 267 | Yes | Unknown | Yes |
+| The Crimson Duelist | 668 | 458 | No | No | No |
+| Curious Gorge Meets His Match | 717 | 260 | Yes | No | No |
+| Dark as the Night Sky | 713 | 267 | Yes | No | Yes |
 | Foxfire | 667 | 443 | Yes | No | Yes |
-| The Heart of the Problem | 718 | 266 | Yes | No | Unknown |
+| The Heart of the Problem | 718 | 266 | Yes | No | No |
 | In Crimson It Began | 659 | 464 | Yes | No | Yes |
 | In Loving Memory | 721 | 453 | Yes | No | Yes |
 | In Thal's Name | 705 | 261 | Yes | No | No |
 | Interdimensional Rift | 690 | 275 | Yes | No | Yes |
 | It's Probably a Trap | 665 | 237 | Yes | No | Yes |
 | The Key to Victory | 686 | 467 | Yes | No | Yes |
-| Master Musosai | 666 | 462 | No | Unknown | Unknown |
-| Matsuba Mayhem | 710 | 250 | No | Unknown | Yes |
-| The Mongrel and the Knight | 700 | 449 | No | Unknown | Yes |
-| Nightkin | 676 | 461 | No | Unknown | Yes |
-| One Autumn's Secret | 703 | 446 | No | Unknown | Unknown |
+| Master Musosai | 666 | 462 | No | No | No |
+| Matsuba Mayhem | 710 | 250 | No | No | Yes |
+| The Mongrel and the Knight | 700 | 449 | No | No | Yes |
+| Nightkin | 676 | 461 | No | No | Yes |
+| One Autumn's Secret | 703 | 446 | No | No | No |
 | One Golem to Rule Them All | 673 | 445 | Yes | No | Yes |
 | Our Compromise | 716 | 272 | Yes | No | Yes |
-| Release the Hounds | 699 | 448 | No | Unknown | Yes |
+| Release the Hounds | 699 | 448 | No | No | Yes |
 | Return to the Rift | 658 | 471 | Yes | No | Yes |
 | Shades of Shatotto | 669 | 444 | Yes | No | Yes |
-| Stained in Scarlet | 672 | 460 | No | Unknown | Yes |
-| Sweet Dreams Are Made of Peace | 704 | 447 | No | Unknown | Unknown |
+| Stained in Scarlet | 672 | 460 | No | No | Yes |
+| Sweet Dreams Are Made of Peace | 704 | 447 | No | No | No |
 | What She Always Wanted | 678 | 457 | Yes | No | Yes |
-| When Clans Collide | 723 | 274 | No | Unknown | Yes |
-| With Heart and Steel | 707 | 245 | No | Unknown | Unknown |
-|  A Test of Courage | 657 | 470 | No | Unknown | Unknown |
-|  Schism between Sisters | 760 | 477 | No | Unknown | Unknown |
+| When Clans Collide | 723 | 274 | No | No | Yes |
+| With Heart and Steel | 707 | 245 | No | No | No |
+|  A Test of Courage | 657 | 470 | No | No | No |
+|  Schism between Sisters | 760 | 477 | No | No | No |
 
 #### Treasure Hunt
 
@@ -397,7 +397,7 @@ None.
 | Castrum Marinum (Normal) | 934 | 762 | No | No | Yes |
 | Cinder Drift (Normal) | 897 | 717 | No | No | Yes |
 | the Cloud Deck (Normal) | 950 | 781 | No | No | Yes |
-| Special Event II | 354 | 71 | No | Unknown | Unknown |
+| Special Event II | 354 | 71 | No | No | No |
 
 #### Extreme
 
@@ -407,7 +407,7 @@ None.
 | Cinder Drift (Extreme) | 912 | 718 | No | No | Yes |
 | the Cloud Deck (Extreme) | 951 | 782 | No | No | Yes |
 | the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | No | Yes |
-| the Dancing Plague (Extreme) | 858 | 658 | Yes | Unknown | Unknown |
+| the Dancing Plague (Extreme) | 858 | 658 | Yes | No | No |
 | the Minstrel's Ballad: Hades's Elegy | 885 | 693 | Yes | No | Yes |
 
 #### Raids
@@ -441,9 +441,9 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | A-Digging We Will Go | 864 | 665 | Yes | No | Yes |
-| As the Heart Bids | 894 | 703 | No | Unknown | Unknown |
-| the Bozja Incident | 911 | 723 | No | Unknown | Yes |
-| Fit for a Queen | 955 | 765 | No | Unknown | Unknown |
+| As the Heart Bids | 894 | 703 | No | No | No |
+| the Bozja Incident | 911 | 723 | No | No | Yes |
+| Fit for a Queen | 955 | 765 | No | No | No |
 | Hired Gunblades | 865 | 668 | Yes | No | Yes |
 | Legend of the Not-so-hidden Temple | 859 | 681 | Yes | No | Yes |
 | When It Rains | 862 | 663 | Yes | No | Yes |
@@ -463,7 +463,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Final Day (Normal) | 997 | 796 | No | No | Yes |
-| The Gilded Araya (Normal) | 509 | 69 | No | Unknown | Unknown |
+| The Gilded Araya (Normal) | 509 | 69 | No | No | No |
 
 #### Extreme
 
@@ -503,15 +503,15 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Path Unveiled | 1015 | 805 | No | Unknown | Yes |
-| Ever March Heavensward | 1018 | 815 | No | Unknown | Yes |
-| Forlorn Glory | 1051 | 845 | No | Unknown | Unknown |
-| Generational Bonding | 1115 | 907 | No | Unknown | Yes |
-| The Gift of Mercy | 1019 | 820 | No | Unknown | Yes |
+| A Path Unveiled | 1015 | 805 | No | No | Yes |
+| Ever March Heavensward | 1018 | 815 | No | No | Yes |
+| Forlorn Glory | 1051 | 845 | No | No | No |
+| Generational Bonding | 1115 | 907 | No | No | Yes |
+| The Gift of Mercy | 1019 | 820 | No | No | Yes |
 | The Harvest Begins | 1020 | 814 | Yes | No | Yes |
-| In from the Cold | 1011 | 793 | Yes | Unknown | Yes |
-| Laid to Rest | 1017 | 818 | No | Unknown | Yes |
-| To Calmer Seas | 1016 | 799 | No | Unknown | Unknown |
+| In from the Cold | 1011 | 793 | Yes | No | Yes |
+| Laid to Rest | 1017 | 818 | No | No | Yes |
+| To Calmer Seas | 1016 | 799 | No | No | No |
 
 #### Treasure Hunt
 
