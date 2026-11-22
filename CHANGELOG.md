@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.100 - 2026-11-22 - Demonic Stone in Sigmascape V2.0 Savage
+
+- **Added Demonic Stone radar in Sigmascape V2.0 (Savage).** Each ground circle fades using its own cast timer on BossModReborn and GodMod.
+
 ## 3.2.0.99 - 2026-11-22 - Shock Strike in Fulmination Savage
 
 - **Added Shock Strike radar in Eden's Verse: Fulmination (Savage).** Each active ground circle fades using its own cast timer on BossModReborn and GodMod.
