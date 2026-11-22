@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.99 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.100 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 489 showing all three features and 278 with at least one coverage gap.
+**767 duties** with 490 showing all three features and 277 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 626 | 141 |
-| Radar | 492 | 275 |
+| Radar | 493 | 274 |
 | Movement hints | 692 | 75 |
 
 ## Coverage gaps
@@ -317,7 +317,6 @@ None.
 | Deltascape V2.0 (Savage) | 696 | 257 | No | No | Yes |
 | Deltascape V3.0 (Savage) | 697 | 258 | Yes | No | Yes |
 | Sigmascape V1.0 (Savage) | 752 | 292 | Yes | No | Yes |
-| Sigmascape V2.0 (Savage) | 753 | 293 | Yes | No | Yes |
 
 #### Ultimate Raids
 
@@ -869,6 +868,7 @@ None.
 | Alphascape V3.0 (Savage) | 804 | 593 | Yes | Yes | Yes |
 | Alphascape V4.0 (Savage) | 805 | 594 | Yes | Yes | Yes |
 | Deltascape V4.0 (Savage) | 698 | 259 | Yes | Yes | Yes |
+| Sigmascape V2.0 (Savage) | 753 | 293 | Yes | Yes | Yes |
 | Sigmascape V3.0 (Savage) | 754 | 294 | Yes | Yes | Yes |
 | Sigmascape V4.0 (Savage) | 755 | 295 | Yes | Yes | Yes |
 
