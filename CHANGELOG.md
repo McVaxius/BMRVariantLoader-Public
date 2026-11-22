@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.95 - 2026-11-22 - Bozja Hard Beak warning
+
+- **Added a personal Hard Beak countdown in The Shadow of Death's Hand.** It appears when a Tamed Carrion Crow targets you, on both backends.
+
 ## 3.2.0.94 - 2026-11-22 - The Rematch Fire II warning
 
 - **Added a personal Fire II countdown in The Rematch on GodMod.** The warning appears while Gigirya or Humility of the Alacran casts Fire II on you.
