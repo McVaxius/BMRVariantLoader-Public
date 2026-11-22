@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.111 - 2026-11-22 - Copperbell Mines and Qarn (Hard) radar
+
+- **Added Power Attack radar in Copperbell Mines (Hard).** Ouranos's ground circle fades toward its live cast deadline on both backends.
+- **Added 3,000 Needles radar in The Sunken Temple of Qarn (Hard).** Sabotender Emperatriz's ground circle follows the live cast location and deadline on both backends.
+
 ## 3.2.0.110 - 2026-11-22 - Wanderer's Palace (Hard) radar
 
 - **Added Tyrannic Blare radar in The Wanderer's Palace (Hard).** Manxome Molaa Ja Ja's cone fades toward its live cast deadline on BossModReborn and GodMod.
