@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.107 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.108 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 494 showing all three features and 273 with at least one coverage gap.
+**767 duties** with 495 showing all three features and 272 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 629 | 138 |
-| Radar | 497 | 270 |
+| Module | 630 | 137 |
+| Radar | 498 | 269 |
 | Movement hints | 692 | 75 |
 
 ## Coverage gaps
@@ -182,7 +182,6 @@ None.
 | the Dusk Vigil | 1366 | 36 | No | No | Yes |
 | Hullbreaker Isle (Hard) | 557 | 172 | No | No | Yes |
 | Neverreap | 420 | 33 | No | No | Yes |
-| Pharos Sirius (Hard) | 510 | 40 | No | No | Yes |
 | Sohm Al (Hard) | 617 | 221 | No | No | Yes |
 
 #### Extreme
@@ -696,6 +695,7 @@ None.
 | the Great Gubal Library | 1109 | 31 | Yes | Yes | Yes |
 | the Great Gubal Library (Hard) | 578 | 196 | Yes | Yes | Yes |
 | the Lost City of Amdapor (Hard) | 519 | 140 | Yes | Yes | Yes |
+| Pharos Sirius (Hard) | 510 | 40 | Yes | Yes | Yes |
 | Saint Mocianne's Arboretum | 511 | 41 | Yes | Yes | Yes |
 | Sohm Al | 1064 | 37 | Yes | Yes | Yes |
 | Sohr Khai | 1112 | 171 | Yes | Yes | Yes |
