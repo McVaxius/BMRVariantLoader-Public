@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.91 - 2026-11-21 - Sophia Normal radar
+
+- **Added Sophia Normal radar.** Shows fading telegraphs for Quasar, Thunder II, Aero III, Onrush, and Barbelo Light Dew.
+- **Added Sophia Normal cast warnings.** Shows live countdowns for Thunder III, Divine Spark, and Cloudy Heavens.
+
 ## 3.2.0.90 - 2026-11-21 - Omega Savage guidance
 
 - **Updated Exdeath (Savage).** Grand Cross Alpha tells you to move to the center before Hysteria.
