@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.111 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.0.112 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 498 showing all three features and 269 with at least one coverage gap.
+**767 duties** with 499 showing all three features and 268 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 633 | 134 |
-| Radar | 501 | 266 |
+| Module | 634 | 133 |
+| Radar | 502 | 265 |
 | Movement hints | 692 | 75 |
 
 ## Coverage gaps
@@ -22,7 +22,6 @@ Public God Mod Companion 3.2.0.111 and BossModReborn 7.5.8.5. Duty names and IDs
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Amdapor Keep (Hard) | 189 | 29 | No | No | Yes |
 | Halatali (Hard) | 360 | 21 | No | No | Yes |
 | the Stone Vigil (Hard) | 365 | 25 | No | No | Yes |
 
@@ -570,6 +569,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Amdapor Keep | 167 | 14 | Yes | Yes | Yes |
+| Amdapor Keep (Hard) | 189 | 29 | Yes | Yes | Yes |
 | the Aurum Vale | 1331 | 5 | Yes | Yes | Yes |
 | Brayflox's Longstop | 1041 | 8 | Yes | Yes | Yes |
 | Brayflox's Longstop (Hard) | 362 | 20 | Yes | Yes | Yes |
