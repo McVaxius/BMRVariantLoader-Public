@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.9.1 - 2026-11-23 - Shadowbringers quest battle radar
+
+- **Added A-Digging We Will Go radar.** Tender Love and Tail Swing show fading circles at their live cast locations.
+- **Added Legend of the Not-so-hidden Temple radar.** Embroiling Flame shows a stack marker and countdown on its current target.
+- **Fixed BossModReborn stack movement in the Temple.** When GMC can identify Embroiling Flame's avoidance circle, it guides the player to the stack target.
+
 ## 3.2.9.0 - 2026-11-23 - Alexander Savage and quest battle radar
 
 - **Added Alexander Savage radar.** Eight duties now show fading cast cues, including Blitzstrahl, Protean Wave, Hidden Minefield, Mega Beam, and Spin Crusher.
