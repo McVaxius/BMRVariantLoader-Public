@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.9.6 - 2026-11-23 - Paladin quest battle radar
+
+- **Added This Little Sword of Mine radar.** Solkzagyl's Bloodstain shows a fading circle at the cast location.
+- **Added In Thal's Name radar.** Handeloup's Crushing Blow shows a fading countdown and prompts players to destroy the godssphere.
+
 ## 3.2.9.5 - 2026-11-23 - Quest battle radar
 
 - **Added Generational Bonding radar.** Suprae-Lugae's Magitek Shock cone fades as the cast approaches completion.
