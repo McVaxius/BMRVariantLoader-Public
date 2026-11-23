@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.3.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.4.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 552 showing all three features and 215 with at least one coverage gap.
+**767 duties** with 554 showing all three features and 213 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 655 | 112 |
-| Radar | 555 | 212 |
+| Module | 657 | 110 |
+| Radar | 557 | 210 |
 | Movement hints | 693 | 74 |
 
 ## Coverage gaps
@@ -20,10 +20,7 @@ Public God Mod Companion 3.2.3.0 and BossModReborn 7.5.8.5. Duty names and IDs f
 
 #### Dungeons
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Halatali (Hard) | 360 | 21 | No | No | Yes |
-| the Stone Vigil (Hard) | 365 | 25 | No | No | Yes |
+None.
 
 #### Extreme
 
@@ -506,6 +503,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | Amdapor Keep | 167 | 14 | Yes | Yes | Yes |
 | Amdapor Keep (Hard) | 189 | 29 | Yes | Yes | Yes |
+| Halatali (Hard) | 360 | 21 | Yes | Yes | Yes |
 | the Aurum Vale | 1331 | 5 | Yes | Yes | Yes |
 | Brayflox's Longstop | 1041 | 8 | Yes | Yes | Yes |
 | Brayflox's Longstop (Hard) | 362 | 20 | Yes | Yes | Yes |
@@ -526,6 +524,7 @@ None.
 | Sastasha (Hard) | 387 | 28 | Yes | Yes | Yes |
 | Snowcloak | 1062 | 27 | Yes | Yes | Yes |
 | the Stone Vigil | 1042 | 11 | Yes | Yes | Yes |
+| the Stone Vigil (Hard) | 365 | 25 | Yes | Yes | Yes |
 | the Sunken Temple of Qarn | 1267 | 9 | Yes | Yes | Yes |
 | the Sunken Temple of Qarn (Hard) | 367 | 26 | Yes | Yes | Yes |
 | the Tam-Tara Deepcroft | 1037 | 2 | Yes | Yes | Yes |
