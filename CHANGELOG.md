@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.9.4 - 2026-11-23 - Keeping the Flame Alive radar
+
+- **Added Keeping the Flame Alive radar.** Ilberd's Sanguine Blade shows a countdown and prompts players to get behind him.
+
 ## 3.2.9.3 - 2026-11-23 - Marauder and summoner quest battle radar
 
 - **Added Bringing Down the Mountain radar and avoidance.** Kujata's Pulverizing Pound shows a fading cone with movement hints to avoid it.
