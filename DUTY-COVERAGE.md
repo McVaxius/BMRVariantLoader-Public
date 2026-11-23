@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.1.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.2.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 510 showing all three features and 257 with at least one coverage gap.
+**767 duties** with 548 showing all three features and 219 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 641 | 126 |
-| Radar | 513 | 254 |
-| Movement hints | 692 | 75 |
+| Module | 651 | 116 |
+| Radar | 551 | 216 |
+| Movement hints | 693 | 74 |
 
 ## Coverage gaps
 
@@ -43,7 +43,6 @@ Public God Mod Companion 3.2.1.0 and BossModReborn 7.5.8.5. Duty names and IDs f
 | the Final Coil of Bahamut - Turn 2 (Normal) | 194 | 108 | No | No | Yes |
 | the Final Coil of Bahamut - Turn 3 (Normal) | 195 | 109 | No | No | Yes |
 | the Final Coil of Bahamut - Turn 4 (Normal) | 196 | 110 | No | No | Yes |
-| the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | Yes | No | Yes |
 | the Second Coil of Bahamut - Turn 2 (Normal) | 356 | 99 | No | No | Yes |
 | the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | No | No | No |
 | the Second Coil of Bahamut - Turn 4 (Normal) | 358 | 101 | No | No | Yes |
@@ -52,7 +51,6 @@ Public God Mod Companion 3.2.1.0 and BossModReborn 7.5.8.5. Duty names and IDs f
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | Yes | No | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | No | No | No |
 | the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | No | No | Yes |
 
@@ -71,14 +69,11 @@ None.
 | Austerities of Wind | 325 | 374 | Yes | No | No |
 | Axe in the Stone | 262 | 328 | Yes | No | No |
 | The Beast Within | 329 | 378 | Yes | No | Yes |
-| Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | No | Yes |
 | Bleeder of the Pack | 264 | 330 | Yes | No | No |
 | Bringing Down the Mountain | 265 | 331 | Yes | No | No |
 | Brother from Another Mother | 314 | 363 | Yes | No | Yes |
-| Brotherly Love | 303 | 350 | Yes | No | Yes |
 | Chasing Shadows | 233 | 296 | Yes | No | Yes |
 | Cloying Victory | 409 | 386 | Yes | No | Yes |
-| The Company You Keep (Maelstrom) | 279 | 342 | Yes | No | Yes |
 | The Company You Keep (Twin Adder) | 277 | 340 | No | No | Yes |
 | The Consequences of Anger | 328 | 377 | No | No | No |
 | The Crow Knows | 414 | 391 | Yes | No | No |
@@ -86,28 +81,18 @@ None.
 | Escape from Castrum Centri | 305 | 352 | Yes | No | Yes |
 | Every Little Thing She Does Is Magitek | 309 | 358 | Yes | No | Yes |
 | Facing Your Demons | 269 | 327 | No | No | Yes |
-| Feint and Strike | 280 | 334 | Yes | No | Yes |
 | Five Easy Pieces | 315 | 364 | Yes | No | Yes |
-| Fool Me Twice | 308 | 357 | Yes | No | Yes |
 | Forgotten but Not Gone | 327 | 376 | Yes | No | Yes |
 | Grinners in the Mist | 407 | 384 | Yes | No | Yes |
 | Heart of the Forest | 320 | 369 | No | No | Yes |
-| The Heretic among Us | 302 | 344 | Yes | No | Yes |
 | The Hidden Chapter | 268 | 326 | No | No | Yes |
-| History Repeating | 330 | 379 | Yes | No | Yes |
-| Homecoming | 230 | 304 | Yes | No | Yes |
 | How to Quit You | 311 | 360 | Yes | No | No |
-| In Nature's Embrace | 235 | 301 | Yes | No | Yes |
 | In the Eyes of Gods and Men | 301 | 343 | Yes | No | Yes |
-| Into a Copper Hell | 274 | 338 | Yes | No | Yes |
 | Into the Dragon's Maw | 316 | 365 | No | No | Yes |
-| Just Deserts | 272 | 333 | Yes | No | Yes |
 | Keeping the Oath | 313 | 362 | Yes | No | Yes |
 | Keeping the Spirit Alive | 259 | 320 | No | No | No |
 | Lance of Destiny | 238 | 308 | No | No | No |
 | Lance of Destiny | 290 | 355 | No | No | No |
-| Leia's Legacy | 227 | 299 | Yes | No | Yes |
-| Like Mother, Like Daughter | 291 | 356 | Yes | No | Yes |
 | The Lominsan Way | 307 | 354 | Yes | No | Yes |
 | Lord of the Inferno | 275 | 339 | Yes | No | Yes |
 | Lurkers in the Grotto | 252 | 332 | Yes | No | Yes |
@@ -116,15 +101,10 @@ None.
 | My First Mudra | 411 | 388 | No | No | Yes |
 | Ninja Bathin' | 413 | 390 | Yes | No | Yes |
 | Notorious Biggs | 304 | 351 | Yes | No | Yes |
-| Nouveau Riche | 232 | 311 | Yes | No | Yes |
 | Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
 | Once Upon a Time in Doma | 412 | 389 | No | No | Yes |
-| The One That Got Away | 231 | 305 | Yes | No | Yes |
-| The One That Got Away | 236 | 306 | Yes | No | Yes |
 | Parley in the Sagolii | 312 | 361 | No | No | Yes |
 | Pincer Maneuver | 287 | 347 | Yes | No | Yes |
-| Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | No | Yes |
-| Primal Burdens | 326 | 375 | Yes | No | Yes |
 | Proof of Might | 239 | 309 | No | No | Yes |
 | Proof of Might | 240 | 310 | No | No | Yes |
 | The Reason Roaille | 410 | 387 | Yes | No | Yes |
@@ -132,10 +112,8 @@ None.
 | Requiem for the Fallen | 322 | 371 | Yes | No | No |
 | Return of the Holyfist | 261 | 322 | No | No | No |
 | Return of the Holyfist | 251 | 323 | Yes | No | Yes |
-| Seer Folly | 319 | 368 | Yes | No | Yes |
 | Slave to the Code | 406 | 383 | No | No | Yes |
 | The Spirit Is Willing | 258 | 319 | No | No | No |
-| Spirithold Broken | 225 | 297 | Yes | No | Yes |
 | Star-crossed Rivals | 260 | 321 | Yes | No | Yes |
 | Stifled Screams | 405 | 382 | Yes | No | Yes |
 | Stray into the Shadows | 404 | 381 | Yes | No | Yes |
@@ -144,12 +122,10 @@ None.
 | The Threat of Perplexity | 267 | 325 | Yes | No | Yes |
 | The Threat of Superiority | 266 | 324 | Yes | No | Yes |
 | To Catch a Poacher | 229 | 303 | Yes | No | No |
-| To Guard a Guardian | 226 | 298 | Yes | No | Yes |
 | Trial by Water | 234 | 300 | Yes | No | No |
 | Trial by Wind | 289 | 349 | Yes | No | No |
 | Ul'dah's Most Wanted | 253 | 314 | Yes | No | Yes |
 | Underneath the Sultantree | 270 | 335 | Yes | No | Yes |
-| Victory in Peril | 249 | 313 | Yes | No | Yes |
 | Violators Will Be Shot | 228 | 302 | Yes | No | Yes |
 | The Voidgate Breathes Gloomy | 317 | 366 | Yes | No | Yes |
 
@@ -270,7 +246,6 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Great Hunt (Normal) | 761 | 474 | No | No | No |
 | Special Event I | 353 | 70 | No | No | No |
 
 #### Extreme
@@ -282,15 +257,11 @@ None.
 
 #### Raids
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
+None.
 
 #### Savage
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Deltascape V1.0 (Savage) | 695 | 256 | No | No | Yes |
-| Deltascape V2.0 (Savage) | 696 | 257 | No | No | Yes |
+None.
 
 #### Ultimate Raids
 
@@ -359,9 +330,6 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Castrum Marinum (Normal) | 934 | 762 | No | No | Yes |
-| Cinder Drift (Normal) | 897 | 717 | No | No | Yes |
-| the Cloud Deck (Normal) | 950 | 781 | No | No | Yes |
 | Special Event II | 354 | 71 | No | No | No |
 
 #### Extreme
@@ -371,24 +339,19 @@ None.
 | Castrum Marinum (Extreme) | 935 | 763 | No | No | Yes |
 | Cinder Drift (Extreme) | 912 | 718 | No | No | Yes |
 | the Cloud Deck (Extreme) | 951 | 782 | No | No | Yes |
-| the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | No | Yes |
 | the Dancing Plague (Extreme) | 858 | 658 | Yes | No | No |
-| the Minstrel's Ballad: Hades's Elegy | 885 | 693 | Yes | No | Yes |
 
 #### Raids
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
+None.
 
 #### Savage
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Eden's Promise: Anamorphosis (Savage) | 948 | 752 | No | No | Yes |
-| Eden's Promise: Eternity (Savage) | 949 | 759 | Yes | No | Yes |
 | Eden's Promise: Litany (Savage) | 947 | 748 | No | No | Yes |
 | Eden's Promise: Umbra (Savage) | 946 | 750 | No | No | Yes |
-| Eden's Verse: Furor (Savage) | 907 | 720 | No | No | Yes |
 | Eden's Verse: Iconoclasm (Savage) | 908 | 727 | No | No | Yes |
 
 #### Ultimate Raids
@@ -434,11 +397,7 @@ None.
 
 #### Raids
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Anabaseios: The Eleventh Circle (Normal) | 1151 | 940 | No | No | Yes |
-| Anabaseios: The Tenth Circle (Normal) | 1149 | 938 | No | No | Yes |
-| Anabaseios: The Twelfth Circle (Normal) | 1153 | 942 | No | No | Yes |
+None.
 
 #### Savage
 
@@ -454,9 +413,7 @@ None.
 
 #### V&C Dungeon Finder
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Aloalo Island (Variant) | 1176 | 961 | Yes | No | Yes |
+None.
 
 #### Deep Dungeons
 
@@ -622,11 +579,13 @@ None.
 | the Binding Coil of Bahamut - Turn 2 (Normal) | 242 | 94 | Yes | Yes | Yes |
 | the Binding Coil of Bahamut - Turn 4 (Normal) | 244 | 96 | Yes | Yes | Yes |
 | the Binding Coil of Bahamut - Turn 5 (Normal) | 245 | 97 | Yes | Yes | Yes |
+| the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | Yes | Yes | Yes |
 
 #### Savage
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | Yes | Yes | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 2 | 381 | 104 | Yes | Yes | Yes |
 
 #### Alliance
@@ -641,10 +600,27 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | Yes | Yes |
+| Brotherly Love | 303 | 350 | Yes | Yes | Yes |
 | Cape Westwind | 1049 | 865 | Yes | Yes | Yes |
+| Feint and Strike | 280 | 334 | Yes | Yes | Yes |
+| Fool Me Twice | 308 | 357 | Yes | Yes | Yes |
+| History Repeating | 330 | 379 | Yes | Yes | Yes |
+| Homecoming | 230 | 304 | Yes | Yes | Yes |
+| In Nature's Embrace | 235 | 301 | Yes | Yes | Yes |
+| Into a Copper Hell | 274 | 338 | Yes | Yes | Yes |
+| Just Deserts | 272 | 333 | Yes | Yes | Yes |
+| Leia's Legacy | 227 | 299 | Yes | Yes | Yes |
+| Like Mother, Like Daughter | 291 | 356 | Yes | Yes | Yes |
+| Nouveau Riche | 232 | 311 | Yes | Yes | Yes |
+| Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | Yes | Yes |
+| Primal Burdens | 326 | 375 | Yes | Yes | Yes |
+| Seer Folly | 319 | 368 | Yes | Yes | Yes |
+| Spirithold Broken | 225 | 297 | Yes | Yes | Yes |
 | The Company You Keep (Immortal Flames) | 278 | 341 | Yes | Yes | Yes |
 | Devastation | 1052 | 867 | Yes | Yes | Yes |
 | Duty, Honor, Country | 271 | 336 | Yes | Yes | Yes |
+| The Company You Keep (Maelstrom) | 279 | 342 | Yes | Yes | Yes |
 | The Face of Thal | 255 | 316 | Yes | Yes | Yes |
 | Guardian of Eorzea | 379 | 380 | Yes | Yes | Yes |
 | In the Dark of Night | 839 | 647 | Yes | Yes | Yes |
@@ -653,8 +629,13 @@ None.
 | On Holy Ground | 256 | 317 | Yes | Yes | Yes |
 | Over the Rails | 286 | 346 | Yes | Yes | Yes |
 | Sinking Doesmaga | 288 | 348 | Yes | Yes | Yes |
+| The Heretic among Us | 302 | 344 | Yes | Yes | Yes |
+| The One That Got Away | 236 | 306 | Yes | Yes | Yes |
+| The One That Got Away | 231 | 305 | Yes | Yes | Yes |
 | the Steps of Faith | 1068 | 885 | Yes | Yes | Yes |
 | Tactical Planning | 285 | 345 | Yes | Yes | Yes |
+| To Guard a Guardian | 226 | 298 | Yes | Yes | Yes |
+| Victory in Peril | 249 | 313 | Yes | Yes | Yes |
 | Way Down in the Hole | 248 | 312 | Yes | Yes | Yes |
 
 #### Guildhests
@@ -818,6 +799,7 @@ None.
 | Castrum Fluminis (Normal) | 778 | 537 | Yes | Yes | Yes |
 | Emanation (Normal) | 719 | 263 | Yes | Yes | Yes |
 | Hells' Kier (Normal) | 810 | 596 | Yes | Yes | Yes |
+| the Great Hunt (Normal) | 761 | 474 | Yes | Yes | Yes |
 | the Jade Stoa (Normal) | 746 | 290 | Yes | Yes | Yes |
 | Kugane Ohashi (Normal) | 806 | 595 | Yes | Yes | Yes |
 | the Pool of Tribute (Normal) | 674 | 243 | Yes | Yes | Yes |
@@ -860,6 +842,8 @@ None.
 | Alphascape V2.0 (Savage) | 803 | 592 | Yes | Yes | Yes |
 | Alphascape V3.0 (Savage) | 804 | 593 | Yes | Yes | Yes |
 | Alphascape V4.0 (Savage) | 805 | 594 | Yes | Yes | Yes |
+| Deltascape V1.0 (Savage) | 695 | 256 | Yes | Yes | Yes |
+| Deltascape V2.0 (Savage) | 696 | 257 | Yes | Yes | Yes |
 | Deltascape V3.0 (Savage) | 697 | 258 | Yes | Yes | Yes |
 | Deltascape V4.0 (Savage) | 698 | 259 | Yes | Yes | Yes |
 | Sigmascape V1.0 (Savage) | 752 | 292 | Yes | Yes | Yes |
@@ -955,6 +939,9 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Castrum Marinum (Normal) | 934 | 762 | Yes | Yes | Yes |
+| Cinder Drift (Normal) | 897 | 717 | Yes | Yes | Yes |
+| the Cloud Deck (Normal) | 950 | 781 | Yes | Yes | Yes |
 | the Crown of the Immaculate (Normal) | 846 | 666 | Yes | Yes | Yes |
 | the Dancing Plague (Normal) | 845 | 657 | Yes | Yes | Yes |
 | the Dying Gasp (Normal) | 847 | 687 | Yes | Yes | Yes |
@@ -965,6 +952,8 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Memoria Misera (Extreme) | 913 | 725 | Yes | Yes | Yes |
+| the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | Yes | Yes |
+| the Minstrel's Ballad: Hades's Elegy | 885 | 693 | Yes | Yes | Yes |
 | the Seat of Sacrifice (Extreme) | 923 | 739 | Yes | Yes | Yes |
 
 #### Raids
@@ -992,7 +981,9 @@ None.
 | Eden's Gate: Inundation (Savage) | 855 | 683 | Yes | Yes | Yes |
 | Eden's Gate: Resurrection (Savage) | 853 | 654 | Yes | Yes | Yes |
 | Eden's Gate: Sepulture (Savage) | 856 | 690 | Yes | Yes | Yes |
+| Eden's Promise: Eternity (Savage) | 949 | 759 | Yes | Yes | Yes |
 | Eden's Verse: Fulmination (Savage) | 906 | 716 | Yes | Yes | Yes |
+| Eden's Verse: Furor (Savage) | 907 | 720 | Yes | Yes | Yes |
 | Eden's Verse: Refulgence (Savage) | 909 | 729 | Yes | Yes | Yes |
 
 #### Ultimate Raids
@@ -1094,7 +1085,10 @@ None.
 | Abyssos: The Fifth Circle (Normal) | 1081 | 872 | Yes | Yes | Yes |
 | Abyssos: The Seventh Circle (Normal) | 1085 | 876 | Yes | Yes | Yes |
 | Abyssos: The Sixth Circle (Normal) | 1083 | 880 | Yes | Yes | Yes |
+| Anabaseios: The Eleventh Circle (Normal) | 1151 | 940 | Yes | Yes | Yes |
 | Anabaseios: The Ninth Circle (Normal) | 1147 | 936 | Yes | Yes | Yes |
+| Anabaseios: The Tenth Circle (Normal) | 1149 | 938 | Yes | Yes | Yes |
+| Anabaseios: The Twelfth Circle (Normal) | 1153 | 942 | Yes | Yes | Yes |
 | Asphodelos: The First Circle (Normal) | 1002 | 808 | Yes | Yes | Yes |
 | Asphodelos: The Fourth Circle (Normal) | 1008 | 800 | Yes | Yes | Yes |
 | Asphodelos: The Second Circle (Normal) | 1004 | 810 | Yes | Yes | Yes |
@@ -1136,6 +1130,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Aloalo Island (Variant) | 1176 | 961 | Yes | Yes | Yes |
 | Another Aloalo Island (Criterion) | 1179 | 979 | Yes | Yes | Yes |
 | Another Aloalo Island (Savage) | 1180 | 980 | Yes | Yes | Yes |
 | Another Mount Rokkon (Criterion) | 1155 | 946 | Yes | Yes | Yes |
