@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.5.0 - 2026-11-22 - Heavensward treasure hunt coverage
+
+- **Added The Aquapolis radar.** Arges's 100-tonze Swing shows a circle that fades toward the live cast deadline.
+- **Added The Final Day (Normal) radar.** The Endsinger's center Elenchos line and Epigonoi circles fade toward impact.
+
 ## 3.2.4.0 - 2026-11-22 - ARR dungeon coverage
 
 - **Added Halatali (Hard) radar.** On BossModReborn, Pyracmon's 100-tonze Swing shows a fading circle at the live cast location. GodMod uses its native cast radar.
