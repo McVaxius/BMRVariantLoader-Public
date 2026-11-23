@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.8.1 - 2026-11-23 - Extreme Weapon trial radar
+
+- **Added Cinder Drift (Extreme) radar.** Ruby Ray and the Ruby Bits' Magitek Rays show fading lines.
+- **Added Castrum Marinum (Extreme) radar.** Both Expire casts show a fading circle at the live cast location.
+- **Added The Cloud Deck (Extreme) radar.** The Articulated Bits' Aetherial Bullets show fading lines.
+
 ## 3.2.8.0 - 2026-11-23 - Shadowbringers Savage raid coverage
 
 - **Added Eden's Verse: Iconoclasm (Savage) radar.** The circular Strength in Numbers cast shows a fading danger zone around Idolatry.
