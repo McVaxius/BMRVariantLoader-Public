@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.9.5 - 2026-11-23 - Quest battle radar
+
+- **Added Generational Bonding radar.** Suprae-Lugae's Magitek Shock cone fades as the cast approaches completion.
+- **Added When Clans Collide radar.** Each Raiton circle shows its own ground position and fades on its own timer.
+
 ## 3.2.9.4 - 2026-11-23 - Keeping the Flame Alive radar
 
 - **Added Keeping the Flame Alive radar.** Ilberd's Sanguine Blade shows a countdown and prompts players to get behind him.
