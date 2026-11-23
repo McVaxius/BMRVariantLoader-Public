@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.9.3 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.9.4 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 622 showing all three features and 145 with at least one coverage gap.
+**767 duties** with 624 showing all three features and 143 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 730 | 37 |
-| Radar | 635 | 132 |
-| Movement hints | 697 | 70 |
+| Radar | 636 | 131 |
+| Movement hints | 698 | 69 |
 
 ## Coverage gaps
 
@@ -163,7 +163,6 @@ None.
 | Heroic Reprise | 494 | 431 | Yes | No | Yes |
 | I Could Have Tranced All Night | 502 | 439 | Yes | No | Yes |
 | Ishgardian Justice | 499 | 436 | Yes | No | Yes |
-| Keeping the Flame Alive | 460 | 400 | Yes | No | Yes |
 | Kindred Spirits | 496 | 433 | Yes | No | Yes |
 | Master of Marksmanship | 486 | 423 | Yes | No | Yes |
 | Ninja Assassin | 484 | 421 | Yes | No | No |
@@ -230,7 +229,6 @@ None.
 | An Egi-stential Crisis | 701 | 454 | Yes | Yes | No |
 | Choices and Paths | 647 | 450 | Yes | No | No |
 | Come Rain or Shrine | 664 | 442 | Yes | No | Yes |
-| The Crimson Duelist | 668 | 458 | Yes | Yes | No |
 | Curious Gorge Meets His Match | 717 | 260 | Yes | No | No |
 | Dark as the Night Sky | 713 | 267 | Yes | No | Yes |
 | Foxfire | 667 | 443 | Yes | No | Yes |
@@ -726,6 +724,7 @@ None.
 | Dragoon's Fate | 477 | 415 | Yes | Yes | Yes |
 | Fire and Blood | 458 | 398 | Yes | Yes | Yes |
 | In Her Defense | 490 | 427 | Yes | Yes | Yes |
+| Keeping the Flame Alive | 460 | 400 | Yes | Yes | Yes |
 | One Life for One World | 592 | 194 | Yes | Yes | Yes |
 | Our Answer | 500 | 437 | Yes | Yes | Yes |
 | The Ballad of Oblivion | 492 | 429 | Yes | Yes | Yes |
@@ -872,6 +871,7 @@ None.
 | Rhalgr's Beacon | 671 | 466 | Yes | Yes | Yes |
 | Stained in Scarlet | 672 | 460 | Yes | Yes | Yes |
 | The Battle on Bekko | 711 | 251 | Yes | Yes | Yes |
+| The Crimson Duelist | 668 | 458 | Yes | Yes | Yes |
 | The Face of True Evil | 709 | 249 | Yes | Yes | Yes |
 | The Measure of His Reach | 687 | 468 | Yes | Yes | Yes |
 | The Mongrel and the Knight | 700 | 449 | Yes | Yes | Yes |
