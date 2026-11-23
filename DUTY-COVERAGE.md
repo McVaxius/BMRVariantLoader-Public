@@ -760,7 +760,9 @@ None.
 | Dragoon's Fate | 477 | 415 | Yes | Yes | Yes |
 | One Life for One World | 592 | 194 | Yes | Yes | Yes |
 
-1| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
+#### Treasure Hunt
+
+| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Aquapolis | 558 | 179 | Yes | Yes | Yes |
 
