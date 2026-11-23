@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.9.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.9.1 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 618 showing all three features and 149 with at least one coverage gap.
+**767 duties** with 620 showing all three features and 147 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 727 | 40 |
-| Radar | 629 | 138 |
+| Radar | 631 | 136 |
 | Movement hints | 695 | 72 |
 
 ## Coverage gaps
@@ -298,12 +298,10 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A-Digging We Will Go | 864 | 665 | Yes | No | Yes |
 | As the Heart Bids | 894 | 703 | No | No | No |
 | the Bozja Incident | 911 | 723 | No | No | Yes |
 | Fit for a Queen | 955 | 765 | No | No | No |
 | Hired Gunblades | 865 | 668 | Yes | No | Yes |
-| Legend of the Not-so-hidden Temple | 859 | 681 | Yes | No | Yes |
 
 #### Treasure Hunt
 
@@ -991,11 +989,13 @@ None.
 | A Feast of Lies | 863 | 664 | Yes | Yes | Yes |
 | A Sleep Disturbed | 914 | 724 | Yes | Yes | Yes |
 | A Tearful Reunion | 872 | 675 | Yes | Yes | Yes |
+| A-Digging We Will Go | 864 | 665 | Yes | Yes | Yes |
 | Coming Clean | 860 | 680 | Yes | Yes | Yes |
 | Courage Born of Fear | 871 | 674 | Yes | Yes | Yes |
 | Death Unto Dawn | 977 | 780 | Yes | Yes | Yes |
 | Faded Memories | 932 | 743 | Yes | Yes | Yes |
 | Gamboling for Gil | 867 | 670 | Yes | Yes | Yes |
+| Legend of the Not-so-hidden Temple | 859 | 681 | Yes | Yes | Yes |
 | Nyelbert's Lament | 876 | 686 | Yes | Yes | Yes |
 | Save the Last Dance for Me | 868 | 671 | Yes | Yes | Yes |
 | Sleep Now in Sapphire | 925 | 740 | Yes | Yes | Yes |
