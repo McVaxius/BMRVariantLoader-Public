@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.0 - 2026-11-23 - Austerities of Flame radar
+
+- **Fixed encounter browser categories.** Quest and Coil entries keep their categories when duty sheets are unavailable.
+- **Added Austerities of Flame radar and avoidance.** Ifrit-Egi's Flaming Crush shows a fading circle.
+
 ## 3.2.9.9 - 2026-11-23 - Jackal and Scout Wolf quest radar
 
 - **Added The Mountain That Strides radar and avoidance.** Pack Jackals' Sanguine Bite and the Scarred Jackal's Nerve Sever show fading lines.
