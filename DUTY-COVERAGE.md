@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.9.7 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.9.8 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 630 showing all three features and 137 with at least one coverage gap.
+**767 duties** with 631 showing all three features and 136 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 732 | 35 |
 | Radar | 643 | 124 |
-| Movement hints | 702 | 65 |
+| Movement hints | 703 | 64 |
 
 ## Coverage gaps
 
@@ -231,7 +231,6 @@ None.
 | The Heart of the Problem | 718 | 266 | Yes | No | No |
 | In Crimson It Began | 659 | 464 | Yes | No | Yes |
 | In Loving Memory | 721 | 453 | Yes | No | Yes |
-| In Thal's Name | 705 | 261 | Yes | Yes | No |
 | Interdimensional Rift | 690 | 275 | Yes | No | Yes |
 | It's Probably a Trap | 665 | 237 | Yes | No | Yes |
 | The Key to Victory | 686 | 467 | Yes | No | Yes |
@@ -859,6 +858,7 @@ None.
 | Emissary of the Dawn | 769 | 582 | Yes | Yes | Yes |
 | His Forgotten Home | 634 | 469 | Yes | Yes | Yes |
 | Hope on the Waves | 757 | 472 | Yes | Yes | Yes |
+| In Thal's Name | 705 | 261 | Yes | Yes | Yes |
 | Matsuba Mayhem | 710 | 250 | Yes | Yes | Yes |
 | Naadam | 688 | 246 | Yes | Yes | Yes |
 | Nightkin | 676 | 461 | Yes | Yes | Yes |
