@@ -2,6 +2,14 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.8.2 - 2026-11-23 - Coil of Bahamut radar
+
+- **Added Second Coil Turn 2 radar.** Melusine's Circle Blade shows a fading circle.
+- **Added Final Coil Turn 1 radar.** Imdugud's Spike Flail shows a fading cone.
+- **Added Final Coil Turn 2 radar.** Security Nodes show fading warnings for Auto-cannons and Self-detonate.
+- **Added Final Coil Turn 3 radar.** Phoenix-Egi's Scorched Pinion shows a fading line to its cast destination.
+- **Added Final Coil Turn 4 radar.** Bahamut Prime's Megaflare Dive shows a fading line.
+
 ## 3.2.8.1 - 2026-11-23 - Extreme Weapon trial radar
 
 - **Added Cinder Drift (Extreme) radar.** Ruby Ray and the Ruby Bits' Magitek Rays show fading lines.
