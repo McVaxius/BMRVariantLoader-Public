@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.9.4 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.9.5 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 624 showing all three features and 143 with at least one coverage gap.
+**767 duties** with 626 showing all three features and 141 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 730 | 37 |
-| Radar | 636 | 131 |
+| Module | 732 | 35 |
+| Radar | 638 | 129 |
 | Movement hints | 698 | 69 |
 
 ## Coverage gaps
@@ -247,7 +247,6 @@ None.
 | Shades of Shatotto | 669 | 444 | Yes | No | Yes |
 | Sweet Dreams Are Made of Peace | 704 | 447 | Yes | Yes | No |
 | What She Always Wanted | 678 | 457 | Yes | No | Yes |
-| When Clans Collide | 723 | 274 | No | No | Yes |
 | With Heart and Steel | 707 | 245 | No | No | No |
 |  A Test of Courage | 657 | 470 | No | No | No |
 |  Schism between Sisters | 760 | 477 | No | No | No |
@@ -348,7 +347,6 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Forlorn Glory | 1051 | 845 | Yes | Yes | No |
-| Generational Bonding | 1115 | 907 | No | No | Yes |
 | The Harvest Begins | 1020 | 814 | Yes | No | Yes |
 | In from the Cold | 1011 | 793 | Yes | No | Yes |
 | To Calmer Seas | 1016 | 799 | No | No | No |
@@ -881,6 +879,7 @@ None.
 | The Time between the Seconds | 685 | 465 | Yes | Yes | Yes |
 | The Will of the Moon | 797 | 609 | Yes | Yes | Yes |
 | Tortoise in Time | 781 | 551 | Yes | Yes | Yes |
+| When Clans Collide | 723 | 274 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
@@ -1151,6 +1150,7 @@ None.
 | As the Heavens Burn | 1012 | 804 | Yes | Yes | Yes |
 | Endwalker | 1013 | 798 | Yes | Yes | Yes |
 | Ever March Heavensward | 1018 | 815 | Yes | Yes | Yes |
+| Generational Bonding | 1115 | 907 | Yes | Yes | Yes |
 | Laid to Rest | 1017 | 818 | Yes | Yes | Yes |
 | Life Ephemeral, Path Eternal | 1023 | 817 | Yes | Yes | Yes |
 | Sage's Focus | 1022 | 813 | Yes | Yes | Yes |
