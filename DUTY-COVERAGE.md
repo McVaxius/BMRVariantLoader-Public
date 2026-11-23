@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.5.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.6.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 556 showing all three features and 211 with at least one coverage gap.
+**767 duties** with 562 showing all three features and 205 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 659 | 108 |
-| Radar | 559 | 208 |
+| Module | 664 | 103 |
+| Radar | 565 | 202 |
 | Movement hints | 693 | 74 |
 
 ## Coverage gaps
@@ -133,9 +133,6 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Dusk Vigil | 1366 | 36 | No | No | Yes |
-| Hullbreaker Isle (Hard) | 557 | 172 | No | No | Yes |
-| Neverreap | 420 | 33 | No | No | Yes |
-| Sohm Al (Hard) | 617 | 221 | No | No | Yes |
 
 #### Extreme
 
@@ -470,11 +467,7 @@ None.
 
 #### Quest Battles
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| A Rush of Cold Wind | 1371 | 1101 | No | No | Yes |
-| Clotted Crime | 1329 | 1087 | No | No | Yes |
-| Where We Call Home | 1328 | 1085 | Yes | No | Yes |
+None.
 
 #### Treasure Hunt
 
@@ -661,10 +654,13 @@ None.
 | the Fractal Continuum | 430 | 35 | Yes | Yes | Yes |
 | the Great Gubal Library | 1109 | 31 | Yes | Yes | Yes |
 | the Great Gubal Library (Hard) | 578 | 196 | Yes | Yes | Yes |
+| Hullbreaker Isle (Hard) | 557 | 172 | Yes | Yes | Yes |
+| Neverreap | 420 | 33 | Yes | Yes | Yes |
 | the Lost City of Amdapor (Hard) | 519 | 140 | Yes | Yes | Yes |
 | Pharos Sirius (Hard) | 510 | 40 | Yes | Yes | Yes |
 | Saint Mocianne's Arboretum | 511 | 41 | Yes | Yes | Yes |
 | Sohm Al | 1064 | 37 | Yes | Yes | Yes |
+| Sohm Al (Hard) | 617 | 221 | Yes | Yes | Yes |
 | Sohr Khai | 1112 | 171 | Yes | Yes | Yes |
 | the Vault | 1066 | 34 | Yes | Yes | Yes |
 | Xelphatol | 1113 | 182 | Yes | Yes | Yes |
@@ -1305,8 +1301,10 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | A Father First | 1210 | 828 | Yes | Yes | Yes |
 | A Hunter True | 1216 | 997 | Yes | Yes | Yes |
+| A Rush of Cold Wind | 1371 | 1101 | Yes | Yes | Yes |
 | An Antidote for Anarchy | 1215 | 994 | Yes | Yes | Yes |
 | Bar the Passage | 1246 | 1016 | Yes | Yes | Yes |
+| Clotted Crime | 1329 | 1087 | Yes | Yes | Yes |
 | Dreams of a New Day | 1214 | 1003 | Yes | Yes | Yes |
 | Fangs of the Viper | 1235 | 925 | Yes | Yes | Yes |
 | The Feat of the Brotherhood | 1212 | 982 | Yes | Yes | Yes |
@@ -1318,6 +1316,7 @@ None.
 | Taking a Stand | 1211 | 983 | Yes | Yes | Yes |
 | Vengeance of the Viper | 1236 | 1002 | Yes | Yes | Yes |
 | The Warmth of Family | 1244 | 1009 | Yes | Yes | Yes |
+| Where We Call Home | 1328 | 1085 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
