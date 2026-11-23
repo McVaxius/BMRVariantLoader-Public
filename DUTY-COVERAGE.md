@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.8.2 and BossModReborn 7.5.8.5. Duty names and IDs f
 | --- | ---: | ---: |
 | Module | 679 | 88 |
 | Radar | 580 | 187 |
-| Movement hints | 693 | 74 |
+| Movement hints | 694 | 73 |
 
 ## Coverage gaps
 
@@ -175,7 +175,7 @@ None.
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
 | At the End of Our Hope | 479 | 416 | Yes | No | Yes |
 | The Ballad of Oblivion | 492 | 429 | No | No | Yes |
-| Big Sollerets to Fill | 498 | 435 | Yes | No | No |
+| Big Sollerets to Fill | 498 | 435 | Yes | No | Yes |
 | Blood on the Sands | 471 | 409 | Yes | No | No |
 | Declaration of Blood | 495 | 432 | Yes | No | Yes |
 | The Defiant Ones | 465 | 403 | Yes | No | Yes |
