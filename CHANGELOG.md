@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.0.114 - 2026-11-22 - Startup font fix
+
+- **Fixed GMC startup.** The encounter browser no longer fails over an unused font character on Linux and Wine.
+
 ## 3.2.0.113 - 2026-11-22 - Linux UI fonts
 
 - **Fixed encounter browser fonts on Linux and Wine.** GMC loads its bundled fonts from the installed plugin directory.
