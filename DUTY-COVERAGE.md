@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.9.9 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 633 showing all three features and 134 with at least one coverage gap.
+**767 duties** with 634 showing all three features and 133 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 732 | 35 |
-| Radar | 645 | 122 |
-| Movement hints | 705 | 62 |
+| Radar | 646 | 121 |
+| Movement hints | 706 | 61 |
 
 ## Coverage gaps
 
@@ -48,7 +48,6 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | A Dangerous Proposition | 237 | 307 | Yes | No | Yes |
 | Austerities of Earth | 324 | 373 | Yes | No | No |
-| Austerities of Flame | 323 | 372 | Yes | No | No |
 | Austerities of Wind | 325 | 374 | Yes | No | No |
 | The Beast Within | 329 | 378 | Yes | No | Yes |
 | Brother from Another Mother | 314 | 363 | Yes | No | Yes |
@@ -522,6 +521,7 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Always Bet on Black | 318 | 367 | Yes | Yes | Yes |
+| Austerities of Flame | 323 | 372 | Yes | Yes | Yes |
 | Axe in the Stone | 262 | 328 | Yes | Yes | Yes |
 | Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | Yes | Yes |
 | Bleeder of the Pack | 264 | 330 | Yes | Yes | Yes |
