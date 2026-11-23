@@ -2,7 +2,7 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
-## 3.2.8.3 - 2026-11-23 - Binding and Second Coil radar (Upcoming)
+## 3.2.8.3 - 2026-11-23 - Binding and Second Coil radar
 
 - **Added Binding Coil Turn 3 radar.** Dreadguard's Gust shows a fading circle on the affected floor.
 - **Added Second Coil Turn 4 radar.** Dalamud Spawn's Earthen Heart shows fading circles in Normal and Savage.
