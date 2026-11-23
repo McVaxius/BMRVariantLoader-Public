@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.8.2 and BossModReborn 7.5.8.5. Duty names and IDs f
 | --- | ---: | ---: |
 | Module | 679 | 88 |
 | Radar | 580 | 187 |
-| Movement hints | 694 | 73 |
+| Movement hints | 695 | 72 |
 
 ## Coverage gaps
 
@@ -230,7 +230,7 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Great Hunt (Extreme) | 762 | 475 | No | No | No |
+| the Great Hunt (Extreme) | 762 | 475 | No | No | Yes |
 | the Minstrel's Ballad: Shinryu's Domain | 730 | 278 | No | No | Yes |
 
 #### Raids
