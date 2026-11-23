@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.9.6 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.9.7 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 627 showing all three features and 140 with at least one coverage gap.
+**767 duties** with 630 showing all three features and 137 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 732 | 35 |
-| Radar | 640 | 127 |
-| Movement hints | 699 | 68 |
+| Radar | 643 | 124 |
+| Movement hints | 702 | 65 |
 
 ## Coverage gaps
 
@@ -50,9 +50,7 @@ None.
 | Austerities of Earth | 324 | 373 | Yes | No | No |
 | Austerities of Flame | 323 | 372 | Yes | No | No |
 | Austerities of Wind | 325 | 374 | Yes | No | No |
-| Axe in the Stone | 262 | 328 | Yes | No | No |
 | The Beast Within | 329 | 378 | Yes | No | Yes |
-| Bleeder of the Pack | 264 | 330 | Yes | No | No |
 | Brother from Another Mother | 314 | 363 | Yes | No | Yes |
 | Chasing Shadows | 233 | 296 | Yes | No | Yes |
 | Cloying Victory | 409 | 386 | Yes | No | Yes |
@@ -148,7 +146,6 @@ None.
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
 | At the End of Our Hope | 479 | 416 | Yes | No | Yes |
 | Big Sollerets to Fill | 498 | 435 | Yes | No | Yes |
-| Blood on the Sands | 471 | 409 | Yes | No | No |
 | Declaration of Blood | 495 | 432 | Yes | No | Yes |
 | The Defiant Ones | 465 | 403 | Yes | No | Yes |
 | Destruction in the Name of Justice | 467 | 405 | No | No | No |
@@ -528,7 +525,9 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Always Bet on Black | 318 | 367 | Yes | Yes | Yes |
+| Axe in the Stone | 262 | 328 | Yes | Yes | Yes |
 | Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | Yes | Yes |
+| Bleeder of the Pack | 264 | 330 | Yes | Yes | Yes |
 | Brotherly Love | 303 | 350 | Yes | Yes | Yes |
 | Bringing Down the Mountain | 265 | 331 | Yes | Yes | Yes |
 | Cape Westwind | 1049 | 865 | Yes | Yes | Yes |
@@ -716,6 +715,7 @@ None.
 | A Flare for the Dramatic | 503 | 440 | Yes | Yes | Yes |
 | a Spectacle for the Ages | 533 | 167 | Yes | Yes | Yes |
 | Appetite for Destruction | 491 | 428 | Yes | Yes | Yes |
+| Blood on the Sands | 471 | 409 | Yes | Yes | Yes |
 | Close Encounters of the VIth Kind | 459 | 399 | Yes | Yes | Yes |
 | Divine Intervention | 456 | 396 | Yes | Yes | Yes |
 | Dragoon's Fate | 477 | 415 | Yes | Yes | Yes |
