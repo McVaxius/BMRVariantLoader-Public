@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.4.0 - 2026-11-22 - ARR dungeon coverage
+
+- **Added Halatali (Hard) radar.** On BossModReborn, Pyracmon's 100-tonze Swing shows a fading circle at the live cast location. GodMod uses its native cast radar.
+- **Added The Stone Vigil (Hard) radar.** Gorynich's Swinge shows its cast facing and a fading countdown. This completes the ARR dungeon coverage rows.
+
 ## 3.2.3.0 - 2026-11-22 - Stormblood dungeon coverage
 
 - **Added The Fractal Continuum (Hard) radar.** Shows The Ultima Warrior's Citadel Buster line and the Servomechanical Minotaur's 128-tonze Swing circle.
