@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.9.7 - 2026-11-23 - Marauder and machinist quest radar
+
+- **Added Axe in the Stone radar.** Molting Megalocrabs' Bubble Shower shows a fading cone.
+- **Added Bleeder of the Pack radar.** Moraby Hedgemoles' Spine Stream shows a fading line.
+- **Added Blood on the Sands radar.** Each Peckish Bell's Irritating Tendrils line fades on its own cast timer.
+
 ## 3.2.9.6 - 2026-11-23 - Paladin quest battle radar
 
 - **Added This Little Sword of Mine radar.** Solkzagyl's Bloodstain shows a fading circle at the cast location.
