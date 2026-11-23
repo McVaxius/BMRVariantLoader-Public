@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.9.5 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.9.6 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 626 showing all three features and 141 with at least one coverage gap.
+**767 duties** with 627 showing all three features and 140 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 732 | 35 |
-| Radar | 638 | 129 |
-| Movement hints | 698 | 69 |
+| Radar | 640 | 127 |
+| Movement hints | 699 | 68 |
 
 ## Coverage gaps
 
@@ -174,7 +174,6 @@ None.
 | Sounding Out the Amphitheatre | 457 | 397 | No | No | No |
 | Spearheading Initiatives | 475 | 413 | Yes | No | Yes |
 | Sworn Upon a Lance | 470 | 408 | No | No | No |
-| This Little Sword of Mine | 493 | 430 | Yes | No | No |
 | When Gnaths Cry | 482 | 419 | No | No | No |
 
 #### Treasure Hunt
@@ -235,7 +234,7 @@ None.
 | The Heart of the Problem | 718 | 266 | Yes | No | No |
 | In Crimson It Began | 659 | 464 | Yes | No | Yes |
 | In Loving Memory | 721 | 453 | Yes | No | Yes |
-| In Thal's Name | 705 | 261 | Yes | No | No |
+| In Thal's Name | 705 | 261 | Yes | Yes | No |
 | Interdimensional Rift | 690 | 275 | Yes | No | Yes |
 | It's Probably a Trap | 665 | 237 | Yes | No | Yes |
 | The Key to Victory | 686 | 467 | Yes | No | Yes |
@@ -728,6 +727,7 @@ None.
 | The Ballad of Oblivion | 492 | 429 | Yes | Yes | Yes |
 | The Carteneau Flats: Heliodrome | 633 | 222 | Yes | Yes | Yes |
 | The Flame in the Abyss | 501 | 438 | Yes | Yes | Yes |
+| This Little Sword of Mine | 493 | 430 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
