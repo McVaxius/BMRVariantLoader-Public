@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.9.8 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.9.9 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 631 showing all three features and 136 with at least one coverage gap.
+**767 duties** with 633 showing all three features and 134 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 732 | 35 |
-| Radar | 643 | 124 |
-| Movement hints | 703 | 64 |
+| Radar | 645 | 122 |
+| Movement hints | 705 | 62 |
 
 ## Coverage gaps
 
@@ -56,7 +56,6 @@ None.
 | Cloying Victory | 409 | 386 | Yes | No | Yes |
 | The Consequences of Anger | 328 | 377 | No | No | No |
 | The Crow Knows | 414 | 391 | Yes | No | No |
-| Doing It the Bard Way | 321 | 370 | Yes | No | No |
 | Escape from Castrum Centri | 305 | 352 | Yes | No | Yes |
 | Every Little Thing She Does Is Magitek | 309 | 358 | Yes | No | Yes |
 | Five Easy Pieces | 315 | 364 | Yes | No | Yes |
@@ -71,7 +70,6 @@ None.
 | The Lominsan Way | 307 | 354 | Yes | No | Yes |
 | Lord of the Inferno | 275 | 339 | Yes | No | Yes |
 | Lurkers in the Grotto | 252 | 332 | Yes | No | Yes |
-| The Mountain That Strides | 263 | 329 | Yes | No | No |
 | Ninja Bathin' | 413 | 390 | Yes | No | Yes |
 | Notorious Biggs | 304 | 351 | Yes | No | Yes |
 | Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
@@ -531,6 +529,7 @@ None.
 | Bringing Down the Mountain | 265 | 331 | Yes | Yes | Yes |
 | Cape Westwind | 1049 | 865 | Yes | Yes | Yes |
 | Devastation | 1052 | 867 | Yes | Yes | Yes |
+| Doing It the Bard Way | 321 | 370 | Yes | Yes | Yes |
 | Duty, Honor, Country | 271 | 336 | Yes | Yes | Yes |
 | Facing Your Demons | 269 | 327 | Yes | Yes | Yes |
 | Feint and Strike | 280 | 334 | Yes | Yes | Yes |
@@ -568,6 +567,7 @@ None.
 | The Company You Keep (Twin Adder) | 277 | 340 | Yes | Yes | Yes |
 | The Face of Thal | 255 | 316 | Yes | Yes | Yes |
 | The Heretic among Us | 302 | 344 | Yes | Yes | Yes |
+| The Mountain That Strides | 263 | 329 | Yes | Yes | Yes |
 | The Hidden Chapter | 268 | 326 | Yes | Yes | Yes |
 | The One That Got Away | 231 | 305 | Yes | Yes | Yes |
 | The One That Got Away | 236 | 306 | Yes | Yes | Yes |
