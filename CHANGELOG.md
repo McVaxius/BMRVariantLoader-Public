@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.2.0 - 2026-11-22 - Endwalker Variant and Criterion coverage
+
+- **Added Aloalo Island radar.** On BossModReborn, Quaqua's Violet Storm shows its cone and fades toward impact. This fills the last radar gap in the Endwalker Variant and Criterion coverage list.
+- **Added Anabaseios Normal radar.** The Tenth Circle shows Pandaemoniac Ray, the Eleventh Circle shows Divisive Ruling, and the Twelfth Circle shows Ray of Light and Parthenos.
+- **Added Normal Weapon trial radar.** Cinder Drift shows Ruby Ray, Spike of Flame, Ravensflight, Bradamante, Ravensclaw, and Burst. Castrum Marinum shows beam and blade attacks, plus a Drop-Down countdown and knockback arrow that accounts for immunity. The Cloud Deck shows six cast warnings, including both Auri Cyclone variants.
+- **Added Innocence and Hades Extreme radar.** Shadowreaver shows a raidwide circle and countdown. Shadow Stream shows its line at the live cast position and facing.
+- **Added Savage raid warnings.** Deltascape V1.0 shows Clamp and two knockback countdowns. Deltascape V2.0 warns for Death's Gaze, Earthquake, Gravitational Wave, and Evilsphere. Eden's Verse: Furor shows Meteor Strike, and Eden's Promise: Eternity shows Maleficium.
+- **Added Great Hunt Normal guidance.** Rathalos and the Steppe Yamaa show timed cast and rush warnings. The radar also shows Garula cover, Fireball stacks, and lingering fire.
+- **Added quest battle radar.** Twenty-two A Realm Reborn quest battles show timed warnings, including True Grit in Spirithold Broken, Blizzard II in Nouveau Riche, and Tortoise Stomp in Pride and Duty.
+- **Added Blighted Bouquet radar.** Both Second Coil Turn 1 difficulties mark Rafflesia and show a countdown alongside the existing stillness warning.
+
 ## 3.2.1.0 - 2026-11-22 - ARR guildhest coverage
 
 - **Added timed radar for eleven ARR guildhests.** Cast warnings fade toward the live deadline in Basic Training: Enemy Parties, Under the Armor, Basic Training: Enemy Strongholds, Hero on the Half Shell, Stinging Back, All's Well that Ends in the Well, Flicking Sticks and Taking Names, More than a Feeler, Shadow and Claw, Ward Up, and Solemn Trinity.
