@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.2.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.3.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 548 showing all three features and 219 with at least one coverage gap.
+**767 duties** with 552 showing all three features and 215 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 651 | 116 |
-| Radar | 551 | 216 |
+| Module | 655 | 112 |
+| Radar | 555 | 212 |
 | Movement hints | 693 | 74 |
 
 ## Coverage gaps
@@ -236,11 +236,7 @@ None.
 
 #### Dungeons
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| the Fractal Continuum (Hard) | 743 | 285 | No | No | Yes |
-| the Swallow's Compass | 768 | 536 | No | No | Yes |
-| the Temple of the Fist | 663 | 236 | No | No | Yes |
+None.
 
 #### Trials
 
@@ -350,7 +346,6 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Eden's Promise: Anamorphosis (Savage) | 948 | 752 | No | No | Yes |
-| Eden's Promise: Litany (Savage) | 947 | 748 | No | No | Yes |
 | Eden's Promise: Umbra (Savage) | 946 | 750 | No | No | Yes |
 | Eden's Verse: Iconoclasm (Savage) | 908 | 727 | No | No | Yes |
 
@@ -785,12 +780,15 @@ None.
 | Castrum Abania | 1145 | 242 | Yes | Yes | Yes |
 | Doma Castle | 1144 | 241 | Yes | Yes | Yes |
 | the Drowned City of Skalla | 1172 | 279 | Yes | Yes | Yes |
+| the Fractal Continuum (Hard) | 743 | 285 | Yes | Yes | Yes |
 | the Ghimlyt Dark | 1174 | 611 | Yes | Yes | Yes |
 | Hells' Lid | 742 | 284 | Yes | Yes | Yes |
 | Kugane Castle | 662 | 262 | Yes | Yes | Yes |
 | Saint Mocianne's Arboretum (Hard) | 788 | 584 | Yes | Yes | Yes |
 | Shisui of the Violet Tides | 1367 | 235 | Yes | Yes | Yes |
 | the Sirensong Sea | 1142 | 238 | Yes | Yes | Yes |
+| the Swallow's Compass | 768 | 536 | Yes | Yes | Yes |
+| the Temple of the Fist | 663 | 236 | Yes | Yes | Yes |
 
 #### Trials
 
@@ -982,6 +980,7 @@ None.
 | Eden's Gate: Resurrection (Savage) | 853 | 654 | Yes | Yes | Yes |
 | Eden's Gate: Sepulture (Savage) | 856 | 690 | Yes | Yes | Yes |
 | Eden's Promise: Eternity (Savage) | 949 | 759 | Yes | Yes | Yes |
+| Eden's Promise: Litany (Savage) | 947 | 748 | Yes | Yes | Yes |
 | Eden's Verse: Fulmination (Savage) | 906 | 716 | Yes | Yes | Yes |
 | Eden's Verse: Furor (Savage) | 907 | 720 | Yes | Yes | Yes |
 | Eden's Verse: Refulgence (Savage) | 909 | 729 | Yes | Yes | Yes |
