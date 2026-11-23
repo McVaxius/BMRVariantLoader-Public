@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.8.2 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.8.3 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 577 showing all three features and 190 with at least one coverage gap.
+**767 duties** with 580 showing all three features and 187 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 679 | 88 |
-| Radar | 580 | 187 |
+| Module | 682 | 85 |
+| Radar | 583 | 184 |
 | Movement hints | 695 | 72 |
 
 ## Coverage gaps
@@ -30,16 +30,13 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Binding Coil of Bahamut - Turn 3 (Normal) | 243 | 95 | No | No | Yes |
 | the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | No | No | No |
-| the Second Coil of Bahamut - Turn 4 (Normal) | 358 | 101 | No | No | Yes |
 
 #### Savage
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | No | No | No |
-| the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | No | No | Yes |
 
 #### Alliance
 
@@ -548,6 +545,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | the Binding Coil of Bahamut - Turn 1 (Normal) | 241 | 93 | Yes | Yes | Yes |
 | the Binding Coil of Bahamut - Turn 2 (Normal) | 242 | 94 | Yes | Yes | Yes |
+| the Binding Coil of Bahamut - Turn 3 (Normal) | 243 | 95 | Yes | Yes | Yes |
 | the Binding Coil of Bahamut - Turn 4 (Normal) | 244 | 96 | Yes | Yes | Yes |
 | the Binding Coil of Bahamut - Turn 5 (Normal) | 245 | 97 | Yes | Yes | Yes |
 | the Final Coil of Bahamut - Turn 1 (Normal) | 193 | 107 | Yes | Yes | Yes |
@@ -556,6 +554,7 @@ None.
 | the Final Coil of Bahamut - Turn 4 (Normal) | 196 | 110 | Yes | Yes | Yes |
 | the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | Yes | Yes | Yes |
 | the Second Coil of Bahamut - Turn 2 (Normal) | 356 | 99 | Yes | Yes | Yes |
+| the Second Coil of Bahamut - Turn 4 (Normal) | 358 | 101 | Yes | Yes | Yes |
 
 #### Savage
 
@@ -563,6 +562,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | Yes | Yes | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 2 | 381 | 104 | Yes | Yes | Yes |
+| the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | Yes | Yes | Yes |
 
 #### Alliance
 
