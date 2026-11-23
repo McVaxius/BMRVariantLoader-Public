@@ -2,6 +2,21 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.9.0 - 2026-11-23 - Alexander Savage and quest battle radar
+
+- **Added Alexander Savage radar.** Eight duties now show fading cast cues, including Blitzstrahl, Protean Wave, Hidden Minefield, Mega Beam, and Spin Crusher.
+- **Added Second Coil Turn 3 warnings.** Normal marks the Allagan Field cast target. Both difficulties mark active debuffs and help DPS prioritize the Clockwork Dreadnaught.
+- **Added Extreme trial radar.** Titania shows the Phantom Rune out cue, Rathalos shows both Rush lanes, and Shinryu shows Dragonfist on BossModReborn.
+- **Updated Normal Weapon trial radar.** Cinder Drift shows Homing Lasers stack and spread targets and a Ruby Dynamics warning. Castrum Marinum and the Cloud Deck show opening Emerald Beam and Vertical Cleave countdowns.
+- **Updated Normal Sephirot radar.** Malkuth and Pillar of Mercy have separate knockback countdowns, and the Pillar impact circle has its own timer.
+- **Added A Realm Reborn quest radar.** See live cast cues in Facing Your Demons, Heart of the Forest, My First Mudra, Always Bet on Black, Parley in the Sagolii, both Proof of Might battles, The Company You Keep (Twin Adder), Slave to the Code, and Master and Student.
+- **Added Estinien and Void Jumper warnings.** Into the Dragon's Maw shows Skydragon Dive, and The Hidden Chapter shows Thunderstrike. GodMod also avoids these casts when they target an ally.
+- **Added Heavensward quest radar.** See live cast cues in A Flare for the Dramatic, In Her Defense, Appetite for Destruction, The Ballad of Oblivion, Fire and Blood, and Our Answer.
+- **Added Stormblood quest radar.** See live cast cues in The Mongrel and the Knight, Release the Hounds, Matsuba Mayhem, Stained in Scarlet, Nightkin, and The Crimson Duelist.
+- **Added Stormblood quest targeting.** Eligible Void Cracks, Old Guard bowmen, the Binding Chain, and the final-wave barber gain initial priority in their respective quests. Void Call, Earth Crusher, and Bronze Link also show timed warnings.
+- **Added Endwalker quest radar.** Ever March Heavensward, The Gift of Mercy, Laid to Rest, and When It Rains show live cast cues. Forlorn Glory shows a shelter countdown.
+- **Added A Path Unveiled radar and interrupt hints.** Mortal Crush shows a fading cone and interrupt guidance. GodMod also avoids the cone when it targets Kan-E-Senna.
+
 ## 3.2.8.3 - 2026-11-23 - Binding and Second Coil radar
 
 - **Added Binding Coil Turn 3 radar.** Dreadguard's Gust shows a fading circle on the affected floor.
