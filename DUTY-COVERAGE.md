@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.9.1 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.9.2 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 620 showing all three features and 147 with at least one coverage gap.
+**767 duties** with 621 showing all three features and 146 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 727 | 40 |
-| Radar | 631 | 136 |
-| Movement hints | 695 | 72 |
+| Module | 729 | 38 |
+| Radar | 633 | 134 |
+| Movement hints | 696 | 71 |
 
 ## Coverage gaps
 
@@ -144,7 +144,7 @@ None.
 | A Series of Unfortunate Events | 455 | 395 | Yes | No | Yes |
 | Absolution | 497 | 434 | No | No | No |
 | Against the Shadow | 483 | 420 | No | No | No |
-| An Illuminati Incident | 485 | 422 | No | No | No |
+| An Illuminati Incident | 485 | 422 | Yes | Yes | No |
 | And My Axe | 453 | 393 | No | No | No |
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
 | At the End of Our Hope | 479 | 416 | Yes | No | Yes |
@@ -157,7 +157,6 @@ None.
 | Ewer Right | 480 | 417 | No | No | No |
 | Familiar Faces | 461 | 401 | Yes | No | No |
 | Feather in the Cap | 481 | 418 | No | No | No |
-| The Flame in the Abyss | 501 | 438 | No | No | No |
 | Fortune Favors the Bole | 473 | 411 | Yes | No | Yes |
 | Forward, the Royal Marines | 454 | 394 | Yes | No | Yes |
 | The Hands of Fate | 476 | 414 | Yes | No | No |
@@ -731,6 +730,7 @@ None.
 | Our Answer | 500 | 437 | Yes | Yes | Yes |
 | The Ballad of Oblivion | 492 | 429 | Yes | Yes | Yes |
 | The Carteneau Flats: Heliodrome | 633 | 222 | Yes | Yes | Yes |
+| The Flame in the Abyss | 501 | 438 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
