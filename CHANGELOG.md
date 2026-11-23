@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.9.8 - 2026-11-23 - In Thal's Name tournament radar
+
+- **Updated In Thal's Name radar and avoidance.** Sultan's Brand shows a fading cone and Brightburn shows a fading circle, both with timed avoidance.
+
 ## 3.2.9.7 - 2026-11-23 - Marauder and machinist quest radar
 
 - **Added Axe in the Stone radar.** Molting Megalocrabs' Bubble Shower shows a fading cone.
