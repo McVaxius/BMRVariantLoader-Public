@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.0.112 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.1.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 499 showing all three features and 268 with at least one coverage gap.
+**767 duties** with 510 showing all three features and 257 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 634 | 133 |
-| Radar | 502 | 265 |
+| Module | 641 | 126 |
+| Radar | 513 | 254 |
 | Movement hints | 692 | 75 |
 
 ## Coverage gaps
@@ -152,22 +152,6 @@ None.
 | Victory in Peril | 249 | 313 | Yes | No | Yes |
 | Violators Will Be Shot | 228 | 302 | Yes | No | Yes |
 | The Voidgate Breathes Gloomy | 317 | 366 | Yes | No | Yes |
-
-#### Guildhests
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| All's Well that Ends in the Well | 220 | 48 | No | No | Yes |
-| Basic Training: Enemy Parties | 214 | 42 | Yes | No | Yes |
-| Basic Training: Enemy Strongholds | 215 | 44 | Yes | No | Yes |
-| Flicking Sticks and Taking Names | 219 | 49 | No | No | Yes |
-| Hero on the Half Shell | 216 | 45 | Yes | No | Yes |
-| More than a Feeler | 221 | 50 | No | No | Yes |
-| Shadow and Claw | 223 | 52 | No | No | Yes |
-| Solemn Trinity | 300 | 55 | No | No | Yes |
-| Stinging Back | 192 | 47 | No | No | Yes |
-| Under the Armor | 190 | 43 | Yes | No | Yes |
-| Ward Up | 299 | 54 | No | No | Yes |
 
 ### Heavensward
 
@@ -677,9 +661,20 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| All's Well that Ends in the Well | 220 | 48 | Yes | Yes | Yes |
 | Annoy the Void | 222 | 51 | Yes | Yes | Yes |
+| Basic Training: Enemy Parties | 214 | 42 | Yes | Yes | Yes |
+| Basic Training: Enemy Strongholds | 215 | 44 | Yes | Yes | Yes |
+| Flicking Sticks and Taking Names | 219 | 49 | Yes | Yes | Yes |
+| Hero on the Half Shell | 216 | 45 | Yes | Yes | Yes |
 | Long Live the Queen | 298 | 53 | Yes | Yes | Yes |
+| More than a Feeler | 221 | 50 | Yes | Yes | Yes |
 | Pulling Poison Posies | 191 | 46 | Yes | Yes | Yes |
+| Shadow and Claw | 223 | 52 | Yes | Yes | Yes |
+| Solemn Trinity | 300 | 55 | Yes | Yes | Yes |
+| Stinging Back | 192 | 47 | Yes | Yes | Yes |
+| Under the Armor | 190 | 43 | Yes | Yes | Yes |
+| Ward Up | 299 | 54 | Yes | Yes | Yes |
 
 ### Heavensward
 
