@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.4.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.5.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 554 showing all three features and 213 with at least one coverage gap.
+**767 duties** with 556 showing all three features and 211 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 657 | 110 |
-| Radar | 557 | 210 |
+| Module | 659 | 108 |
+| Radar | 559 | 208 |
 | Movement hints | 693 | 74 |
 
 ## Coverage gaps
@@ -225,9 +225,7 @@ None.
 
 #### Treasure Hunt
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| the Aquapolis | 558 | 179 | No | No | Yes |
+None.
 
 ### Stormblood
 
@@ -380,7 +378,6 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| the Final Day (Normal) | 997 | 796 | No | No | Yes |
 | The Gilded Araya (Normal) | 509 | 69 | No | No | No |
 
 #### Extreme
@@ -763,9 +760,9 @@ None.
 | Dragoon's Fate | 477 | 415 | Yes | Yes | Yes |
 | One Life for One World | 592 | 194 | Yes | Yes | Yes |
 
-#### Treasure Hunt
-
-None.
+1| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
+| --- | ---: | ---: | --- | --- | --- |
+| the Aquapolis | 558 | 179 | Yes | Yes | Yes |
 
 ### Stormblood
 
@@ -1057,6 +1054,7 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | the Abyssal Fracture (Normal) | 1168 | 964 | Yes | Yes | Yes |
 | the Dark Inside (Normal) | 992 | 802 | Yes | Yes | Yes |
+| the Final Day (Normal) | 997 | 796 | Yes | Yes | Yes |
 | the Gilded Araya (Normal) | 1136 | 944 | Yes | Yes | Yes |
 | the Mothercrystal (Normal) | 995 | 790 | Yes | Yes | Yes |
 | Mount Ordeals (Normal) | 1095 | 886 | Yes | Yes | Yes |
