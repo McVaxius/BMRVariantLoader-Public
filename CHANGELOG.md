@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.9.2 - 2026-11-23 - Heavensward quest battle radar
+
+- **Added The Flame in the Abyss radar and avoidance.** Pom Flare and Moogle-Go-Round show fading circles with movement hints to avoid them.
+- **Added An Illuminati Incident guidance.** A countdown marks Y'shtola's Spiritual Ray cast and enemies attacking her gain targeting priority.
+
 ## 3.2.9.1 - 2026-11-23 - Shadowbringers quest battle radar
 
 - **Added A-Digging We Will Go radar.** Tender Love and Tail Swing show fading circles at their live cast locations.
