@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.1.0 - 2026-11-22 - ARR guildhest coverage
+
+- **Added timed radar for eleven ARR guildhests.** Cast warnings fade toward the live deadline in Basic Training: Enemy Parties, Under the Armor, Basic Training: Enemy Strongholds, Hero on the Half Shell, Stinging Back, All's Well that Ends in the Well, Flicking Sticks and Taking Names, More than a Feeler, Shadow and Claw, Ward Up, and Solemn Trinity.
+- **Added objective guidance** for All's Well that Ends in the Well, Flicking Sticks and Taking Names, More than a Feeler, Shadow and Claw, Stinging Back, Ward Up, and Solemn Trinity.
+- **Updated initial target priorities.** Stinging Back prioritizes nearby healers already fighting the party, Ward Up prioritizes the engaged Hollow Gargoyle, and Solemn Trinity prioritizes nearby enemies attacking the Allagan artifacts.
+
 ## 3.2.0.114 - 2026-11-22 - Startup font fix
 
 - **Fixed GMC startup.** The encounter browser no longer fails over an unused font character on Linux and Wine.
