@@ -2,6 +2,13 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.7.0 - 2026-11-22 - A Realm Reborn Extreme trial coverage
+
+- **Added Thornmarch (Extreme) radar.** Good King Moggle Mog XII's Mog Creation shows a fading line.
+- **Added The Whorleater (Extreme) radar.** Grand Fall shows fading circles at the live cast locations.
+- **Added The Striking Tree (Extreme) radar.** Ramuh's Thunderspark shows a fading circle.
+- **Added The Akh Afah Amphitheatre (Extreme) radar.** Glacier Bash shows Shiva's facing and a fading countdown.
+
 ## 3.2.6.0 - 2026-11-22 - Dawntrail quest battle coverage
 
 - **Added Dawntrail quest battle radar.** A Rush of Cold Wind shows Harping Aether lines, and Clotted Crime shows Bilateral Ray lines. Where We Call Home shows Greater Behemoth's Electrostatic Trouncing cone on BossModReborn.
