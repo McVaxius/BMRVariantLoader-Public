@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.8.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.8.1 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 569 showing all three features and 198 with at least one coverage gap.
+**767 duties** with 572 showing all three features and 195 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 671 | 96 |
-| Radar | 572 | 195 |
+| Module | 674 | 93 |
+| Radar | 575 | 192 |
 | Movement hints | 693 | 74 |
 
 ## Coverage gaps
@@ -319,9 +319,6 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Castrum Marinum (Extreme) | 935 | 763 | No | No | Yes |
-| Cinder Drift (Extreme) | 912 | 718 | No | No | Yes |
-| the Cloud Deck (Extreme) | 951 | 782 | No | No | Yes |
 | the Dancing Plague (Extreme) | 858 | 658 | Yes | No | No |
 
 #### Raids
@@ -938,7 +935,10 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| Castrum Marinum (Extreme) | 935 | 763 | Yes | Yes | Yes |
+| Cinder Drift (Extreme) | 912 | 718 | Yes | Yes | Yes |
 | Memoria Misera (Extreme) | 913 | 725 | Yes | Yes | Yes |
+| the Cloud Deck (Extreme) | 951 | 782 | Yes | Yes | Yes |
 | the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | Yes | Yes |
 | the Minstrel's Ballad: Hades's Elegy | 885 | 693 | Yes | Yes | Yes |
 | the Seat of Sacrifice (Extreme) | 923 | 739 | Yes | Yes | Yes |
