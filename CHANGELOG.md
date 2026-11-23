@@ -2,6 +2,13 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.3.0 - 2026-11-22 - Stormblood dungeon coverage
+
+- **Added The Fractal Continuum (Hard) radar.** Shows The Ultima Warrior's Citadel Buster line and the Servomechanical Minotaur's 128-tonze Swing circle.
+- **Added The Swallow's Compass radar.** Shows both of Daidarabotchi's Greater Palm casts at their live positions and angles.
+- **Added The Temple of the Fist radar.** Shows Coeurl Sruti's Radial Blaster circle and fills the last Stormblood dungeon radar gap.
+- **Added Eden's Promise: Litany (Savage) radar.** Shows the 16-yalm Throne of Shadow circle as Shadowkeeper's cast approaches impact.
+
 ## 3.2.2.0 - 2026-11-22 - Endwalker Variant and Criterion coverage
 
 - **Added Aloalo Island radar.** On BossModReborn, Quaqua's Violet Storm shows its cone and fades toward impact. This fills the last radar gap in the Endwalker Variant and Criterion coverage list.
