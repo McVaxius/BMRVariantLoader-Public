@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.6.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.7.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 562 showing all three features and 205 with at least one coverage gap.
+**767 duties** with 566 showing all three features and 201 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 664 | 103 |
-| Radar | 565 | 202 |
+| Module | 668 | 99 |
+| Radar | 569 | 198 |
 | Movement hints | 693 | 74 |
 
 ## Coverage gaps
@@ -24,12 +24,7 @@ None.
 
 #### Extreme
 
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| the Akh Afah Amphitheatre (Extreme) | 378 | 80 | No | No | Yes |
-| the Striking Tree (Extreme) | 375 | 78 | No | No | Yes |
-| Thornmarch (Extreme) | 364 | 67 | No | No | Yes |
-| the Whorleater (Extreme) | 359 | 73 | No | No | Yes |
+None.
 
 #### Raids
 
@@ -550,10 +545,14 @@ None.
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| the Akh Afah Amphitheatre (Extreme) | 378 | 80 | Yes | Yes | Yes |
 | the Bowl of Embers (Extreme) | 295 | 63 | Yes | Yes | Yes |
 | the Howling Eye (Extreme) | 297 | 65 | Yes | Yes | Yes |
 | the Minstrel's Ballad: Ultima's Bane | 348 | 68 | Yes | Yes | Yes |
 | the Navel (Extreme) | 296 | 64 | Yes | Yes | Yes |
+| the Striking Tree (Extreme) | 375 | 78 | Yes | Yes | Yes |
+| Thornmarch (Extreme) | 364 | 67 | Yes | Yes | Yes |
+| the Whorleater (Extreme) | 359 | 73 | Yes | Yes | Yes |
 
 #### Raids
 
