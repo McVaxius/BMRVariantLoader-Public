@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.8.0 - 2026-11-23 - Shadowbringers Savage raid coverage
+
+- **Added Eden's Verse: Iconoclasm (Savage) radar.** The circular Strength in Numbers cast shows a fading danger zone around Idolatry.
+- **Added Eden's Promise: Umbra (Savage) radar.** Full-perimeter Particle Beam shows the donut and its safe center.
+- **Added Eden's Promise: Anamorphosis (Savage) radar.** All three Fatebreaker Burnt Strike casts show fading lines from the live cast position and direction.
+
 ## 3.2.7.0 - 2026-11-22 - A Realm Reborn Extreme trial coverage
 
 - **Added Thornmarch (Extreme) radar.** Good King Moggle Mog XII's Mog Creation shows a fading line.
