@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.5 - 2026-11-24 - Duty and the Beast warning
+
+- **Added Duty and the Beast radar.** BossModReborn and GodMod warn you to avoid contact with Inner Rage during the Curious Gorge duel.
+
 ## 3.2.10.4 - 2026-11-24 - Feather in the Cap radar
 
 - **Added Feather in the Cap radar.** Celie the Pursuant's Summoning Rite shows a fading countdown on BossModReborn and GodMod.
