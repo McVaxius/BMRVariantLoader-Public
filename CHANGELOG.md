@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.4 - 2026-11-24 - Feather in the Cap radar
+
+- **Added Feather in the Cap radar.** Celie the Pursuant's Summoning Rite shows a fading countdown on BossModReborn and GodMod.
+- **Updated the duty coverage table.** Curious Gorge Meets His Match now credits BossModReborn's existing Rive avoidance.
+
 ## 3.2.10.3 - 2026-11-24 - Quest radar updates
 
 - **Added Return of the Holyfist radar.** On BossModReborn, Hamon Holyfist's Hundred Fists shows a fading countdown.
