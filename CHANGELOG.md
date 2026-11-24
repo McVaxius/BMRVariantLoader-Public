@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.7 - 2026-11-24 - GodMod quest countdowns
+
+- **Added Fortune Favors the Bole radar.** GodMod shows a fading Summoning Rite countdown over the Bandit Leader.
+- **Added Ishgardian Justice radar.** GodMod shows a fading Cure countdown over each casting Temple Chirurgeon.
+
 ## 3.2.10.6 - 2026-11-24 - Quest target markers
 
 - **Added Planar Fissure markers in Destruction in the Name of Justice.** The radar marks active fissures during combat so you can destroy them to stop reinforcements.
