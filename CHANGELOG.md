@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.3 - 2026-11-24 - Quest radar updates
+
+- **Added Return of the Holyfist radar.** On BossModReborn, Hamon Holyfist's Hundred Fists shows a fading countdown.
+- **Added How to Quit You radar.** Cliffdivers' Wing Cutter shows a fading cone alongside native avoidance.
+
 ## 3.2.10.2 - 2026-11-24 - Quest radar updates
 
 - **Added A Test of Courage radar.** Shaugi Greatshell's Curse of the Tides shows a fading countdown.
