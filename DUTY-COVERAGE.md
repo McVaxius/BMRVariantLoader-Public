@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.10.3 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: |
 | Module | 734 | 33 |
 | Radar | 650 | 117 |
-| Movement hints | 708 | 59 |
+| Movement hints | 709 | 58 |
 
 ## Coverage gaps
 
@@ -54,7 +54,7 @@ None.
 | Chasing Shadows | 233 | 296 | Yes | No | Yes |
 | Cloying Victory | 409 | 386 | Yes | No | Yes |
 | The Consequences of Anger | 328 | 377 | No | No | No |
-| The Crow Knows | 414 | 391 | Yes | No | No |
+| The Crow Knows | 414 | 391 | Yes | No | Yes |
 | Escape from Castrum Centri | 305 | 352 | Yes | No | Yes |
 | Every Little Thing She Does Is Magitek | 309 | 358 | Yes | No | Yes |
 | Five Easy Pieces | 315 | 364 | Yes | No | Yes |
