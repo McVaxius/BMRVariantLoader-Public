@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.26 - 2026-11-24 - Castrum Marinum arena warnings
+
+- **Added Castrum Marinum (Normal) radar warnings.** Fading countdowns show when the arena edge collapses and when Disruption Field starts the phase transition.
+
 ## 3.2.10.25 - 2026-11-24 - Vertical Cleave knockback immunity
 
 - **Added Vertical Cleave knockback immunity.** In The Cloud Deck (Normal), encounter AI can use Arm's Length or Surecast when available.
