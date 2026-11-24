@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.10.4 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.5 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
@@ -10,8 +10,8 @@ Public God Mod Companion 3.2.10.4 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 735 | 32 |
-| Radar | 651 | 116 |
+| Module | 736 | 31 |
+| Radar | 652 | 115 |
 | Movement hints | 711 | 56 |
 
 ## Coverage gaps
@@ -144,7 +144,7 @@ None.
 | Declaration of Blood | 495 | 432 | Yes | No | Yes |
 | The Defiant Ones | 465 | 403 | Yes | No | Yes |
 | Destruction in the Name of Justice | 467 | 405 | No | No | No |
-| Duty and the Beast | 468 | 406 | No | No | No |
+| Duty and the Beast | 468 | 406 | Yes | Yes | No |
 | Ewer Right | 480 | 417 | No | No | No |
 | Familiar Faces | 461 | 401 | Yes | No | No |
 | Feather in the Cap | 481 | 418 | Yes | Yes | No |
