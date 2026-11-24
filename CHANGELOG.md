@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.8 - 2026-11-24 - Sephirot radar reminders
+
+- **Added Sephirot radar reminders.** Containment Bay S1T7 (Normal) shows fading countdowns at Fiendish Wail towers and Coronal Wind on BossModReborn and GodMod.
+
 ## 3.2.10.7 - 2026-11-24 - GodMod quest countdowns
 
 - **Added Fortune Favors the Bole radar.** GodMod shows a fading Summoning Rite countdown over the Bandit Leader.
