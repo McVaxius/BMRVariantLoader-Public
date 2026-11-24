@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.10.3 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.4 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
@@ -10,9 +10,9 @@ Public God Mod Companion 3.2.10.3 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 734 | 33 |
-| Radar | 650 | 117 |
-| Movement hints | 710 | 57 |
+| Module | 735 | 32 |
+| Radar | 651 | 116 |
+| Movement hints | 711 | 56 |
 
 ## Coverage gaps
 
@@ -147,7 +147,7 @@ None.
 | Duty and the Beast | 468 | 406 | No | No | No |
 | Ewer Right | 480 | 417 | No | No | No |
 | Familiar Faces | 461 | 401 | Yes | No | No |
-| Feather in the Cap | 481 | 418 | No | No | No |
+| Feather in the Cap | 481 | 418 | Yes | Yes | No |
 | Fortune Favors the Bole | 473 | 411 | Yes | No | Yes |
 | Forward, the Royal Marines | 454 | 394 | Yes | No | Yes |
 | The Hands of Fate | 476 | 414 | Yes | No | No |
@@ -220,7 +220,7 @@ None.
 | An Egi-stential Crisis | 701 | 454 | Yes | Yes | No |
 | Choices and Paths | 647 | 450 | Yes | No | No |
 | Come Rain or Shrine | 664 | 442 | Yes | No | Yes |
-| Curious Gorge Meets His Match | 717 | 260 | Yes | No | No |
+| Curious Gorge Meets His Match | 717 | 260 | Yes | No | Yes |
 | Dark as the Night Sky | 713 | 267 | Yes | No | Yes |
 | Foxfire | 667 | 443 | Yes | No | Yes |
 | The Heart of the Problem | 718 | 266 | Yes | No | No |
