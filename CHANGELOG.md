@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.11 - 2026-11-24 - Sephirot cast countdowns
+
+- **Added personal Sephirot countdowns.** Containment Bay S1T7 (Normal) shows a fading countdown when Chesed or Chesed Gevurah targets you.
+
 ## 3.2.10.10 - 2026-11-24 - And My Axe radar
 
 - **Added Inner Fury radar in And My Axe.** The radar marks Inner Fury during the finale and reminds you that touching it restores HP.
