@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.10.5 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.6 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
@@ -10,8 +10,8 @@ Public God Mod Companion 3.2.10.5 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 736 | 31 |
-| Radar | 652 | 115 |
+| Module | 738 | 29 |
+| Radar | 654 | 113 |
 | Movement hints | 711 | 56 |
 
 ## Coverage gaps
@@ -143,7 +143,7 @@ None.
 | Big Sollerets to Fill | 498 | 435 | Yes | No | Yes |
 | Declaration of Blood | 495 | 432 | Yes | No | Yes |
 | The Defiant Ones | 465 | 403 | Yes | No | Yes |
-| Destruction in the Name of Justice | 467 | 405 | No | No | No |
+| Destruction in the Name of Justice | 467 | 405 | Yes | Yes | No |
 | Duty and the Beast | 468 | 406 | Yes | Yes | No |
 | Ewer Right | 480 | 417 | No | No | No |
 | Familiar Faces | 461 | 401 | Yes | No | No |
@@ -163,7 +163,7 @@ None.
 | Rise of the Machinists | 489 | 426 | Yes | No | No |
 | Securing the Locks | 487 | 424 | Yes | No | Yes |
 | Slings and Arrows | 474 | 412 | Yes | No | Yes |
-| Sounding Out the Amphitheatre | 457 | 397 | No | No | No |
+| Sounding Out the Amphitheatre | 457 | 397 | Yes | Yes | No |
 | Spearheading Initiatives | 475 | 413 | Yes | No | Yes |
 | Sworn Upon a Lance | 470 | 408 | No | No | No |
 | When Gnaths Cry | 482 | 419 | No | No | No |
