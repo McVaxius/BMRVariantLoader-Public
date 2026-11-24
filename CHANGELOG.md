@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.12 - 2026-11-24 - Sephirot Da’at countdown
+
+- **Added a personal Da’at countdown.** Sephirot’s radar shows the remaining cast time when Da’at targets you in Containment Bay S1T7 (Normal).
+
 ## 3.2.10.11 - 2026-11-24 - Sephirot cast countdowns
 
 - **Added personal Sephirot countdowns.** Containment Bay S1T7 (Normal) shows a fading countdown when Chesed or Chesed Gevurah targets you.
