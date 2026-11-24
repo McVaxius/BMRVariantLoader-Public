@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.10.9 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.10 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
@@ -10,8 +10,8 @@ Public God Mod Companion 3.2.10.9 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 740 | 27 |
-| Radar | 656 | 111 |
+| Module | 741 | 26 |
+| Radar | 657 | 110 |
 | Movement hints | 711 | 56 |
 
 ## Coverage gaps
@@ -137,7 +137,7 @@ None.
 | Absolution | 497 | 434 | No | No | No |
 | Against the Shadow | 483 | 420 | Yes | Yes | No |
 | An Illuminati Incident | 485 | 422 | Yes | Yes | No |
-| And My Axe | 453 | 393 | No | No | No |
+| And My Axe | 453 | 393 | Yes | Yes | No |
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
 | At the End of Our Hope | 479 | 416 | Yes | No | Yes |
 | Big Sollerets to Fill | 498 | 435 | Yes | No | Yes |
