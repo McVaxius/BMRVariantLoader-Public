@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.17 - 2026-11-24 - Weapon trial countdowns
+
+- **Added a Stamp tankbuster marker.** Cinder Drift (Normal) marks Ruby Weapon’s target and shows the remaining cast time.
+- **Updated the Emerald Beam countdown.** Castrum Marinum (Normal) now shows it on both phase-one casts.
+
 ## 3.2.10.16 - 2026-11-24 - Lakhamu and Tokkapchi radar
 
 - **Added Lakhamu’s Earthquake radar.** The inner blast and outer ring preview follow their own casts.
