@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.29 - 2026-11-24 - Castrum Marinum mechanic countdowns
+
+- **Added Castrum Marinum (Normal) radar countdowns.** Watch for magnetic mines, Divide et Impera, and the incoming soldiers.
+
 ## 3.2.10.28 - 2026-11-24 - Castrum Marinum Terminus Est radar
 
 - **Added Terminus Est countdowns in Castrum Marinum (Normal).** The radar flags knockback arrows, sword markers, and the order in which swords appear.
