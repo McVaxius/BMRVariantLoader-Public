@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.16 - 2026-11-24 - Lakhamu and Tokkapchi radar
+
+- **Added Lakhamu’s Earthquake radar.** The inner blast and outer ring preview follow their own casts.
+- **Added Tokkapchi’s Feculent Flood countdown.** The radar reminds players to push the mud slime away.
+
 ## 3.2.10.15 - 2026-11-24 - Nullchu radar warnings
 
 - **Added Nullchu radar warnings.** Saint Mocianne’s Arboretum (Hard) shows a fading Devour countdown and Odious Atmosphere cone.
