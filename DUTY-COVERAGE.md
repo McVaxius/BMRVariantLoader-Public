@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.10.2 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.3 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 635 showing all three features and 132 with at least one coverage gap.
+**767 duties** with 636 showing all three features and 131 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 733 | 34 |
-| Radar | 648 | 119 |
-| Movement hints | 707 | 60 |
+| Module | 734 | 33 |
+| Radar | 650 | 117 |
+| Movement hints | 708 | 59 |
 
 ## Coverage gaps
 
@@ -60,7 +60,6 @@ None.
 | Five Easy Pieces | 315 | 364 | Yes | No | Yes |
 | Forgotten but Not Gone | 327 | 376 | Yes | No | Yes |
 | Grinners in the Mist | 407 | 384 | Yes | No | Yes |
-| How to Quit You | 311 | 360 | Yes | No | No |
 | In the Eyes of Gods and Men | 301 | 343 | Yes | No | Yes |
 | Keeping the Oath | 313 | 362 | Yes | No | Yes |
 | Keeping the Spirit Alive | 259 | 320 | No | No | No |
@@ -76,7 +75,7 @@ None.
 | Pincer Maneuver | 287 | 347 | Yes | No | Yes |
 | The Reason Roaille | 410 | 387 | Yes | No | Yes |
 | The Rematch | 257 | 318 | Yes | No | Yes |
-| Return of the Holyfist | 261 | 322 | No | No | No |
+| Return of the Holyfist | 261 | 322 | Yes | Yes | No |
 | Return of the Holyfist | 251 | 323 | Yes | No | Yes |
 | The Spirit Is Willing | 258 | 319 | No | No | No |
 | Star-crossed Rivals | 260 | 321 | Yes | No | Yes |
@@ -537,6 +536,7 @@ None.
 | Heart of the Forest | 320 | 369 | Yes | Yes | Yes |
 | History Repeating | 330 | 379 | Yes | Yes | Yes |
 | Homecoming | 230 | 304 | Yes | Yes | Yes |
+| How to Quit You | 311 | 360 | Yes | Yes | Yes |
 | In Nature's Embrace | 235 | 301 | Yes | Yes | Yes |
 | In the Dark of Night | 839 | 647 | Yes | Yes | Yes |
 | Into a Copper Hell | 274 | 338 | Yes | Yes | Yes |
