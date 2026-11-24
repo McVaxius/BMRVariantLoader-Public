@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.15 - 2026-11-24 - Nullchu radar warnings
+
+- **Added Nullchu radar warnings.** Saint Mocianne’s Arboretum (Hard) shows a fading Devour countdown and Odious Atmosphere cone.
+- **Updated dungeon radar countdowns.** Odious Air, Empty Gaze, and Mudsling now show their remaining cast time.
+
 ## 3.2.10.14 - 2026-11-24 - Sophia radar warnings
 
 - **Updated Normal Sophia radar.** The platform tilt Quasar, Thunder III, Cloudy Heavens, and Divine Spark warnings now appear as fading countdowns in the radar.
