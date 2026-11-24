@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.23 - 2026-11-24 - Cinder Drift stack movement on BossModReborn
+
+- **Added High-powered Homing Lasers movement on BossModReborn.** In Cinder Drift (Normal), encounter AI helps split the party into two stack groups while still avoiding ordinary Homing Lasers spreads.
+
 ## 3.2.10.22 - 2026-11-24 - Cinder Drift stack movement
 
 - **Added High-powered Homing Lasers movement on GodMod.** In Cinder Drift (Normal), encounter AI helps split the party between the two stack markers.
