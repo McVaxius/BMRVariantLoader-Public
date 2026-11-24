@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.9 - 2026-11-24 - Spirit Pulse and Sylviel radar
+
+- **Added Spirit Pulse radar in Against the Shadow.** Active orbs are marked during combat.
+- **Added Sylviel rescue radar in When Gnaths Cry.** The radar marks the rescue object while it is targetable.
+
 ## 3.2.10.8 - 2026-11-24 - Sephirot radar reminders
 
 - **Added Sephirot radar reminders.** Containment Bay S1T7 (Normal) shows fading countdowns at Fiendish Wail towers and Coronal Wind on BossModReborn and GodMod.
