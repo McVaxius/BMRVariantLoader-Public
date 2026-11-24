@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.1 - 2026-11-23 - BossModReborn compatibility
+
+- **Fixed module loading.** GMC modules load again on BossModReborn 7.5.8.10.
+
 ## 3.2.10.0 - 2026-11-23 - Austerities of Flame radar
 
 - **Fixed encounter browser categories.** Quest and Coil entries keep their categories when duty sheets are unavailable.
