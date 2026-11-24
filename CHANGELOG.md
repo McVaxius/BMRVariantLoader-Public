@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.20 - 2026-11-24 - Cinder Drift spread movement
+
+- **Added Homing Lasers spread movement on GodMod.** In Cinder Drift (Normal), movement AI separates players during Ruby Weapon's Homing Lasers spreads.
+
 ## 3.2.10.19 - 2026-11-24 - The Cloud Deck deck cue
 
 - **Added Claw Swipe deck guidance.** The Cloud Deck (Normal) radar names the safe deck during Adamant Purge.
