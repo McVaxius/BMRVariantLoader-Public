@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.25 - 2026-11-24 - Vertical Cleave knockback immunity
+
+- **Added Vertical Cleave knockback immunity.** In The Cloud Deck (Normal), encounter AI can use Arm's Length or Surecast when available.
+
 ## 3.2.10.24 - 2026-11-24 - Auri Doomstead radar and avoidance
 
 - **Added Auri Doomstead radar.** In The Cloud Deck (Normal), a fading circle follows the tankbuster target. GodMod AI helps nearby party members avoid the splash.
