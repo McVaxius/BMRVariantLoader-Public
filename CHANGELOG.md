@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.10 - 2026-11-24 - And My Axe radar
+
+- **Added Inner Fury radar in And My Axe.** The radar marks Inner Fury during the finale and reminds you that touching it restores HP.
+
 ## 3.2.10.9 - 2026-11-24 - Spirit Pulse and Sylviel radar
 
 - **Added Spirit Pulse radar in Against the Shadow.** Active orbs are marked during combat.
