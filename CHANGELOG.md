@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.27 - 2026-11-24 - Castrum Marinum tankbuster and raidwide radar
+
+- **Added Castrum Marinum (Normal) radar warnings.** See who Emerald Shot targets and when Optimized Ultima hits.
+
 ## 3.2.10.26 - 2026-11-24 - Castrum Marinum arena warnings
 
 - **Added Castrum Marinum (Normal) radar warnings.** Fading countdowns show when the arena edge collapses and when Disruption Field starts the phase transition.
