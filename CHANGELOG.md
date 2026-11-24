@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.24 - 2026-11-24 - Auri Doomstead radar and avoidance
+
+- **Added Auri Doomstead radar.** In The Cloud Deck (Normal), a fading circle follows the tankbuster target. GodMod AI helps nearby party members avoid the splash.
+
 ## 3.2.10.23 - 2026-11-24 - Cinder Drift stack movement on BossModReborn
 
 - **Added High-powered Homing Lasers movement on BossModReborn.** In Cinder Drift (Normal), encounter AI helps split the party into two stack groups while still avoiding ordinary Homing Lasers spreads.
