@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.10.0 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.2 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 634 showing all three features and 133 with at least one coverage gap.
+**767 duties** with 635 showing all three features and 132 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 732 | 35 |
-| Radar | 646 | 121 |
-| Movement hints | 706 | 61 |
+| Module | 733 | 34 |
+| Radar | 648 | 119 |
+| Movement hints | 707 | 60 |
 
 ## Coverage gaps
 
@@ -76,7 +76,6 @@ None.
 | Pincer Maneuver | 287 | 347 | Yes | No | Yes |
 | The Reason Roaille | 410 | 387 | Yes | No | Yes |
 | The Rematch | 257 | 318 | Yes | No | Yes |
-| Requiem for the Fallen | 322 | 371 | Yes | No | No |
 | Return of the Holyfist | 261 | 322 | No | No | No |
 | Return of the Holyfist | 251 | 323 | Yes | No | Yes |
 | The Spirit Is Willing | 258 | 319 | No | No | No |
@@ -240,7 +239,7 @@ None.
 | Sweet Dreams Are Made of Peace | 704 | 447 | Yes | Yes | No |
 | What She Always Wanted | 678 | 457 | Yes | No | Yes |
 | With Heart and Steel | 707 | 245 | No | No | No |
-|  A Test of Courage | 657 | 470 | No | No | No |
+|  A Test of Courage | 657 | 470 | Yes | Yes | No |
 |  Schism between Sisters | 760 | 477 | No | No | No |
 
 #### Treasure Hunt
@@ -557,6 +556,7 @@ None.
 | Primal Burdens | 326 | 375 | Yes | Yes | Yes |
 | Proof of Might | 239 | 309 | Yes | Yes | Yes |
 | Proof of Might | 240 | 310 | Yes | Yes | Yes |
+| Requiem for the Fallen | 322 | 371 | Yes | Yes | Yes |
 | Seer Folly | 319 | 368 | Yes | Yes | Yes |
 | Sinking Doesmaga | 288 | 348 | Yes | Yes | Yes |
 | Slave to the Code | 406 | 383 | Yes | Yes | Yes |
