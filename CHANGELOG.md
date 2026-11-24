@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.6 - 2026-11-24 - Quest target markers
+
+- **Added Planar Fissure markers in Destruction in the Name of Justice.** The radar marks active fissures during combat so you can destroy them to stop reinforcements.
+- **Added healer markers in Sounding Out the Amphitheatre.** The radar marks active Cane-waving Heretics during combat so you can defeat them before they heal their allies.
+
 ## 3.2.10.5 - 2026-11-24 - Duty and the Beast warning
 
 - **Added Duty and the Beast radar.** BossModReborn and GodMod warn you to avoid contact with Inner Rage during the Curious Gorge duel.
