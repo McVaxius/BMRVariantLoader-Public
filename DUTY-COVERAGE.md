@@ -12,7 +12,7 @@ Public God Mod Companion 3.2.10.3 and BossModReborn 7.5.8.5. Duty names and IDs 
 | --- | ---: | ---: |
 | Module | 734 | 33 |
 | Radar | 650 | 117 |
-| Movement hints | 709 | 58 |
+| Movement hints | 710 | 57 |
 
 ## Coverage gaps
 
@@ -158,7 +158,7 @@ None.
 | Kindred Spirits | 496 | 433 | Yes | No | Yes |
 | Master of Marksmanship | 486 | 423 | Yes | No | Yes |
 | Ninja Assassin | 484 | 421 | Yes | No | No |
-| The Power of a Tourney | 488 | 425 | Yes | No | No |
+| The Power of a Tourney | 488 | 425 | Yes | No | Yes |
 | Quarantine | 466 | 404 | Yes | No | No |
 | Rise of the Machinists | 489 | 426 | Yes | No | No |
 | Securing the Locks | 487 | 424 | Yes | No | Yes |
