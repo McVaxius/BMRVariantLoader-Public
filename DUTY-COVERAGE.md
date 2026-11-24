@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.10.8 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.9 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
@@ -10,8 +10,8 @@ Public God Mod Companion 3.2.10.8 and BossModReborn 7.5.8.5. Duty names and IDs 
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 738 | 29 |
-| Radar | 654 | 113 |
+| Module | 740 | 27 |
+| Radar | 656 | 111 |
 | Movement hints | 711 | 56 |
 
 ## Coverage gaps
@@ -135,7 +135,7 @@ None.
 | A Joye-ful Reunion | 472 | 410 | No | No | No |
 | A Series of Unfortunate Events | 455 | 395 | Yes | No | Yes |
 | Absolution | 497 | 434 | No | No | No |
-| Against the Shadow | 483 | 420 | No | No | No |
+| Against the Shadow | 483 | 420 | Yes | Yes | No |
 | An Illuminati Incident | 485 | 422 | Yes | Yes | No |
 | And My Axe | 453 | 393 | No | No | No |
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
@@ -166,7 +166,7 @@ None.
 | Sounding Out the Amphitheatre | 457 | 397 | Yes | Yes | No |
 | Spearheading Initiatives | 475 | 413 | Yes | No | Yes |
 | Sworn Upon a Lance | 470 | 408 | No | No | No |
-| When Gnaths Cry | 482 | 419 | No | No | No |
+| When Gnaths Cry | 482 | 419 | Yes | Yes | No |
 
 #### Treasure Hunt
 
