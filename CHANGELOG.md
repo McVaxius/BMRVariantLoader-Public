@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.18 - 2026-11-24 - The Cloud Deck countdowns
+
+- **Added Diamond Weapon countdowns.** The Cloud Deck (Normal) radar warns for Diamond Rain, Outrage, and the Code Chi-Xi-Stigma intermission cast.
+
 ## 3.2.10.17 - 2026-11-24 - Weapon trial countdowns
 
 - **Added a Stamp tankbuster marker.** Cinder Drift (Normal) marks Ruby Weapon’s target and shows the remaining cast time.
