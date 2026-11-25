@@ -6,13 +6,15 @@ Public God Mod Companion 3.2.10.65. The status tables use BossModReborn 7.5.8.5.
 
 ## Coverage at a glance
 
-**767 duties** with 636 showing all three features and 131 with at least one coverage gap.
+**BossModReborn:** 767 duties. 636 have all three features and 131 have at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 741 | 26 |
 | Radar | 657 | 110 |
 | Movement hints | 711 | 56 |
+
+**GodMod:** 25 quest duties gained coverage in 3.2.10.56–3.2.10.65. That includes 9 radar cues and 16 text hints.
 
 ## Coverage updates in 3.2.10.54–3.2.10.65
 
