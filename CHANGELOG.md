@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.65 - 2026-11-25 - Quest rescue, shield generators and Blast Wave
+
+- **Added a rescue prompt in A Series of Unfortunate Events.** GodMod reminds you to free Emmanellain at the brambleweed rope when it is available.
+- **Added a shield-generator reminder in The Key to Victory.** GodMod prompts you to destroy the generators while the Avenger and a targetable generator are present.
+- **Added a Blast Wave countdown in Notorious Biggs.** GodMod radar shows the time remaining on Blast Wave.
+
 ## 3.2.10.64 - 2026-11-25 - Quest objective and thunderball cues
 
 - **Added a generator reminder in Escape from Castrum Centri.** GodMod prompts you to destroy the Magitek Field Generator while a Vanguard and a targetable generator are present.
