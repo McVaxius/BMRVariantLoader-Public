@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.53 - 2026-11-25 - Meracydian Meteor radar
+
+- **Added a Meracydian Meteor radar countdown in Containment Bay Z1T9 (Normal).** The radar marks each casting Execrated Wit, and DPS automation can prioritize the add.
+
 ## 3.2.10.52 - 2026-11-25 - Coronal Wind movement
 
 - **Added Coronal Wind movement guidance in Containment Bay S1T7 (Normal).** Movement assistance heads toward the wind during Ascension to prepare for Sephirot's sweep.
