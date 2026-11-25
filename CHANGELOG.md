@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.31 - 2026-11-24 - Cinder Drift comet rescue
+
+- **Added Mark II Magitek Comet rescue guidance in Cinder Drift (Normal).** The radar marks caught comets, and DPS automation prioritizes breaking them to free allies.
+
 ## 3.2.10.30 - 2026-11-24 - Cinder Drift Ruby Dynamics positioning
 
 - **Fixed Ruby Dynamics positioning in Cinder Drift (Normal).** The radar and movement hints use the Ruby Weapon hitbox as the safe area.
