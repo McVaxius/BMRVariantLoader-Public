@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.86 - 2026-11-25 - BossModReborn quest radar
+
+- **Added radar markers for four quest pickups in BossModReborn.** Find the rosary in In the Eyes of Gods and Men, the grimoire in Pincer Maneuver, the relics in Forgotten but Not Gone, and the sealed missive in Spearheading Initiatives.
+
 ## 3.2.10.85 - 2026-11-25 - BossModReborn quest radar
 
 - **Added quest objective markers to BossModReborn radar.** Find the prisoner bindings in Stifled Screams, the stolen firearms in Stray into the Shadows, and the rescue targets in Heroic Reprise, A Series of Unfortunate Events, and As Goes Light, So Goes Darkness.
