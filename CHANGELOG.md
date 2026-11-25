@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.37 - 2026-11-24 - Castrum Marinum firing line radar
+
+- **Added Black Wolf's Image countdowns in Castrum Marinum (Normal).** The radar shows Rank and File and Fire Away as the soldiers form up and prepare to fire.
+
 ## 3.2.10.36 - 2026-11-24 - Cinder Drift raidwide and add radar
 
 - **Added raidwide countdowns in Cinder Drift (Normal).** The radar shows Optimized Ultima, its enrage, and Outrage as Ruby Weapon casts them.
