@@ -1,54 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.10.65. The status tables use BossModReborn 7.5.8.5. The GodMod 7.5.8.3 updates below show the cues available on that host. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.65 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**BossModReborn:** 767 duties. 636 have all three features and 131 have at least one coverage gap.
+**767 duties** with 636 showing all three features and 131 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 741 | 26 |
 | Radar | 657 | 110 |
 | Movement hints | 711 | 56 |
-
-**GodMod:** 25 quest duties gained coverage in 3.2.10.56–3.2.10.65. That includes 9 radar cues and 16 text hints.
-
-## Coverage updates in 3.2.10.54–3.2.10.65
-
-BossModReborn and GodMod both gained the Broken Seal countdown in Containment Bay Z1T9 (Normal) (223/637) in 3.2.10.54 and improved Homing Lasers movement in Cinder Drift (Normal) (717/897) in 3.2.10.55. Both duties already had all three features in the BossModReborn tables.
-
-### GodMod quest cues
-
-| Release | Duty | CFC / Territory | Verified coverage |
-| --- | --- | --- | --- |
-| 3.2.10.56 | Forward, the Royal Marines | 394 / 454 | Radar marks marines who need Esuna. |
-| 3.2.10.57 | Heroic Reprise | 431 / 494 | Hint prompts you to rescue the captive pilgrims. |
-| 3.2.10.57 | Come Rain or Shrine | 442 / 664 | Radar marks the weakened bond that needs Aspected Benefic. |
-| 3.2.10.58 | Stray into the Shadows | 381 / 404 | Hint prompts you to use Hide and retrieve the stolen firearms. |
-| 3.2.10.58 | I Could Have Tranced All Night | 439 / 502 | Hint prompts you to attune to an available aethertrail. |
-| 3.2.10.58 | Our Compromise | 272 / 716 | Hint prompts you to use Souleater on the veil. |
-| 3.2.10.59 | The Defiant Ones | 403 / 465 | Hint prompts you to destroy an active Planar Fissure. |
-| 3.2.10.59 | As Goes Light, So Goes Darkness | 441 / 513 | Hint prompts you to free the refugees during the native rescue objective. |
-| 3.2.10.59 | At the End of Our Hope | 416 / 479 | World radar labels the basement Destination. |
-| 3.2.10.60 | Return to the Rift | 471 / 658 | Radar marks the first relocation device during native quest assistance. |
-| 3.2.10.60 | Interdimensional Rift (The Hunt for Omega) | 275 / 690 | Radar marks the first relocation device during native quest assistance. |
-| 3.2.10.61 | In the Eyes of Gods and Men | 343 / 301 | Hint prompts you to retrieve Alderique's rosary. |
-| 3.2.10.61 | Pincer Maneuver | 347 / 287 | Hint prompts you to retrieve K'lyhia's grimoire. |
-| 3.2.10.61 | Forgotten but Not Gone | 376 / 327 | Hint prompts you to recover the stolen relics. |
-| 3.2.10.62 | Sweet Sorrows | 385 / 408 | Hint identifies the Security Mammet as the priority target. |
-| 3.2.10.62 | Stifled Screams | 382 / 405 | Hint prompts you to free the bound prisoners. |
-| 3.2.10.62 | In from the Cold | 793 / 1011 | Hint prompts you to deliver the ceruleum tank to the reaper. |
-| 3.2.10.63 | The Hands of Fate | 414 / 476 | Radar counts down Celestial Stasis and prompts you to destroy active Arcana. |
-| 3.2.10.63 | Rise of the Machinists | 426 / 489 | Hint prompts you to protect Tedalgrinche while enemies target him. |
-| 3.2.10.64 | Escape from Castrum Centri | 352 / 305 | Hint prompts you to destroy the Magitek Field Generator. |
-| 3.2.10.64 | Hired Gunblades | 668 / 865 | Radar marks live thunderballs to intercept. |
-| 3.2.10.64 | Declaration of Blood | 432 / 495 | Radar marks the targetable stolen goods. |
-| 3.2.10.65 | A Series of Unfortunate Events | 395 / 455 | Hint prompts you to free Emmanellain at the brambleweed rope. |
-| 3.2.10.65 | The Key to Victory | 467 / 686 | Hint prompts you to destroy the Magitek Shield Generators. |
-| 3.2.10.65 | Notorious Biggs | 351 / 304 | Radar counts down the decurion's Blast Wave. |
 
 ## Coverage gaps
 
