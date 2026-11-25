@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.42 - 2026-11-24 - Zurvan cast warning expiry
+
+- **Fixed lingering cast warnings in Containment Bay Z1T9 (Normal).** Radar warnings and GodMod Twin Spirit avoidance clear when the cast time runs out.
+
 ## 3.2.10.41 - 2026-11-24 - The Cloud Deck knockback and evacuation cues
 
 - **Added advance warnings in The Cloud Deck (Normal).** Auri Cyclone warns of knockback, and Airship's Bane prompts players to leave the targeted deck. Both warnings count down the live boss cast.
