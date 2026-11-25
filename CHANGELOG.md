@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.59 - 2026-11-25 - Quest combat and rescue cues
+
+- **Added a Planar Fissure reminder in The Defiant Ones.** GodMod prompts you to destroy an active fissure to stop its summons.
+- **Added a rescue prompt in As Goes Light, So Goes Darkness.** GodMod shows it when the current native rescue objective has targetable Bonds.
+- **Added a basement Destination label in At the End of Our Hope.** GodMod shows it in world space when the Destination is targetable and world radar labels are enabled.
+
 ## 3.2.10.58 - 2026-11-25 - Quest action prompts
 
 - **Added a Hide reminder in Stray into the Shadows.** GodMod prompts you to use Hide before retrieving the stolen firearms.
