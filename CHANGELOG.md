@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.40 - 2026-11-24 - The Cloud Deck cast countdowns
+
+- **Added cast countdowns in The Cloud Deck (Normal).** The radar warns for Photon Burst, Articulated Bits, Diamond Shrapnel, Adamant Sphere, and the Adamant Purge variants that lead into Diamond Flash or Homing Laser.
+
 ## 3.2.10.39 - 2026-11-24 - Castrum Marinum Photon Laser rings
 
 - **Added Photon Laser ring radar in Castrum Marinum (Normal).** The middle and outer telegraphs fade toward each ring's live cast deadline.
