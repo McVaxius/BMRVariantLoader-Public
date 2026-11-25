@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.49 - 2026-11-25 - Photon Laser avoidance
+
+- **Improved Photon Laser avoidance in Castrum Marinum (Normal).** Movement assistance can step farther into the center after the first circle resolves, while continuing to avoid the outward rings and other attacks.
+
 ## 3.2.10.48 - 2026-11-25 - Auri Cyclone knockback immunity
 
 - **Added Auri Cyclone knockback immunity in The Cloud Deck (Normal).** When both knockback casts are active, encounter AI can use Arm's Length or Surecast in time to cover both impacts.
