@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.36 - 2026-11-24 - Cinder Drift raidwide and add radar
+
+- **Added raidwide countdowns in Cinder Drift (Normal).** The radar shows Optimized Ultima, its enrage, and Outrage as Ruby Weapon casts them.
+- **Added a Raven's Image cue for tanks.** The radar marks both adds and reminds tanks to keep them apart.
+
 ## 3.2.10.35 - 2026-11-24 - Cinder Drift Ruby Claw
 
 - **Added Ruby Claw radar in Cinder Drift (Normal).** The radar marks each party member targeted by a Raven’s Image and counts down the tankbuster.
