@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.75 - 2026-11-25 - Smoke Screen prompt
+
+- **Added a Smoke Screen radar prompt in It's Probably a Trap.** Both hosts show it while you are bound and have a Smoke Screen charge.
+
 ## 3.2.10.74 - 2026-11-25 - ARR quest radar
 
 - **Added fading Fire II outlines in GodMod.** They appear in Cloying Victory, Escape from Castrum Centri, and Grinners in the Mist. Grinners in the Mist also highlights Charged Whisker.
