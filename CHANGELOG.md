@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.33 - 2026-11-24 - Cinder Drift phase-two radar
+
+- **Added phase-two countdowns in Cinder Drift (Normal).** The radar shows Meteor Project, Negative Personae, Meteor Stream, and Magitek Comet as Ruby Weapon casts them.
+
 ## 3.2.10.32 - 2026-11-24 - Cinder Drift meteor cover
 
 - **Added Magitek Meteor cover guidance in Cinder Drift (Normal).** The radar marks landed comets and prompts you to take cover behind one until Meteor hits.
