@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.39 - 2026-11-24 - Castrum Marinum Photon Laser rings
+
+- **Added Photon Laser ring radar in Castrum Marinum (Normal).** The middle and outer telegraphs fade toward each ring's live cast deadline.
+
 ## 3.2.10.38 - 2026-11-24 - Castrum Marinum arena contractions
 
 - **Added movement assistance for arena contractions in Castrum Marinum (Normal).** The radar prompts you to move inward, and movement assistance favors the center while the edge is about to collapse.
