@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.48 - 2026-11-25 - Auri Cyclone knockback immunity
+
+- **Added Auri Cyclone knockback immunity in The Cloud Deck (Normal).** When both knockback casts are active, encounter AI can use Arm's Length or Surecast in time to cover both impacts.
+
 ## 3.2.10.47 - 2026-11-24 - Zurvan Ciclicle avoidance
 
 - **Corrected Ciclicle avoidance in Containment Bay Z1T9 (Normal).** Movement assistance can use the safe center of Zurvan's ring attack.
