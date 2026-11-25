@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.67 - 2026-11-25 - Sable Shard countdown
+
+- **Added an Igneous Conception countdown in One Golem to Rule Them All.** GodMod radar shows the time remaining before a Sable Shard transforms.
+
 ## 3.2.10.66 - 2026-11-25 - An Egi-stential Crisis radar
 
 - **Added Megaflare and Double Dive radar in An Egi-stential Crisis.** Both hosts draw the circle and line from their live casts.
