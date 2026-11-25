@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.69 - 2026-11-25 - Clouded Dream markers
+
+- **Added Clouded Dream markers in As the Heart Bids.** The radar reminds players to use Solicit Siphon Snout on targetable clouds.
+
 ## 3.2.10.68 - 2026-11-25 - Ewer Right radar
 
 - **Added a Summoning Rite countdown in Ewer Right.** Both hosts show the Bandit Leader's remaining cast time.
