@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.68 - 2026-11-25 - Ewer Right radar
+
+- **Added a Summoning Rite countdown in Ewer Right.** Both hosts show the Bandit Leader's remaining cast time.
+
 ## 3.2.10.67 - 2026-11-25 - Sable Shard countdown
 
 - **Added an Igneous Conception countdown in One Golem to Rule Them All.** GodMod radar shows the time remaining before a Sable Shard transforms.
