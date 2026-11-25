@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.73 - 2026-11-25 - Water II radar
+
+- **Added a fading Water II outline in Violators Will Be Shot.** GodMod highlights Nezul's live cast on the native quest radar.
+
 ## 3.2.10.72 - 2026-11-25 - Quest radar cues
 
 - **Added two GodMod quest radar cues.** Chasing Shadows adds a fading outline to Acorn Armageddon. Return of the Holyfist shows Hamon's Hundred Fists countdown in the sparring duty.
