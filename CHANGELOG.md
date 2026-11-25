@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.85 - 2026-11-25 - BossModReborn quest radar
+
+- **Added quest objective markers to BossModReborn radar.** Find the prisoner bindings in Stifled Screams, the stolen firearms in Stray into the Shadows, and the rescue targets in Heroic Reprise, A Series of Unfortunate Events, and As Goes Light, So Goes Darkness.
+
 ## 3.2.10.84 - 2026-11-25 - BossModReborn quest radar
 
 - **Added fading Rive radar in BossModReborn.** See Trachtoum's line in The Lominsan Way and Dorgono's line in Curious Gorge Meets His Match.
