@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.78 - 2026-11-25 - A Journey of Purification
+
+- **Added radar for A Journey of Purification.** Both hosts mark the Stagnant Water Sprite in combat and remind players to defeat it to stop reinforcements.
+
 ## 3.2.10.77 - 2026-11-25 - Schism between Sisters
 
 - **Added Aethershare radar in Schism between Sisters.** Both hosts mark the channeling deep-dreaming brahmin and show a fading countdown for each caster.
