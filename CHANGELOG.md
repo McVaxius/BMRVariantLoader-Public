@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.80 - 2026-11-25 - BossModReborn quest radar
+
+- **Added fading quest radar in BossModReborn.** See Nerve Sever in A Dangerous Proposition and Origins of Fire and Origins of Ice in Shades of Shatotto.
+
 ## 3.2.10.79 - 2026-11-25 - Absolution
 
 - **Added radar for Absolution.** Both hosts mark Rielle and the enemies targeting her during the defense.
