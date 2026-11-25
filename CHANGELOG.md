@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.61 - 2026-11-25 - Quest item prompts
+
+- **Added a rosary prompt in In the Eyes of Gods and Men.** GodMod reminds you to pick up Alderique's rosary when it can be collected.
+- **Added a grimoire prompt in Pincer Maneuver.** GodMod reminds you to retrieve K'lyhia's grimoire when it can be collected.
+- **Added a relics prompt in Forgotten but Not Gone.** GodMod reminds you to retrieve the stolen relics when the crate can be opened.
+
 ## 3.2.10.60 - 2026-11-25 - Matter relocation device markers
 
 - **Added first-transfer markers in Return to the Rift and The Hunt for Omega.** GodMod radar labels the first matter relocation device during its quest assistance step.
