@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.47 - 2026-11-24 - Zurvan Ciclicle avoidance
+
+- **Corrected Ciclicle avoidance in Containment Bay Z1T9 (Normal).** Movement assistance can use the safe center of Zurvan's ring attack.
+
 ## 3.2.10.46 - 2026-11-24 - Sophia Quasar knockback immunity
 
 - **Added Quasar knockback immunity in Containment Bay P1T6 (Normal).** Encounter AI can use Arm's Length or Surecast before the platform tilts when the action is available.
