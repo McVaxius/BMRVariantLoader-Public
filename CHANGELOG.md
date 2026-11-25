@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.58 - 2026-11-25 - Quest action prompts
+
+- **Added a Hide reminder in Stray into the Shadows.** GodMod prompts you to use Hide before retrieving the stolen firearms.
+- **Added an attunement prompt in I Could Have Tranced All Night.** GodMod prompts you when an aethertrail is available.
+- **Added a finisher prompt in Our Compromise.** GodMod reminds you to use Souleater when the impenetrable veil becomes targetable.
+
 ## 3.2.10.57 - 2026-11-25 - Quest objective cues
 
 - **Added a rescue prompt in Heroic Reprise.** GodMod hints remind you to free the captive pilgrims when the rescue is available.
