@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.54 - 2026-11-25 - Broken Seal radar
+
+- **Added a Broken Seal radar countdown in Containment Bay Z1T9 (Normal).** The radar reminds you to soak a tower that matches your color.
+
 ## 3.2.10.53 - 2026-11-25 - Meracydian Meteor radar
 
 - **Added a Meracydian Meteor radar countdown in Containment Bay Z1T9 (Normal).** The radar marks each casting Execrated Wit, and DPS automation can prioritize the add.
