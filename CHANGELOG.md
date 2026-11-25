@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.32 - 2026-11-24 - Cinder Drift meteor cover
+
+- **Added Magitek Meteor cover guidance in Cinder Drift (Normal).** The radar marks landed comets and prompts you to take cover behind one until Meteor hits.
+
 ## 3.2.10.31 - 2026-11-24 - Cinder Drift comet rescue
 
 - **Added Mark II Magitek Comet rescue guidance in Cinder Drift (Normal).** The radar marks caught comets, and DPS automation prioritizes breaking them to free allies.
