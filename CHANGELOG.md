@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.71 - 2026-11-25 - Quest radar outlines
+
+- **Added fading GodMod quest radar outlines.** A Dangerous Proposition highlights Nerve Sever, Shades of Shatotto highlights Origins of Fire and Origins of Ice, and What She Always Wanted highlights Corrosive Gale during their live casts.
+
 ## 3.2.10.70 - 2026-11-25 - Makibishi radar
 
 - **Added fading Makibishi radar outlines in GodMod.** Ninja Bathin' and The Crow Knows show the outline around the live ground telegraph while Karasu Redbeak is casting.
