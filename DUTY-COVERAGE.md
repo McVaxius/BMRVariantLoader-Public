@@ -18,14 +18,6 @@ Public God Mod Companion 3.2.10.85 and BossModReborn 7.5.8.5. Duty names and IDs
 
 ### A Realm Reborn
 
-#### Dungeons
-
-None.
-
-#### Extreme
-
-None.
-
 #### Raids
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
@@ -37,10 +29,6 @@ None.
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | Yes | Yes | No |
-
-#### Alliance
-
-None.
 
 #### Quest Battles
 
@@ -109,18 +97,6 @@ None.
 | Containment Bay S1T7 (Extreme) | 524 | 135 | No | No | No |
 | the Limitless Blue (Extreme) | 447 | 89 | No | No | No |
 
-#### Raids
-
-None.
-
-#### Savage
-
-None.
-
-#### Alliance
-
-None.
-
 #### Deep Dungeons
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
@@ -168,41 +144,13 @@ None.
 | Sworn Upon a Lance | 470 | 408 | No | No | No |
 | When Gnaths Cry | 482 | 419 | Yes | Yes | No |
 
-#### Treasure Hunt
-
-None.
-
 ### Stormblood
-
-#### Dungeons
-
-None.
 
 #### Trials
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Special Event I | 353 | 70 | No | No | No |
-
-#### Extreme
-
-None.
-
-#### Raids
-
-None.
-
-#### Savage
-
-None.
-
-#### Ultimate Raids
-
-None.
-
-#### Alliance
-
-None.
 
 #### Deep Dungeons
 
@@ -241,15 +189,7 @@ None.
 |  A Test of Courage | 657 | 470 | Yes | Yes | No |
 |  Schism between Sisters | 760 | 477 | No | No | No |
 
-#### Treasure Hunt
-
-None.
-
 ### Shadowbringers
-
-#### Dungeons
-
-None.
 
 #### Trials
 
@@ -263,22 +203,6 @@ None.
 | --- | ---: | ---: | --- | --- | --- |
 | the Dancing Plague (Extreme) | 858 | 658 | Yes | Yes | No |
 
-#### Raids
-
-None.
-
-#### Savage
-
-None.
-
-#### Ultimate Raids
-
-None.
-
-#### Alliance
-
-None.
-
 #### Quest Battles
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
@@ -288,49 +212,13 @@ None.
 | Fit for a Queen | 955 | 765 | No | No | No |
 | Hired Gunblades | 865 | 668 | Yes | No | Yes |
 
-#### Treasure Hunt
-
-None.
-
 ### Endwalker
-
-#### Dungeons
-
-None.
 
 #### Trials
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | The Gilded Araya (Normal) | 509 | 69 | No | No | No |
-
-#### Extreme
-
-None.
-
-#### Raids
-
-None.
-
-#### Savage
-
-None.
-
-#### Ultimate Raids
-
-None.
-
-#### Alliance
-
-None.
-
-#### V&C Dungeon Finder
-
-None.
-
-#### Deep Dungeons
-
-None.
 
 #### Quest Battles
 
@@ -340,60 +228,6 @@ None.
 | The Harvest Begins | 1020 | 814 | Yes | No | Yes |
 | In from the Cold | 1011 | 793 | Yes | No | Yes |
 | To Calmer Seas | 1016 | 799 | No | No | No |
-
-#### Treasure Hunt
-
-None.
-
-### Dawntrail
-
-#### Dungeons
-
-None.
-
-#### Trials
-
-None.
-
-#### Extreme
-
-None.
-
-#### Raids
-
-None.
-
-#### Savage
-
-None.
-
-#### Ultimate Raids
-
-None.
-
-#### Alliance
-
-None.
-
-#### Chaotic Alliance Raid
-
-None.
-
-#### V&C Dungeon Finder
-
-None.
-
-#### Deep Dungeons
-
-None.
-
-#### Quest Battles
-
-None.
-
-#### Treasure Hunt
-
-None.
 
 ### Global
 
