@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.45 - 2026-11-24 - The Cloud Deck Auri Arts warnings
+
+- **Added Auri Arts warnings in The Cloud Deck (Normal).** The radar counts down the zigzag dashes and the separate line-and-jump sequence.
+
 ## 3.2.10.44 - 2026-11-24 - Sophia Thunder III avoidance
 
 - **Corrected Thunder III in Containment Bay P1T6 (Normal).** The radar shows a ring around Sophia, and movement assistance can use a conservative safe area inside the ring.
