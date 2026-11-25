@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.34 - 2026-11-24 - Cinder Drift comet Landing
+
+- **Added Landing radar and positioning in Cinder Drift (Normal).** The radar counts down the comet impacts, and movement assistance favors the center of Ruby Weapon's hitbox.
+
 ## 3.2.10.33 - 2026-11-24 - Cinder Drift phase-two radar
 
 - **Added phase-two countdowns in Cinder Drift (Normal).** The radar shows Meteor Project, Negative Personae, Meteor Stream, and Magitek Comet as Ruby Weapon casts them.
