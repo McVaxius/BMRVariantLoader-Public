@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.82 - 2026-11-25 - BossModReborn quest radar
+
+- **Added fading Fire II radar in BossModReborn.** See the cast circles in The Rematch and Oh Captain, My Captain.
+- **Added fading Anvil Lightning radar in BossModReborn.** Hired Gunblades shows the live five-yalm cast circles.
+
 ## 3.2.10.81 - 2026-11-25 - BossModReborn quest radar
 
 - **Added fading cast radar in BossModReborn.** This covers thirteen quests, including Makibishi in Ninja Bathin' and The Crow Knows.
