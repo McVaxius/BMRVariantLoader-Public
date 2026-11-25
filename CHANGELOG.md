@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.83 - 2026-11-25 - BossModReborn objective radar
+
+- **Added objective markers in BossModReborn radar.** See the basement destination in At the End of Our Hope, the stolen goods in Declaration of Blood, and the first relocation devices in Return to the Rift and The Hunt for Omega. The markers follow the active quest objective.
+
 ## 3.2.10.82 - 2026-11-25 - BossModReborn quest radar
 
 - **Added fading Fire II radar in BossModReborn.** See the cast circles in The Rematch and Oh Captain, My Captain.
