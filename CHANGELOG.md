@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.64 - 2026-11-25 - Quest objective and thunderball cues
+
+- **Added a generator reminder in Escape from Castrum Centri.** GodMod prompts you to destroy the Magitek Field Generator while a Vanguard and a targetable generator are present.
+- **Added thunderball markers in Hired Gunblades.** GodMod radar labels live thunderballs to intercept during combat.
+- **Added a stolen-goods marker in Declaration of Blood.** GodMod radar labels the goods when they are targetable and you are out of combat.
+
 ## 3.2.10.63 - 2026-11-25 - Celestial Stasis and Tedalgrinche cues
 
 - **Added a Celestial Stasis countdown in The Hands of Fate.** GodMod radar shows the time remaining and prompts you to destroy active Arcana.
