@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.81 - 2026-11-25 - BossModReborn quest radar
+
+- **Added fading cast radar in BossModReborn.** This covers thirteen quests, including Makibishi in Ninja Bathin' and The Crow Knows.
+
+The affected quests are What She Always Wanted, Ninja Bathin', The Crow Knows, The Beast Within, Brother from Another Mother, Cloying Victory, Escape from Castrum Centri, Grinners in the Mist, The Threat of Perplexity, The Voidgate Breathes Gloomy, Chasing Shadows, Violators Will Be Shot, and Notorious Biggs.
+
 ## 3.2.10.80 - 2026-11-25 - BossModReborn quest radar
 
 - **Added fading quest radar in BossModReborn.** See Nerve Sever in A Dangerous Proposition and Origins of Fire and Origins of Ice in Shades of Shatotto.
