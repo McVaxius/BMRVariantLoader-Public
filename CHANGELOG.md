@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.43 - 2026-11-24 - Castrum Marinum Drop-Down positioning
+
+- **Added Drop-Down movement guidance in Castrum Marinum (Normal).** While the knockback cast is active, encounter AI favors positions whose predicted landing stays on the central upper floor.
+
 ## 3.2.10.42 - 2026-11-24 - Zurvan cast warning expiry
 
 - **Fixed lingering cast warnings in Containment Bay Z1T9 (Normal).** Radar warnings and GodMod Twin Spirit avoidance clear when the cast time runs out.
