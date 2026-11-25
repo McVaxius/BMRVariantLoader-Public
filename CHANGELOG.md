@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.60 - 2026-11-25 - Matter relocation device markers
+
+- **Added first-transfer markers in Return to the Rift and The Hunt for Omega.** GodMod radar labels the first matter relocation device during its quest assistance step.
+
 ## 3.2.10.59 - 2026-11-25 - Quest combat and rescue cues
 
 - **Added a Planar Fissure reminder in The Defiant Ones.** GodMod prompts you to destroy an active fissure to stop its summons.
