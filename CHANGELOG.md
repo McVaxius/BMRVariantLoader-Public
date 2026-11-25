@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.57 - 2026-11-25 - Quest objective cues
+
+- **Added a rescue prompt in Heroic Reprise.** GodMod hints remind you to free the captive pilgrims when the rescue is available.
+- **Added a healing marker in Come Rain or Shrine.** GodMod radar marks the weakened bond that needs Aspected Benefic.
+
 ## 3.2.10.56 - 2026-11-25 - Nymian Plague radar
 
 - **Added a Nymian Plague marker in Forward, the Royal Marines.** GodMod radar shows which marines need Esuna during the final fight.
