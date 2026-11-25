@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.70 - 2026-11-25 - Makibishi radar
+
+- **Added fading Makibishi radar outlines in GodMod.** Ninja Bathin' and The Crow Knows show the outline around the live ground telegraph while Karasu Redbeak is casting.
+
 ## 3.2.10.69 - 2026-11-25 - Clouded Dream markers
 
 - **Added Clouded Dream markers in As the Heart Bids.** The radar reminds players to use Solicit Siphon Snout on targetable clouds.
