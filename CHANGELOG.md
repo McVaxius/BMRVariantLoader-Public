@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.51 - 2026-11-25 - Stranger Tides radar
+
+- **Added a Stranger Tides countdown in Sastasha (Hard).** The Kraken radar prompts you to defeat surviving arms before they spawn whirlwinds.
+
 ## 3.2.10.50 - 2026-11-25 - Sephirot Revelation
 
 - **Added a Revelation countdown in Containment Bay S1T7 (Normal).** The radar marks Storm of Words and shows how long you have to defeat it.
