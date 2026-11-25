@@ -1,6 +1,6 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.10.68 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.2.10.69 and BossModReborn 7.5.8.5. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
@@ -10,8 +10,8 @@ Public God Mod Companion 3.2.10.68 and BossModReborn 7.5.8.5. Duty names and IDs
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 742 | 25 |
-| Radar | 658 | 109 |
+| Module | 743 | 24 |
+| Radar | 659 | 108 |
 | Movement hints | 712 | 55 |
 
 ## Coverage gaps
