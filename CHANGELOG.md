@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.62 - 2026-11-25 - Combat, rescue and refueling prompts
+
+- **Added a Security Mammet reminder in Sweet Sorrows.** GodMod points out the Mammet priority during combat.
+- **Added a rescue prompt in Stifled Screams.** GodMod reminds you to free prisoners when their bindings can be removed.
+- **Added a refueling prompt in In from the Cold.** GodMod reminds you to return the ceruleum tank to the immobilized reaper while carrying it.
+
 ## 3.2.10.61 - 2026-11-25 - Quest item prompts
 
 - **Added a rosary prompt in In the Eyes of Gods and Men.** GodMod reminds you to pick up Alderique's rosary when it can be collected.
