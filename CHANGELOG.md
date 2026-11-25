@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.30 - 2026-11-24 - Cinder Drift Ruby Dynamics positioning
+
+- **Fixed Ruby Dynamics positioning in Cinder Drift (Normal).** The radar and movement hints use the Ruby Weapon hitbox as the safe area.
+
 ## 3.2.10.29 - 2026-11-24 - Castrum Marinum mechanic countdowns
 
 - **Added Castrum Marinum (Normal) radar countdowns.** Watch for magnetic mines, Divide et Impera, and the incoming soldiers.
