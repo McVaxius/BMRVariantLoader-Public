@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.38 - 2026-11-24 - Castrum Marinum arena contractions
+
+- **Added movement assistance for arena contractions in Castrum Marinum (Normal).** The radar prompts you to move inward, and movement assistance favors the center while the edge is about to collapse.
+
 ## 3.2.10.37 - 2026-11-24 - Castrum Marinum firing line radar
 
 - **Added Black Wolf's Image countdowns in Castrum Marinum (Normal).** The radar shows Rank and File and Fire Away as the soldiers form up and prepare to fire.
