@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.87 - 2026-11-25 - BossModReborn quest radar
+
+- **Added quest radar markers in BossModReborn.** See the active aethertrail, shrine, or shackles in I Could Have Tranced All Night, Come Rain or Shrine, and A Game of Life and Death.
+
 ## 3.2.10.86 - 2026-11-25 - BossModReborn quest radar
 
 - **Added radar markers for four quest pickups in BossModReborn.** Find the rosary in In the Eyes of Gods and Men, the grimoire in Pincer Maneuver, the relics in Forgotten but Not Gone, and the sealed missive in Spearheading Initiatives.
