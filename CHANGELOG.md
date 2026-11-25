@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.63 - 2026-11-25 - Celestial Stasis and Tedalgrinche cues
+
+- **Added a Celestial Stasis countdown in The Hands of Fate.** GodMod radar shows the time remaining and prompts you to destroy active Arcana.
+- **Added a defense prompt in Rise of the Machinists.** GodMod reminds you to protect Tedalgrinche while enemies are targeting him.
+
 ## 3.2.10.62 - 2026-11-25 - Combat, rescue and refueling prompts
 
 - **Added a Security Mammet reminder in Sweet Sorrows.** GodMod points out the Mammet priority during combat.
