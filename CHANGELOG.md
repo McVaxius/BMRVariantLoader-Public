@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.66 - 2026-11-25 - An Egi-stential Crisis radar
+
+- **Added Megaflare and Double Dive radar in An Egi-stential Crisis.** Both hosts draw the circle and line from their live casts.
+
 ## 3.2.10.65 - 2026-11-25 - Quest rescue, shield generators and Blast Wave
 
 - **Added a rescue prompt in A Series of Unfortunate Events.** GodMod reminds you to free Emmanellain at the brambleweed rope when it is available.
