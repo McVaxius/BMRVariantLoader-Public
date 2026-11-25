@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.56 - 2026-11-25 - Nymian Plague radar
+
+- **Added a Nymian Plague marker in Forward, the Royal Marines.** GodMod radar shows which marines need Esuna during the final fight.
+
 ## 3.2.10.55 - 2026-11-25 - Homing Lasers movement
 
 - **Improved Homing Lasers movement in Cinder Drift (Normal).** BossModReborn now steers around marked players as they move and helps you spread when marked.
