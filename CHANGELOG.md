@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.41 - 2026-11-24 - The Cloud Deck knockback and evacuation cues
+
+- **Added advance warnings in The Cloud Deck (Normal).** Auri Cyclone warns of knockback, and Airship's Bane prompts players to leave the targeted deck. Both warnings count down the live boss cast.
+
 ## 3.2.10.40 - 2026-11-24 - The Cloud Deck cast countdowns
 
 - **Added cast countdowns in The Cloud Deck (Normal).** The radar warns for Photon Burst, Articulated Bits, Diamond Shrapnel, Adamant Sphere, and the Adamant Purge variants that lead into Diamond Flash or Homing Laser.
