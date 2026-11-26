@@ -2,6 +2,17 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.150 - 2026-11-26 - Crystal Tower radar and movement fixes
+
+- **Fixed Crystal Tower radar eligibility.** King Behemoth and Scylla load at Contributed maturity with their existing radar and movement hints.
+- **Fixed Amon’s Curtain Call.** Radar and movement use small shelters behind the ice pillars.
+- **Improved Angra Mainyu guidance.** Radar labels the glowing Doom cleanse pad and shows the selected Roulette slice from the middle of the arena. Movement avoids the same slice.
+- **Added Five-headed Dragon ice-floor guidance.** BossModReborn radar and movement now account for the ice left by Breath of Ice.
+- **Fixed Cerberus stomach targeting.** BossModReborn picks an attackable stomach enemy after entry when the old target is unavailable.
+- **Added Cloud of Darkness tower guidance.** BossModReborn outlines active towers and prioritizes uncovered towers for your alliance.
+- **Raised guildhest maturity.** Basic Training: Enemy Parties and Under the Armor are marked Verified.
+- **Updated Unreal Shinryu compatibility.** GMC attaches to the encounter in the current stable BossModReborn release.
+
 ## 3.2.10.149 - 2026-11-26 - Rise of the Machinists guidance
 
 - **Added defense guidance in Rise of the Machinists.** Radar marks enemies attacking Tedalgrinche. Quest assistance guides Machinists into attack range of the selected attacker.
