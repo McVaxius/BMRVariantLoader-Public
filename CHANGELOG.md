@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.141 - 2026-11-26 - With Heart and Steel guidance
+
+- **Added Lilith guidance in With Heart and Steel.** Radar marks Lilith during the final fight. Quest assistance guides Red Mages into spell range.
+
 ## 3.2.10.140 - 2026-11-26 - Ewer Right healing guidance
 
 - **Added healing guidance in Ewer Right.** Radar marks injured quest allies. Quest assistance brings Astrologians into range and uses Benefic II.
