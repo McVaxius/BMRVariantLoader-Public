@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.111 - 2026-11-26 - Sweet Dreams Are Made of Peace movement
+
+- **Added movement guidance for Sweet Dreams Are Made of Peace.** Quest assistance brings Bards into attack range of the Binding Chain so they can free Guydelot.
+
 ## 3.2.10.110 - 2026-11-26 - Some Like It Excruciatingly Hot movement
 
 - **Added Hydro Pull assistance in Act 2.** Blue Mages with Hydro Pull equipped move into range of the Gas Bombs and use it to interrupt Fulmination when time allows.
