@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.90 - 2026-11-25 - Module pack reload
+
+- **Fixed module pack reload on newer host versions.** GMC skips an optional encounter attachment if the host is missing its native type and loads the compatible modules.
+
 ## 3.2.10.89 - 2026-11-25 - BossModReborn quest radar
 
 - **Added a radar marker in The Harvest Begins.** BossModReborn marks Drusilla while the opening objective is active and she can be approached.
