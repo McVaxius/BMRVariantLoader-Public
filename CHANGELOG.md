@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.0 - 2026-11-26 - We Are One for Now
+
+- **Fixed the relic approach in Forgotten but Not Gone.** BossModReborn follows the bank and selects the stolen relics once it reaches their level.
+- **Updated the duty coverage tables.** The summary now matches the individual duty rows. Radar credit requires a spatial cue.
+
 ## 3.2.11.2 - 2026-11-26 - Ninja Assassin guidance
 
 - **Added summoning-circle guidance in Ninja Assassin.** Radar marks Redway's attackable summoning circles. With quest assistance enabled, Ninjas move into melee range.

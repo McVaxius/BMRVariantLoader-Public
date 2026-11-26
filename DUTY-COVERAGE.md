@@ -1,85 +1,28 @@
 # Duty coverage
 
-Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.3.0.0 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
 
-**Yes** means the scan verified at least one duty-bound producer. Cast-triggered radar counts as present. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
+**Yes** means the scan verified at least one duty-bound producer. Radar requires a spatial cue such as an actor marker or area telegraph. Text-only hints earn no coverage credit. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 755 showing all three features and 12 with at least one coverage gap.
+**767 duties** with 751 showing all three features and 16 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 759 | 8 |
-| Radar | 756 | 11 |
+| Radar | 752 | 15 |
 | Movement hints | 756 | 11 |
 
 ## Coverage gaps
 
 ### A Realm Reborn
 
-#### Raids
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | Yes | Yes | No |
-
-#### Savage
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | Yes | Yes | No |
-
 #### Quest Battles
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Dangerous Proposition | 237 | 307 | Yes | No | Yes |
-| Austerities of Earth | 324 | 373 | Yes | No | No |
-| Austerities of Wind | 325 | 374 | Yes | No | No |
-| The Beast Within | 329 | 378 | Yes | No | Yes |
-| Brother from Another Mother | 314 | 363 | Yes | No | Yes |
-| Chasing Shadows | 233 | 296 | Yes | No | Yes |
-| Cloying Victory | 409 | 386 | Yes | No | Yes |
 | The Consequences of Anger | 328 | 377 | No | No | No |
-| The Crow Knows | 414 | 391 | Yes | No | Yes |
-| Escape from Castrum Centri | 305 | 352 | Yes | No | Yes |
-| Every Little Thing She Does Is Magitek | 309 | 358 | Yes | No | Yes |
-| Five Easy Pieces | 315 | 364 | Yes | No | Yes |
-| Forgotten but Not Gone | 327 | 376 | Yes | No | Yes |
-| Grinners in the Mist | 407 | 384 | Yes | No | Yes |
-| In the Eyes of Gods and Men | 301 | 343 | Yes | No | Yes |
-| Keeping the Oath | 313 | 362 | Yes | No | Yes |
-| Keeping the Spirit Alive | 259 | 320 | No | No | No |
-| Lance of Destiny | 238 | 308 | No | No | No |
-| Lance of Destiny | 290 | 355 | No | No | No |
-| The Lominsan Way | 307 | 354 | Yes | No | Yes |
-| Lord of the Inferno | 275 | 339 | Yes | No | Yes |
-| Lurkers in the Grotto | 252 | 332 | Yes | No | Yes |
-| Ninja Bathin' | 413 | 390 | Yes | No | Yes |
-| Notorious Biggs | 304 | 351 | Yes | No | Yes |
-| Oh Captain, My Captain | 273 | 337 | Yes | No | Yes |
-| Once Upon a Time in Doma | 412 | 389 | No | No | Yes |
-| Pincer Maneuver | 287 | 347 | Yes | No | Yes |
-| The Reason Roaille | 410 | 387 | Yes | No | Yes |
-| The Rematch | 257 | 318 | Yes | No | Yes |
-| Return of the Holyfist | 261 | 322 | Yes | Yes | No |
-| Return of the Holyfist | 251 | 323 | Yes | No | Yes |
-| The Spirit Is Willing | 258 | 319 | No | No | No |
-| Star-crossed Rivals | 260 | 321 | Yes | No | Yes |
-| Stifled Screams | 405 | 382 | Yes | No | Yes |
-| Stray into the Shadows | 404 | 381 | Yes | No | Yes |
-| Sweet Sorrows | 408 | 385 | Yes | No | Yes |
-| That Old Familiar Feeling | 254 | 315 | Yes | No | Yes |
-| The Threat of Perplexity | 267 | 325 | Yes | No | Yes |
-| The Threat of Superiority | 266 | 324 | Yes | No | Yes |
-| To Catch a Poacher | 229 | 303 | Yes | No | No |
-| Trial by Water | 234 | 300 | Yes | No | No |
-| Trial by Wind | 289 | 349 | Yes | No | No |
-| Ul'dah's Most Wanted | 253 | 314 | Yes | No | Yes |
-| Underneath the Sultantree | 270 | 335 | Yes | No | Yes |
-| Violators Will Be Shot | 228 | 302 | Yes | No | Yes |
-| The Voidgate Breathes Gloomy | 317 | 366 | Yes | No | Yes |
 
 ### Heavensward
 
@@ -97,52 +40,14 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | Containment Bay S1T7 (Extreme) | 524 | 135 | No | No | No |
 | the Limitless Blue (Extreme) | 447 | 89 | No | No | No |
 
-#### Deep Dungeons
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| the Palace of the Dead (Floors 191-200) | 607 | 218 | Yes | No | Yes |
-
 #### Quest Battles
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Journey of Purification | 469 | 407 | No | No | No |
-| A Joye-ful Reunion | 472 | 410 | No | No | No |
-| A Series of Unfortunate Events | 455 | 395 | Yes | No | Yes |
-| Absolution | 497 | 434 | No | No | No |
-| Against the Shadow | 483 | 420 | Yes | Yes | No |
-| An Illuminati Incident | 485 | 422 | Yes | Yes | No |
-| And My Axe | 453 | 393 | Yes | Yes | No |
-| As Goes Light, So Goes Darkness | 513 | 441 | Yes | No | Yes |
-| At the End of Our Hope | 479 | 416 | Yes | No | Yes |
-| Big Sollerets to Fill | 498 | 435 | Yes | No | Yes |
-| Declaration of Blood | 495 | 432 | Yes | No | Yes |
-| The Defiant Ones | 465 | 403 | Yes | No | Yes |
-| Destruction in the Name of Justice | 467 | 405 | Yes | Yes | No |
-| Duty and the Beast | 468 | 406 | Yes | Yes | No |
-| Ewer Right | 480 | 417 | No | No | No |
+| An Illuminati Incident | 485 | 422 | Yes | No | Yes |
 | Familiar Faces | 461 | 401 | Yes | No | No |
-| Feather in the Cap | 481 | 418 | Yes | Yes | No |
-| Fortune Favors the Bole | 473 | 411 | Yes | No | Yes |
-| Forward, the Royal Marines | 454 | 394 | Yes | No | Yes |
-| The Hands of Fate | 476 | 414 | Yes | No | No |
-| Hands of Healing | 464 | 402 | Yes | No | No |
-| Heroic Reprise | 494 | 431 | Yes | No | Yes |
-| I Could Have Tranced All Night | 502 | 439 | Yes | No | Yes |
-| Ishgardian Justice | 499 | 436 | Yes | No | Yes |
-| Kindred Spirits | 496 | 433 | Yes | No | Yes |
-| Master of Marksmanship | 486 | 423 | Yes | No | Yes |
-| Ninja Assassin | 484 | 421 | Yes | No | No |
-| The Power of a Tourney | 488 | 425 | Yes | No | Yes |
+| Keeping the Flame Alive | 460 | 400 | Yes | No | Yes |
 | Quarantine | 466 | 404 | Yes | No | No |
-| Rise of the Machinists | 489 | 426 | Yes | No | No |
-| Securing the Locks | 487 | 424 | Yes | No | Yes |
-| Slings and Arrows | 474 | 412 | Yes | No | Yes |
-| Sounding Out the Amphitheatre | 457 | 397 | Yes | Yes | No |
-| Spearheading Initiatives | 475 | 413 | Yes | No | Yes |
-| Sworn Upon a Lance | 470 | 408 | No | No | No |
-| When Gnaths Cry | 482 | 419 | Yes | Yes | No |
 
 ### Stormblood
 
@@ -152,42 +57,12 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | --- | ---: | ---: | --- | --- | --- |
 | Special Event I | 353 | 70 | No | No | No |
 
-#### Deep Dungeons
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Heaven-on-High  (Floors 91-100) | 785 | 549 | Yes | No | Yes |
-
 #### Quest Battles
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| A Beacon for Bad Things | 640 | 456 | Yes | Yes | No |
-| A Game of Life and Death | 726 | 452 | Yes | No | Yes |
-| A Vermilion Vendetta | 675 | 459 | No | No | Yes |
-| An Egi-stential Crisis | 701 | 454 | Yes | Yes | No |
-| Choices and Paths | 647 | 450 | Yes | No | No |
-| Come Rain or Shrine | 664 | 442 | Yes | No | Yes |
-| Curious Gorge Meets His Match | 717 | 260 | Yes | No | Yes |
-| Dark as the Night Sky | 713 | 267 | Yes | No | Yes |
-| Foxfire | 667 | 443 | Yes | No | Yes |
 | The Heart of the Problem | 718 | 266 | Yes | No | No |
-| In Crimson It Began | 659 | 464 | Yes | No | Yes |
-| In Loving Memory | 721 | 453 | Yes | No | Yes |
-| Interdimensional Rift | 690 | 275 | Yes | No | Yes |
 | It's Probably a Trap | 665 | 237 | Yes | No | Yes |
-| The Key to Victory | 686 | 467 | Yes | No | Yes |
-| Master Musosai | 666 | 462 | No | No | No |
-| One Autumn's Secret | 703 | 446 | Yes | Yes | No |
-| One Golem to Rule Them All | 673 | 445 | Yes | No | Yes |
-| Our Compromise | 716 | 272 | Yes | No | Yes |
-| Return to the Rift | 658 | 471 | Yes | No | Yes |
-| Shades of Shatotto | 669 | 444 | Yes | No | Yes |
-| Sweet Dreams Are Made of Peace | 704 | 447 | Yes | Yes | No |
-| What She Always Wanted | 678 | 457 | Yes | No | Yes |
-| With Heart and Steel | 707 | 245 | No | No | No |
-|  A Test of Courage | 657 | 470 | Yes | Yes | No |
-|  Schism between Sisters | 760 | 477 | No | No | No |
 
 ### Shadowbringers
 
@@ -203,15 +78,6 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | --- | ---: | ---: | --- | --- | --- |
 | the Dancing Plague (Extreme) | 858 | 658 | Yes | Yes | No |
 
-#### Quest Battles
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| As the Heart Bids | 894 | 703 | No | No | No |
-| the Bozja Incident | 911 | 723 | No | No | Yes |
-| Fit for a Queen | 955 | 765 | No | No | No |
-| Hired Gunblades | 865 | 668 | Yes | No | Yes |
-
 ### Endwalker
 
 #### Trials
@@ -224,20 +90,7 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| Forlorn Glory | 1051 | 845 | Yes | Yes | No |
-| The Harvest Begins | 1020 | 814 | Yes | No | Yes |
-| In from the Cold | 1011 | 793 | Yes | No | Yes |
-| To Calmer Seas | 1016 | 799 | No | No | No |
-
-### Global
-
-#### The Masked Carnivale
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Much Ado About Pudding | 796 | 612 | Yes | Yes | No |
-| Some Like It Excruciatingly Hot | 796 | 621 | Yes | Yes | No |
-| The Threepenny Turtles | 796 | 615 | Yes | Yes | No |
+| Forlorn Glory | 1051 | 845 | Yes | No | Yes |
 
 ## All three present
 
@@ -330,6 +183,7 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | the Final Coil of Bahamut - Turn 4 (Normal) | 196 | 110 | Yes | Yes | Yes |
 | the Second Coil of Bahamut - Turn 1 (Normal) | 355 | 98 | Yes | Yes | Yes |
 | the Second Coil of Bahamut - Turn 2 (Normal) | 356 | 99 | Yes | Yes | Yes |
+| the Second Coil of Bahamut - Turn 3 (Normal) | 357 | 100 | Yes | Yes | Yes |
 | the Second Coil of Bahamut - Turn 4 (Normal) | 358 | 101 | Yes | Yes | Yes |
 
 #### Savage
@@ -338,6 +192,7 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | --- | ---: | ---: | --- | --- | --- |
 | the Second Coil of Bahamut (Savage) - Turn 1 | 380 | 103 | Yes | Yes | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 2 | 381 | 104 | Yes | Yes | Yes |
+| the Second Coil of Bahamut (Savage) - Turn 3 | 382 | 105 | Yes | Yes | Yes |
 | the Second Coil of Bahamut (Savage) - Turn 4 | 383 | 106 | Yes | Yes | Yes |
 
 #### Alliance
@@ -352,20 +207,31 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| A Dangerous Proposition | 237 | 307 | Yes | Yes | Yes |
 | Always Bet on Black | 318 | 367 | Yes | Yes | Yes |
+| Austerities of Earth | 324 | 373 | Yes | Yes | Yes |
 | Austerities of Flame | 323 | 372 | Yes | Yes | Yes |
+| Austerities of Wind | 325 | 374 | Yes | Yes | Yes |
 | Axe in the Stone | 262 | 328 | Yes | Yes | Yes |
 | Big Trouble in Little Ala Mhigo | 306 | 353 | Yes | Yes | Yes |
 | Bleeder of the Pack | 264 | 330 | Yes | Yes | Yes |
+| Brother from Another Mother | 314 | 363 | Yes | Yes | Yes |
 | Brotherly Love | 303 | 350 | Yes | Yes | Yes |
 | Bringing Down the Mountain | 265 | 331 | Yes | Yes | Yes |
 | Cape Westwind | 1049 | 865 | Yes | Yes | Yes |
+| Chasing Shadows | 233 | 296 | Yes | Yes | Yes |
+| Cloying Victory | 409 | 386 | Yes | Yes | Yes |
 | Devastation | 1052 | 867 | Yes | Yes | Yes |
 | Doing It the Bard Way | 321 | 370 | Yes | Yes | Yes |
 | Duty, Honor, Country | 271 | 336 | Yes | Yes | Yes |
+| Escape from Castrum Centri | 305 | 352 | Yes | Yes | Yes |
+| Every Little Thing She Does Is Magitek | 309 | 358 | Yes | Yes | Yes |
 | Facing Your Demons | 269 | 327 | Yes | Yes | Yes |
 | Feint and Strike | 280 | 334 | Yes | Yes | Yes |
+| Five Easy Pieces | 315 | 364 | Yes | Yes | Yes |
 | Fool Me Twice | 308 | 357 | Yes | Yes | Yes |
+| Forgotten but Not Gone | 327 | 376 | Yes | Yes | Yes |
+| Grinners in the Mist | 407 | 384 | Yes | Yes | Yes |
 | Guardian of Eorzea | 379 | 380 | Yes | Yes | Yes |
 | Heart of the Forest | 320 | 369 | Yes | Yes | Yes |
 | History Repeating | 330 | 379 | Yes | Yes | Yes |
@@ -373,41 +239,75 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | How to Quit You | 311 | 360 | Yes | Yes | Yes |
 | In Nature's Embrace | 235 | 301 | Yes | Yes | Yes |
 | In the Dark of Night | 839 | 647 | Yes | Yes | Yes |
+| In the Eyes of Gods and Men | 301 | 343 | Yes | Yes | Yes |
 | Into a Copper Hell | 274 | 338 | Yes | Yes | Yes |
 | Into the Dragon's Maw | 316 | 365 | Yes | Yes | Yes |
 | Just Deserts | 272 | 333 | Yes | Yes | Yes |
+| Keeping the Oath | 313 | 362 | Yes | Yes | Yes |
+| Keeping the Spirit Alive | 259 | 320 | Yes | Yes | Yes |
+| Lance of Destiny | 290 | 355 | Yes | Yes | Yes |
+| Lance of Destiny | 238 | 308 | Yes | Yes | Yes |
 | Leia's Legacy | 227 | 299 | Yes | Yes | Yes |
 | Like Mother, Like Daughter | 291 | 356 | Yes | Yes | Yes |
+| Lord of the Inferno | 275 | 339 | Yes | Yes | Yes |
+| Lurkers in the Grotto | 252 | 332 | Yes | Yes | Yes |
 | Master and Student | 415 | 392 | Yes | Yes | Yes |
 | Memory of Embers | 1166 | 959 | Yes | Yes | Yes |
 | Messenger of the Winds | 834 | 646 | Yes | Yes | Yes |
 | My First Mudra | 411 | 388 | Yes | Yes | Yes |
+| Ninja Bathin' | 413 | 390 | Yes | Yes | Yes |
+| Notorious Biggs | 304 | 351 | Yes | Yes | Yes |
 | Nouveau Riche | 232 | 311 | Yes | Yes | Yes |
+| Oh Captain, My Captain | 273 | 337 | Yes | Yes | Yes |
 | On Holy Ground | 256 | 317 | Yes | Yes | Yes |
+| Once Upon a Time in Doma | 412 | 389 | Yes | Yes | Yes |
 | Over the Rails | 286 | 346 | Yes | Yes | Yes |
 | Parley in the Sagolii | 312 | 361 | Yes | Yes | Yes |
+| Pincer Maneuver | 287 | 347 | Yes | Yes | Yes |
 | Pride and Duty (Will Take You from the Mountain) | 310 | 359 | Yes | Yes | Yes |
 | Primal Burdens | 326 | 375 | Yes | Yes | Yes |
 | Proof of Might | 239 | 309 | Yes | Yes | Yes |
 | Proof of Might | 240 | 310 | Yes | Yes | Yes |
 | Requiem for the Fallen | 322 | 371 | Yes | Yes | Yes |
+| Return of the Holyfist | 261 | 322 | Yes | Yes | Yes |
+| Return of the Holyfist | 251 | 323 | Yes | Yes | Yes |
 | Seer Folly | 319 | 368 | Yes | Yes | Yes |
 | Sinking Doesmaga | 288 | 348 | Yes | Yes | Yes |
 | Slave to the Code | 406 | 383 | Yes | Yes | Yes |
 | Spirithold Broken | 225 | 297 | Yes | Yes | Yes |
+| Star-crossed Rivals | 260 | 321 | Yes | Yes | Yes |
+| Stifled Screams | 405 | 382 | Yes | Yes | Yes |
+| Stray into the Shadows | 404 | 381 | Yes | Yes | Yes |
+| Sweet Sorrows | 408 | 385 | Yes | Yes | Yes |
 | Tactical Planning | 285 | 345 | Yes | Yes | Yes |
+| That Old Familiar Feeling | 254 | 315 | Yes | Yes | Yes |
+| The Beast Within | 329 | 378 | Yes | Yes | Yes |
 | The Company You Keep (Immortal Flames) | 278 | 341 | Yes | Yes | Yes |
 | The Company You Keep (Maelstrom) | 279 | 342 | Yes | Yes | Yes |
 | The Company You Keep (Twin Adder) | 277 | 340 | Yes | Yes | Yes |
+| The Crow Knows | 414 | 391 | Yes | Yes | Yes |
 | The Face of Thal | 255 | 316 | Yes | Yes | Yes |
 | The Heretic among Us | 302 | 344 | Yes | Yes | Yes |
+| The Lominsan Way | 307 | 354 | Yes | Yes | Yes |
 | The Mountain That Strides | 263 | 329 | Yes | Yes | Yes |
 | The Hidden Chapter | 268 | 326 | Yes | Yes | Yes |
 | The One That Got Away | 231 | 305 | Yes | Yes | Yes |
 | The One That Got Away | 236 | 306 | Yes | Yes | Yes |
+| The Reason Roaille | 410 | 387 | Yes | Yes | Yes |
+| The Rematch | 257 | 318 | Yes | Yes | Yes |
+| The Spirit Is Willing | 258 | 319 | Yes | Yes | Yes |
 | the Steps of Faith | 1068 | 885 | Yes | Yes | Yes |
+| The Threat of Perplexity | 267 | 325 | Yes | Yes | Yes |
+| The Threat of Superiority | 266 | 324 | Yes | Yes | Yes |
+| The Voidgate Breathes Gloomy | 317 | 366 | Yes | Yes | Yes |
+| To Catch a Poacher | 229 | 303 | Yes | Yes | Yes |
 | To Guard a Guardian | 226 | 298 | Yes | Yes | Yes |
+| Trial by Water | 234 | 300 | Yes | Yes | Yes |
+| Trial by Wind | 289 | 349 | Yes | Yes | Yes |
+| Ul'dah's Most Wanted | 253 | 314 | Yes | Yes | Yes |
+| Underneath the Sultantree | 270 | 335 | Yes | Yes | Yes |
 | Victory in Peril | 249 | 313 | Yes | Yes | Yes |
+| Violators Will Be Shot | 228 | 302 | Yes | Yes | Yes |
 | Way Down in the Hole | 248 | 312 | Yes | Yes | Yes |
 
 #### Guildhests
@@ -522,6 +422,7 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | --- | ---: | ---: | --- | --- | --- |
 | the Palace of the Dead (Floors 1-10) | 561 | 174 | Yes | Yes | Yes |
 | the Palace of the Dead (Floors 11-20) | 562 | 175 | Yes | Yes | Yes |
+| the Palace of the Dead (Floors 191-200) | 607 | 218 | Yes | Yes | Yes |
 | the Palace of the Dead (Floors 21-30) | 563 | 176 | Yes | Yes | Yes |
 | the Palace of the Dead (Floors 31-40) | 564 | 177 | Yes | Yes | Yes |
 | the Palace of the Dead (Floors 41-50) | 565 | 178 | Yes | Yes | Yes |
@@ -546,21 +447,53 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | --- | ---: | ---: | --- | --- | --- |
 | a Bloody Reunion | 560 | 173 | Yes | Yes | Yes |
 | A Flare for the Dramatic | 503 | 440 | Yes | Yes | Yes |
+| A Journey of Purification | 469 | 407 | Yes | Yes | Yes |
+| A Joye-ful Reunion | 472 | 410 | Yes | Yes | Yes |
+| A Series of Unfortunate Events | 455 | 395 | Yes | Yes | Yes |
 | a Spectacle for the Ages | 533 | 167 | Yes | Yes | Yes |
+| Absolution | 497 | 434 | Yes | Yes | Yes |
+| Against the Shadow | 483 | 420 | Yes | Yes | Yes |
+| And My Axe | 453 | 393 | Yes | Yes | Yes |
 | Appetite for Destruction | 491 | 428 | Yes | Yes | Yes |
+| As Goes Light, So Goes Darkness | 513 | 441 | Yes | Yes | Yes |
+| At the End of Our Hope | 479 | 416 | Yes | Yes | Yes |
+| Big Sollerets to Fill | 498 | 435 | Yes | Yes | Yes |
 | Blood on the Sands | 471 | 409 | Yes | Yes | Yes |
 | Close Encounters of the VIth Kind | 459 | 399 | Yes | Yes | Yes |
+| Declaration of Blood | 495 | 432 | Yes | Yes | Yes |
+| Destruction in the Name of Justice | 467 | 405 | Yes | Yes | Yes |
 | Divine Intervention | 456 | 396 | Yes | Yes | Yes |
 | Dragoon's Fate | 477 | 415 | Yes | Yes | Yes |
+| Duty and the Beast | 468 | 406 | Yes | Yes | Yes |
+| Ewer Right | 480 | 417 | Yes | Yes | Yes |
+| Feather in the Cap | 481 | 418 | Yes | Yes | Yes |
 | Fire and Blood | 458 | 398 | Yes | Yes | Yes |
+| Fortune Favors the Bole | 473 | 411 | Yes | Yes | Yes |
+| Forward, the Royal Marines | 454 | 394 | Yes | Yes | Yes |
+| Hands of Healing | 464 | 402 | Yes | Yes | Yes |
+| Heroic Reprise | 494 | 431 | Yes | Yes | Yes |
+| I Could Have Tranced All Night | 502 | 439 | Yes | Yes | Yes |
 | In Her Defense | 490 | 427 | Yes | Yes | Yes |
-| Keeping the Flame Alive | 460 | 400 | Yes | Yes | Yes |
+| Ishgardian Justice | 499 | 436 | Yes | Yes | Yes |
+| Kindred Spirits | 496 | 433 | Yes | Yes | Yes |
+| Master of Marksmanship | 486 | 423 | Yes | Yes | Yes |
+| Ninja Assassin | 484 | 421 | Yes | Yes | Yes |
 | One Life for One World | 592 | 194 | Yes | Yes | Yes |
 | Our Answer | 500 | 437 | Yes | Yes | Yes |
+| Rise of the Machinists | 489 | 426 | Yes | Yes | Yes |
+| Securing the Locks | 487 | 424 | Yes | Yes | Yes |
+| Slings and Arrows | 474 | 412 | Yes | Yes | Yes |
+| Sounding Out the Amphitheatre | 457 | 397 | Yes | Yes | Yes |
+| Spearheading Initiatives | 475 | 413 | Yes | Yes | Yes |
+| Sworn Upon a Lance | 470 | 408 | Yes | Yes | Yes |
 | The Ballad of Oblivion | 492 | 429 | Yes | Yes | Yes |
 | The Carteneau Flats: Heliodrome | 633 | 222 | Yes | Yes | Yes |
+| The Defiant Ones | 465 | 403 | Yes | Yes | Yes |
 | The Flame in the Abyss | 501 | 438 | Yes | Yes | Yes |
+| The Hands of Fate | 476 | 414 | Yes | Yes | Yes |
+| The Power of a Tourney | 488 | 425 | Yes | Yes | Yes |
 | This Little Sword of Mine | 493 | 430 | Yes | Yes | Yes |
+| When Gnaths Cry | 482 | 419 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
@@ -679,32 +612,53 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | Heaven-on-High  (Floors 61-70) | 774 | 546 | Yes | Yes | Yes |
 | Heaven-on-High  (Floors 71-80) | 784 | 547 | Yes | Yes | Yes |
 | Heaven-on-High  (Floors 81-90) | 775 | 548 | Yes | Yes | Yes |
+| Heaven-on-High  (Floors 91-100) | 785 | 549 | Yes | Yes | Yes |
 
 #### Quest Battles
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
+| A Beacon for Bad Things | 640 | 456 | Yes | Yes | Yes |
+| A Game of Life and Death | 726 | 452 | Yes | Yes | Yes |
 | a Requiem for Heroes | 830 | 648 | Yes | Yes | Yes |
+| A Vermilion Vendetta | 675 | 459 | Yes | Yes | Yes |
 | An Art for the Living | 702 | 455 | Yes | Yes | Yes |
+| An Egi-stential Crisis | 701 | 454 | Yes | Yes | Yes |
 | Best Served with Cold Steel | 670 | 463 | Yes | Yes | Yes |
 | Blood on the Deck | 708 | 248 | Yes | Yes | Yes |
+| Choices and Paths | 647 | 450 | Yes | Yes | Yes |
+| Come Rain or Shrine | 664 | 442 | Yes | Yes | Yes |
+| Curious Gorge Meets His Match | 717 | 260 | Yes | Yes | Yes |
+| Dark as the Night Sky | 713 | 267 | Yes | Yes | Yes |
 | Dragon Sound | 714 | 273 | Yes | Yes | Yes |
 | Emissary of the Dawn | 769 | 582 | Yes | Yes | Yes |
+| Foxfire | 667 | 443 | Yes | Yes | Yes |
 | His Forgotten Home | 634 | 469 | Yes | Yes | Yes |
 | Hope on the Waves | 757 | 472 | Yes | Yes | Yes |
+| In Crimson It Began | 659 | 464 | Yes | Yes | Yes |
+| In Loving Memory | 721 | 453 | Yes | Yes | Yes |
 | In Thal's Name | 705 | 261 | Yes | Yes | Yes |
+| Interdimensional Rift | 690 | 275 | Yes | Yes | Yes |
+| Master Musosai | 666 | 462 | Yes | Yes | Yes |
 | Matsuba Mayhem | 710 | 250 | Yes | Yes | Yes |
 | Naadam | 688 | 246 | Yes | Yes | Yes |
 | Nightkin | 676 | 461 | Yes | Yes | Yes |
+| One Autumn's Secret | 703 | 446 | Yes | Yes | Yes |
+| One Golem to Rule Them All | 673 | 445 | Yes | Yes | Yes |
+| Our Compromise | 716 | 272 | Yes | Yes | Yes |
 | Our Unsung Heroes | 722 | 265 | Yes | Yes | Yes |
 | Raising the Sword | 706 | 270 | Yes | Yes | Yes |
 | Release the Hounds | 699 | 448 | Yes | Yes | Yes |
 | Return of the Bull | 403 | 282 | Yes | Yes | Yes |
+| Return to the Rift | 658 | 471 | Yes | Yes | Yes |
 | Rhalgr's Beacon | 671 | 466 | Yes | Yes | Yes |
+| Shades of Shatotto | 669 | 444 | Yes | Yes | Yes |
 | Stained in Scarlet | 672 | 460 | Yes | Yes | Yes |
+| Sweet Dreams Are Made of Peace | 704 | 447 | Yes | Yes | Yes |
 | The Battle on Bekko | 711 | 251 | Yes | Yes | Yes |
 | The Crimson Duelist | 668 | 458 | Yes | Yes | Yes |
 | The Face of True Evil | 709 | 249 | Yes | Yes | Yes |
+| The Key to Victory | 686 | 467 | Yes | Yes | Yes |
 | The Measure of His Reach | 687 | 468 | Yes | Yes | Yes |
 | The Mongrel and the Knight | 700 | 449 | Yes | Yes | Yes |
 | The Orphans and the Broken Blade | 715 | 271 | Yes | Yes | Yes |
@@ -713,7 +667,11 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | The Time between the Seconds | 685 | 465 | Yes | Yes | Yes |
 | The Will of the Moon | 797 | 609 | Yes | Yes | Yes |
 | Tortoise in Time | 781 | 551 | Yes | Yes | Yes |
+| What She Always Wanted | 678 | 457 | Yes | Yes | Yes |
 | When Clans Collide | 723 | 274 | Yes | Yes | Yes |
+| With Heart and Steel | 707 | 245 | Yes | Yes | Yes |
+|  A Test of Courage | 657 | 470 | Yes | Yes | Yes |
+|  Schism between Sisters | 760 | 477 | Yes | Yes | Yes |
 
 #### Treasure Hunt
 
@@ -823,17 +781,21 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | A Sleep Disturbed | 914 | 724 | Yes | Yes | Yes |
 | A Tearful Reunion | 872 | 675 | Yes | Yes | Yes |
 | A-Digging We Will Go | 864 | 665 | Yes | Yes | Yes |
+| As the Heart Bids | 894 | 703 | Yes | Yes | Yes |
 | Coming Clean | 860 | 680 | Yes | Yes | Yes |
 | Courage Born of Fear | 871 | 674 | Yes | Yes | Yes |
 | Death Unto Dawn | 977 | 780 | Yes | Yes | Yes |
 | Faded Memories | 932 | 743 | Yes | Yes | Yes |
+| Fit for a Queen | 955 | 765 | Yes | Yes | Yes |
 | Gamboling for Gil | 867 | 670 | Yes | Yes | Yes |
+| Hired Gunblades | 865 | 668 | Yes | Yes | Yes |
 | Legend of the Not-so-hidden Temple | 859 | 681 | Yes | Yes | Yes |
 | Nyelbert's Lament | 876 | 686 | Yes | Yes | Yes |
 | Save the Last Dance for Me | 868 | 671 | Yes | Yes | Yes |
 | Sleep Now in Sapphire | 925 | 740 | Yes | Yes | Yes |
 | Sleep Now in Sapphire | 926 | 741 | Yes | Yes | Yes |
 | Steel against Steel | 866 | 669 | Yes | Yes | Yes |
+| the Bozja Incident | 911 | 723 | Yes | Yes | Yes |
 | The Great Ship Vylbrand | 954 | 764 | Yes | Yes | Yes |
 | The Hardened Heart | 873 | 678 | Yes | Yes | Yes |
 | The Hunter's Legacy | 875 | 691 | Yes | Yes | Yes |
@@ -985,12 +947,15 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | Endwalker | 1013 | 798 | Yes | Yes | Yes |
 | Ever March Heavensward | 1018 | 815 | Yes | Yes | Yes |
 | Generational Bonding | 1115 | 907 | Yes | Yes | Yes |
+| In from the Cold | 1011 | 793 | Yes | Yes | Yes |
 | Laid to Rest | 1017 | 818 | Yes | Yes | Yes |
 | Life Ephemeral, Path Eternal | 1023 | 817 | Yes | Yes | Yes |
 | Sage's Focus | 1022 | 813 | Yes | Yes | Yes |
 | The Game Is Afoot | 1177 | 960 | Yes | Yes | Yes |
 | The Gift of Mercy | 1019 | 820 | Yes | Yes | Yes |
+| The Harvest Begins | 1020 | 814 | Yes | Yes | Yes |
 | The Killing Art | 1021 | 816 | Yes | Yes | Yes |
+| To Calmer Seas | 1016 | 799 | Yes | Yes | Yes |
 | Where Everything Begins | 1091 | 874 | Yes | Yes | Yes |
 | Worthy of His Back | 1014 | 795 | Yes | Yes | Yes |
 
@@ -1171,6 +1136,8 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | Behemoths and Broomsticks | 796 | 633 | Yes | Yes | Yes |
 | Blobs in the Woods | 796 | 624 | Yes | Yes | Yes |
 | Bomb-edy of Errors | 796 | 618 | Yes | Yes | Yes |
+| Much Ado About Pudding | 796 | 612 | Yes | Yes | Yes |
+| Some Like It Excruciatingly Hot | 796 | 621 | Yes | Yes | Yes |
 | The Catch of the Siegfried | 796 | 699 | Yes | Yes | Yes |
 | Chimera on a Hot Tin Roof | 796 | 631 | Yes | Yes | Yes |
 | Dangerous When Dead | 796 | 697 | Yes | Yes | Yes |
@@ -1188,5 +1155,6 @@ Public God Mod Companion 3.2.11.2 and BossModReborn 7.5.8.11. Duty names and IDs
 | Red, Fraught, and Blue | 796 | 698 | Yes | Yes | Yes |
 | Sunset Bull-evard | 796 | 626 | Yes | Yes | Yes |
 | The Sword of Music | 796 | 627 | Yes | Yes | Yes |
+| The Threepenny Turtles | 796 | 615 | Yes | Yes | Yes |
 | To Kill a Mockingslime | 796 | 619 | Yes | Yes | Yes |
 | Waiting for Golem | 796 | 613 | Yes | Yes | Yes |
