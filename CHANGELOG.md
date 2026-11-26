@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.133 - 2026-11-26 - Return of the Holyfist sparring guidance
+
+- **Added Snap Punch guidance in Return of the Holyfist.** Radar marks Hamon in the first round, and quest assistance brings Pugilists and Monks into melee range.
+
 ## 3.2.10.132 - 2026-11-26 - Duty and the Beast healing guidance
 
 - **Added healing radar and movement for Duty and the Beast.** Radar marks a nearby healing Inner Fury flame below half health. Quest assistance guides Warriors toward it until Inner Rage appears.
