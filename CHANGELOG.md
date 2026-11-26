@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.11.2 - 2026-11-26 - Ninja Assassin guidance
+
+- **Added summoning-circle guidance in Ninja Assassin.** Radar marks Redway's attackable summoning circles. With quest assistance enabled, Ninjas move into melee range.
+
 ## 3.2.11.1 - 2026-11-26 - The Hands of Fate Arcana guidance
 
 - **Added Arcana guidance in The Hands of Fate.** Radar marks live Arcana during Celestial Stasis. With quest assistance enabled, Astrologians move into attack range.
