@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.131 - 2026-11-26 - And My Axe healing movement
+
+- **Added movement guidance for And My Axe.** With quest assistance enabled, Warriors below half health move toward a nearby healing Inner Fury flame during the finale.
+
 ## 3.2.10.130 - 2026-11-26 - In from the Cold refueling radar
 
 - **Added refueling radar for In from the Cold on BossModReborn.** During the Refuel objective, the radar marks the dropped ceruleum tank or the immobilized reaper while you carry the tank.
