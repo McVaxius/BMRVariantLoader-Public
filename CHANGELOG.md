@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.140 - 2026-11-26 - Ewer Right healing guidance
+
+- **Added healing guidance in Ewer Right.** Radar marks injured quest allies. Quest assistance brings Astrologians into range and uses Benefic II.
+
 ## 3.2.10.139 - 2026-11-26 - The Spirit Is Willing guidance
 
 - **Added radar and movement for The Spirit Is Willing.** Radar marks active marmots and Alacran henchmen. Quest assistance guides Pugilists and Monks into melee range.
