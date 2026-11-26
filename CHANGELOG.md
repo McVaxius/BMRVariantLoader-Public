@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.107 - 2026-11-26 - As the Heart Bids movement
+
+- **Added movement guidance for As the Heart Bids.** Quest assistance moves you into range of a targetable Clouded Dream so you can use Solicit Siphon Snout.
+
 ## 3.2.10.106 - 2026-11-26 - The Threepenny Turtles movement
 
 - **Added movement guidance for The Threepenny Turtles.** Blue Mages move into range of all three turtles when Ram's Voice and Ultravibration are equipped and ready.
