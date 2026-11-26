@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.114 - 2026-11-26 - Healer and Aethershare movement
+
+- **Added movement guidance for Sounding Out the Amphitheatre.** Quest assistance brings you into attack range of Cane-waving Heretics during combat.
+- **Added movement guidance for Schism between Sisters.** Quest assistance brings you into attack range of enemies channeling Aethershare.
+
 ## 3.2.10.113 - 2026-11-26 - Quest movement
 
 - **Added movement guidance for One Autumn's Secret.** Quest assistance brings Bards into attack range of Old Guard bowmen during combat.
