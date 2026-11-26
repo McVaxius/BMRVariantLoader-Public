@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.115 - 2026-11-26 - Absolution movement
+
+- **Added movement guidance for Absolution.** Quest assistance brings Dark Knights into melee range of enemies attacking Rielle.
+
 ## 3.2.10.114 - 2026-11-26 - Healer and Aethershare movement
 
 - **Added movement guidance for Sounding Out the Amphitheatre.** Quest assistance brings you into attack range of Cane-waving Heretics during combat.
