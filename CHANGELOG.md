@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.137 - 2026-11-26 - Summoner trial guidance
+
+- **Added radar and movement for Austerities of Earth and Austerities of Wind.** Radar marks active enemies. Quest assistance guides Summoners into spell range.
+
 ## 3.2.10.136 - 2026-11-26 - Keeping the Spirit Alive sparring guidance
 
 - **Added radar and movement for Keeping the Spirit Alive.** Radar marks Hamon during sparring. Quest assistance guides Pugilists and Monks into melee range.
