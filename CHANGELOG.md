@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.102 - 2026-11-26 - Slings and Arrows radar
+
+- **Added Slings and Arrows radar.** BossModReborn marks the townsperson for the opening objective.
+
 ## 3.2.10.101 - 2026-11-26 - Quest cast radar
 
 - **Once Upon a Time in Doma.** A new duty module shows a fading circle for Karasu's Makibishi.
