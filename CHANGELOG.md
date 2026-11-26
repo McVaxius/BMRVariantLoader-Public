@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.88 - 2026-11-25 - BossModReborn quest radar
+
+- **Added fading Heartstopper radar in BossModReborn.** See the Duskwight Freelancer Captain's live cast in Ul'dah's Most Wanted.
+- **Added tome and thunder orb radar in In Loving Memory.** BossModReborn marks the leather-bound tome and shows the six-yalm avoidance circles around live thunder orbs during the final native quest objective.
+
 ## 3.2.10.87 - 2026-11-25 - BossModReborn quest radar
 
 - **Added quest radar markers in BossModReborn.** See the active aethertrail, shrine, or shackles in I Could Have Tranced All Night, Come Rain or Shrine, and A Game of Life and Death.
