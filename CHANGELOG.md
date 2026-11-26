@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.120 - 2026-11-26 - Foxfire healing radar
+
+- **Added Foxfire healing radar.** The radar marks injured allied Anguish while it can be healed.
+
 ## 3.2.10.119 - 2026-11-26 - Trial by Wind radar and movement
 
 - **Added radar and movement guidance for Trial by Wind.** Radar marks enemies attacking Sister Wulfiue, and quest assistance brings Conjurers and White Mages into spell range.
