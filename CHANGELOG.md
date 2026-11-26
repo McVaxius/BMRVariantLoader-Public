@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.138 - 2026-11-26 - Clockwork Dreadnaught guidance
+
+- **Added Clockwork Dreadnaught guidance in Second Coil Turn 3 (Normal and Savage).** Radar marks active Dreadnaughts, and movement assistance brings DPS into attack range.
+
 ## 3.2.10.137 - 2026-11-26 - Summoner trial guidance
 
 - **Added radar and movement for Austerities of Earth and Austerities of Wind.** Radar marks active enemies. Quest assistance guides Summoners into spell range.
