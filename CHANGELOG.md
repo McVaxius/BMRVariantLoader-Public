@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.122 - 2026-11-26 - Sworn Upon a Lance guidance
+
+- **Added Sworn Upon a Lance guidance.** Radar marks priority enemies, and quest assistance brings Dragoons into melee range.
+
 ## 3.2.10.121 - 2026-11-26 - A Test of Courage tidal walls
 
 - **Added tidal wall guidance in A Test of Courage.** Radar marks walls linked to Shaugi, and quest assistance moves into attack range.
