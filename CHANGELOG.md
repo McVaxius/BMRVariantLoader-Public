@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.143 - 2026-11-26 - The Bozja Incident radar
+
+- **Added Varis radar in The Bozja Incident.** The radar marks Varis during the solo fight.
+
 ## 3.2.10.142 - 2026-11-26 - Kamapuaa and Delta Gabriel guidance
 
 - **Added Kamapuaa guidance in level 25 Lance of Destiny.** Radar marks the boss and quest assistance guides Lancers and Dragoons into melee range.
