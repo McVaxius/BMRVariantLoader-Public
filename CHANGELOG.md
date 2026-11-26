@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.121 - 2026-11-26 - A Test of Courage tidal walls
+
+- **Added tidal wall guidance in A Test of Courage.** Radar marks walls linked to Shaugi, and quest assistance moves into attack range.
+
 ## 3.2.10.120 - 2026-11-26 - Foxfire healing radar
 
 - **Added Foxfire healing radar.** The radar marks injured allied Anguish while it can be healed.
