@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.126 - 2026-11-26 - Feather in the Cap healing guidance
+
+- **Added healing guidance for Feather in the Cap.** Radar marks wounded Quimperain. Quest assistance moves Astrologians into range and uses Benefic II.
+
 ## 3.2.10.125 - 2026-11-26 - Dark as the Night Sky radar
 
 - **Added Dark as the Night Sky radar.** The radar marks the destination used by the native quest route.
