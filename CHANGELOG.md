@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.148 - 2026-11-26 - Forlorn Glory movement
+
+- **Added opening movement in Forlorn Glory.** With quest assistance enabled, the player moves into attack range of Nerva while targeting him. The approach stops when Cogito Ergo Sum begins.
+
 ## 3.2.10.147 - 2026-11-26 - Against the Shadow guidance
 
 - **Added duel guidance in Against the Shadow.** Radar marks D’zentsa and O’tchakha. Quest assistance guides Monks into melee range and pauses while Spirit Pulse orbs are present.
