@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.2 - 2026-11-26 - Keeping the Flame Alive radar
+
+- **Added Ilberd's cast direction to Keeping the Flame Alive.** The radar shows Ilberd's position and Sanguine Blade direction alongside the countdown.
+
 ## 3.3.0.1 - 2026-11-26 - An Illuminati Incident radar
 
 - **Added radar markers in An Illuminati Incident.** The radar marks enemies targeting Y'shtola while she casts Spiritual Ray.

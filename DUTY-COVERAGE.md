@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.3.0.1 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.3.0.2 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Radar requires a spatial cue such as an actor marker or area telegraph. Text-only hints earn no coverage credit. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 752 showing all three features and 15 with at least one coverage gap.
+**767 duties** with 753 showing all three features and 14 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 759 | 8 |
-| Radar | 753 | 14 |
+| Radar | 754 | 13 |
 | Movement hints | 756 | 11 |
 
 ## Coverage gaps
@@ -45,7 +45,6 @@ Public God Mod Companion 3.3.0.1 and BossModReborn 7.5.8.11. Duty names and IDs 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Familiar Faces | 461 | 401 | Yes | No | No |
-| Keeping the Flame Alive | 460 | 400 | Yes | No | Yes |
 | Quarantine | 466 | 404 | Yes | No | No |
 
 ### Stormblood
@@ -475,6 +474,7 @@ Public God Mod Companion 3.3.0.1 and BossModReborn 7.5.8.11. Duty names and IDs 
 | I Could Have Tranced All Night | 502 | 439 | Yes | Yes | Yes |
 | In Her Defense | 490 | 427 | Yes | Yes | Yes |
 | Ishgardian Justice | 499 | 436 | Yes | Yes | Yes |
+| Keeping the Flame Alive | 460 | 400 | Yes | Yes | Yes |
 | Kindred Spirits | 496 | 433 | Yes | Yes | Yes |
 | Master of Marksmanship | 486 | 423 | Yes | Yes | Yes |
 | Ninja Assassin | 484 | 421 | Yes | Yes | Yes |
