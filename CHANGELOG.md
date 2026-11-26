@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.136 - 2026-11-26 - Keeping the Spirit Alive sparring guidance
+
+- **Added radar and movement for Keeping the Spirit Alive.** Radar marks Hamon during sparring. Quest assistance guides Pugilists and Monks into melee range.
+
 ## 3.2.10.135 - 2026-11-26 - Lance of Destiny sparring guidance
 
 - **Added radar and movement for level 20 Lance of Destiny.** Radar marks the active guild lancer. Quest assistance guides Lancers and Dragoons into melee range.
