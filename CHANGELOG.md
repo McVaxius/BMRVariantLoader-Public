@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.11.0 - 2026-11-26 - Deep Dungeons and Masked Carnivale coverage
+
+- **Completed Deep Dungeon and Masked Carnivale coverage.** All 50 Deep Dungeon rows and 32 Carnivale stages have module, radar, and movement coverage.
+- **Fixed Beastmaster readiness on BossModReborn.** GMC presets stay available with Hide Default Presets enabled, so VERMAXION can use them.
+
 ## 3.2.10.150 - 2026-11-26 - Crystal Tower radar and movement fixes
 
 - **Fixed Crystal Tower radar eligibility.** King Behemoth and Scylla load at Contributed maturity with their existing radar and movement hints.
