@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.129 - 2026-11-26 - Much Ado About Pudding
+
+- **Added Golden Tongue interrupt guidance in both acts.** Radar marks the caster and shows the time remaining. Blue Mage assistance moves into range and uses Flying Sardine when it is equipped and the interrupt can land in time.
+
 ## 3.2.10.128 - 2026-11-26 - Lurkers in the Grotto add waves
 
 - **Added add-wave guidance for Lurkers in the Grotto.** Radar marks active Bogys and Frenzied Goobbues. Quest assistance guides players into attack range of the adds.
