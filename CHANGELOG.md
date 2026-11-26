@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.128 - 2026-11-26 - Lurkers in the Grotto add waves
+
+- **Added add-wave guidance for Lurkers in the Grotto.** Radar marks active Bogys and Frenzied Goobbues. Quest assistance guides players into attack range of the adds.
+
 ## 3.2.10.127 - 2026-11-26 - A Joye-ful Reunion bridge guidance
 
 - **Added bridge fight guidance for A Joye-ful Reunion.** Radar marks the Assault Dragon, and quest assistance moves Machinists into firing range and prioritizes it.
