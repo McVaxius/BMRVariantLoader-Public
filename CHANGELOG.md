@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.97 - 2026-11-26 - BossModReborn quest radar
+
+- **Lord of the Inferno.** Radar shows the fading Devastate rectangle during the Amalj'aa fight.
+- **Keeping the Oath.** Radar shows the fading Star Map circle at its live cast location.
+- **Big Sollerets to Fill.** Radar shows the fading Whipcrack rectangle from Manipulated Gaze.
+
 ## 3.2.10.96 - 2026-11-26 - BossModReborn quest radar
 
 - **The Power of a Tourney.** Radar shows the fading Spirits Without rectangle at its live cast position and facing.
