@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.11.1 - 2026-11-26 - The Hands of Fate Arcana guidance
+
+- **Added Arcana guidance in The Hands of Fate.** Radar marks live Arcana during Celestial Stasis. With quest assistance enabled, Astrologians move into attack range.
+
 ## 3.2.11.0 - 2026-11-26 - Deep Dungeons and Masked Carnivale coverage
 
 - **Completed Deep Dungeon and Masked Carnivale coverage.** All 50 Deep Dungeon rows and 32 Carnivale stages have module, radar, and movement coverage.
