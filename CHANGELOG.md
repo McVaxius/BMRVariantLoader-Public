@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.117 - 2026-11-26 - To Catch a Poacher radar and movement
+
+- **Added radar and movement guidance for To Catch a Poacher.** Radar marks the Coeurlclaw Healer, and quest assistance brings Archers into attack range.
+
 ## 3.2.10.116 - 2026-11-26 - Trial by Water radar and movement
 
 - **Added radar and movement guidance for Trial by Water.** Radar marks wounded soldiers, and quest assistance brings you into Cure range.
