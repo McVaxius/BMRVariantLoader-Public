@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.124 - 2026-11-26 - Underneath the Sultantree radar
+
+- **Added Underneath the Sultantree radar.** The radar marks the destination used by the native quest route.
+
 ## 3.2.10.123 - 2026-11-26 - Kindred Spirits escort radar
 
 - **Added Kindred Spirits escort radar.** The radar marks the Observatorium destination while escorting Rielle.
