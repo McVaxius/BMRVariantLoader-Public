@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.144 - 2026-11-26 - To Calmer Seas guidance
+
+- **Added Indigo Beast guidance in To Calmer Seas.** Radar marks the boss during combat. Quest assistance guides melee DPS into attack range.
+
 ## 3.2.10.143 - 2026-11-26 - The Bozja Incident radar
 
 - **Added Varis radar in The Bozja Incident.** The radar marks Varis during the solo fight.
