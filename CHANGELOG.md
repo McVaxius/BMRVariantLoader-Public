@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.142 - 2026-11-26 - Kamapuaa and Delta Gabriel guidance
+
+- **Added Kamapuaa guidance in level 25 Lance of Destiny.** Radar marks the boss and quest assistance guides Lancers and Dragoons into melee range.
+- **Added Delta Gabriel guidance in Fit for a Queen.** Radar marks the boss and quest assistance guides players into attack range.
+
 ## 3.2.10.141 - 2026-11-26 - With Heart and Steel guidance
 
 - **Added Lilith guidance in With Heart and Steel.** Radar marks Lilith during the final fight. Quest assistance guides Red Mages into spell range.
