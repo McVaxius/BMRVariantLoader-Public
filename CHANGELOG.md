@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.149 - 2026-11-26 - Rise of the Machinists guidance
+
+- **Added defense guidance in Rise of the Machinists.** Radar marks enemies attacking Tedalgrinche. Quest assistance guides Machinists into attack range of the selected attacker.
+
 ## 3.2.10.148 - 2026-11-26 - Forlorn Glory movement
 
 - **Added opening movement in Forlorn Glory.** With quest assistance enabled, the player moves into attack range of Nerva while targeting him. The approach stops when Cogito Ergo Sum begins.
