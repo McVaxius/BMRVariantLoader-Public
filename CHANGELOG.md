@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.89 - 2026-11-25 - BossModReborn quest radar
+
+- **Added a radar marker in The Harvest Begins.** BossModReborn marks Drusilla while the opening objective is active and she can be approached.
+
 ## 3.2.10.88 - 2026-11-25 - BossModReborn quest radar
 
 - **Added fading Heartstopper radar in BossModReborn.** See the Duskwight Freelancer Captain's live cast in Ul'dah's Most Wanted.
