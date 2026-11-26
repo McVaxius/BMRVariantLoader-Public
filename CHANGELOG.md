@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.103 - 2026-11-26 - Star-crossed Rivals radar
+
+- **Added Star-crossed Rivals radar.** BossModReborn shows the fading Chaotic Eye cone and a look-away cue inside it.
+
 ## 3.2.10.102 - 2026-11-26 - Slings and Arrows radar
 
 - **Added Slings and Arrows radar.** BossModReborn marks the townsperson for the opening objective.
