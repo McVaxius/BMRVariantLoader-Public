@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.109 - 2026-11-26 - A Beacon for Bad Things movement
+
+- **Added movement guidance for A Beacon for Bad Things.** Quest assistance helps White Mages get into spell range of a small Void Crack before Void Call finishes.
+
 ## 3.2.10.108 - 2026-11-26 - Hands of Healing radar and movement
 
 - **Added radar and movement guidance for Hands of Healing.** Radar marks wounded Stagnant Aether after the undead are cleared, and quest assistance brings White Mages into healing range.
