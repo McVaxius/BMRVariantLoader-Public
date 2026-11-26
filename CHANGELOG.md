@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.94 - 2026-11-26 - BossModReborn quest radar
+
+- **Forward, the Royal Marines.** Radar marks each marine with Nymian Plague so you can target them with Esuna.
+- **Securing the Locks.** Radar shows a fading 30-yalm circle during Svara's Plasma Release cast.
+
 ## 3.2.10.93 - 2026-11-25 - BossModReborn quest cast radar
 
 - **Fortune Favors the Bole.** Radar shows the Bandit Leader's fading Summoning Rite countdown.
