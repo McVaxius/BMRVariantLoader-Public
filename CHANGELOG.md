@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.93 - 2026-11-25 - BossModReborn quest cast radar
+
+- **Fortune Favors the Bole.** Radar shows the Bandit Leader's fading Summoning Rite countdown.
+- **Ishgardian Justice.** Radar shows a fading Cure countdown over each casting Temple Chirurgeon.
+
 ## 3.2.10.92 - 2026-11-25 - BossModReborn quest radar
 
 - **Our Compromise.** Radar marks the impenetrable veil while it can be targeted and prompts you to use Souleater.
