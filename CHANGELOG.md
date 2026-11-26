@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.104 - 2026-11-26 - The Threat of Superiority radar
+
+- **Added The Threat of Superiority radar.** BossModReborn marks Mormo's urn during the active quest objective.
+
 ## 3.2.10.103 - 2026-11-26 - Star-crossed Rivals radar
 
 - **Added Star-crossed Rivals radar.** BossModReborn shows the fading Chaotic Eye cone and a look-away cue inside it.
