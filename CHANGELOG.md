@@ -2,6 +2,13 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.91 - 2026-11-25 - Crystal Tower and guildhest fixes
+
+- **Labyrinth of the Ancients.** Radar and movement now account for Bone Dragon's poison and the Atomos pads. Targeting follows Astral Realignment on Thanatos and alliance assignments on Vassago. Radar and avoidance follow Vassago's Desolation cast, and Ancient Flare guides players to their alliance's pad.
+- **Syrcus Tower.** Targeting skips immune Clockwork Wrights and keeps player-tethered Wrights eligible. Xande's Imperium shows all three stack markers and guides the raid toward a shared stack.
+- **The World of Darkness.** Added BossModReborn radar and movement for the opening Garm encounter, Angra Mainyu's Double Vision, Doom and Roulette, Jaws platforms and Cloud of Darkness shield hexes. Five-headed Dragon adds Dragonfire Fly tether guidance, plus Breath of Thunder stacks on BossModReborn. Cerberus guides players into Slabber only while Minimum is active.
+- **Guildhests.** Basic Training: Enemy Parties guides players toward the final pack and shows Condor's Wing Cutter. Under the Armor prioritizes Bockman and marks active enemies between his casts.
+
 ## 3.2.10.90 - 2026-11-25 - Module pack reload
 
 - **Fixed module pack reload on newer host versions.** GMC skips an optional encounter attachment if the host is missing its native type and loads the compatible modules.
