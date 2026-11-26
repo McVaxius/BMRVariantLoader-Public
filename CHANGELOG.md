@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.146 - 2026-11-26 - Five Easy Pieces radar
+
+- **Added Widargelt radar in Five Easy Pieces.** The radar marks Widargelt during the duel.
+
 ## 3.2.10.145 - 2026-11-26 - A Vermilion Vendetta radar
 
 - **Added Fear Gorta radar in A Vermilion Vendetta.** The radar marks the boss during the solo fight.
