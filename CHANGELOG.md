@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.116 - 2026-11-26 - Trial by Water radar and movement
+
+- **Added radar and movement guidance for Trial by Water.** Radar marks wounded soldiers, and quest assistance brings you into Cure range.
+
 ## 3.2.10.115 - 2026-11-26 - Absolution movement
 
 - **Added movement guidance for Absolution.** Quest assistance brings Dark Knights into melee range of enemies attacking Rielle.
