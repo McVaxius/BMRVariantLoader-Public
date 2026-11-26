@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.113 - 2026-11-26 - Quest movement
+
+- **Added movement guidance for One Autumn's Secret.** Quest assistance brings Bards into attack range of Old Guard bowmen during combat.
+- **Added movement guidance for An Illuminati Incident.** Quest assistance brings you into attack range of enemies targeting Y'shtola while she casts Spiritual Ray.
+
 ## 3.2.10.112 - 2026-11-26 - Heavensward quest movement
 
 - **Added movement guidance for Destruction in the Name of Justice.** Quest assistance brings Black Mages into spell range of Planar Fissures that summon reinforcements.
