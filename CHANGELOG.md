@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.96 - 2026-11-26 - BossModReborn quest radar
+
+- **The Power of a Tourney.** Radar shows the fading Spirits Without rectangle at its live cast position and facing.
+
 ## 3.2.10.95 - 2026-11-26 - BossModReborn quest radar
 
 - **Sweet Sorrows.** Radar marks the active Security Mammets during combat.
