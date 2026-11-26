@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.98 - 2026-11-26 - BossModReborn quest radar
+
+- **That Old Familiar Feeling.** Radar shows a fading rectangle for Heartstopper.
+- **The Reason Roaille.** Radar shows a fading rectangle for Spirits Without.
+- **Master of Marksmanship.** Radar shows a fading circle for Bloodstain.
+
 ## 3.2.10.97 - 2026-11-26 - BossModReborn quest radar
 
 - **Lord of the Inferno.** Radar shows the fading Devastate rectangle during the Amalj'aa fight.
