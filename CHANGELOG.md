@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.92 - 2026-11-25 - BossModReborn quest radar
+
+- **Our Compromise.** Radar marks the impenetrable veil while it can be targeted and prompts you to use Souleater.
+- **The Defiant Ones.** Radar marks an active Planar Fissure so you can stop its summons.
+
 ## 3.2.10.91 - 2026-11-25 - Crystal Tower and guildhest fixes
 
 - **Labyrinth of the Ancients.** Radar and movement now account for Bone Dragon's poison and the Atomos pads. Targeting follows Astral Realignment on Thanatos and alliance assignments on Vassago. Radar and avoidance follow Vassago's Desolation cast, and Ancient Flare guides players to their alliance's pad.
