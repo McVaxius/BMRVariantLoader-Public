@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.147 - 2026-11-26 - Against the Shadow guidance
+
+- **Added duel guidance in Against the Shadow.** Radar marks D’zentsa and O’tchakha. Quest assistance guides Monks into melee range and pauses while Spirit Pulse orbs are present.
+
 ## 3.2.10.146 - 2026-11-26 - Five Easy Pieces radar
 
 - **Added Widargelt radar in Five Easy Pieces.** The radar marks Widargelt during the duel.
