@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.105 - 2026-11-26 - When Gnaths Cry movement
+
+- **Added When Gnaths Cry movement guidance.** With quest automation enabled, movement guides you toward the targetable Sylviel rescue object outside combat.
+
 ## 3.2.10.104 - 2026-11-26 - The Threat of Superiority radar
 
 - **Added The Threat of Superiority radar.** BossModReborn marks Mormo's urn during the active quest objective.
