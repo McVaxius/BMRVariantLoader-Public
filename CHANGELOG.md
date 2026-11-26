@@ -2,6 +2,12 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.95 - 2026-11-26 - BossModReborn quest radar
+
+- **Sweet Sorrows.** Radar marks the active Security Mammets during combat.
+- **One Golem to Rule Them All.** Radar shows a fading Igneous Conception countdown on the casting Sable Shard.
+- **The Key to Victory.** Radar marks targetable Magitek Shield Generators while the Avenger is targetable.
+
 ## 3.2.10.94 - 2026-11-26 - BossModReborn quest radar
 
 - **Forward, the Royal Marines.** Radar marks each marine with Nymian Plague so you can target them with Esuna.
