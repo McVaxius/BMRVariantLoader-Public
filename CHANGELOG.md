@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.132 - 2026-11-26 - Duty and the Beast healing guidance
+
+- **Added healing radar and movement for Duty and the Beast.** Radar marks a nearby healing Inner Fury flame below half health. Quest assistance guides Warriors toward it until Inner Rage appears.
+
 ## 3.2.10.131 - 2026-11-26 - And My Axe healing movement
 
 - **Added movement guidance for And My Axe.** With quest assistance enabled, Warriors below half health move toward a nearby healing Inner Fury flame during the finale.
