@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.99 - 2026-11-26 - BossModReborn quest radar
+
+- **Return of the Holyfist.** Radar shows a fading Heartstopper rectangle during the Weggfarr encounter.
+- **In Crimson It Began.** Radar shows a fading cone for Zenos's Lightless Spark.
+
 ## 3.2.10.98 - 2026-11-26 - BossModReborn quest radar
 
 - **That Old Familiar Feeling.** Radar shows a fading rectangle for Heartstopper.
