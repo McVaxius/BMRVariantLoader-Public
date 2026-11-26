@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.110 - 2026-11-26 - Some Like It Excruciatingly Hot movement
+
+- **Added Hydro Pull assistance in Act 2.** Blue Mages with Hydro Pull equipped move into range of the Gas Bombs and use it to interrupt Fulmination when time allows.
+
 ## 3.2.10.109 - 2026-11-26 - A Beacon for Bad Things movement
 
 - **Added movement guidance for A Beacon for Bad Things.** Quest assistance helps White Mages get into spell range of a small Void Crack before Void Call finishes.
