@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.100 - 2026-11-26 - BossModReborn deep-dungeon radar
+
+- **Palace of the Dead, floors 191–199.** Radar shows a fading Accursed Pox circle from the Deep Palace Wraith.
+- **Heaven-on-High, floors 91–99.** Radar shows a fading Allagan Meteor circle from the Heavenly Jinba.
+
 ## 3.2.10.99 - 2026-11-26 - BossModReborn quest radar
 
 - **Return of the Holyfist.** Radar shows a fading Heartstopper rectangle during the Weggfarr encounter.
