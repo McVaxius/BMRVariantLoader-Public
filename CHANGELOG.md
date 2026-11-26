@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.1 - 2026-11-26 - An Illuminati Incident radar
+
+- **Added radar markers in An Illuminati Incident.** The radar marks enemies targeting Y'shtola while she casts Spiritual Ray.
+
 ## 3.3.0.0 - 2026-11-26 - We Are One for Now
 
 - **Fixed the relic approach in Forgotten but Not Gone.** BossModReborn follows the bank and selects the stolen relics once it reaches their level.

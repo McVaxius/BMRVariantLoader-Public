@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.3.0.0 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.3.0.1 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Radar requires a spatial cue such as an actor marker or area telegraph. Text-only hints earn no coverage credit. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 751 showing all three features and 16 with at least one coverage gap.
+**767 duties** with 752 showing all three features and 15 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 759 | 8 |
-| Radar | 752 | 15 |
+| Radar | 753 | 14 |
 | Movement hints | 756 | 11 |
 
 ## Coverage gaps
@@ -44,7 +44,6 @@ Public God Mod Companion 3.3.0.0 and BossModReborn 7.5.8.11. Duty names and IDs 
 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
-| An Illuminati Incident | 485 | 422 | Yes | No | Yes |
 | Familiar Faces | 461 | 401 | Yes | No | No |
 | Keeping the Flame Alive | 460 | 400 | Yes | No | Yes |
 | Quarantine | 466 | 404 | Yes | No | No |
@@ -453,6 +452,7 @@ Public God Mod Companion 3.3.0.0 and BossModReborn 7.5.8.11. Duty names and IDs 
 | a Spectacle for the Ages | 533 | 167 | Yes | Yes | Yes |
 | Absolution | 497 | 434 | Yes | Yes | Yes |
 | Against the Shadow | 483 | 420 | Yes | Yes | Yes |
+| An Illuminati Incident | 485 | 422 | Yes | Yes | Yes |
 | And My Axe | 453 | 393 | Yes | Yes | Yes |
 | Appetite for Destruction | 491 | 428 | Yes | Yes | Yes |
 | As Goes Light, So Goes Darkness | 513 | 441 | Yes | Yes | Yes |
