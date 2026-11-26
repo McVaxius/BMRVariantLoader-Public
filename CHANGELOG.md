@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.139 - 2026-11-26 - The Spirit Is Willing guidance
+
+- **Added radar and movement for The Spirit Is Willing.** Radar marks active marmots and Alacran henchmen. Quest assistance guides Pugilists and Monks into melee range.
+
 ## 3.2.10.138 - 2026-11-26 - Clockwork Dreadnaught guidance
 
 - **Added Clockwork Dreadnaught guidance in Second Coil Turn 3 (Normal and Savage).** Radar marks active Dreadnaughts, and movement assistance brings DPS into attack range.
