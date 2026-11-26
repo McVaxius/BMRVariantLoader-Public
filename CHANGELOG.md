@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.112 - 2026-11-26 - Heavensward quest movement
+
+- **Added movement guidance for Destruction in the Name of Justice.** Quest assistance brings Black Mages into spell range of Planar Fissures that summon reinforcements.
+- **Added movement guidance for A Journey of Purification.** Quest assistance brings White Mages into spell range of the Stagnant Water Sprite that summons reinforcements.
+
 ## 3.2.10.111 - 2026-11-26 - Sweet Dreams Are Made of Peace movement
 
 - **Added movement guidance for Sweet Dreams Are Made of Peace.** Quest assistance brings Bards into attack range of the Binding Chain so they can free Guydelot.
