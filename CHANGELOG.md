@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.123 - 2026-11-26 - Kindred Spirits escort radar
+
+- **Added Kindred Spirits escort radar.** The radar marks the Observatorium destination while escorting Rielle.
+
 ## 3.2.10.122 - 2026-11-26 - Sworn Upon a Lance guidance
 
 - **Added Sworn Upon a Lance guidance.** Radar marks priority enemies, and quest assistance brings Dragoons into melee range.
