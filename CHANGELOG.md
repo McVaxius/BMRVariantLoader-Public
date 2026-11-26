@@ -2,6 +2,11 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.2.10.101 - 2026-11-26 - Quest cast radar
+
+- **Once Upon a Time in Doma.** A new duty module shows a fading circle for Karasu's Makibishi.
+- **Every Little Thing She Does Is Magitek.** BossModReborn radar shows the Magitek Vanguard's fading Cermet Drill rectangle.
+
 ## 3.2.10.100 - 2026-11-26 - BossModReborn deep-dungeon radar
 
 - **Palace of the Dead, floors 191–199.** Radar shows a fading Accursed Pox circle from the Deep Palace Wraith.
