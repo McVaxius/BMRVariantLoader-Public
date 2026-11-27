@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.23 - 2026-11-27 - Cloud of Darkness tower guidance
+
+- **Added alliance tower guidance for Cloud of Darkness on GodMod.** The radar highlights the preferred open Particle Beam tower, and movement assistance steers toward it.
+
 ## 3.3.0.22 - 2026-11-27 - Cerberus Hex Eye radar and movement
 
 - **Added Cerberus Hex Eye radar and avoidance.** BossModReborn shows the fading circle and dodges it while you are inside the stomach.
