@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.24 - 2026-11-27 - Sephirot Fiendish Wail guidance
+
+- **Added Fiendish Wail tower guidance for Sephirot (Normal).** The radar highlights your assigned tower, and movement assistance steers toward it on BossModReborn and GodMod.
+
 ## 3.3.0.23 - 2026-11-27 - Cloud of Darkness tower guidance
 
 - **Added alliance tower guidance for Cloud of Darkness on GodMod.** The radar highlights the preferred open Particle Beam tower, and movement assistance steers toward it.
