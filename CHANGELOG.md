@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.9 - 2026-11-27 - Garm encounter activation
+
+- **Fixed Garm encounter activation.** On BossModReborn, Garm radar and movement guidance now apply only inside the opening yard in The World of Darkness.
+
 ## 3.3.0.8 - 2026-11-27 - Cloud of Darkness tower radar
 
 - **Updated Cloud of Darkness tower radar.** On BossModReborn, Particle Beam tower outlines brighten as the soak approaches.
