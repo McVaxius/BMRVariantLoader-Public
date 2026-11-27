@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.8 - 2026-11-27 - Cloud of Darkness tower radar
+
+- **Updated Cloud of Darkness tower radar.** On BossModReborn, Particle Beam tower outlines brighten as the soak approaches.
+
 ## 3.3.0.7 - 2026-11-26 - The World of Darkness Atomos guidance
 
 - **Added Black Hole guidance in The World of Darkness.** On BossModReborn, the Atomos radar outlines the cleave and guides other players on the platform out of its path.
