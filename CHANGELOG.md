@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.10 - 2026-11-27 - Xande Imperium stacks
+
+- **Improved Xande's Imperium stacks in Syrcus Tower.** Marked players converge. Other players move toward the strongest overlap of the live stack circles, and the radar shows where those circles are.
+
 ## 3.3.0.9 - 2026-11-27 - Garm encounter activation
 
 - **Fixed Garm encounter activation.** On BossModReborn, Garm radar and movement guidance now apply only inside the opening yard in The World of Darkness.
