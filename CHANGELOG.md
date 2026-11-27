@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.7 - 2026-11-26 - The World of Darkness Atomos guidance
+
+- **Added Black Hole guidance in The World of Darkness.** On BossModReborn, the Atomos radar outlines the cleave and guides other players on the platform out of its path.
+
 ## 3.3.0.6 - 2026-11-26 - Forgotten but Not Gone crate navigation
 
 - **Fixed stolen crate navigation in Forgotten but Not Gone.** BossModReborn follows the bank to the live stolen crate and interacts when in range.
