@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.25 - 2026-11-27 - Xande Ancient Quaga guidance
+
+- **Added Ancient Quaga guidance for Xande.** When you need Levitation, the radar highlights a gravity well and movement assistance steers toward it.
+
 ## 3.3.0.24 - 2026-11-27 - Sephirot Fiendish Wail guidance
 
 - **Added Fiendish Wail tower guidance for Sephirot (Normal).** The radar highlights your assigned tower, and movement assistance steers toward it on BossModReborn and GodMod.
