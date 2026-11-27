@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.3.0.3 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.3.0.4 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Radar requires a spatial cue such as an actor marker or area telegraph. Text-only hints earn no coverage credit. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 754 showing all three features and 13 with at least one coverage gap.
+**767 duties** with 755 showing all three features and 12 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 759 | 8 |
-| Radar | 755 | 12 |
+| Radar | 756 | 11 |
 | Movement hints | 756 | 11 |
 
 ## Coverage gaps
@@ -82,12 +82,6 @@ Public God Mod Companion 3.3.0.3 and BossModReborn 7.5.8.11. Duty names and IDs 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | The Gilded Araya (Normal) | 509 | 69 | No | No | No |
-
-#### Quest Battles
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| Forlorn Glory | 1051 | 845 | Yes | No | Yes |
 
 ## All three present
 
@@ -946,6 +940,7 @@ Public God Mod Companion 3.3.0.3 and BossModReborn 7.5.8.11. Duty names and IDs 
 | As the Heavens Burn | 1012 | 804 | Yes | Yes | Yes |
 | Endwalker | 1013 | 798 | Yes | Yes | Yes |
 | Ever March Heavensward | 1018 | 815 | Yes | Yes | Yes |
+| Forlorn Glory | 1051 | 845 | Yes | Yes | Yes |
 | Generational Bonding | 1115 | 907 | Yes | Yes | Yes |
 | In from the Cold | 1011 | 793 | Yes | Yes | Yes |
 | Laid to Rest | 1017 | 818 | Yes | Yes | Yes |
