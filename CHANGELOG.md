@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.12 - 2026-11-27 - Innocence Extreme charge radar
+
+- **Added a radar telegraph for Beatific Vision in The Crown of the Immaculate (Extreme).** The rectangle follows the live cast and brightens as the charge approaches.
+
 ## 3.3.0.11 - 2026-11-27 - Ruby Weapon stack radar
 
 - **Updated the radar for High-powered Homing Lasers in Cinder Drift (Extreme).** On BossModReborn hosts with native Ruby Weapon Extreme support, the stack fills brighten as the cast resolves.
