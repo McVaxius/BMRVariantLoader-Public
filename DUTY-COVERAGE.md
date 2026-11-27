@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.3.0.28 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.3.1.0 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Radar requires a spatial cue such as an actor marker or area telegraph. Text-only hints earn no coverage credit. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 757 showing all three features and 10 with at least one coverage gap.
+**767 duties** with 758 showing all three features and 9 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
-| Module | 759 | 8 |
-| Radar | 757 | 10 |
+| Module | 760 | 7 |
+| Radar | 758 | 9 |
 | Movement hints | 758 | 9 |
 
 ## Coverage gaps
@@ -25,12 +25,6 @@ Public God Mod Companion 3.3.0.28 and BossModReborn 7.5.8.11. Duty names and IDs
 | The Consequences of Anger | 328 | 377 | No | No | No |
 
 ### Heavensward
-
-#### Dungeons
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| the Dusk Vigil | 1366 | 36 | No | No | Yes |
 
 #### Extreme
 
@@ -318,6 +312,7 @@ Public God Mod Companion 3.3.0.28 and BossModReborn 7.5.8.11. Duty names and IDs
 | the Aetherochemical Research Facility | 1110 | 38 | Yes | Yes | Yes |
 | the Antitower | 1111 | 141 | Yes | Yes | Yes |
 | Baelsar's Wall | 1114 | 219 | Yes | Yes | Yes |
+| the Dusk Vigil | 1366 | 36 | Yes | Yes | Yes |
 | the Fractal Continuum | 430 | 35 | Yes | Yes | Yes |
 | the Great Gubal Library | 1109 | 31 | Yes | Yes | Yes |
 | the Great Gubal Library (Hard) | 578 | 196 | Yes | Yes | Yes |
