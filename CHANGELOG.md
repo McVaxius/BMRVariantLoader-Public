@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.27 - 2026-11-27 - Angra Mainyu Doom pad tracking
+
+- **Fixed Doom pad guidance for Angra Mainyu on GodMod.** The radar highlights the glowing pad and fades against your Doom timer. Movement assistance stops steering toward the old pad when it goes dark.
+
 ## 3.3.0.26 - 2026-11-27 - Forgotten but Not Gone crate routing
 
 - **Fixed stolen crate routing in Forgotten but Not Gone on GodMod.** Quest automation follows the bank and routes to the live crate, which is also marked on the radar.
