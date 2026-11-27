@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.3 - 2026-11-26 - Ruby Bazaar escape radar
+
+- **Added a Ruby Bazaar marker in It's Probably a Trap.** The quest radar marks the escape destination while quest assistance is following the escape objective.
+
 ## 3.3.0.2 - 2026-11-26 - Keeping the Flame Alive radar
 
 - **Added Ilberd's cast direction to Keeping the Flame Alive.** The radar shows Ilberd's position and Sanguine Blade direction alongside the countdown.

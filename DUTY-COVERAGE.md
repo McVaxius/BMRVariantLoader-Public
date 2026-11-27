@@ -1,17 +1,17 @@
 # Duty coverage
 
-Public God Mod Companion 3.3.0.2 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.3.0.3 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Radar requires a spatial cue such as an actor marker or area telegraph. Text-only hints earn no coverage credit. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 753 showing all three features and 14 with at least one coverage gap.
+**767 duties** with 754 showing all three features and 13 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 759 | 8 |
-| Radar | 754 | 13 |
+| Radar | 755 | 12 |
 | Movement hints | 756 | 11 |
 
 ## Coverage gaps
@@ -60,7 +60,6 @@ Public God Mod Companion 3.3.0.2 and BossModReborn 7.5.8.11. Duty names and IDs 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | The Heart of the Problem | 718 | 266 | Yes | No | No |
-| It's Probably a Trap | 665 | 237 | Yes | No | Yes |
 
 ### Shadowbringers
 
@@ -639,6 +638,7 @@ Public God Mod Companion 3.3.0.2 and BossModReborn 7.5.8.11. Duty names and IDs 
 | In Loving Memory | 721 | 453 | Yes | Yes | Yes |
 | In Thal's Name | 705 | 261 | Yes | Yes | Yes |
 | Interdimensional Rift | 690 | 275 | Yes | Yes | Yes |
+| It's Probably a Trap | 665 | 237 | Yes | Yes | Yes |
 | Master Musosai | 666 | 462 | Yes | Yes | Yes |
 | Matsuba Mayhem | 710 | 250 | Yes | Yes | Yes |
 | Naadam | 688 | 246 | Yes | Yes | Yes |
