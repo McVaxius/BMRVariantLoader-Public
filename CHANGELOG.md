@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.26 - 2026-11-27 - Forgotten but Not Gone crate routing
+
+- **Fixed stolen crate routing in Forgotten but Not Gone on GodMod.** Quest automation follows the bank and routes to the live crate, which is also marked on the radar.
+
 ## 3.3.0.25 - 2026-11-27 - Xande Ancient Quaga guidance
 
 - **Added Ancient Quaga guidance for Xande.** When you need Levitation, the radar highlights a gravity well and movement assistance steers toward it.
