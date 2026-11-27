@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.19 - 2026-11-27 - Hades Extreme Purgation radar
+
+- **Updated Hades Extreme radar.** Both Purgation outlines fade with their live casts on BossModReborn 7.5.8.11.
+
 ## 3.3.0.18 - 2026-11-27 - Five-headed Dragon Pyretic
 
 - **Added Five-headed Dragon Pyretic handling.** On BossModReborn, the radar shows how long Pyretic lasts after Heat Wave, and movement automation holds your character in place.
