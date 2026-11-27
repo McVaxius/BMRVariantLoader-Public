@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.16 - 2026-11-27 - Labyrinth Void Fire II radar
+
+- **Fixed Void Fire II radar in the Labyrinth of the Ancients.** On BossModReborn, the fallback radar keeps Dira's ground circle visible when the Atomos encounter cannot draw it.
+
 ## 3.3.0.15 - 2026-11-27 - Labyrinth Desolation radar
 
 - **Fixed Desolation radar in the Labyrinth of the Ancients.** On BossModReborn, the fallback radar shows Vassago's cast whenever the Allagan Bomb arena cannot render it.
