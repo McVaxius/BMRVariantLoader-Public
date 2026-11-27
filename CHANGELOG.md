@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.5 - 2026-11-26 - The Heart of the Problem guidance
+
+- **Added Chaghan mammoth guidance in The Heart of the Problem.** The radar marks live mammoths. With quest assistance enabled, Warriors approach their selected mammoth to melee range.
+
 ## 3.3.0.4 - 2026-11-26 - Forlorn Glory radar
 
 - **Added a radar marker in Forlorn Glory.** The quest radar marks Nerva when you target him during the opening fight.

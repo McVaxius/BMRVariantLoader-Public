@@ -1,18 +1,18 @@
 # Duty coverage
 
-Public God Mod Companion 3.3.0.4 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
+Public God Mod Companion 3.3.0.5 and BossModReborn 7.5.8.11. Duty names and IDs follow English game sheets.
 
 **Yes** means the scan verified at least one duty-bound producer. Radar requires a spatial cue such as an actor marker or area telegraph. Text-only hints earn no coverage credit. **No** means the scan found no verified duty-bound producer. To help verify coverage, share the duty, mechanic, and the overlay or movement you saw in a [coverage issue](https://github.com/McVaxius/BMRVariantLoader-Public/issues).
 
 ## Coverage at a glance
 
-**767 duties** with 755 showing all three features and 12 with at least one coverage gap.
+**767 duties** with 756 showing all three features and 11 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 759 | 8 |
-| Radar | 756 | 11 |
-| Movement hints | 756 | 11 |
+| Radar | 757 | 10 |
+| Movement hints | 757 | 10 |
 
 ## Coverage gaps
 
@@ -54,12 +54,6 @@ Public God Mod Companion 3.3.0.4 and BossModReborn 7.5.8.11. Duty names and IDs 
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Special Event I | 353 | 70 | No | No | No |
-
-#### Quest Battles
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| The Heart of the Problem | 718 | 266 | Yes | No | No |
 
 ### Shadowbringers
 
@@ -652,6 +646,7 @@ Public God Mod Companion 3.3.0.4 and BossModReborn 7.5.8.11. Duty names and IDs 
 | The Battle on Bekko | 711 | 251 | Yes | Yes | Yes |
 | The Crimson Duelist | 668 | 458 | Yes | Yes | Yes |
 | The Face of True Evil | 709 | 249 | Yes | Yes | Yes |
+| The Heart of the Problem | 718 | 266 | Yes | Yes | Yes |
 | The Key to Victory | 686 | 467 | Yes | Yes | Yes |
 | The Measure of His Reach | 687 | 468 | Yes | Yes | Yes |
 | The Mongrel and the Knight | 700 | 449 | Yes | Yes | Yes |
