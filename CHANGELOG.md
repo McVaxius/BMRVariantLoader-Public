@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.28 - 2026-11-27 - Shared ranged preset
+
+- **Updated shared combat presets.** GMC publishes the existing `FRENRIDER - RANGED` preset for ranged jobs and healers. Update MOGTOME to 4.2.0.32 before installing this GMC update.
+
 ## 3.3.0.27 - 2026-11-27 - Angra Mainyu Doom pad tracking
 
 - **Fixed Doom pad guidance for Angra Mainyu on GodMod.** The radar highlights the glowing pad and fades against your Doom timer. Movement assistance stops steering toward the old pad when it goes dark.
