@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.22 - 2026-11-27 - Cerberus Hex Eye radar and movement
+
+- **Added Cerberus Hex Eye radar and avoidance.** BossModReborn shows the fading circle and dodges it while you are inside the stomach.
+
 ## 3.3.0.21 - 2026-11-27 - Cinder Drift Extreme ray radar
 
 - **Updated Cinder Drift Extreme radar.** Ruby Ray and Magitek Ray fade on the native BossModReborn radar when it can display them.
