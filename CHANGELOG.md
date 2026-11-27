@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.14 - 2026-11-27 - Emerald Weapon Extreme radar
+
+- **Updated Expire radar in Castrum Marinum (Extreme).** The outline brightens in the native BossModReborn arena as each supported cast resolves.
+
 ## 3.3.0.13 - 2026-11-27 - Hades Extreme radar
 
 - **Updated Shadow Stream radar in The Minstrel's Ballad: Hades's Elegy.** BossModReborn's Hades Extreme arena shows the fading outline for the matching cast in one window.
