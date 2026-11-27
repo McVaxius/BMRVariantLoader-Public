@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.11 - 2026-11-27 - Ruby Weapon stack radar
+
+- **Updated the radar for High-powered Homing Lasers in Cinder Drift (Extreme).** On BossModReborn hosts with native Ruby Weapon Extreme support, the stack fills brighten as the cast resolves.
+
 ## 3.3.0.10 - 2026-11-27 - Xande Imperium stacks
 
 - **Improved Xande's Imperium stacks in Syrcus Tower.** Marked players converge. Other players move toward the strongest overlap of the live stack circles, and the radar shows where those circles are.
