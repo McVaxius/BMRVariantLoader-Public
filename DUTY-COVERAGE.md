@@ -6,13 +6,13 @@ Public God Mod Companion 3.3.0.10 and BossModReborn 7.5.8.11. Duty names and IDs
 
 ## Coverage at a glance
 
-**767 duties** with 756 showing all three features and 11 with at least one coverage gap.
+**767 duties** with 757 showing all three features and 10 with at least one coverage gap.
 
 | Feature | Yes | No |
 | --- | ---: | ---: |
 | Module | 759 | 8 |
 | Radar | 757 | 10 |
-| Movement hints | 757 | 10 |
+| Movement hints | 758 | 9 |
 
 ## Coverage gaps
 
@@ -62,12 +62,6 @@ Public God Mod Companion 3.3.0.10 and BossModReborn 7.5.8.11. Duty names and IDs
 | Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
 | --- | ---: | ---: | --- | --- | --- |
 | Special Event II | 354 | 71 | No | No | No |
-
-#### Extreme
-
-| Name (with difficulty) | Territory ID | CFC ID | Module Exists | Radar Exists | Movement Hints Exist |
-| --- | ---: | ---: | --- | --- | --- |
-| the Dancing Plague (Extreme) | 858 | 658 | Yes | Yes | No |
 
 ### Endwalker
 
@@ -711,6 +705,7 @@ Public God Mod Companion 3.3.0.10 and BossModReborn 7.5.8.11. Duty names and IDs
 | Memoria Misera (Extreme) | 913 | 725 | Yes | Yes | Yes |
 | the Cloud Deck (Extreme) | 951 | 782 | Yes | Yes | Yes |
 | the Crown of the Immaculate (Extreme) | 848 | 667 | Yes | Yes | Yes |
+| the Dancing Plague (Extreme) | 858 | 658 | Yes | Yes | Yes |
 | the Minstrel's Ballad: Hades's Elegy | 885 | 693 | Yes | Yes | Yes |
 | the Seat of Sacrifice (Extreme) | 923 | 739 | Yes | Yes | Yes |
 
