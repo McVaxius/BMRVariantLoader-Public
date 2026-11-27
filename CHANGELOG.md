@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.13 - 2026-11-27 - Hades Extreme radar
+
+- **Updated Shadow Stream radar in The Minstrel's Ballad: Hades's Elegy.** BossModReborn's Hades Extreme arena shows the fading outline for the matching cast in one window.
+
 ## 3.3.0.12 - 2026-11-27 - Innocence Extreme charge radar
 
 - **Added a radar telegraph for Beatific Vision in The Crown of the Immaculate (Extreme).** The rectangle follows the live cast and brightens as the charge approaches.
