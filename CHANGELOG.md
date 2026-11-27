@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.6 - 2026-11-26 - Forgotten but Not Gone crate navigation
+
+- **Fixed stolen crate navigation in Forgotten but Not Gone.** BossModReborn follows the bank to the live stolen crate and interacts when in range.
+
 ## 3.3.0.5 - 2026-11-26 - The Heart of the Problem guidance
 
 - **Added Chaghan mammoth guidance in The Heart of the Problem.** The radar marks live mammoths. With quest assistance enabled, Warriors approach their selected mammoth to melee range.
