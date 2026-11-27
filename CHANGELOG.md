@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.17 - 2026-11-27 - Cerberus stomach radar and movement
+
+- **Fixed Cerberus stomach radar and movement in World of Darkness.** BossModReborn stops showing and dodging surface attacks while you are inside the stomach.
+
 ## 3.3.0.16 - 2026-11-27 - Labyrinth Void Fire II radar
 
 - **Fixed Void Fire II radar in the Labyrinth of the Ancients.** On BossModReborn, the fallback radar keeps Dira's ground circle visible when the Atomos encounter cannot draw it.
