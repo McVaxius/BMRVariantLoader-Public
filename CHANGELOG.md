@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.15 - 2026-11-27 - Labyrinth Desolation radar
+
+- **Fixed Desolation radar in the Labyrinth of the Ancients.** On BossModReborn, the fallback radar shows Vassago's cast whenever the Allagan Bomb arena cannot render it.
+
 ## 3.3.0.14 - 2026-11-27 - Emerald Weapon Extreme radar
 
 - **Updated Expire radar in Castrum Marinum (Extreme).** The outline brightens in the native BossModReborn arena as each supported cast resolves.
