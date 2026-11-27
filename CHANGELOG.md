@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.0.21 - 2026-11-27 - Cinder Drift Extreme ray radar
+
+- **Updated Cinder Drift Extreme radar.** Ruby Ray and Magitek Ray fade on the native BossModReborn radar when it can display them.
+
 ## 3.3.0.20 - 2026-11-27 - Titania Extreme Phantom Rune radar
 
 - **Restored Titania Extreme radar fading.** The Phantom Rune circle follows the live cast on BossModReborn 7.5.8.11.
