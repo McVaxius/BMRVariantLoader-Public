@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.1.3 - 2026-11-27 - Masked Carnivale browser grouping
+
+- **Fixed Masked Carnivale grouping.** Much Ado About Pudding, The Threepenny Turtles, and Some Like It Excruciatingly Hot appear under The Masked Carnivale in the encounter browser.
+
 ## 3.3.1.2 - 2026-11-27 - Forgotten but Not Gone crate route
 
 - **Updated the stolen relics route in Forgotten but Not Gone.** On BossModReborn, quest automation takes the upper bank inland before descending to the crate.
