@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.1.1 - 2026-11-27 - The Cloud Deck knockback radar
+
+- **Fixed Auri Cyclone on The Cloud Deck (Normal).** The radar shows the two knockbacks as fading, labeled outlines. The existing Arm's Length and Surecast timing still applies.
+
 ## 3.3.1.0 - 2026-11-27 - The Dusk Vigil
 
 - **Added boss radar and movement guidance for the Dusk Vigil.** Fading telegraphs and avoidance cover recorded casts from Towering Oliphaunt, Ser Yuhelmeric, and Opinicus on BossModReborn and GodMod.
