@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.1.2 - 2026-11-27 - Forgotten but Not Gone crate route
+
+- **Updated the stolen relics route in Forgotten but Not Gone.** On BossModReborn, quest automation takes the upper bank inland before descending to the crate.
+
 ## 3.3.1.1 - 2026-11-27 - The Cloud Deck knockback radar
 
 - **Fixed Auri Cyclone on The Cloud Deck (Normal).** The radar shows the two knockbacks as fading, labeled outlines. The existing Arm's Length and Surecast timing still applies.
