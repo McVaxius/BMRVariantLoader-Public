@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.1.4 - 2026-11-28 - UI resource lifetime
+
+- **Updated window resources.** Fonts load when a GMC window opens. Blur and image resources load as needed, and GMC releases these resources after its windows close.
+
 ## 3.3.1.3 - 2026-11-27 - Masked Carnivale browser grouping
 
 - **Fixed Masked Carnivale grouping.** Much Ado About Pudding, The Threepenny Turtles, and Some Like It Excruciatingly Hot appear under The Masked Carnivale in the encounter browser.
