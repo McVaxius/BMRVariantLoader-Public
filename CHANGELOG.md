@@ -2,6 +2,10 @@
 
 Only content marked Public is listed. Entries describe released versions unless marked Upcoming; encounter improvements do not imply a verified live clear.
 
+## 3.3.1.5 - 2026-11-28 - Lord of the Inferno radar
+
+- **Fixed Lord of the Inferno radar timing.** On BossModReborn, the radar stays visible between casts while encounter enemies are in combat. The Devastate outline clears when the cast resolves or expires.
+
 ## 3.3.1.4 - 2026-11-28 - UI resource lifetime
 
 - **Updated window resources.** Fonts load when a GMC window opens. Blur and image resources load as needed, and GMC releases these resources after its windows close.
